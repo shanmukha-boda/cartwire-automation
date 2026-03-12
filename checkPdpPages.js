@@ -29,9 +29,6 @@ async function fetchWidgetData(url) {
     }
  
     const html = await res.text();
-    const dom = new JSDOM(html);
-    const document = dom.window.document;
- 
     const widgetMatch = html.match(/<[^>]*data-ref="cartwire-bin-widget"[^>]*>/);
 
 if (!widgetMatch) return null;
