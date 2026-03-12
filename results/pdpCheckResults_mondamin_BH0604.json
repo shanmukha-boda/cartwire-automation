@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-03-12T09:58:49.215Z",
+  "brand": "mondamin",
+  "assortmentCode": "BH0604",
+  "feedUrl": "https://www.mondamin.de/home.productfeed.json",
+  "totalUrlsChecked": 4,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.mondamin.de/p/mehlschwitze-hell.html/04046800110125",
+      "gtin": "04046800110125",
+      "checkedAt": "2026-03-12T09:58:49.214Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mondamin.de/p/mehlschwitze-dunkel.html/04046800110132",
+      "gtin": "04046800110132",
+      "checkedAt": "2026-03-12T09:58:49.117Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mondamin.de/p/so%C3%9Fenbinder-hell.html/04046800110903",
+      "gtin": "04046800110903",
+      "checkedAt": "2026-03-12T09:58:49.118Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mondamin.de/p/so%C3%9Fenbinder-dunkel.html/04046800110927",
+      "gtin": "04046800110927",
+      "checkedAt": "2026-03-12T09:58:49.047Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.78s",
+  "speedMetrics": "5.13 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}
