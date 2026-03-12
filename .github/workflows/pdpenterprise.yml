@@ -1,20 +1,29 @@
 name: PDP Parallel Check
+
 on:
   workflow_dispatch:
+
 jobs:
+
   build-matrix:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.generate.outputs.matrix }}
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Generate matrix
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Generate matrix (limit 200 to stay under GitHub limit)
         id: generate
         run: |
           matrix=$(jq -c '[.data[] | {brand: .brand, code: .assortmentCode}] | .[:200]' productPageUrls.json)
           echo "matrix=$matrix" >> $GITHUB_OUTPUT
+
+
   run-check:
     needs: build-matrix
     runs-on: ubuntu-latest
@@ -26,7 +35,9 @@ jobs:
         include: ${{ fromJson(needs.build-matrix.outputs.matrix) }}
 
     steps:
-      - uses: actions/checkout@v4
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -36,41 +47,53 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run script
+      - name: Run PDP check
         run: |
+          mkdir output
           node checkPdpPages.js "${{ matrix.brand }}" "${{ matrix.code }}"
+          mv *.json output/ || true
 
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
-          name: results-${{ matrix.brand }}-${{ matrix.code }}
-          path: "*.json"
+          name: results-${{ strategy.job-index }}
+          path: output/
+          if-no-files-found: ignore
 
 
   merge-results:
     needs: run-check
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Download all artifacts
         uses: actions/download-artifact@v4
         with:
-          path: results
+          path: artifacts
 
-      - name: Collect JSON files
+      - name: Merge JSON files
         run: |
-          mkdir final
-          find results -name "*.json" -exec cp {} final/ \;
+          mkdir -p final
+          find artifacts -name "*.json" -exec cp {} final/ \;
 
       - name: Commit results to repository
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           mkdir -p results
-          cp final/*.json results/
+          cp final/*.json results/ || true
 
           git add results/
-          git diff --cached --quiet || git commit -m "Add PDP results"
-          git push
+
+          if git diff --cached --quiet
+          then
+            echo "No changes"
+          else
+            git commit -m "Add PDP results"
+            git push
+          fi
