@@ -5,8 +5,8 @@ import { HttpsAgent } from "agentkeepalive";
 
 const httpsAgent = new HttpsAgent({
   keepAlive: true,
-  maxSockets: 100
-}); 
+  maxSockets: 200
+});
 /*
 Usage:
   node checkPdpPages.js [brand] [assortmentCode]
@@ -19,9 +19,13 @@ Examples:
  
 async function fetchWidgetData(url) {
   try {
-    const res = await fetch(url, {
-      agent: httpsAgent,
-      headers: {
+    const controller = new AbortController();
+const timeout = setTimeout(() => controller.abort(), 10000);
+
+const res = await fetch(url, {
+  agent: httpsAgent,
+  signal: controller.signal,
+  headers: {
         "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         "Accept-Language": "en-US,en;q=0.9",
         "Accept": "text/html,application/xhtml+xml",
@@ -34,6 +38,7 @@ async function fetchWidgetData(url) {
     }
  
     const html = await res.text();
+    clearTimeout(timeout);
     const widgetMatch = html.match(/<[^>]*data-ref="cartwire-bin-widget"[^>]*>/);
 
 if (!widgetMatch) return null;
@@ -92,12 +97,20 @@ async function searchForBinErrorScript(widgetData, pageUrl) {
   }
  
   const url = `https://bin.cartwire.co/services/hashlanginfobutton?brand_name=${widgetData.brandName}&locale=${widgetData.locale}&brand_code=${widgetData.brandCode}&gtin=${widgetData.gtin}`;
-  const response = await fetch(url, { agent: httpsAgent });
+  const controller = new AbortController();
+const timeout = setTimeout(() => controller.abort(), 10000);
+
+const response = await fetch(url, {
+  agent: httpsAgent,
+  signal: controller.signal
+});
+
+clearTimeout(timeout);
   const scriptText = await response.text();
   const match = scriptText.match(/console\.log\("([^"]+)"\)/);
  
   if (match) {
-    console.log("Console message:", match[1]);
+    // console.log("Console message:", match[1]);
   } else {
     console.log("No console message found");
   }
