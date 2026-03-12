@@ -8,33 +8,38 @@ permissions:
 
 jobs:
 
-# ------------------------------------------------
-# 1️⃣ Generate brand matrix
-# ------------------------------------------------
+# -----------------------------
+# 1️⃣ Build matrix from JSON
+# -----------------------------
 
   build-matrix:
 
     runs-on: ubuntu-latest
 
     outputs:
-      brands: ${{ steps.generate.outputs.brands }}
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
 
     steps:
-
       - uses: actions/checkout@v4
 
-      - name: Build brand matrix
-        id: generate
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Generate matrix
+        id: set-matrix
         run: |
 
-          MATRIX=$(jq -c '[.data[] | {brand:.brand, code:.assortmentCode}]' productPageUrls.json)
+          MATRIX=$(jq -c '.data | map({brand:.brand, code:.assortmentCode})' productPageUrls.json)
 
-          echo "brands=$MATRIX" >> $GITHUB_OUTPUT
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
+          echo "Generated matrix:"
+          echo $MATRIX
 
 
-# ------------------------------------------------
-# 2️⃣ Run brands in parallel
-# ------------------------------------------------
+# -----------------------------
+# 2️⃣ Run scanner in parallel
+# -----------------------------
 
   scan:
 
@@ -44,12 +49,10 @@ jobs:
     strategy:
 
       fail-fast: false
-
       max-parallel: 20
 
       matrix:
-
-        brand: ${{ fromJson(needs.build-matrix.outputs.brands) }}
+        include: ${{ fromJson(needs.build-matrix.outputs.matrix) }}
 
     steps:
 
@@ -63,25 +66,26 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run PDP check
+      - name: Run scanner
         run: |
 
-          node checkPdpPages.js \
-            "${{ matrix.brand.brand }}" \
-            "${{ matrix.brand.code }}"
+          echo "Running for:"
+          echo "${{ matrix.brand }} ${{ matrix.code }}"
+
+          node checkPdpPages.js "${{ matrix.brand }}" "${{ matrix.code }}"
 
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
-          name: results-${{ matrix.brand.brand }}-${{ matrix.brand.code }}
+          name: results-${{ matrix.brand }}-${{ matrix.code }}
           path: "*.json"
 
 
-# ------------------------------------------------
+# -----------------------------
 # 3️⃣ Merge results
-# ------------------------------------------------
+# -----------------------------
 
-  merge-results:
+  merge:
 
     needs: scan
     runs-on: ubuntu-latest
@@ -95,14 +99,14 @@ jobs:
         with:
           path: artifacts
 
-      - name: Merge results
+      - name: Merge files
         run: |
 
           mkdir -p results
 
           find artifacts -name "*.json" -exec cp {} results/ \;
 
-          echo "Total result files:"
+          echo "Total results:"
           ls results | wc -l
 
       - name: Commit results
@@ -111,11 +115,11 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add results/
+          git add results
 
           if git diff --cached --quiet
           then
-            echo "No changes"
+            echo "No new results"
           else
             git commit -m "PDP scan results"
             git push
