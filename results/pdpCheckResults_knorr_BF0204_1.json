@@ -1,0 +1,922 @@
+{
+  "generatedAt": "2026-03-12T13:20:56.639Z",
+  "brand": "knorr",
+  "assortmentCode": "BF0204",
+  "feedUrl": "https://www.continental.com.au/home.productfeed.json",
+  "totalUrlsChecked": 151,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/red-wine-stock-pot.html/09300830098811",
+      "gtin": "09300830098811",
+      "checkedAt": "2026-03-12T13:20:40.408Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/white-wine-stock-pot.html/09300830098835",
+      "gtin": "09300830098835",
+      "checkedAt": "2026-03-12T13:20:40.902Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/cup-a-pasta-carbonara.html/09310016000088",
+      "gtin": "09310016000088",
+      "checkedAt": "2026-03-12T13:20:41.494Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/cup-a-pasta-macc-and-cheese-jalapeno.html/09310016000149",
+      "gtin": "09310016000149",
+      "checkedAt": "2026-03-12T13:20:41.172Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/classic-spring-vegetable.html/09300667004412",
+      "gtin": "09300667004412",
+      "checkedAt": "2026-03-12T13:20:41.473Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/creamy-garden-vegetable.html/09300667015005",
+      "gtin": "09300667015005",
+      "checkedAt": "2026-03-12T13:20:47.718Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/italian-minestrone.html/09300667015029",
+      "gtin": "09300667015029",
+      "checkedAt": "2026-03-12T13:20:41.472Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/thai-red-curry.html/09300667025332",
+      "gtin": "09300667025332",
+      "checkedAt": "2026-03-12T13:20:48.346Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/creamy-tuna-mornay.html/09300667028128",
+      "gtin": "09300667028128",
+      "checkedAt": "2026-03-12T13:20:41.406Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/devilled-sausage.html/09300667028142",
+      "gtin": "09300667028142",
+      "checkedAt": "2026-03-12T13:20:41.353Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/mild-mince-curry.html/09300667028197",
+      "gtin": "09300667028197",
+      "checkedAt": "2026-03-12T13:20:41.531Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/brown-onion.html/09300667028357",
+      "gtin": "09300667028357",
+      "checkedAt": "2026-03-12T13:20:48.390Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/surprise-garden-peas.html/09300667073524",
+      "gtin": "09300667073524",
+      "checkedAt": "2026-03-12T13:20:41.335Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/chicken-noodle-simmer-soup-salt-reduced.html/09300667310018",
+      "gtin": "09300667310018",
+      "checkedAt": "2026-03-12T13:20:40.853Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/chicken-noodle-simmer-soup.html/09300667320017",
+      "gtin": "09300667320017",
+      "checkedAt": "2026-03-12T13:20:40.771Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/deb-instant-mashed-potato.html/09300667750012",
+      "gtin": "09300667750012",
+      "checkedAt": "2026-03-12T13:20:40.247Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/chicken-salt-reduced-stock-pot.html/09300830008124",
+      "gtin": "09300830008124",
+      "checkedAt": "2026-03-12T13:20:41.680Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/garlic-herb.html/09300830017874",
+      "gtin": "09300830017874",
+      "checkedAt": "2026-03-12T13:20:40.859Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/macaroni-cheese.html/09300830018451",
+      "gtin": "09300830018451",
+      "checkedAt": "2026-03-12T13:20:48.293Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/homestyle-pumpkin.html/09300830037452",
+      "gtin": "09300830037452",
+      "checkedAt": "2026-03-12T13:20:56.416Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/liquid-stock-vegetable-1l.html/09300830045273",
+      "gtin": "09300830045273",
+      "checkedAt": "2026-03-12T13:20:49.782Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/cheesy-rice.html/09300830047321",
+      "gtin": "09300830047321",
+      "checkedAt": "2026-03-12T13:20:49.713Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/thai-pumpkin-and-coconut-with-vermicelli-noodles.html/09300830057535",
+      "gtin": "09300830057535",
+      "checkedAt": "2026-03-12T13:20:49.096Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/farmhouse-potato-and-leek-with-roasted-garlic-croutons.html/09300830057542",
+      "gtin": "09300830057542",
+      "checkedAt": "2026-03-12T13:20:49.950Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/vine-ripened-tomato-and-ricotta-with-basil.html/09300830057559",
+      "gtin": "09300830057559",
+      "checkedAt": "2026-03-12T13:20:49.995Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/on-the-pulse.html/09300830058365",
+      "gtin": "09300830058365",
+      "checkedAt": "2026-03-12T13:20:49.944Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/sweet-beets.html/09300830058396",
+      "gtin": "09300830058396",
+      "checkedAt": "2026-03-12T13:20:49.098Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/smash-n-pump-kin.html/09300830058402",
+      "gtin": "09300830058402",
+      "checkedAt": "2026-03-12T13:20:49.663Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/snack-pot-cheesy-tomato-pasta.html/09300830059171",
+      "gtin": "09300830059171",
+      "checkedAt": "2026-03-12T13:20:49.893Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/nutrish-snack-pot-moroccan-the-kazbah.html/09300830059430",
+      "gtin": "09300830059430",
+      "checkedAt": "2026-03-12T13:20:49.351Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/smashed-sensations-pumpkin-and-potatoes.html/09300830065318",
+      "gtin": "09300830065318",
+      "checkedAt": "2026-03-12T13:20:50.049Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/cauliflower-and-potato-with-aged-cheddar-and-chives.html/09300830065325",
+      "gtin": "09300830065325",
+      "checkedAt": "2026-03-12T13:20:56.172Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/vietnamese-chicken-and-shiitake-mushroom.html/09300830070633",
+      "gtin": "09300830070633",
+      "checkedAt": "2026-03-12T13:20:49.940Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/seasoning-sensations-stove-top-thai-stir-fry.html/09300830071241",
+      "gtin": "09300830071241",
+      "checkedAt": "2026-03-12T13:20:56.526Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/seasoning-sensations-stove-top-vietnamese-stir-fry.html/09300830071265",
+      "gtin": "09300830071265",
+      "checkedAt": "2026-03-12T13:20:56.287Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/spanish-chicken-paella-with-paprika-and-rice.html/09300830078776",
+      "gtin": "09300830078776",
+      "checkedAt": "2026-03-12T13:20:56.104Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/aged-cheddar-parmesan-and-chives-with-short-fettuccine.html/09300830078783",
+      "gtin": "09300830078783",
+      "checkedAt": "2026-03-12T13:20:50.068Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/takeout-temptations-chicken-kebab-seasoning-mix.html/09300830099351",
+      "gtin": "09300830099351",
+      "checkedAt": "2026-03-12T13:20:56.639Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.continental.com.au/p/takeout-temptations-singapore-noodles-seasoning-mix.html/09300830099399",
+      "gtin": "09300830099399",
+      "checkedAt": "2026-03-12T13:20:55.660Z"
+    }
+  ],
+  "errors": 112,
+  "duration": "17.21s",
+  "speedMetrics": "8.77 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/cup-a-pasta-bolognese.html/09310016000101",
+      "error": "request to https://www.continental.com.au/p/cup-a-pasta-bolognese.html/09310016000101 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.799Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/cup-a-pasta-macc-and-cheese.html/09310016000125",
+      "error": "request to https://www.continental.com.au/p/cup-a-pasta-macc-and-cheese.html/09310016000125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/cup-a-pasta-tomato.html/09310016000132",
+      "error": "request to https://www.continental.com.au/p/cup-a-pasta-tomato.html/09310016000132 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.749Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/classic-chicken-noodle.html/09300667004276",
+      "error": "request to https://www.continental.com.au/p/classic-chicken-noodle.html/09300667004276 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/hearty-beef.html/09300667004320",
+      "error": "request to https://www.continental.com.au/p/hearty-beef.html/09300667004320 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/cream-of-chicken-simmer-soup.html/09300667011397",
+      "error": "request to https://www.continental.com.au/p/cream-of-chicken-simmer-soup.html/09300667011397 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.764Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chicken-with-lots-of-noodles.html/09300667014732",
+      "error": "request to https://www.continental.com.au/p/chicken-with-lots-of-noodles.html/09300667014732 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.020Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-chicken-with-lots-of-noodles.html/09300667014756",
+      "error": "request to https://www.continental.com.au/p/creamy-chicken-with-lots-of-noodles.html/09300667014756 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/mild-chicken-curry-with-lots-of-noodles.html/09300667014763",
+      "error": "request to https://www.continental.com.au/p/mild-chicken-curry-with-lots-of-noodles.html/09300667014763 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.023Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/roast-chicken.html/09300667015012",
+      "error": "request to https://www.continental.com.au/p/roast-chicken.html/09300667015012 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chinese-chicken-and-corn-with-lots-of-noodles.html/09300667015142",
+      "error": "request to https://www.continental.com.au/p/chinese-chicken-and-corn-with-lots-of-noodles.html/09300667015142 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.752Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/hot-pot-curry.html/09300667017290",
+      "error": "request to https://www.continental.com.au/p/hot-pot-curry.html/09300667017290 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.015Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chicken-rice.html/09300667022416",
+      "error": "request to https://www.continental.com.au/p/chicken-rice.html/09300667022416 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/asian-laksa.html/09300667022850",
+      "error": "request to https://www.continental.com.au/p/asian-laksa.html/09300667022850 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-potato-and-bacon-with-croutons.html/09300667024984",
+      "error": "request to https://www.continental.com.au/p/creamy-potato-and-bacon-with-croutons.html/09300667024984 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.987Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-mushroom-with-croutons.html/09300667024991",
+      "error": "request to https://www.continental.com.au/p/creamy-mushroom-with-croutons.html/09300667024991 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.005Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-chicken-with-croutons.html/09300667025035",
+      "error": "request to https://www.continental.com.au/p/creamy-chicken-with-croutons.html/09300667025035 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.764Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-chicken-and-corn-with-croutons.html/09300667025059",
+      "error": "request to https://www.continental.com.au/p/creamy-chicken-and-corn-with-croutons.html/09300667025059 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.007Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/beef-stroganoff.html/09300667028005",
+      "error": "request to https://www.continental.com.au/p/beef-stroganoff.html/09300667028005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.015Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/curried-sausage.html/09300667028012",
+      "error": "request to https://www.continental.com.au/p/curried-sausage.html/09300667028012 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.763Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chilli-con-carne.html/09300667028067",
+      "error": "request to https://www.continental.com.au/p/chilli-con-carne.html/09300667028067 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.007Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-chicken-curry.html/09300667028135",
+      "error": "request to https://www.continental.com.au/p/creamy-chicken-curry.html/09300667028135 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.007Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/rich-beef-mince.html/09300667028227",
+      "error": "request to https://www.continental.com.au/p/rich-beef-mince.html/09300667028227 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.007Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/spaghetti-bolognese.html/09300667028234",
+      "error": "request to https://www.continental.com.au/p/spaghetti-bolognese.html/09300667028234 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.007Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/white-sauce.html/09300667028364",
+      "error": "request to https://www.continental.com.au/p/white-sauce.html/09300667028364 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/cheese-sauce.html/09300667028388",
+      "error": "request to https://www.continental.com.au/p/cheese-sauce.html/09300667028388 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.787Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/roast-chicken.html/09300667028401",
+      "error": "request to https://www.continental.com.au/p/roast-chicken.html/09300667028401 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/four-cheeses.html/09300667028456",
+      "error": "request to https://www.continental.com.au/p/four-cheeses.html/09300667028456 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.799Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/rich-brown.html/09300667028494",
+      "error": "request to https://www.continental.com.au/p/rich-brown.html/09300667028494 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/light-brown.html/09300667028517",
+      "error": "request to https://www.continental.com.au/p/light-brown.html/09300667028517 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/oriental-fried-rice.html/09300667028777",
+      "error": "request to https://www.continental.com.au/p/oriental-fried-rice.html/09300667028777 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/classic-cream-of-chicken.html/09300667029392",
+      "error": "request to https://www.continental.com.au/p/classic-cream-of-chicken.html/09300667029392 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.026Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/classic-cream-of-mushroom.html/09300667029415",
+      "error": "request to https://www.continental.com.au/p/classic-cream-of-mushroom.html/09300667029415 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.787Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/classic-tomato.html/09300667029422",
+      "error": "request to https://www.continental.com.au/p/classic-tomato.html/09300667029422 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chicken-curry.html/09300667035034",
+      "error": "request to https://www.continental.com.au/p/chicken-curry.html/09300667035034 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-bacon-carbonara.html/09300667035065",
+      "error": "request to https://www.continental.com.au/p/creamy-bacon-carbonara.html/09300667035065 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.015Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/sour-cream-and-chives.html/09300667035072",
+      "error": "request to https://www.continental.com.au/p/sour-cream-and-chives.html/09300667035072 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/alfredo.html/09300667035089",
+      "error": "request to https://www.continental.com.au/p/alfredo.html/09300667035089 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.752Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/four-cheeses.html/09300667035126",
+      "error": "request to https://www.continental.com.au/p/four-cheeses.html/09300667035126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.764Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/dutch-curry-with-rice.html/09300667038073",
+      "error": "request to https://www.continental.com.au/p/dutch-curry-with-rice.html/09300667038073 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.015Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/shepherds-pie.html/09300667038295",
+      "error": "request to https://www.continental.com.au/p/shepherds-pie.html/09300667038295 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.006Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/rich-beef-casserole.html/09300667038318",
+      "error": "request to https://www.continental.com.au/p/rich-beef-casserole.html/09300667038318 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.006Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chow-mein-mince.html/09300667042124",
+      "error": "request to https://www.continental.com.au/p/chow-mein-mince.html/09300667042124 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.752Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/pea-and-ham.html/09300667042308",
+      "error": "request to https://www.continental.com.au/p/pea-and-ham.html/09300667042308 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.763Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/french-onion-simmer-soup.html/09300667340015",
+      "error": "request to https://www.continental.com.au/p/french-onion-simmer-soup.html/09300667340015 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.006Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/dutch-curry-with-rice-simmer-soup.html/09300667370067",
+      "error": "request to https://www.continental.com.au/p/dutch-curry-with-rice-simmer-soup.html/09300667370067 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.763Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/spring-vegetable-simmer-soup.html/09300667370098",
+      "error": "request to https://www.continental.com.au/p/spring-vegetable-simmer-soup.html/09300667370098 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.028Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/french-onion-simmer-soup-salt-reduced.html/09300667370272",
+      "error": "request to https://www.continental.com.au/p/french-onion-simmer-soup-salt-reduced.html/09300667370272 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.007Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/hot-pot-savoury.html/09300667600010",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:43.038Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/hot-pot-french-onion.html/09300667600065",
+      "error": "request to https://www.continental.com.au/p/hot-pot-french-onion.html/09300667600065 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/deb-instant-mashed-potato-and-onion.html/09300667750029",
+      "error": "request to https://www.continental.com.au/p/deb-instant-mashed-potato-and-onion.html/09300667750029 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.006Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/honey-bbq.html/09300830002290",
+      "error": "request to https://www.continental.com.au/p/honey-bbq.html/09300830002290 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/beef-stock-pot.html/09300830002320",
+      "error": "request to https://www.continental.com.au/p/beef-stock-pot.html/09300830002320 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.983Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chicken-stock-pot.html/09300830002337",
+      "error": "request to https://www.continental.com.au/p/chicken-stock-pot.html/09300830002337 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.006Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/vegetable-stock-pot.html/09300830002344",
+      "error": "request to https://www.continental.com.au/p/vegetable-stock-pot.html/09300830002344 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.015Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/alfredo-with-garlic-and-herbs.html/09300830018468",
+      "error": "request to https://www.continental.com.au/p/alfredo-with-garlic-and-herbs.html/09300830018468 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-chicken-stroganoff.html/09300830023479",
+      "error": "request to https://www.continental.com.au/p/creamy-chicken-stroganoff.html/09300830023479 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.016Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/aged-cheddar-parmesan-and-chives-pasta.html/09300830023899",
+      "error": "request to https://www.continental.com.au/p/aged-cheddar-parmesan-and-chives-pasta.html/09300830023899 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chicken-pesto-with-spring-onion-and-leek-pasta.html/09300830023905",
+      "error": "request to https://www.continental.com.au/p/chicken-pesto-with-spring-onion-and-leek-pasta.html/09300830023905 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/tomato-parmesan-and-basil-with-sour-cream-pasta.html/09300830023929",
+      "error": "request to https://www.continental.com.au/p/tomato-parmesan-and-basil-with-sour-cream-pasta.html/09300830023929 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:47.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/spinach-and-bacon-with-three-cheese-pasta.html/09300830023943",
+      "error": "request to https://www.continental.com.au/p/spinach-and-bacon-with-three-cheese-pasta.html/09300830023943 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:48.006Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/thai-coconut-with-lemongrass.html/09300830023974",
+      "error": "request to https://www.continental.com.au/p/thai-coconut-with-lemongrass.html/09300830023974 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/teriyaki-and-garlic-with-shiitake-mushrooms-rice.html/09300830023981",
+      "error": "request to https://www.continental.com.au/p/teriyaki-and-garlic-with-shiitake-mushrooms-rice.html/09300830023981 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/roast-chicken-and-leek-with-sage-and-rosemary-risotto.html/09300830024018",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/porcini-mushrooms-with-chive-and-black-pepper-risotto.html/09300830024025",
+      "error": "request to https://www.continental.com.au/p/porcini-mushrooms-with-chive-and-black-pepper-risotto.html/09300830024025 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/tasty-tomato.html/09300830024032",
+      "error": "request to https://www.continental.com.au/p/tasty-tomato.html/09300830024032 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/pepper-steak-and-mushroom-with-croutons.html/09300830024049",
+      "error": "request to https://www.continental.com.au/p/pepper-steak-and-mushroom-with-croutons.html/09300830024049 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/beef-salt-reduced-stock-powder.html/09300830037360",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chicken-salt-reduced-stock-powder.html/09300830037377",
+      "error": "request to https://www.continental.com.au/p/chicken-salt-reduced-stock-powder.html/09300830037377 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/chicken-stock-powder.html/09300830037391",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:50.665Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/beef-stock-powder.html/09300830037407",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.921Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/homestyle-chicken.html/09300830037483",
+      "error": "request to https://www.continental.com.au/p/homestyle-chicken.html/09300830037483 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/pumpkin-and-bacon-with-sour-cream-and-chives.html/09300830037667",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/boscaiolo-with-bacon-and-porcini-mushrooms-pasta.html/09300830037704",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:52.168Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/spinach-ricotta-and-parmesan-rice-with-red-quinoa.html/09300830040186",
+      "error": "request to https://www.continental.com.au/p/spinach-ricotta-and-parmesan-rice-with-red-quinoa.html/09300830040186 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/liquid-stock-beef-1l.html/09300830045259",
+      "error": "request to https://www.continental.com.au/p/liquid-stock-beef-1l.html/09300830045259 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/liquid-stock-chicken-1l.html/09300830045266",
+      "error": "request to https://www.continental.com.au/p/liquid-stock-chicken-1l.html/09300830045266 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/liquid-stock-chicken-salt-reduced-1l.html/09300830045280",
+      "error": "request to https://www.continental.com.au/p/liquid-stock-chicken-salt-reduced-1l.html/09300830045280 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/asian-laksa-cup-a-soup-pot.html/09300830052776",
+      "error": "request to https://www.continental.com.au/p/asian-laksa-cup-a-soup-pot.html/09300830052776 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/italian-minestrone-cup-a-soup-pot.html/09300830052783",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:52.088Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-chicken-and-corn-cup-a-soup-pot.html/09300830052790",
+      "error": "request to https://www.continental.com.au/p/creamy-chicken-and-corn-cup-a-soup-pot.html/09300830052790 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.583Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-chicken-noodles-cup-a-soup-pot.html/09300830052806",
+      "error": "request to https://www.continental.com.au/p/creamy-chicken-noodles-cup-a-soup-pot.html/09300830052806 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/morroccan-vegetable-medley-with-cous-cous.html/09300830057504",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.453Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/sweet-potato-pumpkin-and-caramelised-onion-with-roasted-garlic.html/09300830057511",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:52.045Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/mushroom-and-bacon-with-porcini-mushroom.html/09300830057528",
+      "error": "request to https://www.continental.com.au/p/mushroom-and-bacon-with-porcini-mushroom.html/09300830057528 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/garden-cauliflower-and-four-cheese-with-parmesan-croutons.html/09300830057566",
+      "error": "request to https://www.continental.com.au/p/garden-cauliflower-and-four-cheese-with-parmesan-croutons.html/09300830057566 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/creamy-roast-chicken-and-spring-onion-with-roasted-garlic-croutons.html/09300830057573",
+      "error": "request to https://www.continental.com.au/p/creamy-roast-chicken-and-spring-onion-with-roasted-garlic-croutons.html/09300830057573 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/harvest-pumpkin-and-sour-cream-with-roasted-garlic-croutons.html/09300830057580",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:52.009Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/cheesy-broccoli-with-parmesan-croutons.html/09300830057597",
+      "error": "request to https://www.continental.com.au/p/cheesy-broccoli-with-parmesan-croutons.html/09300830057597 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/feeling-clucky.html/09300830058389",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.452Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/a-bit-corny.html/09300830058419",
+      "error": "request to https://www.continental.com.au/p/a-bit-corny.html/09300830058419 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/snack-pot-curry-rice.html/09300830059164",
+      "error": "request to https://www.continental.com.au/p/snack-pot-curry-rice.html/09300830059164 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/snack-pot-cheese-and-bacon-pasta.html/09300830059188",
+      "error": "request to https://www.continental.com.au/p/snack-pot-cheese-and-bacon-pasta.html/09300830059188 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/snack-pot-cheesy-rice.html/09300830059195",
+      "error": "request to https://www.continental.com.au/p/snack-pot-cheesy-rice.html/09300830059195 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/nutrish-snack-pot-mexit-up.html/09300830059423",
+      "error": "request to https://www.continental.com.au/p/nutrish-snack-pot-mexit-up.html/09300830059423 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/nutrish-snack-pot-rockin-bangkok.html/09300830059447",
+      "error": "request to https://www.continental.com.au/p/nutrish-snack-pot-rockin-bangkok.html/09300830059447 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/nutrish-tom---tation-meal-soup.html/09300830063673",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:50.933Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/nutrish-so-mushroom-meal-soup.html/09300830063680",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.389Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/nutrish-pump-it-up-meal-soup.html/09300830063697",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/nutrish-curry-me-away-meal-soup.html/09300830063703",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/green-pea-and-broccoli-with-parmesan-and-basil.html/09300830065301",
+      "error": "request to https://www.continental.com.au/p/green-pea-and-broccoli-with-parmesan-and-basil.html/09300830065301 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/classics-cheesy-mash.html/09300830065349",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/mexican-tomato-and-corn-with-jalapeno.html/09300830070619",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:51.113Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/indian-curried-cauliflower-with-lentils.html/09300830070626",
+      "error": "request to https://www.continental.com.au/p/indian-curried-cauliflower-with-lentils.html/09300830070626 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/seasoning-sensations-stove-top-spanish-paella.html/09300830071210",
+      "error": "request to https://www.continental.com.au/p/seasoning-sensations-stove-top-spanish-paella.html/09300830071210 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/seasoning-sensations-stove-top-lebanese-koftas.html/09300830071227",
+      "error": "request to https://www.continental.com.au/p/seasoning-sensations-stove-top-lebanese-koftas.html/09300830071227 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/seasoning-sensations-slow-cooker-italian-lamb-shanks.html/09300830071234",
+      "error": "request to https://www.continental.com.au/p/seasoning-sensations-slow-cooker-italian-lamb-shanks.html/09300830071234 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/seasoning-sensations-stove-top-malaysian-laksa.html/09300830071258",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:20:52.161Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/spicy-malaysian-chicken-laksa-with-flat-noodles.html/09300830078790",
+      "error": "request to https://www.continental.com.au/p/spicy-malaysian-chicken-laksa-with-flat-noodles.html/09300830078790 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/takeout-temptations-pad-thai-seasoning-mix.html/09300830099375",
+      "error": "request to https://www.continental.com.au/p/takeout-temptations-pad-thai-seasoning-mix.html/09300830099375 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/takeout-temptations-korean-bbq-seasoning-mix.html/09300830099412",
+      "error": "request to https://www.continental.com.au/p/takeout-temptations-korean-bbq-seasoning-mix.html/09300830099412 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.continental.com.au/p/surprise-minted-peas.html/09400562573164",
+      "error": "request to https://www.continental.com.au/p/surprise-minted-peas.html/09400562573164 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:20:56.576Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-03-12T13:22:26.457Z",
+  "brand": "zwitsal",
+  "assortmentCode": "BH0875",
+  "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+  "totalProblematicPages": 2,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/bodylotion-200-ml.html/08720181649615",
+      "gtin": "08720181649615",
+      "checkedAt": "2026-03-12T13:22:18.597Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-mini-set-3x75-ml.html/08720181770500",
+      "gtin": "08720181770500",
+      "checkedAt": "2026-03-12T13:22:18.676Z"
+    }
+  ]
+}

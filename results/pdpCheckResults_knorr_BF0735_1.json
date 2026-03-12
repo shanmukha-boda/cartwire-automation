@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-03-12T13:21:27.095Z",
+  "brand": "knorr",
+  "assortmentCode": "BF0735",
+  "feedUrl": "https://www.royco.co.id/home.productfeed.json",
+  "totalUrlsChecked": 22,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-kampung-medium-pack.html/08999999192150",
+      "gtin": "08999999192150",
+      "checkedAt": "2026-03-12T13:21:19.461Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-big-pack.html/08999999516215",
+      "gtin": "08999999516215",
+      "checkedAt": "2026-03-12T13:21:20.450Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/royco-bumbu-kaldu-jamur-170g.html/08999999557041",
+      "gtin": "08999999557041",
+      "checkedAt": "2026-03-12T13:21:19.704Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/saus-tiram-275ml.html/08999999576950",
+      "gtin": "08999999576950",
+      "checkedAt": "2026-03-12T13:21:19.796Z"
+    }
+  ],
+  "errors": 18,
+  "duration": "8.22s",
+  "speedMetrics": "2.68 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/nasi-goreng-pedas.html/08999999039288",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:23.416Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/nasi-goreng.html/08999999039868",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:23.053Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/sup-krim-ayam.html/08999999191436",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.973Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/sup-krim-jagung.html/08999999191443",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.214Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-medium-pack.html/08999999192198",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.076Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-big-pack.html/08999999193317",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.255Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-big-pack.html/08999999193324",
+      "error": "request to https://www.royco.co.id/p/kaldu-sapi-big-pack.html/08999999193324 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:27.094Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-sachet.html/08999999502393",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.477Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-sachet.html/08999999502409",
+      "error": "request to https://www.royco.co.id/p/kaldu-sapi-sachet.html/08999999502409 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:27.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-kampung-big-pack.html/08999999516208",
+      "error": "request to https://www.royco.co.id/p/kaldu-ayam-kampung-big-pack.html/08999999516208 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:27.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/ayam-bumbu-rujak.html/08999999531218",
+      "error": "request to https://www.royco.co.id/p/ayam-bumbu-rujak.html/08999999531218 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:27.079Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/nasi-goreng-cabe-hijau.html/08999999531225",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:23.455Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/nasi-goreng-rendang.html/08999999531232",
+      "error": "request to https://www.royco.co.id/p/nasi-goreng-rendang.html/08999999531232 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:27.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/sup-krim-kepiting-dan-jagung.html/08999999537982",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:23.510Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/royco-bumbu-kaldu-jamur-36g.html/08999999557058",
+      "error": "request to https://www.royco.co.id/p/royco-bumbu-kaldu-jamur-36g.html/08999999557058 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:27.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/saus-tiram-135ml.html/08999999576967",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:23.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-kampung-sachet.html/08999999601331",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:23.424Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-sachet.html/08999999601348",
+      "error": "request to https://www.royco.co.id/p/kaldu-sapi-sachet.html/08999999601348 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:27.085Z"
+    }
+  ]
+}

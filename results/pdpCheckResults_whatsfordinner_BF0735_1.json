@@ -1,0 +1,1035 @@
+{
+  "generatedAt": "2026-03-12T13:21:22.276Z",
+  "brand": "whatsfordinner",
+  "assortmentCode": "BF0735",
+  "feedUrl": "https://www.whatsfordinner.co.ke/home.productfeed.json",
+  "totalUrlsChecked": 170,
+  "problematicPagesFound": 0,
+  "successfulPages": [],
+  "errors": 170,
+  "duration": "21.03s",
+  "speedMetrics": "8.08 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-clean-comfort-deodorant-stick.html/00000050220021",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men-care-clean-comfort-deodorant-stick.html/00000050220021 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-peony-&-pineapple-antiperspirant-refill-%2B-case-starter-kit-35ml.html/00000059001096",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-peony-&-pineapple-antiperspirant-refill-%2B-case-starter-kit-35ml.html/00000059001096 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-violet-&-tonka-bean-antiperspirant-refill-%2B-case-starter-kit-35ml.html/00000059001102",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-violet-&-tonka-bean-antiperspirant-refill-%2B-case-starter-kit-35ml.html/00000059001102 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-original-antiperspirant-stater-kit.html/00000059001119",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-original-antiperspirant-stater-kit.html/00000059001119 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-macadamia-&-coconut-antiperspirant-refill-pack-35-ml.html/00000059001744",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-macadamia-&-coconut-antiperspirant-refill-pack-35-ml.html/00000059001744 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.504Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-white-flower-&-heliotrope-antiperspirant-refill-pack-35-ml.html/00000059001751",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-white-flower-&-heliotrope-antiperspirant-refill-pack-35-ml.html/00000059001751 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-lily-&-green-lime-antierspirant-refill-pack-35-ml.html/00000059001775",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-lily-&-green-lime-antierspirant-refill-pack-35-ml.html/00000059001775 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-peony-&-pineapple-antiperspirant-refill-pack-35-ml.html/00000059001782",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-peony-&-pineapple-antiperspirant-refill-pack-35-ml.html/00000059001782 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-violet-&-tonka-bean-antiperspirant-refill-pack-35-ml.html/00000059001799",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:09.026Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-original-antiperspirant-refill-pack-35ml.html/00000059001805",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-original-antiperspirant-refill-pack-35ml.html/00000059001805 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-beauty-cream-antibacterial-liquid-hand-wash-250ml.html/04000388177000",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-beauty-cream-antibacterial-liquid-hand-wash-250ml.html/04000388177000 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/summer-revived-gradual-self-tan-body-mousse-fair-to-medium.html/08710847962769",
+      "error": "request to https://www.whatsfordinner.co.ke/p/summer-revived-gradual-self-tan-body-mousse-fair-to-medium.html/08710847962769 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/summer-revived-gradual-self-tan-body-mousse-medium-to-dark.html/08710847962783",
+      "error": "request to https://www.whatsfordinner.co.ke/p/summer-revived-gradual-self-tan-body-mousse-medium-to-dark.html/08710847962783 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-essential-care-body-lotion-250ml.html/08711700806916",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-essential-care-body-lotion-250ml.html/08711700806916 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.504Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-shea-butter-&-warm-vanilla-pampering-hand-wash-250ml.html/08711700921565",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-shea-butter-&-warm-vanilla-pampering-hand-wash-250ml.html/08711700921565 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-supreme-fine-silk-antibacterial-liquid-hand-wash-250ml.html/08717163605776",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-supreme-fine-silk-antibacterial-liquid-hand-wash-250ml.html/08717163605776 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-lavender-&-chamomile-whole-body-deodorant-stick-75ml.html/08720181594816",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-lavender-&-chamomile-whole-body-deodorant-stick-75ml.html/08720181594816 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-raspberry-&-rose-whole-body-deodorant-stick-75ml.html/08720181594823",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-raspberry-&-rose-whole-body-deodorant-stick-75ml.html/08720181594823 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-raspberry-&-rose-whole-body-deodorant-spray-150ml.html/08720181594953",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-raspberry-&-rose-whole-body-deodorant-spray-150ml.html/08720181594953 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.504Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-lavender-&-chamomile-whole-body-deodorant-spray-150ml.html/08720181595141",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-lavender-&-chamomile-whole-body-deodorant-spray-150ml.html/08720181595141 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-lavender-&-chamomile-whole-body-deodorant-cream-75ml.html/08720181596483",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-lavender-&-chamomile-whole-body-deodorant-cream-75ml.html/08720181596483 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-raspberry-&-rose-whole-body-deodorant-cream-75ml.html/08720181596513",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-raspberry-&-rose-whole-body-deodorant-cream-75ml.html/08720181596513 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-body-%2B-mind-french-lavender-&-oat-milk-body-wash.html/08720181676260",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-body-%2B-mind-french-lavender-&-oat-milk-body-wash.html/08720181676260 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.504Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-body-%2B-mind-pink-dragon-fruit-&-primrose-body-wash.html/08720181676277",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:08.667Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-body-%2B-mind-jojoba-oil-&-coconut-milk-body-wash.html/08720181676284",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-body-%2B-mind-jojoba-oil-&-coconut-milk-body-wash.html/08720181676284 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-sea-mist-&-peony-whole-body-deodorant-spray-150ml.html/08720181851414",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-sea-mist-&-peony-whole-body-deodorant-spray-150ml.html/08720181851414 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-sea-mist-&-peony-whole-body-deodorant-stick-75ml.html/08720181851483",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-72hr-sea-mist-&-peony-whole-body-deodorant-stick-75ml.html/08720181851483 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-raspberry-rendezvous-exfoliating-scrub.html/08720181865619",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:08.854Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-love-&-meadows-exfoliating-scrub.html/08720181865626",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-love-&-meadows-exfoliating-scrub.html/08720181865626 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-raspberry-rendezvous-shower-gel-400ml.html/08720181871818",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-raspberry-rendezvous-shower-gel-400ml.html/08720181871818 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-love-&-meadows-women's-deodorant-spray-200ml.html/08720181875519",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-love-&-meadows-women%27s-deodorant-spray-200ml.html/08720181875519 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-raspberry-rendezvous-women's-deodorant-spray-200ml.html/08720181875533",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-raspberry-rendezvous-women%27s-deodorant-spray-200ml.html/08720181875533 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-shampoo-400-ml.html/08720181901393",
+      "error": "request to https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-shampoo-400-ml.html/08720181901393 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-shampoo-400-ml.html/08720181901409",
+      "error": "request to https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-shampoo-400-ml.html/08720181901409 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-dandruff-control-shampoo-400ml.html/08720181901416",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:08.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-shampoo-400-ml.html/08720181901423",
+      "error": "request to https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-shampoo-400-ml.html/08720181901423 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-conditioner-400-ml.html/08720181901430",
+      "error": "request to https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-conditioner-400-ml.html/08720181901430 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-conditioner-400-ml.html/08720181901447",
+      "error": "request to https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-conditioner-400-ml.html/08720181901447 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-dandruff-control-conditioner-400-ml.html/08720181901454",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:08.855Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-conditioner-400-ml.html/08720181901461",
+      "error": "request to https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-conditioner-400-ml.html/08720181901461 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-48hr-invisible-dry-antiperspirant-deodorant-stick-40ml.html/00000050287062",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-48hr-invisible-dry-antiperspirant-deodorant-stick-40ml.html/00000050287062 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/invisible-dry-antiperspirant-deodorant-roll-on.html/00000059084051",
+      "error": "request to https://www.whatsfordinner.co.ke/p/invisible-dry-antiperspirant-deodorant-roll-on.html/00000059084051 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-advanced-clean-comfort-antiperspirant-deodorant-roll-on.html/00000059092582",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men%2Bcare-advanced-clean-comfort-antiperspirant-deodorant-roll-on.html/00000059092582 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-advanced-extra-fresh-roll-on.html/00000059092605",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men-care-advanced-extra-fresh-roll-on.html/00000059092605 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.502Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-classic-anti-perspirant-roll-on.html/00000059092643",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:08.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-coconut-roll-on-deodorant-50ml.html/00000059092681",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-coconut-roll-on-deodorant-50ml.html/00000059092681 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-go-fresh-cucumber-roll-on-deodorant-50ml.html/00000059092704",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:08.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-go-fresh-passion-fruit-roll-on-deodorant-50ml.html/00000059095286",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-go-fresh-passion-fruit-roll-on-deodorant-50ml.html/00000059095286 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/pomegranate-antiperspirant-deodorant-roll-on.html/00000059095316",
+      "error": "request to https://www.whatsfordinner.co.ke/p/pomegranate-antiperspirant-deodorant-roll-on.html/00000059095316 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/original-antiperspirant-deodorant-roll-on.html/00000059095842",
+      "error": "request to https://www.whatsfordinner.co.ke/p/original-antiperspirant-deodorant-roll-on.html/00000059095842 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-fresh-deodorant-with-%C2%BC-moisturising-cream-anti-perspirant-roll-on.html/00000059099017",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-fresh-deodorant-with-%C2%BC-moisturising-cream-anti-perspirant-roll-on.html/00000059099017 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dragon-fruit-&-coconut-cream-roll-on-50ml.html/00000059099499",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dragon-fruit-&-coconut-cream-roll-on-50ml.html/00000059099499 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-advanced-clean-comfort-anti-perspirant-stick-men's-deodorant.html/00000059099703",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-advanced-clean-comfort-anti-perspirant-stick-men%27s-deodorant.html/00000059099703 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-48hr-original-antiperspirant-deodorant-stick-40ml.html/00000080466437",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-48hr-original-antiperspirant-deodorant-stick-40ml.html/00000080466437 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-bamboo-&-aloe-vera-whole-body-deodorant-cream.html/00000087116007",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men%2Bcare-bamboo-&-aloe-vera-whole-body-deodorant-cream.html/00000087116007 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-marine-&-blue-cypress-whole-body-deodorant-cream.html/00000087116021",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men%2Bcare-marine-&-blue-cypress-whole-body-deodorant-cream.html/00000087116021 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-bamboo-&-aloe-vera-whole-body-deodorant-stick.html/00000087116045",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men%2Bcare-bamboo-&-aloe-vera-whole-body-deodorant-stick.html/00000087116045 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-marine-&-blue-cypress-whole-body-deodorant-stick.html/00000087116069",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men%2Bcare-marine-&-blue-cypress-whole-body-deodorant-stick.html/00000087116069 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/invisible-care-antiperspirant-deodorant-stick.html/00000087342819",
+      "error": "request to https://www.whatsfordinner.co.ke/p/invisible-care-antiperspirant-deodorant-stick.html/00000087342819 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-beauty-cream-antibacterial-liquid-hand-wash-refill-500ml.html/04000388179004",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-beauty-cream-antibacterial-liquid-hand-wash-refill-500ml.html/04000388179004 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/essential-care-body-lotion.html/04000388563209",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:08.376Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/crushed-macadamia-rice-milk-body-scrub.html/08710447217054",
+      "error": "request to https://www.whatsfordinner.co.ke/p/crushed-macadamia-rice-milk-body-scrub.html/08710447217054 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/pomegranate-seeds-shea-butter-body-scrub.html/08710447257265",
+      "error": "request to https://www.whatsfordinner.co.ke/p/pomegranate-seeds-shea-butter-body-scrub.html/08710447257265 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-restoring-care-hand-cream.html/08710447275313",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-restoring-care-hand-cream.html/08710447275313 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.565Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-visible-glow-gradual-self-tan-body-lotion-medium-to-da.html/08710447340691",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-visible-glow-gradual-self-tan-body-lotion-medium-to-da.html/08710447340691 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-visible-glow-gradual-self-tan-body-lotion-light-to-med.html/08710447340707",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-visible-glow-gradual-self-tan-body-lotion-light-to-med.html/08710447340707 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/nourishing-body-care-pro-age-hand-cream.html/08710522415702",
+      "error": "request to https://www.whatsfordinner.co.ke/p/nourishing-body-care-pro-age-hand-cream.html/08710522415702 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/nourishing-body-care-pro-age-body-butter.html/08710522415719",
+      "error": "request to https://www.whatsfordinner.co.ke/p/nourishing-body-care-pro-age-body-butter.html/08710522415719 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-essential-care-hand-cream.html/08710847963469",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-essential-care-hand-cream.html/08710847963469 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-fresh-clean-fortifying-2in1-shampoo-and-conditioner.html/08710908381195",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men-care-fresh-clean-fortifying-2in1-shampoo-and-conditioner.html/08710908381195 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-thickening-shampoo.html/08710908381218",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men-care-thickening-shampoo.html/08710908381218 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.554Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-glowing-care-body-lotion.html/08710908777769",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-glowing-care-body-lotion.html/08710908777769 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.554Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-smoothing-care-body-lotion.html/08710908778230",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-smoothing-care-body-lotion.html/08710908778230 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.565Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/maximum-protection-pomegranate-lemon-verbena-antiperspirant-deodorant.html/08711600841499",
+      "error": "request to https://www.whatsfordinner.co.ke/p/maximum-protection-pomegranate-lemon-verbena-antiperspirant-deodorant.html/08711600841499 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.565Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-barrier-repair-body-lotion.html/08711700807258",
+      "error": "request to https://www.whatsfordinner.co.ke/p/body-love-barrier-repair-body-lotion.html/08711700807258 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.565Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/summer-revived-self-tanning-body-lotion-fair-to-medium.html/08712561982641",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:09.247Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/summer-revived-self-tanning-body-lotion-medium-to-dark.html/08712561983013",
+      "error": "request to https://www.whatsfordinner.co.ke/p/summer-revived-self-tanning-body-lotion-medium-to-dark.html/08712561983013 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.565Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-supreme-fine-silk-antibacterial-liquid-hand-wash-refill-500ml.html/08717163573792",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-supreme-fine-silk-antibacterial-liquid-hand-wash-refill-500ml.html/08717163573792 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.565Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-body-love-pro-age-body-lotion.html/08717163673065",
+      "error": "request to https://www.whatsfordinner.co.ke/p/dove-body-love-pro-age-body-lotion.html/08717163673065 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/summer-revived-face-cream-medium-to-dark.html/08717163740699",
+      "error": "request to https://www.whatsfordinner.co.ke/p/summer-revived-face-cream-medium-to-dark.html/08717163740699 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:09.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/summer-revived-face-cream-fair-to-medium.html/08717163740705",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.572Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-purely-pampering-almond-and-hibiscus-bath-soak-450ml.html/08717163762202",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:16.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-indulging-caring-bath-soak-450ml.html/08717163762226",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.980Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-purely-pampering-shea-butter-and-vanilla-bath-soak-450ml.html/08717163762233",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.868Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/maximum-protection-original-clean-antiperspirant-deodorant.html/08717644566237",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:11.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-extra-fresh-body-wash.html/08717644682944",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-clean-comfort-body-wash.html/08717644683149",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.669Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/care-protect-hand-wash.html/08720181049361",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.502Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-care-radiant-glow-body-lotion.html/08720181158872",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:15.630Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/lavender-chamomile-relaxing-care-bath-salts.html/08720181158988",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.893Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/renewing-care-bath-salts-stacey-solomon-limited-edition.html/08720181158995",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.014Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/coconut-cacao-restoring-care-bath-salts.html/08720181159008",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/lavender-chamomile-relaxing-care-foaming-bath-soak.html/08720181164804",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.911Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/renewing-care-bath-soak-stacey-solomon-limited-edition.html/08720181164828",
+      "error": "request to https://www.whatsfordinner.co.ke/p/renewing-care-bath-soak-stacey-solomon-limited-edition.html/08720181164828 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:17.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/coconut-cacao-restoring-care-foaming-bath-soak.html/08720181164835",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-nourishing-care-one-cream-for-face-hands-and-body.html/08720181172120",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.699Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/body-love-light-hydration-one-cream-for-face-hands-and-body.html/08720181172144",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-hydrating-sensitive-body-face-and-hair-wash.html/08720181210792",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.673Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-pink-beauty-cream-soap-bar-2-x-90g.html/08720181218217",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.579Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-original-beauty-cream-soap-bar-2-x-90g.html/08720181218279",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.595Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-advanced-clean-comfort-antiperspirant-deodorant-spray-200ml.html/08720181284939",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.520Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-advanced-invisible-dry-antiperspirant-deodorant-aerosol.html/08720181284953",
+      "error": "request to https://www.whatsfordinner.co.ke/p/men%2Bcare-advanced-invisible-dry-antiperspirant-deodorant-aerosol.html/08720181284953 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:21:17.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men-care-advanced-extra-fresh-antiperspirant-deodorant-spray-200ml.html/08720181284977",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.600Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-advanced-sport-fresh-antiperspirant-deodorant-spray-200ml.html/08720181284984",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-48hr-classic-antiperspirant-deodorant-spray-200ml.html/08720181287831",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.694Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-48hr-fresh-care-antiperspirant-deodorant-spray-200ml.html/08720181287855",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-48hr-powder-soft-antiperspirant-deodorant-spray-200ml.html/08720181287879",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:16.717Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/go-fresh-acai-antiperspirant-spray.html/08720181291395",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:17.716Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-calming-blossom-antiperspirant-deodorant-spray-200ml.html/08720181292040",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/coconut-jasmine-flower-antiperspirant-deodorant-spray.html/08720181292057",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.510Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/go-fresh-cucumber-green-tea-antiperspirant-deodorant-spray.html/08720181292064",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.986Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/advanced-care-invisible-care-antiperspirant-deodorant-spray.html/08720181292071",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.486Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/advanced-care-invisible-dry-antiperspirant-deodorant-spray.html/08720181292088",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/advanced-care-original-antiperspirant-deodorant-spray.html/08720181292095",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.568Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/advanced-care-go-fresh-passion-fruit-lemongrass-antiperspirant-deodorant-spray.html/08720181292101",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-72hr-pear-&-aloe-vera-antiperspirant-deodorant-spray-200ml.html/08720181292118",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:15.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/advanced-care-go-fresh-pomegranate-lemon-verbena-antiperspirant-deodorant-spray.html/08720181292125",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.469Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men-care-fresh-antiperspirant-deodorant-aerosol.html/08720181295577",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.488Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-classic-antiperspirant-deodorant-spray-200ml.html/08720181295584",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.016Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-renew-wild-violet-and-pink-hibiscus-shower-&-shave-mousse-200ml.html/08720181321726",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.663Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-glow-blood-orange-and-rhubarb-shower-&-shave-mousse-200ml.html/08720181321733",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.971Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-48hr-floral-antiperspirant-deodorant-spray-200ml.html/08720181323942",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.868Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-hydrating-clean-comfort-3-in-1-body,-face-%2B-hair-wash-700ml.html/08720181375231",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.694Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-advanced-eucalptus-and-mint-antiperspirant-deodorant-200ml.html/08720181433566",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-advanced-eucalptus-and-mint-antiperspirant-deodorant-200ml.html/08720181433603",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-deeply-nourishing-body-wash-225-ml.html/08720181443367",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.917Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-nourishing-silk-body-wash-225-ml.html/08720181457388",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-chamomile-&-oat-milk-anti-stress-body-wash-400-ml.html/08720181459993",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.877Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-pomegranate-&-hibiscus-reviving-body-wash-225-ml.html/08720181460111",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.599Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-gentle-scrub-exfoliating-body-wash-225-ml.html/08720181462863",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.518Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-shea-butter-&-warm-vanilla-pampering-body-wash-225ml.html/08720181462924",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.781Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-derma-hypoallergenic-fragrance-free-body-wash-400-ml.html/08720181465888",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.382Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-pro-age-body-wash-for-mature-&-ageing-skin-400-ml.html/08720181465925",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-hydrate-gentle-cleansing-body-wash-225-ml.html/08720181466434",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:14.133Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-fruity-nourish-body-wash-225ml.html/08720181468445",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.664Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-velvet-glow-body-wash-for-smother-nourished-skin-225-ml.html/08720181468537",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.535Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-shea-butter-&-warm-vanilla-body-wash-720-ml.html/08720181471612",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-sport-anti-perspirant-aerosol-deodorant-spray.html/08720181474217",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.324Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dragon-fruit-&-coconut-cream-aerosol-200ml.html/08720181565854",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.076Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-sandalwood%2Bvanilla-72hr-deodorant-spray-200ml.html/08720181570063",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.610Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-eucalyptus-%2B-mint-3-in-1-hair,-face-and-body-wash-250ml.html/08720181586255",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:17.400Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-men%2Bcare-sandalwood-%2B-vanilla-3-in-1-hair,-face-and-body-wash-400ml.html/08720181587788",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/oat-milk-&-berry-brulee-cleansing-bar.html/08720181760679",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:11.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/tumeric-milk-&-lemon-drop-cleansing-bar.html/08720181760716",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/coconut-milk-&-lychee-sugar-cleansing-bar.html/08720181760747",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-bamboo-&-aloe-vera-whole-body-deodorant-spray.html/08720181819384",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/cedar-&-shea-butter-whole-body-deodorant-spray-%7C-dove-men%2Bcare.html/08720181819476",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-marine-&-blue-cypress-whole-body-deodorant-spray.html/08720181819506",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.672Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-limited-edition-48hr-fifa-active-comfort-deodorant-spray.html/08720181836183",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-limited-edition-72hr-fifa-active-comfort-deodorant-spray.html/08720181836220",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:10.856Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-limited-edition-48hr-fifa-active-xxl-comfort-deodorant-spray.html/08720181836237",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/men%2Bcare-limited-edition-fifa-3-in-1-hair,-face-&-body-wash.html/08720181853241",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.609Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-limited-edition-bridgerton-love-&-meadows-shower-gel-400ml.html/08720181871801",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-shampoo-250-ml.html/08720181901317",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.587Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-shampoo-250-ml.html/08720181901324",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-dandruff-control-shampoo-250ml.html/08720181901331",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-shampoo-250-ml.html/08720181901348",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.679Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-conditioner-250-ml.html/08720181901355",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:12.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-conditioner-250-ml.html/08720181901362",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:13.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-dandruff-control-conditioner-250-ml.html/08720181901379",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:11.137Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-conditioner-250-ml.html/08720181901386",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:18.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-10-in-1-hydrating-mask.html/08720181915802",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.137Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-10-in-1-strengthening-mask.html/08720181915833",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:19.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-10-in-1-strengthening-mask.html/08720181915840",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:21.672Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-soothing-hydration-3-in-1-scalp-serum.html/08720181920011",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-3-in-1-scalp-serum.html/08720181920028",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:18.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-3-in-1-scalp-serum.html/08720181920035",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:20.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-density-&-growth-root-lift-hair-spray.html/08720181920042",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:21.229Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/scalp-%2B-hair-therapy-damage-rescue-hair-treatment-bi-phase-serum-in-oil.html/08720181920059",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:18.457Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.ke/p/dove-purely-pampering-shea-butter-beauty-cream-soap-bar-2-x-90g.html/08720182262622",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:21:22.276Z"
+    }
+  ]
+}

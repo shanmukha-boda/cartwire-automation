@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-03-12T13:22:36.916Z",
+  "brand": "zwitsal",
+  "assortmentCode": "BH0884",
+  "feedUrl": "https://www.proderm.gr/home.productfeed.json",
+  "totalUrlsChecked": 19,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-sampouan-kai-afroloutro-1-3.html/08710908021497",
+      "gtin": "08710908021497",
+      "checkedAt": "2026-03-12T13:22:29.394Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-kids-sampouan-kai-afroloutro-3.html/08710908021572",
+      "gtin": "08710908021572",
+      "checkedAt": "2026-03-12T13:22:35.106Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-kids-sampouan-kai-afroloutro-sleep-easy-3.html/08710908021596",
+      "gtin": "08710908021596",
+      "checkedAt": "2026-03-12T13:22:29.361Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-kids-sampouan-3.html/08710908041532",
+      "gtin": "08710908041532",
+      "checkedAt": "2026-03-12T13:22:29.407Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-ygro-aporipantiko-plintiriou.html/08711700609203",
+      "gtin": "08711700609203",
+      "checkedAt": "2026-03-12T13:22:35.183Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-ygro-piatwn.html/08711700659673",
+      "gtin": "08711700659673",
+      "checkedAt": "2026-03-12T13:22:29.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-poudra.html/08714100140970",
+      "gtin": "08714100140970",
+      "checkedAt": "2026-03-12T13:22:29.391Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-enidatiki-krema-0-12.html/08720181169823",
+      "gtin": "08720181169823",
+      "checkedAt": "2026-03-12T13:22:29.113Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.proderm.gr/p/proderm-kids-afroloutro-3.html/08720181202278",
+      "gtin": "08720181202278",
+      "checkedAt": "2026-03-12T13:22:29.105Z"
+    }
+  ],
+  "errors": 10,
+  "duration": "8.47s",
+  "speedMetrics": "2.24 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-sampouan-kai-afroloutro-sleep-easy-0-12.html/08710447481233",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:22:30.132Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-kids-sampouan-kai-afroloutro-3.html/08710908021459",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:22:30.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-sampouan-kai-afroloutro-0-12.html/08710908021510",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:22:31.034Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-sampouan-kai-afroloutro-1-3.html/08710908021558",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:22:31.088Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-krema-sygkamatwn.html/08710908041365",
+      "error": "request to https://www.proderm.gr/p/proderm-krema-sygkamatwn.html/08710908041365 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:22:36.916Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-enydatiki-krema-sleep-easy-1-3.html/08710908042263",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:22:31.153Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-malaktiko-rouxwn.html/08711700624343",
+      "error": "request to https://www.proderm.gr/p/proderm-malaktiko-rouxwn.html/08711700624343 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:22:36.915Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-vrefiko-sapouni-0-12.html/08711700763783",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:22:31.018Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-aporipantiko-skoni-plintiriou.html/08712561745987",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T13:22:31.126Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.proderm.gr/p/proderm-sampouan-kai-afroloutro-sleep-easy-0-12.html/08720181165238",
+      "error": "request to https://www.proderm.gr/p/proderm-sampouan-kai-afroloutro-sleep-easy-0-12.html/08720181165238 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T13:22:36.905Z"
+    }
+  ]
+}
