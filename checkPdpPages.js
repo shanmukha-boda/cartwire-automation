@@ -1,8 +1,12 @@
 import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
-import { JSDOM } from "jsdom";
- 
+import { HttpsAgent } from "agentkeepalive";
+
+const httpsAgent = new HttpsAgent({
+  keepAlive: true,
+  maxSockets: 100
+}); 
 /*
 Usage:
   node checkPdpPages.js [brand] [assortmentCode]
@@ -16,6 +20,7 @@ Examples:
 async function fetchWidgetData(url) {
   try {
     const res = await fetch(url, {
+      agent: httpsAgent,
       headers: {
         "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         "Accept-Language": "en-US,en;q=0.9",
@@ -87,7 +92,7 @@ async function searchForBinErrorScript(widgetData, pageUrl) {
   }
  
   const url = `https://bin.cartwire.co/services/hashlanginfobutton?brand_name=${widgetData.brandName}&locale=${widgetData.locale}&brand_code=${widgetData.brandCode}&gtin=${widgetData.gtin}`;
-  const response = await fetch(url);
+  const response = await fetch(url, { agent: httpsAgent });
   const scriptText = await response.text();
   const match = scriptText.match(/console\.log\("([^"]+)"\)/);
  
@@ -262,7 +267,7 @@ async function main() {
       };
  
       const results = [];
-      const batchSize = 1000; // You can likely increase this now that Puppeteer is gone
+      const batchSize = 200; // You can likely increase this now that Puppeteer is gone
      
       for (let i = 0; i < brandData.productPageUrls.length; i += batchSize) {
     
@@ -307,7 +312,7 @@ async function main() {
         allProblematicPages.push(...problematicPages);
       }
  
-      const outputFileName = `pdpCheckResults_${brand}_${assortmentCode}.json`;
+      const outputFileName = `pdpCheckResults_${brand}_${assortmentCode}_${brandIndex+1}.json`;
       const outputFile = path.join(process.cwd(), outputFileName);
       const output = {
         generatedAt: new Date().toISOString(),
@@ -320,7 +325,7 @@ async function main() {
       console.log(`Results saved to: ${outputFileName}`);
  
       if (problematicPages.length > 0) {
-        const problematicFileName = `pdpCheckResults_PROBLEMATIC_${brand}_${assortmentCode}.json`;
+        const problematicFileName = `pdpCheckResults_PROBLEMATIC_${brand}_${assortmentCode}_${brandIndex+1}.json`;
         const problematicFile = path.join(process.cwd(), problematicFileName);
         const problematicOutput = {
           generatedAt: new Date().toISOString(),
