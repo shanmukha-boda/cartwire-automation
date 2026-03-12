@@ -114,7 +114,12 @@ jobs:
 
           NODE
 
-          mv *.json results/ || true
+          echo "Renaming files to prevent collision..."
+
+          for f in *.json; do
+            mv "$f" "results/${{ strategy.job-index }}_$f"
+          done
+
 
       - name: Upload batch artifact
         uses: actions/upload-artifact@v4
@@ -146,10 +151,10 @@ jobs:
         with:
           path: artifacts
 
-      - name: Merge result files
+      - name: Merge results
         run: |
 
-          echo "Cleaning old results..."
+          echo "Cleaning previous results..."
 
           rm -rf results
           mkdir -p results
@@ -159,7 +164,7 @@ jobs:
 
           find artifacts -name "*.json" -exec cp {} final/ \;
 
-          echo "Total files collected:"
+          echo "Total JSON files collected:"
           ls final | wc -l
 
           echo "Creating merged problematic report..."
@@ -176,7 +181,7 @@ jobs:
 
           cp final/*.json results/
 
-      - name: Commit results to repo
+      - name: Commit results
         run: |
 
           git config user.name github-actions
@@ -186,7 +191,7 @@ jobs:
 
           if git diff --cached --quiet
           then
-            echo "No new changes"
+            echo "No new results"
           else
             git commit -m "PDP scan results"
             git push
