@@ -1,0 +1,1264 @@
+{
+  "generatedAt": "2026-03-12T15:25:59.217Z",
+  "brand": "whatsfordinner",
+  "assortmentCode": "BFA317",
+  "feedUrl": "https://www.whatsfordinner.co.za/home.productfeed.json",
+  "totalUrlsChecked": 208,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-macaroni-cheese-pasta-sauce.html/06001087002882",
+      "gtin": "06001087002882",
+      "checkedAt": "2026-03-12T15:25:35.239Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-sour-cream-and-chives-potato-bake.html/06001087007382",
+      "gtin": "06001087007382",
+      "checkedAt": "2026-03-12T15:25:41.100Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-barbeque-cook-in-bag.html/06001087009546",
+      "gtin": "06001087009546",
+      "checkedAt": "2026-03-12T15:25:35.231Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-french-salad-dressing.html/06001087311311",
+      "gtin": "06001087311311",
+      "checkedAt": "2026-03-12T15:25:35.014Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-honey-mustard-salad-dressing.html/06001087311410",
+      "gtin": "06001087311410",
+      "checkedAt": "2026-03-12T15:25:35.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-rich-oxtail-soup.html/06001087359610",
+      "gtin": "06001087359610",
+      "checkedAt": "2026-03-12T15:25:35.271Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tomato-base-dry-cook-in-sauce.html/06001087376464",
+      "gtin": "06001087376464",
+      "checkedAt": "2026-03-12T15:25:35.374Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-mild-breyani-rice-mate.html/06001087376655",
+      "gtin": "06001087376655",
+      "checkedAt": "2026-03-12T15:25:36.003Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-brown-onion-instant-gravy.html/06009001001218",
+      "gtin": "06009001001218",
+      "checkedAt": "2026-03-12T15:25:34.987Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes.html/00000060013507",
+      "gtin": "00000060013507",
+      "checkedAt": "2026-03-12T15:25:35.454Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-noodle-soup.html/06001038001551",
+      "gtin": "06001038001551",
+      "checkedAt": "2026-03-12T15:25:41.103Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cream-of-chicken-soup.html/06001038002152",
+      "gtin": "06001038002152",
+      "checkedAt": "2026-03-12T15:25:35.230Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-brown-onion-soup.html/06001038009359",
+      "gtin": "06001038009359",
+      "checkedAt": "2026-03-12T15:25:35.255Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup.html/06001038016159",
+      "gtin": "06001038016159",
+      "checkedAt": "2026-03-12T15:25:41.821Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-24ea.html/06001038063054",
+      "gtin": "06001038063054",
+      "checkedAt": "2026-03-12T15:25:34.958Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-refill-75g.html/06001038072704",
+      "gtin": "06001038072704",
+      "checkedAt": "2026-03-12T15:25:41.318Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-trio-refill-200g.html/06001038073459",
+      "gtin": "06001038073459",
+      "checkedAt": "2026-03-12T15:25:41.129Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-all-purpose-seasoning-spice-refill-75g.html/06001038073602",
+      "gtin": "06001038073602",
+      "checkedAt": "2026-03-12T15:25:41.818Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/medium-curry-powder-100g.html/06001038201555",
+      "gtin": "06001038201555",
+      "checkedAt": "2026-03-12T15:25:35.029Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/rajah-mild-spicy-curry-powder-100gr.html/06001038203252",
+      "gtin": "06001038203252",
+      "checkedAt": "2026-03-12T15:25:35.325Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-cayenne-pepper.html/06001038221553",
+      "gtin": "06001038221553",
+      "checkedAt": "2026-03-12T15:25:35.171Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-coriander.html/06001038223151",
+      "gtin": "06001038223151",
+      "checkedAt": "2026-03-12T15:25:35.298Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-nutmeg.html/06001038225155",
+      "gtin": "06001038225155",
+      "checkedAt": "2026-03-12T15:25:41.399Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-white-pepper.html/06001038226152",
+      "gtin": "06001038226152",
+      "checkedAt": "2026-03-12T15:25:35.469Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-thyme.html/06001038236151",
+      "gtin": "06001038236151",
+      "checkedAt": "2026-03-12T15:25:35.347Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-meat-tenderiser.html/06001038261153",
+      "gtin": "06001038261153",
+      "checkedAt": "2026-03-12T15:25:50.252Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-garlic-salt.html/06001038272159",
+      "gtin": "06001038272159",
+      "checkedAt": "2026-03-12T15:25:50.248Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-fish-spice.html/06001038276157",
+      "gtin": "06001038276157",
+      "checkedAt": "2026-03-12T15:25:43.779Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-portuguese-chicken-spice.html/06001038277208",
+      "gtin": "06001038277208",
+      "checkedAt": "2026-03-12T15:25:50.017Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-144ea.html/06001087000642",
+      "gtin": "06001087000642",
+      "checkedAt": "2026-03-12T15:25:49.883Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-beef-2in1-stew-mix-with-robertsons-barbecue-spice.html/06001087005791",
+      "gtin": "06001087005791",
+      "checkedAt": "2026-03-12T15:25:48.858Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-chicken-and-onion-2in1-stew-mix-with-robertsons-rosemary.html/06001087005807",
+      "gtin": "06001087005807",
+      "checkedAt": "2026-03-12T15:25:43.484Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-beef-stock-pot.html/06001087011327",
+      "gtin": "06001087011327",
+      "checkedAt": "2026-03-12T15:25:43.116Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-stock-pot.html/06001087011334",
+      "gtin": "06001087011334",
+      "checkedAt": "2026-03-12T15:25:43.400Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-curry-stock-cubes-12ea.html/06001087300971",
+      "gtin": "06001087300971",
+      "checkedAt": "2026-03-12T15:25:50.342Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-curry-stock-cubes-24ea.html/06001087300995",
+      "gtin": "06001087300995",
+      "checkedAt": "2026-03-12T15:25:43.633Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lamb-and-vegetable-instant-soup.html/06001087302715",
+      "gtin": "06001087302715",
+      "checkedAt": "2026-03-12T15:25:48.883Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-hearty-beef-2in1-stew-mix-with-robertsons-steak-&-chops-spice.html/06001087308038",
+      "gtin": "06001087308038",
+      "checkedAt": "2026-03-12T15:25:43.723Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-italian-salad-dressing.html/06001087309103",
+      "gtin": "06001087309103",
+      "checkedAt": "2026-03-12T15:25:51.129Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-blue-cheese-salad-dressing.html/06001087309127",
+      "gtin": "06001087309127",
+      "checkedAt": "2026-03-12T15:25:43.718Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-1000-island-salad-dressing.html/06001087309189",
+      "gtin": "06001087309189",
+      "checkedAt": "2026-03-12T15:25:50.027Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-light-french-salad-dressing.html/06001087311496",
+      "gtin": "06001087311496",
+      "checkedAt": "2026-03-12T15:25:50.781Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cream-of-mushroom-soup.html/06001087353151",
+      "gtin": "06001087353151",
+      "checkedAt": "2026-03-12T15:25:49.473Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-aromatic-roast-potato.html/06001087358293",
+      "gtin": "06001087358293",
+      "checkedAt": "2026-03-12T15:25:43.353Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-zesty-lemon-and-herb-spice-blend-200ml.html/06001087358316",
+      "gtin": "06001087358316",
+      "checkedAt": "2026-03-12T15:25:43.463Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-thick-white-onion-soup.html/06001087359559",
+      "gtin": "06001087359559",
+      "checkedAt": "2026-03-12T15:25:43.622Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-thick-vegetable-soup.html/06001087359573",
+      "gtin": "06001087359573",
+      "checkedAt": "2026-03-12T15:25:43.473Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-minestrone-soup.html/06001087359597",
+      "gtin": "06001087359597",
+      "checkedAt": "2026-03-12T15:25:50.653Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-mutton-vegetable-soup.html/06001087359641",
+      "gtin": "06001087359641",
+      "checkedAt": "2026-03-12T15:25:43.808Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/hellmanns-original-mayonnaise-789g.html/06001087364539",
+      "gtin": "06001087364539",
+      "checkedAt": "2026-03-12T15:25:43.811Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-naturally-tasty-seasoning.html/06001087374767",
+      "gtin": "06001087374767",
+      "checkedAt": "2026-03-12T15:25:43.147Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-a-la-king-dry-cook-in-sauce.html/06001087376419",
+      "gtin": "06001087376419",
+      "checkedAt": "2026-03-12T15:25:58.979Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-mince-lasagne-mate.html/06001087376693",
+      "gtin": "06001087376693",
+      "checkedAt": "2026-03-12T15:25:51.305Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-lasagne-mate-295g.html/06001087376709",
+      "gtin": "06001087376709",
+      "checkedAt": "2026-03-12T15:25:51.305Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-boloroni-mince-mate.html/06001087376716",
+      "gtin": "06001087376716",
+      "checkedAt": "2026-03-12T15:25:51.607Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-450g.html/06001087382182",
+      "gtin": "06001087382182",
+      "checkedAt": "2026-03-12T15:25:52.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-all-in-one-spice-350gr.html/06001087385237",
+      "gtin": "06001087385237",
+      "checkedAt": "2026-03-12T15:25:58.124Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-all-in-one-spice-175-gr.html/06001087385244",
+      "gtin": "06001087385244",
+      "checkedAt": "2026-03-12T15:25:51.937Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-braai-grill-spicy-bbq.html/06001087389099",
+      "gtin": "06001087389099",
+      "checkedAt": "2026-03-12T15:25:51.636Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-vegetable-curry-flavoured-stock-powder.html/06001087389754",
+      "gtin": "06001087389754",
+      "checkedAt": "2026-03-12T15:25:51.566Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-garlic-onion-flavoured-stock-powder.html/06001087389761",
+      "gtin": "06001087389761",
+      "checkedAt": "2026-03-12T15:25:51.798Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-garlic-onion-flavoured-stock-powder-22gr.html/06001087401791",
+      "gtin": "06001087401791",
+      "checkedAt": "2026-03-12T15:25:56.461Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-smokey-bacon-cheddar-mince-mate.html/06001089000626",
+      "gtin": "06001089000626",
+      "checkedAt": "2026-03-12T15:25:58.878Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-hearty-beef-instant-soup.html/06001089025735",
+      "gtin": "06001089025735",
+      "checkedAt": "2026-03-12T15:25:51.469Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-beef-and-vegetable.html/06001089025742",
+      "gtin": "06001089025742",
+      "checkedAt": "2026-03-12T15:25:51.345Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-country-vegetable.html/06001089025780",
+      "gtin": "06001089025780",
+      "checkedAt": "2026-03-12T15:25:58.800Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-crushed-garlic.html/06009001003717",
+      "gtin": "06009001003717",
+      "checkedAt": "2026-03-12T15:25:51.380Z"
+    }
+  ],
+  "errors": 141,
+  "duration": "24.69s",
+  "speedMetrics": "8.42 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-garlic-and-rosemary-cook-in-bags.html/06001087009539",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-garlic-and-rosemary-cook-in-bags.html/06001087009539 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-greek-salad-dressing.html/06001087311335",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-greek-salad-dressing.html/06001087311335 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-garlic-herb-salad-dressing.html/06001087311458",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-garlic-herb-salad-dressing.html/06001087311458 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-light-greek-salad-dressing.html/06001087311519",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-light-greek-salad-dressing.html/06001087311519 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-light-yoghurt-herb-salad-dressing.html/06001087311533",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-light-yoghurt-herb-salad-dressing.html/06001087311533 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-curry-vegetable-soup.html/06001087359634",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-curry-vegetable-soup.html/06001087359634 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-beef-onion-soup.html/06001087359658",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-beef-onion-soup.html/06001087359658 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-alfredo-pasta-sauce.html/06001089029009",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-alfredo-pasta-sauce.html/06001089029009 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-classic-white-sauce.html/06009001001119",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-classic-white-sauce.html/06009001001119 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-cheese-instant-sauce.html/06009001001157",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-cheese-instant-sauce.html/06009001001157 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-spaghetti-bolognaise-dry-cook-in-sauce.html/06009001001393",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-spaghetti-bolognaise-dry-cook-in-sauce.html/06009001001393 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.689Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-cheese-vegetable-bake.html/06009001011507",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-cheese-vegetable-bake.html/06009001011507 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-garlic-herb-potato-bake.html/06009001011569",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-garlic-herb-potato-bake.html/06009001011569 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cheese-bacon-potato-bake.html/06009001011583",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cheese-bacon-potato-bake.html/06009001011583 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.689Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-2ea.html/00000060013521",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-2ea.html/00000060013521 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.698Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-rich-beef-tomato-soup.html/06001038009151",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-rich-beef-tomato-soup.html/06001038009151 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-soup-200g.html/06001038016050",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-soup-200g.html/06001038016050 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup.html/06001038016258",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup.html/06001038016258 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-200gr.html/06001038016357",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-200gr.html/06001038016357 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soup-200gr.html/06001038016456",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-mutton-soup-200gr.html/06001038016456 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup.html/06001038016555",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup.html/06001038016555 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-6ea.html/06001038061753",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-6ea.html/06001038061753 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-6ea.html/06001038061852",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-6ea.html/06001038061852 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-6ea.html/06001038062354",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-6ea.html/06001038062354 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/-knorrox-beef-stock-cubes-12ea.html/06001038062453",
+      "error": "request to https://www.whatsfordinner.co.za/p/-knorrox-beef-stock-cubes-12ea.html/06001038062453 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-12ea.html/06001038062552",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-12ea.html/06001038062552 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-12ea.html/06001038062651",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-12ea.html/06001038062651 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-stock-cubes-12ea.html/06001038062750",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-oxtail-stock-cubes-12ea.html/06001038062750 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-chicken-stock-cubes-12ea.html/06001038062859",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-chicken-stock-cubes-12ea.html/06001038062859 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-stock-cubes-12ea.html/06001038062958",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-mutton-stock-cubes-12ea.html/06001038062958 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-24ea.html/06001038063153",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-24ea.html/06001038063153 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-24ea.html/06001038063252",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-24ea.html/06001038063252 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-stock-cubes-24ea.html/06001038063306",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-oxtail-stock-cubes-24ea.html/06001038063306 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-100gr.html/06001038065157",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-100gr.html/06001038065157 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-100gr.html/06001038065355",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-100gr.html/06001038065355 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-onion-flavoured-soya-mince.html/06001038065553",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-onion-flavoured-soya-mince.html/06001038065553 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-200gr.html/06001038066154",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-200gr.html/06001038066154 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-200gr.html/06001038066352",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-200gr.html/06001038066352 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-seasoning.html/06001038071554",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-aromat-original-seasoning.html/06001038071554 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-peri-peri-seasoning.html/06001038071608",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-aromat-peri-peri-seasoning.html/06001038071608 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.768Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-200g.html/06001038071653",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-200g.html/06001038071653 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-seasoning.html/06001038073503",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-seasoning.html/06001038073503 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.768Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/rajah-hot-curry-powder-100gr.html/06001038204556",
+      "error": "request to https://www.whatsfordinner.co.za/p/rajah-hot-curry-powder-100gr.html/06001038204556 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.768Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-cinnamon.html/06001038222154",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-cinnamon.html/06001038222154 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.768Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-ground-cloves.html/06001038222550",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-ground-cloves.html/06001038222550 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.768Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-ginger.html/06001038223557",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-ginger.html/06001038223557 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.768Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-paprika.html/06001038225551",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-paprika.html/06001038225551 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-black-pepper.html/06001038226558",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-black-pepper.html/06001038226558 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-coarse-black-pepper.html/06001038226657",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-coarse-black-pepper.html/06001038226657 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-tumeric.html/06001038227555",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-tumeric.html/06001038227555 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-origanum-herbs.html/06001038232559",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-origanum-herbs.html/06001038232559 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-parsley.html/06001038233150",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-parsley.html/06001038233150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-rosemary.html/06001038233556",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-rosemary.html/06001038233556 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-black-peppercorn-refill.html/06001038246150",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-black-peppercorn-refill.html/06001038246150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-peppercorn-grinder.html/06001038246600",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-peppercorn-grinder.html/06001038246600 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:42.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-barbecue-spice.html/06001038261559",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-barbecue-spice.html/06001038261559 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-peri-peri.html/06001038262150",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-peri-peri.html/06001038262150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.850Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-garlic-flakes.html/06001038271558",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-garlic-flakes.html/06001038271558 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.850Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-salt-and-vinegar-seasoning.html/06001038272555",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.929Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-chicken-spice.html/06001038275150",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-chicken-spice.html/06001038275150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.851Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-lemon-pepper.html/06001038275556",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-lemon-pepper.html/06001038275556 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.922Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-italian-herbs.html/06001038276959",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-italian-herbs.html/06001038276959 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.922Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-spice-for-rice.html/06001038283551",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-spice-for-rice.html/06001038283551 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.922Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-brown-onion-soup-2in1-stew-mix-with-robertsons-mixed-herbs.html/06001087005814",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-tasty-brown-onion-soup-2in1-stew-mix-with-robertsons-mixed-herbs.html/06001087005814 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.922Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-all-purpose-seasoning-spice-refill-75g.html/06001087006842",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.676Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-all-purpose-seasoning-spice-refill-200g.html/06001087006859",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-all-purpose-seasoning-spice-refill-200g.html/06001087006859 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.922Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-seasoning.html/06001087006866",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.583Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-spicy-roast-chicken-cook-in-bags.html/06001087009522",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:48.046Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-veg-stock-pot.html/06001087011341",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-veg-stock-pot.html/06001087011341 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-sticky-chicken-wings-cook-in-bag.html/06001087013024",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-sticky-chicken-wings-cook-in-bag.html/06001087013024 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-three-cheese-sauce.html/06001087300445",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-mushroom-dry-cook-in-sauce.html/06001087300506",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-chicken-mushroom-dry-cook-in-sauce.html/06001087300506 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-crushed-chilli.html/06001087303613",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-crushed-chilli.html/06001087303613 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-ground-cumin.html/06001087303637",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-ground-cumin.html/06001087303637 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-400gr-bag.html/06001087306508",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-400gr-bag.html/06001087306508 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-soup-400g.html/06001087306522",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-savoury-soya-mince-400gr.html/06001087306546",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-savoury-soya-mince-400gr.html/06001087306546 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-400gr.html/06001087306560",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-400gr.html/06001087306560 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-bag.html/06001087307109",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.415Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-400gr.html/06001087307147",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-400gr.html/06001087307147 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-tomato-onion-soya-mince-400gr.html/06001087307161",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-oxtail-tomato-onion-soya-mince-400gr.html/06001087307161 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-chicken-2in1-stew-mix-with-robertsons-chicken-spice.html/06001087308076",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.602Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-ranch-salad-dressing.html/06001087309141",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-ranch-salad-dressing.html/06001087309141 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-sweet-chilli-salad-dressing.html/06001087309165",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.297Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-italian-salad-dressing.html/06001087311199",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-italian-salad-dressing.html/06001087311199 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-greek-salad-dressing.html/06001087311434",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-greek-salad-dressing.html/06001087311434 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-light-italian-salad-dressing.html/06001087311472",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-light-italian-salad-dressing.html/06001087311472 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-all-purpose-seasoning-spice-refill-200g.html/06001087311762",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-all-purpose-seasoning-spice-refill-200g.html/06001087311762 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-36ea.html/06001087352307",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-36ea.html/06001087352314",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-36ea.html/06001087352314 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cream-of-tomato-soup.html/06001087353144",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cream-of-tomato-soup.html/06001087353144 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.925Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-minestrone-soup-200g.html/06001087356046",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/rajah-flavourful-mild-curry-powder-100gr.html/06001087357722",
+      "error": "request to https://www.whatsfordinner.co.za/p/rajah-flavourful-mild-curry-powder-100gr.html/06001087357722 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.943Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/masterblends-rustic-garlic-herb.html/06001087358286",
+      "error": "request to https://www.whatsfordinner.co.za/p/masterblends-rustic-garlic-herb.html/06001087358286 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.943Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-rosemary-and-garlic.html/06001087358309",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.580Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-spicy-shisanyama.html/06001087358323",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-masterblends-spicy-shisanyama.html/06001087358323 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.943Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-traditional-braai-mix.html/06001087358330",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:48.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-144ea.html/06001087358422",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-144ea.html/06001087358422 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.943Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-hearty-beef-soup.html/06001087359566",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.742Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-chakalaka-soup.html/06001087359580",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-chakalaka-soup.html/06001087359580 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-oxtail-vegetable-soup.html/06001087359603",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-oxtail-vegetable-soup.html/06001087359603 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-chilli-beef-vegetable-soup.html/06001087359627",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-chilli-beef-vegetable-soup.html/06001087359627 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/hellmanns-original-mayonnaise-394g.html/06001087364522",
+      "error": "request to https://www.whatsfordinner.co.za/p/hellmanns-original-mayonnaise-394g.html/06001087364522 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-750gr.html/06001087368759",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:48.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-soup-750g.html/06001087368766",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-soup-750g.html/06001087368766 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soup-750gr.html/06001087368773",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-mutton-soup-750gr.html/06001087368773 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-750gr-bag.html/06001087368780",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-750gr-bag.html/06001087368780 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-tomato-onion-stock-cube-120gr.html/06001087375634",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:47.601Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-curry-vegetable-stock-cube-120gr.html/06001087375641",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-curry-vegetable-stock-cube-120gr.html/06001087375641 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:50.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-beef-stroganoff-dry-cook-in-sauce.html/06001087376426",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-beef-stroganoff-dry-cook-in-sauce.html/06001087376426 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.158Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-country-beef-stew-cook-in-sauce.html/06001087376433",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-country-beef-stew-cook-in-sauce.html/06001087376433 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.158Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-fruit-chutney-flavour-curry-sauce-mince-mate-230g.html/06001087376679",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-fruit-chutney-flavour-curry-sauce-mince-mate-230g.html/06001087376679 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-three-cheese-mincemate.html/06001087376686",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-three-cheese-mincemate.html/06001087376686 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-cheesy-noodle-mince-mate.html/06001087376723",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-cheesy-noodle-mince-mate.html/06001087376723 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/rajah-masala-curry-powder-100gr.html/06001087377041",
+      "error": "request to https://www.whatsfordinner.co.za/p/rajah-masala-curry-powder-100gr.html/06001087377041 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup-bag.html/06001087377799",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup-bag.html/06001087377799 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup-bag.html/06001087377805",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup-bag.html/06001087377805 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup-bag.html/06001087377812",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup-bag.html/06001087377812 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup-750gr-bag.html/06001087377829",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup-750gr-bag.html/06001087377829 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-barbeque-spice.html/06001087385213",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-barbeque-spice.html/06001087385213 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-spice-175-gr.html/06001087385220",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chicken-spice-175-gr.html/06001087385220 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-barbeque-spice-175g.html/06001087385251",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-barbeque-spice-175g.html/06001087385251 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-spice-350gr.html/06001087385268",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chicken-spice-350gr.html/06001087385268 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388733",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388733 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388740",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388740 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388757",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388757 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-braai-grill-all-in-one.html/06001087389082",
+      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-braai-grill-all-in-one.html/06001087389082 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-flavoured-stock-powder.html/06001087389778",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-flavoured-stock-powder.html/06001087389778 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-greek-salad-dressing-with-moringa.html/06001087393676",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:57.599Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-flavoured-stock-powder-22gr.html/06001087401784",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-flavoured-stock-powder-22gr.html/06001087401784 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-chicken-and-mushroom.html/06001089001104",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-chicken-and-mushroom.html/06001089001104 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-tomato.html/06001089025704",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-tomato.html/06001089025704 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-chicken-noodle-instant-soup.html/06001089025711",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-chicken-noodle-instant-soup.html/06001089025711 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-mushroom.html/06001089025797",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-mushroom.html/06001089025797 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-chicken-and-herb-instant-soup.html/06001089026619",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-chicken-and-herb-instant-soup.html/06001089026619 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-beef-and-vegetable-instant-soup.html/06001089026633",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-beef-and-vegetable-instant-soup.html/06001089026633 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-mushroom-sauce.html/06009001001133",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-mushroom-sauce.html/06009001001133 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-roast-meat-instant-gravy.html/06009001001256",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-roast-meat-instant-gravy.html/06009001001256 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-savoury-mince-dry-cook-in-sauce.html/06009001001454",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-savoury-mince-dry-cook-in-sauce.html/06009001001454 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-roasted-vegetable-bake.html/06009001011545",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorr-roasted-vegetable-bake.html/06009001011545 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.whatsfordinner.co.za/p/rajah-all-in-one-curry-powder-100gr.html/06009001015864",
+      "error": "request to https://www.whatsfordinner.co.za/p/rajah-all-in-one-curry-powder-100gr.html/06009001015864 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:59.216Z"
+    }
+  ]
+}

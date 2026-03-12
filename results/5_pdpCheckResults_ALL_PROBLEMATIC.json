@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-03-12T15:26:00.279Z",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/calippo-cola-5mp.html/08722700231998",
+      "gtin": "08722700231998",
+      "checkedAt": "2026-03-12T15:25:53.692Z"
+    }
+  ]
+}

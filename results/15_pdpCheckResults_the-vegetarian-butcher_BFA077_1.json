@@ -1,0 +1,280 @@
+{
+  "generatedAt": "2026-03-12T15:25:14.989Z",
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.devegetarischeslager.nl/home.productfeed.json",
+  "totalUrlsChecked": 44,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/ereburger.html/08710522766996",
+      "gtin": "08710522766996",
+      "checkedAt": "2026-03-12T15:25:14.629Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/saucijzenbroodjes.html/08710522871621/ufs",
+      "gtin": "08710522871621",
+      "checkedAt": "2026-03-12T15:25:14.594Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/sat%C3%A9broodjes.html/08710522871638/ufs",
+      "gtin": "08710522871638",
+      "checkedAt": "2026-03-12T15:25:14.595Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/hamplackjes.html/08710765966900",
+      "gtin": "08710765966900",
+      "checkedAt": "2026-03-12T15:25:14.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kipnuggets.html/08718692783232",
+      "gtin": "08718692783232",
+      "checkedAt": "2026-03-12T15:25:14.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/little-willies.html/08718692784659/ufs",
+      "gtin": "08718692784659",
+      "checkedAt": "2026-03-12T15:25:14.625Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/petit-pate.html/08718692784727",
+      "gtin": "08718692784727",
+      "checkedAt": "2026-03-12T15:25:14.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/petit-filet-a-l-americain.html/08718692784963",
+      "gtin": "08718692784963",
+      "checkedAt": "2026-03-12T15:25:14.626Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/saucijzenbroodjes.html/08718692786318",
+      "gtin": "08718692786318",
+      "checkedAt": "2026-03-12T15:25:14.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nobeef-burger.html/08718692786554/ufs",
+      "gtin": "08718692786554",
+      "checkedAt": "2026-03-12T15:25:14.628Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nochicken-chunks.html/08718692786561/ufs",
+      "gtin": "08718692786561",
+      "checkedAt": "2026-03-12T15:25:14.595Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nomeatballs.html/08718692786578/ufs",
+      "gtin": "08718692786578",
+      "checkedAt": "2026-03-12T15:25:14.609Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nobacon-bits.html/08718692786622/ufs",
+      "gtin": "08718692786622",
+      "checkedAt": "2026-03-12T15:25:14.799Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nomince.html/08718692786639/ufs",
+      "gtin": "08718692786639",
+      "checkedAt": "2026-03-12T15:25:14.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nochicken-shawarma.html/08718692786660/ufs",
+      "gtin": "08718692786660",
+      "checkedAt": "2026-03-12T15:25:14.628Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kipworst.html/08718692786967",
+      "gtin": "08718692786967",
+      "checkedAt": "2026-03-12T15:25:14.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/spaanse-worst.html/08718692786974",
+      "gtin": "08718692786974",
+      "checkedAt": "2026-03-12T15:25:14.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nohotdog.html/08718692787254/ufs",
+      "gtin": "08718692787254",
+      "checkedAt": "2026-03-12T15:25:14.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nochicken-burger.html/08718692787261/ufs",
+      "gtin": "08718692787261",
+      "checkedAt": "2026-03-12T15:25:14.635Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kip-shoarma.html/08718692789043",
+      "gtin": "08718692789043",
+      "checkedAt": "2026-03-12T15:25:14.636Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/bofkipburger.html/08718692789067",
+      "gtin": "08718692789067",
+      "checkedAt": "2026-03-12T15:25:14.616Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kiptevree-filet.html/08720181254772",
+      "gtin": "08720181254772",
+      "checkedAt": "2026-03-12T15:25:14.616Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/geroockte-speckjes.html/08720182070272",
+      "gtin": "08720182070272",
+      "checkedAt": "2026-03-12T15:25:14.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/pluimfeest-burger.html/08720182086396",
+      "gtin": "08720182086396",
+      "checkedAt": "2026-03-12T15:25:14.625Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/vlamboyante-kipstuckjes.html/08720182227539",
+      "gtin": "08720182227539",
+      "checkedAt": "2026-03-12T15:25:14.627Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/specktakel.html/08720182235664",
+      "gtin": "08720182235664",
+      "checkedAt": "2026-03-12T15:25:14.609Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/roockworst.html/08720182475367",
+      "gtin": "08720182475367",
+      "checkedAt": "2026-03-12T15:25:14.616Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/little-willies.html/08720182594235",
+      "gtin": "08720182594235",
+      "checkedAt": "2026-03-12T15:25:14.625Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/sat%C3%A9-kipstuckjes.html/08720182594501",
+      "gtin": "08720182594501",
+      "checkedAt": "2026-03-12T15:25:14.625Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kipstuckjes-voordeelverpakking.html/08720182612588",
+      "gtin": "08720182612588",
+      "checkedAt": "2026-03-12T15:25:14.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kip-krockant.html/08720182617057",
+      "gtin": "08720182617057",
+      "checkedAt": "2026-03-12T15:25:14.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/cordon-blij.html/08720182706034",
+      "gtin": "08720182706034",
+      "checkedAt": "2026-03-12T15:25:14.625Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/braadwurst.html/08720182809148",
+      "gtin": "08720182809148",
+      "checkedAt": "2026-03-12T15:25:14.939Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/leckerbekje.html/08720182814401",
+      "gtin": "08720182814401",
+      "checkedAt": "2026-03-12T15:25:14.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/lecker-burgerlijk.html/08720182920195",
+      "gtin": "08720182920195",
+      "checkedAt": "2026-03-12T15:25:14.626Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kipstuckjes.html/08720182927705",
+      "gtin": "08720182927705",
+      "checkedAt": "2026-03-12T15:25:14.626Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kipstuckjes-voordeelverpakking.html/08720182929488",
+      "gtin": "08720182929488",
+      "checkedAt": "2026-03-12T15:25:14.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/let-it-beef.html/08721201925283",
+      "gtin": "08721201925283",
+      "checkedAt": "2026-03-12T15:25:14.626Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/smokey-bbq-kipstuckjes.html/87201826594020",
+      "gtin": "87201826594020",
+      "checkedAt": "2026-03-12T15:25:14.616Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/zweedsche-gehacktballetjes.html/00720000257936",
+      "gtin": "00720000257936",
+      "checkedAt": "2026-03-12T15:25:14.625Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kip-shoarma-diepvries.html/08718692781788",
+      "gtin": "08718692781788",
+      "checkedAt": "2026-03-12T15:25:14.628Z"
+    }
+  ],
+  "errors": 3,
+  "duration": "0.81s",
+  "speedMetrics": "54.32 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/boterhamworst.html/08718692783430",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:14.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/rul-gehackt.html/08718692788497",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:14.381Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/auf-wieder-schnitzel.html/08720182194077",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:25:14.331Z"
+    }
+  ]
+}

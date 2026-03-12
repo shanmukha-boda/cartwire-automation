@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-03-12T15:25:04.740Z",
+  "brand": "luxglobal",
+  "assortmentCode": "BH0307",
+  "feedUrl": "https://www.lux.com/in/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/creamy-perfection.html/08901030508219",
+      "gtin": "08901030508219",
+      "checkedAt": "2026-03-12T15:25:04.699Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/fresh-splash.html/08901030509902",
+      "gtin": "08901030509902",
+      "checkedAt": "2026-03-12T15:25:04.646Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/velvet-touch.html/08901030554636",
+      "gtin": "08901030554636",
+      "checkedAt": "2026-03-12T15:25:04.705Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/soft-touch.html/08901030555480",
+      "gtin": "08901030555480",
+      "checkedAt": "2026-03-12T15:25:04.719Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-even-toned-glow-bathing-soap.html/08901030923708",
+      "gtin": "08901030923708",
+      "checkedAt": "2026-03-12T15:25:04.739Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-even-toned-glow-bathing-soap.html/08901030923746",
+      "gtin": "08901030923746",
+      "checkedAt": "2026-03-12T15:25:04.721Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-flaw-less-glow-bathing-soap.html/08901030929410",
+      "gtin": "08901030929410",
+      "checkedAt": "2026-03-12T15:25:04.729Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-flaw-less-glow-bathing-soap.html/08901030929427",
+      "gtin": "08901030929427",
+      "checkedAt": "2026-03-12T15:25:04.721Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-rose-&-aloe-vera-exfoliating-soap.html/08901030937859",
+      "gtin": "08901030937859",
+      "checkedAt": "2026-03-12T15:25:04.719Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-lavender-&-vitamin-c-exfoliating-soap.html/08901030937866",
+      "gtin": "08901030937866",
+      "checkedAt": "2026-03-12T15:25:04.721Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-rose-&-aloe-vera-shimmering-bodywash.html/08901030937873",
+      "gtin": "08901030937873",
+      "checkedAt": "2026-03-12T15:25:04.711Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-rose-&-aloe-vera-body-scrub.html/08901030944680",
+      "gtin": "08901030944680",
+      "checkedAt": "2026-03-12T15:25:04.712Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-lavender-&-vitamin-c-body-scrub.html/08901030944697",
+      "gtin": "08901030944697",
+      "checkedAt": "2026-03-12T15:25:04.678Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-flaw-less-glow-bathing-soap.html/08901030948237",
+      "gtin": "08901030948237",
+      "checkedAt": "2026-03-12T15:25:04.732Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lux.com/in/p/lux-fresh-glow-plus-bathing-soap.html/08901030970214",
+      "gtin": "08901030970214",
+      "checkedAt": "2026-03-12T15:25:04.713Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.26s",
+  "speedMetrics": "57.69 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

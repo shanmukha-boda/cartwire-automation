@@ -1,0 +1,27 @@
+{
+  "name": "product-url-fetch",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "agentkeepalive": "^4.6.0",
+    "axios": "^1.13.6",
+    "cheerio": "^1.2.0",
+    "got": "^14.6.6",
+    "jsdom": "^28.1.0",
+    "node-fetch": "^2.7.0",
+    "p-limit": "^7.3.0",
+    "playwright": "^1.58.2",
+    "puppeteer": "^24.38.0",
+    "xlsx": "^0.18.5",
+    "xml2js": "^0.6.2",
+    "xmldom": "^0.6.0"
+  }
+}

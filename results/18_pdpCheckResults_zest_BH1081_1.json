@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-03-12T15:25:40.259Z",
+  "brand": "zest",
+  "assortmentCode": "BH1081",
+  "feedUrl": "https://www.zest.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 17,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-delicate1.html/07506306219281",
+      "gtin": "07506306219281",
+      "checkedAt": "2026-03-12T15:25:32.830Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure1.html/07506306219298",
+      "gtin": "07506306219298",
+      "checkedAt": "2026-03-12T15:25:32.789Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-antb-alcohol-spray-12x300ml.html/07506306222922",
+      "gtin": "07506306222922",
+      "checkedAt": "2026-03-12T15:25:32.869Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-gel-antibacterial-12x400ml.html/07506306222939",
+      "gtin": "07506306222939",
+      "checkedAt": "2026-03-12T15:25:33.148Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-antib-aer-para-manos-12x108g-150ml.html/07506306223004",
+      "gtin": "07506306223004",
+      "checkedAt": "2026-03-12T15:25:32.885Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-vainilla-y-jengibre.html/07506306202955",
+      "gtin": "07506306202955",
+      "checkedAt": "2026-03-12T15:25:34.053Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-toronja-y-albahaca.html/07506306202962",
+      "gtin": "07506306202962",
+      "checkedAt": "2026-03-12T15:25:32.850Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-delicate.html/07506306219250",
+      "gtin": "07506306219250",
+      "checkedAt": "2026-03-12T15:25:32.919Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure.html/07506306219267",
+      "gtin": "07506306219267",
+      "checkedAt": "2026-03-12T15:25:32.866Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-aqua.html/07506306238336",
+      "gtin": "07506306238336",
+      "checkedAt": "2026-03-12T15:25:32.701Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-men.html/07506306238350",
+      "gtin": "07506306238350",
+      "checkedAt": "2026-03-12T15:25:33.005Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-pepino.html/07506306238398",
+      "gtin": "07506306238398",
+      "checkedAt": "2026-03-12T15:25:32.823Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-almendra-y-avena.html/07506306238404",
+      "gtin": "07506306238404",
+      "checkedAt": "2026-03-12T15:25:32.840Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-neutro.html/07506306238428",
+      "gtin": "07506306238428",
+      "checkedAt": "2026-03-12T15:25:32.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-bw-toronja-y-albahaca.html/08710908851476",
+      "gtin": "08710908851476",
+      "checkedAt": "2026-03-12T15:25:32.904Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-hw-toronja-y-albahaca.html/08710908851704",
+      "gtin": "08710908851704",
+      "checkedAt": "2026-03-12T15:25:33.039Z"
+    }
+  ],
+  "errors": 1,
+  "duration": "8.21s",
+  "speedMetrics": "2.07 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.zest.com.mx/p/zest-bw-liquido-agua-de-coco.html/07506306216020",
+      "error": "request to https://www.zest.com.mx/p/zest-bw-liquido-agua-de-coco.html/07506306216020 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:25:40.259Z"
+    }
+  ]
+}
