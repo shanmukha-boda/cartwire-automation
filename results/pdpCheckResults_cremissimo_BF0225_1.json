@@ -1,0 +1,188 @@
+{
+  "generatedAt": "2026-03-12T15:12:33.314Z",
+  "brand": "cremissimo",
+  "assortmentCode": "BF0225",
+  "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+  "totalUrlsChecked": 25,
+  "problematicPagesFound": 7,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/salted-caramel.html/08711327616097",
+      "gtin": "08711327616097",
+      "checkedAt": "2026-03-12T15:12:32.672Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/nogger-choc.html/08711327616622",
+      "gtin": "08711327616622",
+      "checkedAt": "2026-03-12T15:12:25.798Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/heidelbeer-vanille.html/08711327617766",
+      "gtin": "08711327617766",
+      "checkedAt": "2026-03-12T15:12:32.755Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/bourbon-vanille-vegan.html/08711327618671",
+      "gtin": "08711327618671",
+      "checkedAt": "2026-03-12T15:12:25.654Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/schokolade.html/08711327619470",
+      "gtin": "08711327619470",
+      "checkedAt": "2026-03-12T15:12:25.781Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/stracciatella.html/08711327622814",
+      "gtin": "08711327622814",
+      "checkedAt": "2026-03-12T15:12:25.405Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/triple-choc.html/08711327627505",
+      "gtin": "08711327627505",
+      "checkedAt": "2026-03-12T15:12:29.981Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/tiramisu.html/08711327629547",
+      "gtin": "08711327629547",
+      "checkedAt": "2026-03-12T15:12:25.908Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/bourbon-vanille.html/08711327630895",
+      "gtin": "08711327630895",
+      "checkedAt": "2026-03-12T15:12:25.579Z"
+    }
+  ],
+  "errors": 9,
+  "duration": "8.32s",
+  "speedMetrics": "3.00 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/baileys.html/08711327657267",
+      "gtin": "08711327657267",
+      "checkedAt": "2026-03-12T15:12:28.993Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/haselnuss-vanilla-schokolade.html/08711327668836",
+      "gtin": "08711327668836",
+      "checkedAt": "2026-03-12T15:12:25.469Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/pistazie-vanille.html/08711327671874",
+      "gtin": "08711327671874",
+      "checkedAt": "2026-03-12T15:12:26.316Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/himbeer-spritz.html/08711327677302",
+      "gtin": "08711327677302",
+      "checkedAt": "2026-03-12T15:12:25.468Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/soft-&-crunchy-erdbeere.html/08721274812299",
+      "gtin": "08721274812299",
+      "checkedAt": "2026-03-12T15:12:33.314Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/schokolade-vanilla-erdbeer.html/08721274814804",
+      "gtin": "08721274814804",
+      "checkedAt": "2026-03-12T15:12:25.541Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/walnuss-heidelbeer-butterkeks.html/08721274815191",
+      "gtin": "08721274815191",
+      "checkedAt": "2026-03-12T15:12:25.789Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/erdbeer-joghurt.html/08711327615434",
+      "error": "request to https://www.cremissimo.de/p/erdbeer-joghurt.html/08711327615434 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.264Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/eierlik%C3%B6r.html/08711327615748",
+      "error": "request to https://www.cremissimo.de/p/eierlik%C3%B6r.html/08711327615748 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.264Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/schwarzw%C3%A4lder-kirsch.html/08711327617506",
+      "error": "request to https://www.cremissimo.de/p/schwarzw%C3%A4lder-kirsch.html/08711327617506 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/strawberry-cheescake.html/08711327617940",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:12:28.855Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/solero.html/08711327618145",
+      "error": "request to https://www.cremissimo.de/p/solero.html/08711327618145 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/walnuss.html/08711327619722",
+      "error": "request to https://www.cremissimo.de/p/walnuss.html/08711327619722 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.245Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/soft-&-crunchy-schokolade.html/08721274812671",
+      "error": "request to https://www.cremissimo.de/p/soft-&-crunchy-schokolade.html/08721274812671 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/crema.html/08721274818055",
+      "error": "request to https://www.cremissimo.de/p/crema.html/08721274818055 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.251Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/tiramisu-genuss.html/08721274817102",
+      "error": "request to https://www.cremissimo.de/p/tiramisu-genuss.html/08721274817102 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:12:33.250Z"
+    }
+  ]
+}

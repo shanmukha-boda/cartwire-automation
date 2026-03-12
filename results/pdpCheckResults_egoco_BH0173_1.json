@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-03-12T15:11:12.008Z",
+  "brand": "egoco",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.co/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-ultra-intense.html/07702006207850",
+      "gtin": "07702006207850",
+      "checkedAt": "2026-03-12T15:11:04.491Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-force.html/07702006300254",
+      "gtin": "07702006300254",
+      "checkedAt": "2026-03-12T15:11:05.101Z"
+    }
+  ],
+  "errors": 7,
+  "duration": "8.12s",
+  "speedMetrics": "1.11 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-for-men-crema-para-peinar.html/07702006208796",
+      "error": "request to https://www.egoparahombres.com.co/p/ego-for-men-crema-para-peinar.html/07702006208796 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:11:11.988Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-attraction.html/07702006298940",
+      "error": "request to https://www.egoparahombres.com.co/p/ego-gel-for-men-attraction.html/07702006298940 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:11:12.008Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-extreme-max.html/07702006299923",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:07.558Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-black.html/07702006300216",
+      "error": "request to https://www.egoparahombres.com.co/p/ego-shampoo-black.html/07702006300216 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:11:12.005Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-black.html/07702006300285",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:07.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-for-men-cera-modeladora.html/07702006300063",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:07.271Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-cera-para-peinar-look-definido-15ml.html/07702006406352",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:07.676Z"
+    }
+  ]
+}

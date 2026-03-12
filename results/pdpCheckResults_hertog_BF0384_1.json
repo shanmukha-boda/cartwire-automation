@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-03-12T15:11:42.418Z",
+  "brand": "hertog",
+  "assortmentCode": "BF0384",
+  "feedUrl": "https://www.hertogijs.nl/home.productfeed.json",
+  "totalUrlsChecked": 21,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/slagroomijs.html/08711327338357",
+      "gtin": "08711327338357",
+      "checkedAt": "2026-03-12T15:11:34.912Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/aardbeien-meringue-200ml.html/08711327401457",
+      "gtin": "08711327401457",
+      "checkedAt": "2026-03-12T15:11:35.586Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/drie-chocolades-200ml.html/08711327401464",
+      "gtin": "08711327401464",
+      "checkedAt": "2026-03-12T15:11:34.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/cookie-crumble-200ml.html/08711327498860",
+      "gtin": "08711327498860",
+      "checkedAt": "2026-03-12T15:11:35.221Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/amarena-kers-vanille.html/08711327617230",
+      "gtin": "08711327617230",
+      "checkedAt": "2026-03-12T15:11:34.967Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/aardbeien-meringue-825ml.html/08711327619623",
+      "gtin": "08711327619623",
+      "checkedAt": "2026-03-12T15:11:35.881Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/tiramisu-200ml.html/08711327661608",
+      "gtin": "08711327661608",
+      "checkedAt": "2026-03-12T15:11:35.291Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hertogijs.nl/p/pistache-825ml.html/08711327672420",
+      "gtin": "08711327672420",
+      "checkedAt": "2026-03-12T15:11:35.113Z"
+    }
+  ],
+  "errors": 13,
+  "duration": "8.14s",
+  "speedMetrics": "2.58 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/vanille-roomijs.html/08711327338326",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.266Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/pecan-karamel-vanille-200ml.html/08711327401426",
+      "error": "request to https://www.hertogijs.nl/p/pecan-karamel-vanille-200ml.html/08711327401426 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:11:42.402Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/koffie-royaal-200ml.html/08711327401433",
+      "error": "request to https://www.hertogijs.nl/p/koffie-royaal-200ml.html/08711327401433 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:11:42.417Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/citroentaart-meringue-200ml.html/08711327549685",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/koffie-royaal-825ml.html/08711327614949",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.514Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/advocaat-royaal-825ml.html/08711327615649",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.943Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/tiramisu-825ml.html/08711327616707",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.962Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/cookie-crumble-825ml.html/08711327616998",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.554Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/citroentaart-meringue-825ml.html/08711327617186",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.892Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/drie-chocolades-825ml.html/08711327617629",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/vanille-karamel-pecan-825ml.html/08711327618527",
+      "error": "request to https://www.hertogijs.nl/p/vanille-karamel-pecan-825ml.html/08711327618527 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:11:42.411Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/vanille-vegan-825ml.html/08711327618701",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:38.266Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hertogijs.nl/p/yoghurt-bosvruchten-825ml.html/08711327619258",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:11:37.554Z"
+    }
+  ]
+}

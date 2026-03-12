@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-03-12T15:10:22.122Z",
+  "brand": "kissan",
+  "assortmentCode": "BF0423",
+  "feedUrl": "https://www.kissan.in/home.productfeed.json",
+  "totalUrlsChecked": 13,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/mixed-fruit-jam.html/08901030535048",
+      "gtin": "08901030535048",
+      "checkedAt": "2026-03-12T15:10:14.805Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/orange-marmalade.html/08901030535055",
+      "gtin": "08901030535055",
+      "checkedAt": "2026-03-12T15:10:14.817Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/pineapple-jam.html/08901030535079",
+      "gtin": "08901030535079",
+      "checkedAt": "2026-03-12T15:10:14.623Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/mango-jam.html/08901030540707",
+      "gtin": "08901030540707",
+      "checkedAt": "2026-03-12T15:10:15.132Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/juicy-grape-squash.html/08901030634444",
+      "gtin": "08901030634444",
+      "checkedAt": "2026-03-12T15:10:15.088Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/juicy-lemon-squash.html/08901030634451",
+      "gtin": "08901030634451",
+      "checkedAt": "2026-03-12T15:10:14.708Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/juicy-mango-squash.html/08901030634468",
+      "gtin": "08901030634468",
+      "checkedAt": "2026-03-12T15:10:15.005Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/sweet-spicy-sauce.html/08901030660344",
+      "gtin": "08901030660344",
+      "checkedAt": "2026-03-12T15:10:14.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/no-onion-no-garlic-tomato-sauce.html/08901030673917",
+      "gtin": "08901030673917",
+      "checkedAt": "2026-03-12T15:10:14.774Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/juicy-orange-squash.html/08901030785962",
+      "gtin": "08901030785962",
+      "checkedAt": "2026-03-12T15:10:14.333Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.kissan.in/p/peanut-butter.html/08901030810978",
+      "gtin": "08901030810978",
+      "checkedAt": "2026-03-12T15:10:14.705Z"
+    }
+  ],
+  "errors": 2,
+  "duration": "8.13s",
+  "speedMetrics": "1.60 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.kissan.in/p/fresh-tomato-ketchup.html/08901030532719",
+      "error": "request to https://www.kissan.in/p/fresh-tomato-ketchup.html/08901030532719 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:22.122Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.kissan.in/p/chilli-tomato-sauce.html/08901030660283",
+      "error": "request to https://www.kissan.in/p/chilli-tomato-sauce.html/08901030660283 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:22.114Z"
+    }
+  ]
+}

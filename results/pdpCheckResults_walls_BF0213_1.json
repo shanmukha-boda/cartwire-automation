@@ -1,0 +1,628 @@
+{
+  "generatedAt": "2026-03-12T15:10:25.925Z",
+  "brand": "walls",
+  "assortmentCode": "BF0213",
+  "feedUrl": "https://www.algida.sk/home.productfeed.json",
+  "totalUrlsChecked": 102,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/nogger-zmrzlina-karamel-90-ml.html/05900700121690",
+      "gtin": "05900700121690",
+      "checkedAt": "2026-03-12T15:10:16.573Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/calippo-cola.html/08000920461235",
+      "gtin": "08000920461235",
+      "checkedAt": "2026-03-12T15:10:11.227Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/lednacek-vanilkovy.html/08594002210045",
+      "gtin": "08594002210045",
+      "checkedAt": "2026-03-12T15:10:17.820Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/nogger-mix-6mp-548ml.html/08711327345478",
+      "gtin": "08711327345478",
+      "checkedAt": "2026-03-12T15:10:17.726Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-peanut-butter-cup-465-ml.html/08711327374522",
+      "gtin": "08711327374522",
+      "checkedAt": "2026-03-12T15:10:17.689Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/magnum-mini-caramel-gold-billionaire-6x55-ml.html/08711327485082",
+      "gtin": "08711327485082",
+      "checkedAt": "2026-03-12T15:10:17.787Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/magnum-double-cherry-85-ml.html/08711327663961",
+      "gtin": "08711327663961",
+      "checkedAt": "2026-03-12T15:10:11.492Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/magnum-double-hazelnut-85-ml.html/08711327667174",
+      "gtin": "08711327667174",
+      "checkedAt": "2026-03-12T15:10:10.827Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/magnum-classic-440-ml.html/08714100289969",
+      "gtin": "08714100289969",
+      "checkedAt": "2026-03-12T15:10:11.238Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-stawberry-465-ml.html/08721274805482",
+      "gtin": "08721274805482",
+      "checkedAt": "2026-03-12T15:10:17.197Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/carte-dor-vanilla-1000-ml.html/08722700127796",
+      "gtin": "08722700127796",
+      "checkedAt": "2026-03-12T15:10:25.231Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/minecraft-4x75ml.html/08721274803181",
+      "gtin": "08721274803181",
+      "checkedAt": "2026-03-12T15:10:19.115Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.sk/p/volcanix-80ml.html/08721274810011",
+      "gtin": "08721274810011",
+      "checkedAt": "2026-03-12T15:10:19.461Z"
+    }
+  ],
+  "errors": 89,
+  "duration": "16.65s",
+  "speedMetrics": "6.13 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-strawberry-1000-ml.html/05996037050536",
+      "error": "request to https://www.algida.sk/p/carte-dor-strawberry-1000-ml.html/05996037050536 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-walnut-1000-ml.html/05996037050543",
+      "error": "request to https://www.algida.sk/p/carte-dor-walnut-1000-ml.html/05996037050543 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/viennetta-vanilla-650-ml.html/08000920200025",
+      "error": "request to https://www.algida.sk/p/viennetta-vanilla-650-ml.html/08000920200025 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.474Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/calippo-lime.html/08000920401187",
+      "error": "request to https://www.algida.sk/p/calippo-lime.html/08000920401187 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.659Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/calippo-strawberry.html/08000920401248",
+      "error": "request to https://www.algida.sk/p/calippo-strawberry.html/08000920401248 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.679Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-cookie-dough-100-ml.html/08000920715222",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-cookie-dough-100-ml.html/08000920715222 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/lednacek-kakaovy.html/08590046619936",
+      "error": "request to https://www.algida.sk/p/lednacek-kakaovy.html/08590046619936 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.666Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ruska-zmrzlina-180ml.html/08711327302624",
+      "error": "request to https://www.algida.sk/p/ruska-zmrzlina-180ml.html/08711327302624 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-double-salted-caramel-pint-440-ml.html/08711327315365",
+      "error": "request to https://www.algida.sk/p/magnum-double-salted-caramel-pint-440-ml.html/08711327315365 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-chocolate-fudge-brownie-465-ml.html/08711327370715",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-chocolate-fudge-brownie-465-ml.html/08711327370715 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-cookie-dough-465-ml.html/08711327373112",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-cookie-dough-465-ml.html/08711327373112 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-karamel-sutra-core-465-ml.html/08711327374218",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-karamel-sutra-core-465-ml.html/08711327374218 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-netflix-and-chilll-d-465-ml.html/08711327386365",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-netflix-and-chilll-d-465-ml.html/08711327386365 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-caramel-gold-billionaire-pint-440-ml.html/08711327480438",
+      "error": "request to https://www.algida.sk/p/magnum-caramel-gold-billionaire-pint-440-ml.html/08711327480438 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-double-caramel-gold-billionaire-85-ml.html/08711327480537",
+      "error": "request to https://www.algida.sk/p/magnum-double-caramel-gold-billionaire-85-ml.html/08711327480537 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/algida-x-pop-50-ml.html/08711327485846",
+      "error": "request to https://www.algida.sk/p/algida-x-pop-50-ml.html/08711327485846 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.684Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-banoffee-pie-sundae-427-ml.html/08711327539396",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-banoffee-pie-sundae-427-ml.html/08711327539396 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-vanilla-1300-ml.html/08711327544772",
+      "error": "request to https://www.algida.sk/p/carte-dor-vanilla-1300-ml.html/08711327544772 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.658Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-chocolate-1300-ml.html/08711327546059",
+      "error": "request to https://www.algida.sk/p/carte-dor-chocolate-1300-ml.html/08711327546059 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/twister-pineapple-80-ml.html/08711327575646",
+      "error": "request to https://www.algida.sk/p/twister-pineapple-80-ml.html/08711327575646 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/twister-mini-pineapple-8x50-ml.html/08711327576810",
+      "error": "request to https://www.algida.sk/p/twister-mini-pineapple-8x50-ml.html/08711327576810 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-double-starchaser-440-ml.html/08711327585324",
+      "error": "request to https://www.algida.sk/p/magnum-double-starchaser-440-ml.html/08711327585324 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/viennetta-chocolate-650-ml.html/08711327589209",
+      "error": "request to https://www.algida.sk/p/viennetta-chocolate-650-ml.html/08711327589209 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.482Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-dulce-de-lish-sundae-427-ml.html/08711327589360",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-dulce-de-lish-sundae-427-ml.html/08711327589360 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.684Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/algida-kids-mix-8x-mixpack.html/08711327592469",
+      "error": "request to https://www.algida.sk/p/algida-kids-mix-8x-mixpack.html/08711327592469 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.475Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-mini-classicalmondwhite-6packproduct.html/08711327609082",
+      "error": "request to https://www.algida.sk/p/magnum-mini-classicalmondwhite-6packproduct.html/08711327609082 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-almond-110-ml.html/08711327609341",
+      "error": "request to https://www.algida.sk/p/magnum-almond-110-ml.html/08711327609341 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.478Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-mini-almond-6-x-55-ml.html/08711327611924",
+      "error": "request to https://www.algida.sk/p/magnum-mini-almond-6-x-55-ml.html/08711327611924 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.684Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-classic-110-ml.html/08711327612372",
+      "error": "request to https://www.algida.sk/p/magnum-classic-110-ml.html/08711327612372 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.614Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-white-chocolate-110-ml.html/08711327612945",
+      "error": "request to https://www.algida.sk/p/magnum-white-chocolate-110-ml.html/08711327612945 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.479Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-sachertorte-825-ml.html/08711327615533",
+      "error": "request to https://www.algida.sk/p/carte-dor-sachertorte-825-ml.html/08711327615533 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.466Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-baileys-825-ml.html/08711327615922",
+      "error": "request to https://www.algida.sk/p/carte-dor-baileys-825-ml.html/08711327615922 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.617Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-vegan-peanut-and-banana-flav-825-ml.html/08711327616066",
+      "error": "request to https://www.algida.sk/p/carte-dor-vegan-peanut-and-banana-flav-825-ml.html/08711327616066 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.479Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-chocolate-brownie-825-ml.html/08711327616332",
+      "error": "request to https://www.algida.sk/p/carte-dor-chocolate-brownie-825-ml.html/08711327616332 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-tiramisu-825-ml.html/08711327616455",
+      "error": "request to https://www.algida.sk/p/carte-dor-tiramisu-825-ml.html/08711327616455 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.489Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/cornetto-classico-6x90ml.html/08711327616783",
+      "error": "request to https://www.algida.sk/p/cornetto-classico-6x90ml.html/08711327616783 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-lemon-pie-825-ml.html/08711327617407",
+      "error": "request to https://www.algida.sk/p/carte-dor-lemon-pie-825-ml.html/08711327617407 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.481Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-yoghurtandforest-fruit-825-ml.html/08711327619579",
+      "error": "request to https://www.algida.sk/p/carte-dor-yoghurtandforest-fruit-825-ml.html/08711327619579 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-update-york-cheesecake-825-ml.html/08711327619678",
+      "error": "request to https://www.algida.sk/p/carte-dor-update-york-cheesecake-825-ml.html/08711327619678 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-strawberryandmeringues-825-ml.html/08711327621275",
+      "error": "request to https://www.algida.sk/p/carte-dor-strawberryandmeringues-825-ml.html/08711327621275 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-mini-euphoria-6x55-ml.html/08711327622210",
+      "error": "request to https://www.algida.sk/p/magnum-mini-euphoria-6x55-ml.html/08711327622210 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-euphoria-pink-lemonade-90-ml.html/08711327622289",
+      "error": "request to https://www.algida.sk/p/magnum-euphoria-pink-lemonade-90-ml.html/08711327622289 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/twister-mini-tropical-8x50-ml.html/08711327626997",
+      "error": "request to https://www.algida.sk/p/twister-mini-tropical-8x50-ml.html/08711327626997 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-half-baked-465-ml.html/08711327629394",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-half-baked-465-ml.html/08711327629394 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-bonbon-gold-caramel-billionaire-12x17-ml.html/08711327639942",
+      "error": "request to https://www.algida.sk/p/magnum-bonbon-gold-caramel-billionaire-12x17-ml.html/08711327639942 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-bonbon-salted-caramel-12x17-ml.html/08711327640306",
+      "error": "request to https://www.algida.sk/p/magnum-bonbon-salted-caramel-12x17-ml.html/08711327640306 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/cornetto-chocolate-125-ml.html/08711327658301",
+      "error": "request to https://www.algida.sk/p/cornetto-chocolate-125-ml.html/08711327658301 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/twister-mallow-80-ml.html/08711327661509",
+      "error": "request to https://www.algida.sk/p/twister-mallow-80-ml.html/08711327661509 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.483Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-vegan-almond.html/08711327664500",
+      "error": "request to https://www.algida.sk/p/magnum-vegan-almond.html/08711327664500 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-brookieees-&-cream-465-ml.html/08711327666481",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-brookieees-&-cream-465-ml.html/08711327666481 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-bohemian-raspberry-465-ml.html/08711327667020",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-bohemian-raspberry-465-ml.html/08711327667020 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-double-hazelnut-440-ml.html/08711327671980",
+      "error": "request to https://www.algida.sk/p/magnum-double-hazelnut-440-ml.html/08711327671980 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-pistachio-delight-825-ml.html/08711327672499",
+      "error": "request to https://www.algida.sk/p/carte-dor-pistachio-delight-825-ml.html/08711327672499 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-salted-caramel-1000-ml.html/08711327673052",
+      "error": "request to https://www.algida.sk/p/carte-dor-salted-caramel-1000-ml.html/08711327673052 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.452Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-multiflavour-1300-ml.html/08711327674912",
+      "error": "request to https://www.algida.sk/p/carte-dor-multiflavour-1300-ml.html/08711327674912 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-raspberry-spritz-1000-ml.html/08711327677494",
+      "error": "request to https://www.algida.sk/p/carte-dor-raspberry-spritz-1000-ml.html/08711327677494 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/cornetto-max-mango-&-vanilla-115-ml.html/08711327681293",
+      "error": "request to https://www.algida.sk/p/cornetto-max-mango-&-vanilla-115-ml.html/08711327681293 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/calippo-super-mix-multipack.html/08712566108626",
+      "error": "request to https://www.algida.sk/p/calippo-super-mix-multipack.html/08712566108626 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-almond-440-ml.html/08714100289983",
+      "error": "request to https://www.algida.sk/p/magnum-almond-440-ml.html/08714100289983 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/cornetto-go-110-ml.html/08714100641002",
+      "error": "request to https://www.algida.sk/p/cornetto-go-110-ml.html/08714100641002 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-vegan-almond-90-ml.html/08714100658277",
+      "error": "request to https://www.algida.sk/p/magnum-vegan-almond-90-ml.html/08714100658277 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-double-raspberry-85-ml.html/08714100684191",
+      "error": "request to https://www.algida.sk/p/magnum-double-raspberry-85-ml.html/08714100684191 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/cornetto-classico-125-ml.html/08714100870686",
+      "error": "request to https://www.algida.sk/p/cornetto-classico-125-ml.html/08714100870686 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-orange-chunk-465-ml.html/08721274802184",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-orange-chunk-465-ml.html/08721274802184 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.720Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-churros-465-ml.html/08721274805383",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-churros-465-ml.html/08721274805383 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-la-pistache-90-ml.html/08721274812831",
+      "error": "request to https://www.algida.sk/p/magnum-la-pistache-90-ml.html/08721274812831 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.663Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-la-peche-3x90-ml.html/08721274813036",
+      "error": "request to https://www.algida.sk/p/magnum-la-peche-3x90-ml.html/08721274813036 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-la-peche-90-ml.html/08721274813593",
+      "error": "request to https://www.algida.sk/p/magnum-la-peche-90-ml.html/08721274813593 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.671Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-pistachio-440-ml.html/08721274813999",
+      "error": "request to https://www.algida.sk/p/magnum-pistachio-440-ml.html/08721274813999 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/magnum-la-pistache-3x90-ml.html/08721274814286",
+      "error": "request to https://www.algida.sk/p/magnum-la-pistache-3x90-ml.html/08721274814286 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:17.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/eskymo-p%C5%99%C3%ADchu%C5%A5-kokosov%C3%A1-50ml.html/08721274818680",
+      "error": "request to https://www.algida.sk/p/eskymo-p%C5%99%C3%ADchu%C5%A5-kokosov%C3%A1-50ml.html/08721274818680 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-chocolate-1000-ml.html/08722700142775",
+      "error": "request to https://www.algida.sk/p/carte-dor-chocolate-1000-ml.html/08722700142775 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/nogger-choc-90-ml.html/08722700209973",
+      "error": "request to https://www.algida.sk/p/nogger-choc-90-ml.html/08722700209973 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.837Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/solero-berry-bliss-90ml.html/08711327669321",
+      "error": "request to https://www.algida.sk/p/solero-berry-bliss-90ml.html/08711327669321 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.837Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-trio-creamy-1000-ml.html/08711327681750",
+      "error": "request to https://www.algida.sk/p/carte-dor-trio-creamy-1000-ml.html/08711327681750 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.837Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-trio-fresh-1000-ml.html/08711327681880",
+      "error": "request to https://www.algida.sk/p/carte-dor-trio-fresh-1000-ml.html/08711327681880 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.905Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/ben-and-jerrys-peanut-butter-cup-100-ml.html/08712100677144",
+      "error": "request to https://www.algida.sk/p/ben-and-jerrys-peanut-butter-cup-100-ml.html/08712100677144 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.910Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/minecraft-75ml.html/08721274803136",
+      "error": "request to https://www.algida.sk/p/minecraft-75ml.html/08721274803136 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.909Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/viennetta-vanilla-xxl-1000-ml.html/08721274807837",
+      "error": "request to https://www.algida.sk/p/viennetta-vanilla-xxl-1000-ml.html/08721274807837 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.925Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/cornetto-max-pistachio-115ml.html/08721274809893",
+      "error": "request to https://www.algida.sk/p/cornetto-max-pistachio-115ml.html/08721274809893 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.875Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/cornetto-jahoda-6x90ml.html/08721274810097",
+      "error": "request to https://www.algida.sk/p/cornetto-jahoda-6x90ml.html/08721274810097 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.909Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/solero-exotic-90ml.html/08721274811360",
+      "error": "request to https://www.algida.sk/p/solero-exotic-90ml.html/08721274811360 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.883Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-soft-crunchy-strawberry-750-ml.html/08721274812299",
+      "error": "request to https://www.algida.sk/p/carte-dor-soft-crunchy-strawberry-750-ml.html/08721274812299 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.909Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/twister-frrreeze-70ml.html/08721274812640",
+      "error": "request to https://www.algida.sk/p/twister-frrreeze-70ml.html/08721274812640 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.915Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/carte-dor-soft-crunchy-chocolate-750-ml.html/08721274812671",
+      "error": "request to https://www.algida.sk/p/carte-dor-soft-crunchy-chocolate-750-ml.html/08721274812671 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.884Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/solero-mini-6x50-ml.html/08721274818192",
+      "error": "request to https://www.algida.sk/p/solero-mini-6x50-ml.html/08721274818192 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.921Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/minecraft-big-block-500ml.html/08721274818369",
+      "error": "request to https://www.algida.sk/p/minecraft-big-block-500ml.html/08721274818369 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.919Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/viennetta-mango-650-ml.html/08721274821352",
+      "error": "request to https://www.algida.sk/p/viennetta-mango-650-ml.html/08721274821352 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.877Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.sk/p/remix-cookie-107ml.html/08721274825497",
+      "error": "request to https://www.algida.sk/p/remix-cookie-107ml.html/08721274825497 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:10:25.877Z"
+    }
+  ]
+}
