@@ -1,4 +1,4 @@
-name: PDP Scanner
+name: PDP Enterprise Scanner
 
 on:
   workflow_dispatch:
@@ -8,42 +8,53 @@ permissions:
 
 jobs:
 
-# -----------------------------
-# 1️⃣ Build matrix from JSON
-# -----------------------------
+# ------------------------------------------------
+# 1️⃣ Create batches
+# ------------------------------------------------
 
-  build-matrix:
+  build-batches:
 
     runs-on: ubuntu-latest
 
     outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
+      matrix: ${{ steps.generate.outputs.matrix }}
 
     steps:
+
       - uses: actions/checkout@v4
 
       - name: Install jq
         run: sudo apt-get install jq
 
-      - name: Generate matrix
-        id: set-matrix
+      - name: Generate batches
+        id: generate
         run: |
 
-          MATRIX=$(jq -c '.data | map({brand:.brand, code:.assortmentCode})' productPageUrls.json)
+          echo "Preparing brand batches..."
+
+          jq '[.data[] | {brand:.brand, code:.assortmentCode}]' productPageUrls.json > brands.json
+
+          BATCH_SIZE=15
+
+          MATRIX=$(jq -c \
+          --argjson size $BATCH_SIZE '
+          [range(0; length; $size) as $i
+            | {batch: .[$i:$i+$size]}]
+          ' brands.json)
 
           echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
 
-          echo "Generated matrix:"
-          echo $MATRIX
+          echo "Total batches:"
+          echo $MATRIX | jq length
 
 
-# -----------------------------
-# 2️⃣ Run scanner in parallel
-# -----------------------------
+# ------------------------------------------------
+# 2️⃣ Run batches in parallel
+# ------------------------------------------------
 
   scan:
 
-    needs: build-matrix
+    needs: build-batches
     runs-on: ubuntu-latest
 
     strategy:
@@ -52,7 +63,7 @@ jobs:
       max-parallel: 20
 
       matrix:
-        include: ${{ fromJson(needs.build-matrix.outputs.matrix) }}
+        include: ${{ fromJson(needs.build-batches.outputs.matrix) }}
 
     steps:
 
@@ -66,26 +77,45 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run scanner
+      - name: Run batch
         run: |
 
-          echo "Running for:"
-          echo "${{ matrix.brand }} ${{ matrix.code }}"
+          echo '${{ toJson(matrix.batch) }}' > batch.json
 
-          node checkPdpPages.js "${{ matrix.brand }}" "${{ matrix.code }}"
+          node <<'NODE'
+
+          const fs = require("fs")
+          const { execSync } = require("child_process")
+
+          const batch = JSON.parse(fs.readFileSync("batch.json","utf8"))
+
+          console.log("Processing batch size:", batch.length)
+
+          for (const item of batch) {
+
+            console.log("Running:", item.brand, item.code)
+
+            execSync(
+              `node checkPdpPages.js "${item.brand}" "${item.code}"`,
+              { stdio: "inherit" }
+            )
+
+          }
+
+          NODE
 
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
-          name: results-${{ matrix.brand }}-${{ matrix.code }}
+          name: batch-${{ strategy.job-index }}
           path: "*.json"
 
 
-# -----------------------------
+# ------------------------------------------------
 # 3️⃣ Merge results
-# -----------------------------
+# ------------------------------------------------
 
-  merge:
+  merge-results:
 
     needs: scan
     runs-on: ubuntu-latest
@@ -99,7 +129,7 @@ jobs:
         with:
           path: artifacts
 
-      - name: Merge files
+      - name: Merge results
         run: |
 
           mkdir -p results
@@ -115,7 +145,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add results
+          git add results/
 
           if git diff --cached --quiet
           then
