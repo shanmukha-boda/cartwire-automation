@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-03-12T12:28:30.020Z",
+  "brand": "dawn",
+  "assortmentCode": "BH0141",
+  "feedUrl": "https://www.dawn.co.za/home.productfeed.json",
+  "totalUrlsChecked": 30,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-radiant-glow-and-gold-dust-body-lotion.html/06001087010979",
+      "gtin": "06001087010979",
+      "checkedAt": "2026-03-12T12:28:22.500Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-cocoa-butter-and-coconut-oil-body-lotion.html/06001087012348",
+      "gtin": "06001087012348",
+      "checkedAt": "2026-03-12T12:28:22.514Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-tropical-cream-and-papaya-oil-body-lotion.html/06001087012386",
+      "gtin": "06001087012386",
+      "checkedAt": "2026-03-12T12:28:22.530Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-vitamin-e-and-argan-oil-body-cream.html/06001087370875",
+      "gtin": "06001087370875",
+      "checkedAt": "2026-03-12T12:28:22.491Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-chamomile-and-moringa-oil-body-lotion.html/06001087380775",
+      "gtin": "06001087380775",
+      "checkedAt": "2026-03-12T12:28:22.638Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-men-cool-and-fresh-antiperspirant-roll-on.html/00000060028365",
+      "gtin": "00000060028365",
+      "checkedAt": "2026-03-12T12:28:22.511Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-men-refresh-cooling-body-lotion.html/06001087009911",
+      "gtin": "06001087009911",
+      "checkedAt": "2026-03-12T12:28:22.520Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-men-refresh-cooling-body-cream.html/06001087370974",
+      "gtin": "06001087370974",
+      "checkedAt": "2026-03-12T12:28:22.328Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-cream.html/06001087371278",
+      "gtin": "06001087371278",
+      "checkedAt": "2026-03-12T12:28:22.446Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-men-energy-revitalizing-body-cream.html/06001087371360",
+      "gtin": "06001087371360",
+      "checkedAt": "2026-03-12T12:28:22.542Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-men-legacy-fragrance-free-body-cream.html/06001087386616",
+      "gtin": "06001087386616",
+      "checkedAt": "2026-03-12T12:28:22.498Z"
+    }
+  ],
+  "errors": 19,
+  "duration": "9.30s",
+  "speedMetrics": "3.23 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-lotion.html/06001087009928",
+      "error": "request to https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-lotion.html/06001087009928 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-aloe-vera-and-avocado-oil-body-lotion.html/06001087012331",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-rich-lanolin-and-rose-water-body-lotion.html/06001087012362",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.177Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-lotion.html/06001087012379",
+      "error": "request to https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-lotion.html/06001087012379 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-vitamin-e-and-argan-oil-body-lotion.html/06001087012393",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-aloe-vera-and-avocado-oil-body-cream.html/06001087370844",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-rich-lanolin-and-rose-water-body-cream.html/06001087370912",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-cream.html/06001087371032",
+      "error": "request to https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-cream.html/06001087371032 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-cocoa-butter-and-coconut-oil-body-cream.html/06001087371155",
+      "error": "request to https://www.dawn.co.za/p/dawn-cocoa-butter-and-coconut-oil-body-cream.html/06001087371155 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-shea-butter-and-almond-oil-body-lotion.html/06001087380799",
+      "error": "request to https://www.dawn.co.za/p/dawn-shea-butter-and-almond-oil-body-lotion.html/06001087380799 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-black-white-antiperspirant-roll-on.html/00000060028297",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-pearl-of-africa-beauty-antiperspirant-roll-on.html/00000060028303",
+      "error": "request to https://www.dawn.co.za/p/dawn-pearl-of-africa-beauty-antiperspirant-roll-on.html/00000060028303 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-cool-musk-antiperspirant-roll-on.html/00000060028310",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.830Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-forever-fresh-antiperspirant-roll-on.html/00000060028327",
+      "error": "request to https://www.dawn.co.za/p/dawn-forever-fresh-antiperspirant-roll-on.html/00000060028327 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-gentle-aloe-antiperspirant-roll-on.html/00000060028334",
+      "error": "request to https://www.dawn.co.za/p/dawn-gentle-aloe-antiperspirant-roll-on.html/00000060028334 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-black-white-antiperspirant-roll-on.html/00000060028341",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.880Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-active-dry-antiperspirant-roll-on.html/00000060028358",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.985Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-legacy-fragrance-free-body-lotion.html/06001087373784",
+      "error": "request to https://www.dawn.co.za/p/dawn-men-legacy-fragrance-free-body-lotion.html/06001087373784 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-energy-revitalizing-body-lotion.html/06001087373791",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.478Z"
+    }
+  ]
+}

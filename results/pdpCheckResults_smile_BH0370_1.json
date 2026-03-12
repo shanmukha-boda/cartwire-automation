@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2026-03-12T12:28:26.885Z",
+  "brand": "smile",
+  "assortmentCode": "BH0370",
+  "feedUrl": "https://www.pepsodent.cl/home.productfeed.json",
+  "totalUrlsChecked": 24,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-xtra-whitening.html/07805000180881",
+      "gtin": "07805000180881",
+      "checkedAt": "2026-03-12T12:28:19.451Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-triple-defense.html/07805000323165",
+      "gtin": "07805000323165",
+      "checkedAt": "2026-03-12T12:28:19.451Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cd-triple-plus.html/07891150090248",
+      "gtin": "07891150090248",
+      "checkedAt": "2026-03-12T12:28:19.450Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-sal-de-bambu.html/08710522360613",
+      "gtin": "08710522360613",
+      "checkedAt": "2026-03-12T12:28:20.188Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-double-care.html/08710908853319",
+      "gtin": "08710908853319",
+      "checkedAt": "2026-03-12T12:28:19.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-white-now-original.html/08711700555135/whitenow-pdp",
+      "gtin": "08711700555135",
+      "checkedAt": "2026-03-12T12:28:19.451Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-white-now-gold.html/08712561056625/whitenow-pdp",
+      "gtin": "08712561056625",
+      "checkedAt": "2026-03-12T12:28:19.452Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-white-now.html/08714100190128/whitenow-pdp",
+      "gtin": "08714100190128",
+      "checkedAt": "2026-03-12T12:28:19.450Z"
+    }
+  ],
+  "errors": 16,
+  "duration": "9.09s",
+  "speedMetrics": "2.64 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-kids.html/07311570542504",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-kids.html/07311570542504 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-kids.html/07805000116408",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-cepillo-kids.html/07805000116408 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-triple-plus.html/07805000172497",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-triple-plus.html/07805000172497 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-trident.html/07805000181390",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-cepillo-trident.html/07805000181390 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-proteccion-anticaries.html/07805000311360",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-proteccion-anticaries.html/07805000311360 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-mix-3x.html/07805000321819",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:26.008Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-mix-2x.html/07805000321826",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-integral-18-mix-2x.html/07805000321826 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-carbon-y-plata.html/08710447366967",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-herbal-gum-care.html/08717163648254",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-integral-18-herbal-gum-care.html/08717163648254 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.778Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-charcoal-white-detox.html/08720181040689",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-integral-18-charcoal-white-detox.html/08720181040689 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.778Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-salud-completa.html/08720181156243",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-integral-18-salud-completa.html/08720181156243 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.885Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-limpieza-profunda.html/08720181156250",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-integral-18-limpieza-profunda.html/08720181156250 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.779Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-dientes-sensibles.html/08720181156267",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-integral-18-dientes-sensibles.html/08720181156267 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.884Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-sensitive-expert-fresh-100gr.html/08934839135584",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-sensitive-expert-fresh-100gr.html/08934839135584 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.885Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-sensitive-expert-whitening-100gr.html/08934839135591",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-sensitive-expert-whitening-100gr.html/08934839135591 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.885Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pepsodent.cl/p/pepsodent-gum-expert-whitening-100gr.html/08934839135614",
+      "error": "request to https://www.pepsodent.cl/p/pepsodent-gum-expert-whitening-100gr.html/08934839135614 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.885Z"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-03-12T12:28:27.269Z",
+  "totalProblematicPages": 3,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-400-ml.html/08720181647253",
+      "gtin": "08720181647253",
+      "checkedAt": "2026-03-12T12:28:19.690Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/shampoo-200-ml.html/08720181648748",
+      "gtin": "08720181648748",
+      "checkedAt": "2026-03-12T12:28:19.753Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zachte-cr%C3%A8me-pot-200-ml.html/08720181649646",
+      "gtin": "08720181649646",
+      "checkedAt": "2026-03-12T12:28:19.694Z"
+    }
+  ]
+}

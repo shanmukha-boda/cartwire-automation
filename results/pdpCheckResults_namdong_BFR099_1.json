@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-03-12T12:28:38.645Z",
+  "brand": "namdong",
+  "assortmentCode": "BFR099",
+  "feedUrl": "https://www.namdong.com/home.productfeed.json",
+  "totalUrlsChecked": 6,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.namdong.com/p/namdong-kimchi-jjigae-pot-83g.html/08721201997396",
+      "gtin": "08721201997396",
+      "checkedAt": "2026-03-12T12:28:38.427Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.namdong.com/p/namdong-chicken-jjigae-pot-84g.html/08721201997464",
+      "gtin": "08721201997464",
+      "checkedAt": "2026-03-12T12:28:38.431Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.namdong.com/p/namdong-beef-jjigae-pot-83g.html/08721201997471",
+      "gtin": "08721201997471",
+      "checkedAt": "2026-03-12T12:28:38.431Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.namdong.com/p/namdong-beef-jjigae-block-120g.html/08721317713057",
+      "gtin": "08721317713057",
+      "checkedAt": "2026-03-12T12:28:38.444Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.namdong.com/p/namdong-chicken-jjigae-block-120g.html/08721317713071",
+      "gtin": "08721317713071",
+      "checkedAt": "2026-03-12T12:28:38.362Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.namdong.com/p/namdong-kimchi-jjigae-block-120g.html/08721317713088",
+      "gtin": "08721317713088",
+      "checkedAt": "2026-03-12T12:28:38.644Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "1.29s",
+  "speedMetrics": "4.65 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-03-12T12:28:27.096Z",
+  "brand": "smile",
+  "assortmentCode": "BH0360",
+  "feedUrl": "https://www.psvietnam.vn/home.productfeed.json",
+  "totalUrlsChecked": 45,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-be-ngoan-huong-dau.html/08934839103903",
+      "gtin": "08934839103903",
+      "checkedAt": "2026-03-12T12:28:19.647Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-ngua-sau-rang-vuot-troi.html/08934839122836",
+      "gtin": "08934839122836",
+      "checkedAt": "2026-03-12T12:28:19.661Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-tre-em-2-6-tuoi.html/08934839123710",
+      "gtin": "08934839123710",
+      "checkedAt": "2026-03-12T12:28:19.590Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-bao-ve-123.html/08934839123741",
+      "gtin": "08934839123741",
+      "checkedAt": "2026-03-12T12:28:19.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-than-hoat-tinh.html/08934839124045",
+      "gtin": "08934839124045",
+      "checkedAt": "2026-03-12T12:28:19.669Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-tre-em-2-6-tuoi-huong-cam-me-ly.html/08934839124434",
+      "gtin": "08934839124434",
+      "checkedAt": "2026-03-12T12:28:19.576Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-tre-em-2-6-tuoi-huong-dau-trai-cay.html/08934839124441",
+      "gtin": "08934839124441",
+      "checkedAt": "2026-03-12T12:28:20.448Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/dau-chai-dien-p-s-sach-sau-mau-trang.html/08934839127398",
+      "gtin": "08934839127398",
+      "checkedAt": "2026-03-12T12:28:19.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-den-nham.html/08934839127411",
+      "gtin": "08934839127411",
+      "checkedAt": "2026-03-12T12:28:19.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-xanh-ombre.html/08934839127435",
+      "gtin": "08934839127435",
+      "checkedAt": "2026-03-12T12:28:19.626Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-tim-thoi-thuong.html/08934839129576",
+      "gtin": "08934839129576",
+      "checkedAt": "2026-03-12T12:28:19.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-4d-khang-khuan.html/08934839132828",
+      "gtin": "08934839132828",
+      "checkedAt": "2026-03-12T12:28:21.420Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-4d-cham-soc-nuou.html/08934839132859",
+      "gtin": "08934839132859",
+      "checkedAt": "2026-03-12T12:28:19.559Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-tre-em-2-6-tuoi-cao-cap.html/08934839125486",
+      "gtin": "08934839125486",
+      "checkedAt": "2026-03-12T12:28:19.562Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-tre-em-7-11-tuoi-cao-cap.html/08934839125493",
+      "gtin": "08934839125493",
+      "checkedAt": "2026-03-12T12:28:21.544Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-white-detox.html/08934839125905",
+      "gtin": "08934839125905",
+      "checkedAt": "2026-03-12T12:28:19.636Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/sensitive-expert-by-p-s.html/08934839126087",
+      "gtin": "08934839126087",
+      "checkedAt": "2026-03-12T12:28:19.662Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/p-s-baking-soda-and-huong-thao.html/08934839126100",
+      "gtin": "08934839126100",
+      "checkedAt": "2026-03-12T12:28:20.081Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-than-bac.html/08934839127978",
+      "gtin": "08934839127978",
+      "checkedAt": "2026-03-12T12:28:21.626Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-muoi-hong.html/08934839128470",
+      "gtin": "08934839128470",
+      "checkedAt": "2026-03-12T12:28:19.656Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-sonic-expert-mau-den-glowy.html/08934839133498",
+      "gtin": "08934839133498",
+      "checkedAt": "2026-03-12T12:28:21.967Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-sonic-expert-mau-hong-pastel.html/08934839133511",
+      "gtin": "08934839133511",
+      "checkedAt": "2026-03-12T12:28:21.844Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/dau-chai-dien-p-s-sonic-expert-mau-den-glowy.html/08934839133603",
+      "gtin": "08934839133603",
+      "checkedAt": "2026-03-12T12:28:20.453Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-peach-fuzz.html/08934839135119",
+      "gtin": "08934839135119",
+      "checkedAt": "2026-03-12T12:28:22.043Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/gum-expert-by-p-s-fresh.html/08934839135164",
+      "gtin": "08934839135164",
+      "checkedAt": "2026-03-12T12:28:21.931Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.psvietnam.vn/p/gum-expert-by-p-s.html/08934839135171",
+      "gtin": "08934839135171",
+      "checkedAt": "2026-03-12T12:28:19.613Z"
+    }
+  ],
+  "errors": 19,
+  "duration": "9.27s",
+  "speedMetrics": "4.85 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/p-s-tra-xanh.html/08934839124267",
+      "error": "request to https://www.psvietnam.vn/p/p-s-tra-xanh.html/08934839124267 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.862Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/dau-chai-dien-p-s-sach-sau-mau-den.html/08934839127381",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.421Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/dau-chai-dien-p-s-trang-rang-tu-nhien.html/08934839127404",
+      "error": "request to https://www.psvietnam.vn/p/dau-chai-dien-p-s-trang-rang-tu-nhien.html/08934839127404 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-trang-sang.html/08934839127442",
+      "error": "request to https://www.psvietnam.vn/p/ban-chai-dien-p-s-trang-sang.html/08934839127442 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/p-s-4d-sach-sau.html/08934839132842",
+      "error": "request to https://www.psvietnam.vn/p/p-s-4d-sach-sau.html/08934839132842 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/p-s-tre-em-7-11-tuoi.html/08934839123727",
+      "error": "request to https://www.psvietnam.vn/p/p-s-tre-em-7-11-tuoi.html/08934839123727 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/sensitive-expert-by-p-s-fresh.html/08934839126070",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.401Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/p-s-muoi-hong-hoa-cuc.html/08934839128074",
+      "error": "request to https://www.psvietnam.vn/p/p-s-muoi-hong-hoa-cuc.html/08934839128074 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.096Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-backing-soda.html/08934839128425",
+      "error": "request to https://www.psvietnam.vn/p/ban-chai-p-s-backing-soda.html/08934839128425 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.096Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-muoi-tre.html/08934839128463",
+      "error": "request to https://www.psvietnam.vn/p/ban-chai-p-s-muoi-tre.html/08934839128463 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.096Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-bao-ve-123.html/08934839128906",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.866Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-bao-ve-123-mem-mai.html/08934839128913",
+      "error": "request to https://www.psvietnam.vn/p/ban-chai-p-s-bao-ve-123-mem-mai.html/08934839128913 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.095Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-long-to-sach-hieu-qua.html/08934839132897",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.666Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-p-s-long-to-mem-mai.html/08934839132903",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-dien-p-s-sonic-expert-mau-xanh-mint.html/08934839133504",
+      "error": "request to https://www.psvietnam.vn/p/ban-chai-dien-p-s-sonic-expert-mau-xanh-mint.html/08934839133504 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.095Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/dau-chai-dien-p-s-sonic-expert-mau-xanh-mint.html/08934839133610",
+      "error": "request to https://www.psvietnam.vn/p/dau-chai-dien-p-s-sonic-expert-mau-xanh-mint.html/08934839133610 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.095Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/dau-chai-dien-p-s-sonic-expert-mau-hong-pastel.html/08934839133627",
+      "error": "request to https://www.psvietnam.vn/p/dau-chai-dien-p-s-sonic-expert-mau-hong-pastel.html/08934839133627 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.095Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-ps-chuyen-gia-cham-soc-nuou-khang-khuan.html/08934868195047",
+      "error": "request to https://www.psvietnam.vn/p/ban-chai-ps-chuyen-gia-cham-soc-nuou-khang-khuan.html/08934868195047 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.096Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.psvietnam.vn/p/ban-chai-ps-chuyen-gia-cham-soc-nuou-sach-em.html/08934868195061",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.773Z"
+    }
+  ]
+}

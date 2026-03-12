@@ -1,0 +1,508 @@
+{
+  "generatedAt": "2026-03-12T12:28:38.424Z",
+  "brand": "recipedia",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+  "totalUrlsChecked": 82,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.recepedia.com/co/p/delmaiz-fecula-de-maiz-90g.html/00000000575231",
+      "gtin": "00000000575231",
+      "checkedAt": "2026-03-12T12:28:24.757Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-coco-300g.html/07702047005248",
+      "gtin": "07702047005248",
+      "checkedAt": "2026-03-12T12:28:23.226Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038765",
+      "gtin": "07702047038765",
+      "checkedAt": "2026-03-12T12:28:25.351Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-200g.html/07702047140963",
+      "gtin": "07702047140963",
+      "checkedAt": "2026-03-12T12:28:22.939Z"
+    }
+  ],
+  "errors": 78,
+  "duration": "17.68s",
+  "speedMetrics": "4.64 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/rinde-mas-de-knorr.html/00000040213675",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-4-cereales-con-vitaminas-y-minerales-200g.html/00000068302642",
+      "error": "request to https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-4-cereales-con-vitaminas-y-minerales-200g.html/00000068302642 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-200g.html/00000068302643",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.409Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-28g.html/00000068302644",
+      "error": "request to https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-28g.html/00000068302644 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-fresa-con-vitaminas-y-minerales-28g.html/00000068302647",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-yucarina-300g.html/07702047001424",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.291Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-aj%C3%AD-fruco.html/07702047001745",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.421Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-china-fruco.html/07702047001769",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.735Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-soya-fruco.html/07702047001851",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.670Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-para-carnes-fruco-156ml.html/07702047003138",
+      "error": "request to https://www.recepedia.com/co/p/salsa-para-carnes-fruco-156ml.html/07702047003138 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-90g.html/07702047003466",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.293Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-380g.html/07702047003497",
+      "error": "request to https://www.recepedia.com/co/p/maizena-fecula-de-maiz-380g.html/07702047003497 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-bunuelos-800g.html/07702047003510",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-arequipe-300g.html/07702047005095",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.298Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047005330",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.299Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047015735",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047016824",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.425Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-mostaza-fruco.html/07702047021934",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.301Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-para-carnes-fruco.html/07702047022078",
+      "error": "request to https://www.recepedia.com/co/p/salsa-para-carnes-fruco.html/07702047022078 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-3-89-kg.html/07702047025598",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.681Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/pasta-de-tomate-fruco.html/07702047028247",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-bunuelos-300g.html/07702047037645",
+      "error": "request to https://www.recepedia.com/co/p/maizena-bunuelos-300g.html/07702047037645 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-tradicional-300g.html/07702047037652",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.403Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-tradicional-600g.html/07702047037744",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.675Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-original-mezcla-bu%C3%B1uelos-600gr.html/07702047037751",
+      "error": "request to https://www.recepedia.com/co/p/maizena-original-mezcla-bu%C3%B1uelos-600gr.html/07702047037751 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-arequipe-600g.html/07702047037768",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.779Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038116",
+      "error": "request to https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038116 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038123",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038123 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-coco-600g.html/07702047038642",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.683Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-maracuya-300g.html/07702047038659",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038758",
+      "error": "request to https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038758 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038772",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.696Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-light-fruco.html/07702047038789",
+      "error": "request to https://www.recepedia.com/co/p/mayonesa-light-fruco.html/07702047038789 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047038796",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-85-gr.html/07702047038949",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.720Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-light-fruco.html/07702047039014",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.781Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-artesanal-fruco.html/07702047039236",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-arequipe-con-vitaminas-y-minerales-28g.html/07702047040034",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.773Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-vainilla-con-vitaminas-y-minerales-28g.html/07702047040058",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.775Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-coladas-mix-28gr.html/07702047040065",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-vainilla-180-gr.html/07702047040096",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-arequipe-con-vitaminas-y-minerales-180g.html/07702047040102",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-receta-artesanal-fruco-doypack.html/07702047040577",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.441Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-botella-400g.html/07702047040638",
+      "error": "request to https://www.recepedia.com/co/p/salsa-bbq-artesanal-botella-400g.html/07702047040638 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.266Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-380g.html/07702047040645",
+      "error": "request to https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-380g.html/07702047040645 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-180g.html/07702047040652",
+      "error": "request to https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-180g.html/07702047040652 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.266Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047040874",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.483Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-de-tomate-sachet-40gr.html/07702047040881",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.442Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047040898",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.886Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-de-mayonesa-sachet-40gr.html/07702047040904",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.669Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-rosada-sachet-x-12-unidades-80gr.html/07702047041185",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-mostaza-fruco.html/07702047041192",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.452Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-tomate-sachet-80g.html/07702047041208",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.608Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-sachet-x-12-unidades-80gr.html/07702047041215",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-80g.html/07702047041222",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco-80.html/07702047041239",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.397Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047041253",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047041253 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047041260",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.873Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-doypack-120gr.html/07702047041284",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-doypack.html/07702047041291",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-doypack.html/07702047041291 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-de-tomate-original-1000-gr.html/07702047041482",
+      "error": "request to https://www.recepedia.com/co/p/fruco-salsa-de-tomate-original-1000-gr.html/07702047041482 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128930",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128947",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-negra-gourmet-para-cocinar-155ml.html/07702047129913",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.899Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130308",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130308 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.393Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130315",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130315 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130322",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:23.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-8-gr.html/07702047133569",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.996Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/knorr-crema-de-pollo-con-champinones.html/07702047137468",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:23.157Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047137994",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.872Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047138007",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:23.113Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/natilla-tres-leches.html/07702047140697",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-720g.html/07702047140819",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.591Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/natilla-tres-leches.html/07702047140918",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:23.021Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-mayonesa-pague-800gr-lleve-1000gr.html/07702047140925",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-receta-artesanal-fruco-doypack.html/07702047140956",
+      "error": "request to https://www.recepedia.com/co/p/mayonesa-receta-artesanal-fruco-doypack.html/07702047140956 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.393Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-de-mayonesa-sachet-80gr.html/07702047141014",
+      "error": "request to https://www.recepedia.com/co/p/fruco-salsa-de-mayonesa-sachet-80gr.html/07702047141014 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:38.422Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-de-tomate-sachet-x-12unidades-80gr.html/07702047141021",
+      "error": "request to https://www.recepedia.com/co/p/fruco-salsa-de-tomate-sachet-x-12unidades-80gr.html/07702047141021 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:38.424Z"
+    }
+  ]
+}

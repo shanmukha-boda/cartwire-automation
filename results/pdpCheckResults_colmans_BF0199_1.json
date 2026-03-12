@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-03-12T12:28:32.246Z",
+  "brand": "colmans",
+  "assortmentCode": "BF0199",
+  "feedUrl": "https://www.colmans.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/korean-barbecue.html/08720182287502",
+      "gtin": "08720182287502",
+      "checkedAt": "2026-03-12T12:28:30.679Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/english-mustard.html/00000050147311",
+      "gtin": "00000050147311",
+      "checkedAt": "2026-03-12T12:28:27.200Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/english-squeezable-mustard.html/00000096107775",
+      "gtin": "00000096107775",
+      "checkedAt": "2026-03-12T12:28:27.246Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/one-pan-shepherds-pie.html/05000118033834",
+      "gtin": "05000118033834",
+      "checkedAt": "2026-03-12T12:28:26.440Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/cottage-pie.html/05000118082306",
+      "gtin": "05000118082306",
+      "checkedAt": "2026-03-12T12:28:26.466Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/sausage-and-onion-casserole.html/05000118082320",
+      "gtin": "05000118082320",
+      "checkedAt": "2026-03-12T12:28:30.431Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/cheddar-cheese-sauce.html/05000147025213",
+      "gtin": "05000147025213",
+      "checkedAt": "2026-03-12T12:28:26.568Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/onion-sauce.html/05000147025237",
+      "gtin": "05000147025237",
+      "checkedAt": "2026-03-12T12:28:31.796Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/white-sauce.html/05000147025275",
+      "gtin": "05000147025275",
+      "checkedAt": "2026-03-12T12:28:31.464Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/bread-sauce.html/05000147025282",
+      "gtin": "05000147025282",
+      "checkedAt": "2026-03-12T12:28:30.695Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/beef-bourguignon.html/05000147026685",
+      "gtin": "05000147026685",
+      "checkedAt": "2026-03-12T12:28:26.567Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/parsley-sauce.html/05000147026753",
+      "gtin": "05000147026753",
+      "checkedAt": "2026-03-12T12:28:30.637Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/doner-kebab.html/08710522927090",
+      "gtin": "08710522927090",
+      "checkedAt": "2026-03-12T12:28:31.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chinese-chicken-curry.html/08710522927304",
+      "gtin": "08710522927304",
+      "checkedAt": "2026-03-12T12:28:27.257Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/coq-au-vin-pot-mix.html/08712100488184",
+      "gtin": "08712100488184",
+      "checkedAt": "2026-03-12T12:28:27.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chicken-chasseur.html/08712566140602",
+      "gtin": "08712566140602",
+      "checkedAt": "2026-03-12T12:28:26.656Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/sausage-casserole.html/08712566140688",
+      "gtin": "08712566140688",
+      "checkedAt": "2026-03-12T12:28:30.661Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/lamb-hotpot.html/08712566140886",
+      "gtin": "08712566140886",
+      "checkedAt": "2026-03-12T12:28:31.687Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/tuna-pasta-bake.html/08712566140923",
+      "gtin": "08712566140923",
+      "checkedAt": "2026-03-12T12:28:26.555Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/spaghetti-bolognese.html/08712566144365",
+      "gtin": "08712566144365",
+      "checkedAt": "2026-03-12T12:28:27.356Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/seafood-sauce.html/08714100535301",
+      "gtin": "08714100535301",
+      "checkedAt": "2026-03-12T12:28:31.375Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/bramley-apple-sauce.html/08714100535516",
+      "gtin": "08714100535516",
+      "checkedAt": "2026-03-12T12:28:30.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/tartare-sauce.html/08714100536148",
+      "gtin": "08714100536148",
+      "checkedAt": "2026-03-12T12:28:26.512Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/horseradish-sauce.html/08714100536209",
+      "gtin": "08714100536209",
+      "checkedAt": "2026-03-12T12:28:26.527Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chicken-pie.html/08714100739020",
+      "gtin": "08714100739020",
+      "checkedAt": "2026-03-12T12:28:27.307Z"
+    }
+  ],
+  "errors": 13,
+  "duration": "9.79s",
+  "speedMetrics": "3.88 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/salt-and-pepper-chicken.html/08720182296689",
+      "error": "request to https://www.colmans.co.uk/p/salt-and-pepper-chicken.html/08720182296689 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.497Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/singapore-noodles.html/08720182629579",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:23.853Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/thai-chicken.html/08720182629586",
+      "error": "request to https://www.colmans.co.uk/p/thai-chicken.html/08720182629586 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.498Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chilli-con-carne.html/05000147026593",
+      "error": "request to https://www.colmans.co.uk/p/chilli-con-carne.html/05000147026593 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/beef-casserole.html/05000147026616",
+      "error": "request to https://www.colmans.co.uk/p/beef-casserole.html/05000147026616 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chicken-casserole.html/05000147026623",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Colman%27s&locale=en-gb&brand_code=BF0199&gtin=05000147026623 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:32.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chicken-kebab.html/08710522929070",
+      "error": "request to https://www.colmans.co.uk/p/chicken-kebab.html/08710522929070 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/ultimate-burger.html/08710522929148",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Colman%27s&locale=en-gb&brand_code=BF0199&gtin=08710522929148 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:32.245Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/pepper-sauce.html/08711200516636",
+      "error": "request to https://www.colmans.co.uk/p/pepper-sauce.html/08711200516636 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/hot-chilli-con-carne.html/08712100487934",
+      "error": "request to https://www.colmans.co.uk/p/hot-chilli-con-carne.html/08712100487934 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chicken-supreme.html/08712566141005",
+      "error": "request to https://www.colmans.co.uk/p/chicken-supreme.html/08712566141005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/beef-stroganoff.html/08712566144921",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:24.153Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/fish-pie-mix.html/08714100737972",
+      "error": "request to https://www.colmans.co.uk/p/fish-pie-mix.html/08714100737972 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:31.844Z"
+    }
+  ]
+}

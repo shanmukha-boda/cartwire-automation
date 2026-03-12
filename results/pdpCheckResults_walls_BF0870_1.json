@@ -1,0 +1,520 @@
+{
+  "generatedAt": "2026-03-12T12:28:42.592Z",
+  "brand": "walls",
+  "assortmentCode": "BF0870",
+  "feedUrl": "https://www.wallsthailand.com/home.productfeed.json",
+  "totalUrlsChecked": 84,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B9%8C.html/04800086050465",
+      "gtin": "04800086050465",
+      "checkedAt": "2026-03-12T12:28:26.920Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932145329",
+      "gtin": "08851932145329",
+      "checkedAt": "2026-03-12T12:28:26.928Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%B2.html/08851932320948",
+      "gtin": "08851932320948",
+      "checkedAt": "2026-03-12T12:28:26.906Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C.html/08851932348140",
+      "gtin": "08851932348140",
+      "checkedAt": "2026-03-12T12:28:26.929Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5-%E0%B8%99%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B9%81%E0%B8%97%E0%B8%99.html/08851932348188",
+      "gtin": "08851932348188",
+      "checkedAt": "2026-03-12T12:28:26.929Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932355704",
+      "gtin": "08851932355704",
+      "checkedAt": "2026-03-12T12:28:26.906Z"
+    }
+  ],
+  "errors": 78,
+  "duration": "18.61s",
+  "speedMetrics": "4.51 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%84%E0%B8%9A%E0%B8%97%E0%B9%8C%E0%B8%AA-%E0%B9%84%E0%B8%97%E0%B8%A1%E0%B9%8C!.html/00885193244138",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%84%E0%B8%9A%E0%B8%97%E0%B9%8C%E0%B8%AA-%E0%B9%84%E0%B8%97%E0%B8%A1%E0%B9%8C!.html/00885193244138 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-&-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/04800086050373",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.581Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%94%E0%B8%B1%E0%B8%97%E0%B8%8A%E0%B9%8C.html/04800086050397",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%AD%E0%B8%9F%E0%B8%9F%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5.html/04800086050427",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%AD%E0%B8%9F%E0%B8%9F%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5.html/04800086050427 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%82%E0%B8%A3%E0%B9%89%E0%B8%94.html/04800086050441",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%82%E0%B8%A3%E0%B9%89%E0%B8%94.html/04800086050441 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932028103",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932030618",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932030618 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.263Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932030656",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932030656 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.928Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B9%8C.html/08851932031752",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B9%8C.html/08851932031752 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932074025",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932080149",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:25.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%96%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%94%E0%B8%B3.html/08851932105200",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%96%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%94%E0%B8%B3.html/08851932105200 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.263Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B8%A5-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88.html/08851932115896",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.554Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B8%A5-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F.html/08851932115919",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:25.293Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.html/08851932122986",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.html/08851932122986 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7.html/08851932122993",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932123013",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932123013 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.928Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932126366",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.127Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932127127",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932127127 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.928Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B2.html/08851932143974",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B2.html/08851932143974 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.928Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%97%E0%B8%AA%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.html/08851932200158",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%97%E0%B8%AA%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.html/08851932200158 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%81%E0%B8%95%E0%B8%87%E0%B9%82%E0%B8%A1.html/08851932268820",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.154Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08851932295789",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.581Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84.html/08851932295796",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.143Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B9%84%E0%B8%A5%E0%B8%A1%E0%B9%8C.html/08851932299152",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:25.954Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%84%E0%B8%B9%E0%B9%88-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%89%E0%B8%A1.html/08851932316330",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%84%E0%B8%B9%E0%B9%88-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%89%E0%B8%A1.html/08851932316330 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%80%E0%B8%88%E0%B8%A5%E0%B8%A5%E0%B8%B5%E0%B9%88.html/08851932316347",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.978Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89.html/08851932320986",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:25.980Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%A3-%E0%B8%AA%E0%B8%9B%E0%B8%A5%E0%B8%B4%E0%B8%97.html/08851932336857",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%A3-%E0%B8%AA%E0%B8%9B%E0%B8%A5%E0%B8%B4%E0%B8%97.html/08851932336857 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5-%E0%B8%8A%E0%B8%B5%E0%B8%AA%E0%B9%80%E0%B8%84%E0%B9%89%E0%B8%81.html/08851932344807",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:25.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99-%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B.html/08851932346016",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:25.979Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99.html/08851932346245",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99.html/08851932346245 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932348126",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.016Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932348133",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.036Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C.html/08851932348157",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.001Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B9%8A%E0%B8%95.html/08851932348164",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.018Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932348171",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.036Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.html/08851932348201",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.034Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-2-in-1-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.html/08851932348218",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.035Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.html/08851932348225",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.050Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932348232",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932348232 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B9%89.html/08851932349635",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.017Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932349758",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932349758 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88.html/08851932349765",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.051Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932349772",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932349772 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932349789",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.126Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932349796",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.089Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%84%E0%B8%B2%E0%B8%9B%E0%B8%B9%E0%B8%8A%E0%B8%B4%E0%B9%82%E0%B8%99.html/08851932350945",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%84%E0%B8%B2%E0%B8%9B%E0%B8%B9%E0%B8%8A%E0%B8%B4%E0%B9%82%E0%B8%99.html/08851932350945 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B9%8C.html/08851932350952",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.114Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08851932352772",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.078Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-2-in-1-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932366892",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.089Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%AD%E0%B8%AD%E0%B8%84%E0%B9%82%E0%B8%95%E0%B8%9B%E0%B8%B8%E0%B8%AA.html/08851932367141",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%AD%E0%B8%AD%E0%B8%84%E0%B9%82%E0%B8%95%E0%B8%9B%E0%B8%B8%E0%B8%AA.html/08851932367141 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:34.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932382458",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.113Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932387675",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932387675 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B4.html/08851932392648",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.555Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87.html/08851932393850",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%9B-%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99.html/08851932403252",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.096Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A1%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1.html/08851932410762",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%88.html/08851932413909",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%88.html/08851932413909 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%84%E0%B9%8C%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932421812",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C%E0%B8%A1%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%95-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932421997",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:26.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932426015",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.555Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932438483",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932438483 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:34.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%8C.html/08851932442855",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932450362",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:30.772Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932451475",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.571Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B9%80%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C.html/08851932453189",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B9%80%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C.html/08851932453189 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:34.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%84%E0%B9%8C-&-%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%9F%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B9%8C.html/08851932465342",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%84%E0%B9%8C-&-%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%9F%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B9%8C.html/08851932465342 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:34.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%AE%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%81%E0%B9%82%E0%B8%94-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%84%E0%B9%8C.html/08851932469654",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.571Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89&%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932473217",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.580Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9E%E0%B8%B9%E0%B8%AB%E0%B9%8C.html/08851932473897",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%B5%E0%B8%95%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97.html/08851932476591",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%B5%E0%B8%95%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97.html/08851932476591 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:34.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A5.html/08851932478670",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A5.html/08851932478670 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:34.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B2.html/08851932479110",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:26.601Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5.html/08851932480734",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5.html/08851932480734 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:42.591Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%AD%E0%B8%87%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7.html/08851932483551",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:34.611Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B4-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08999999035631",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:34.609Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%87%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%88.html/08999999600990",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%87%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%88.html/08999999600990 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:42.591Z"
+    }
+  ]
+}

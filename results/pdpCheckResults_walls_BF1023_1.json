@@ -1,0 +1,298 @@
+{
+  "generatedAt": "2026-03-12T12:28:33.414Z",
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.langnese.de/home.productfeed.json",
+  "totalUrlsChecked": 47,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/capri-9-x-55-ml.html/04056100012135",
+      "gtin": "04056100012135",
+      "checkedAt": "2026-03-12T12:28:25.881Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/cornetto-king-cone-vanilla-1-x-260-ml.html/05201028355508",
+      "gtin": "05201028355508",
+      "checkedAt": "2026-03-12T12:28:25.871Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/viennetta-vanille-650ml.html/08000920200025",
+      "gtin": "08000920200025",
+      "checkedAt": "2026-03-12T12:28:26.352Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/cornetto-soft-chocolatey-4-x-140-ml.html/08711327489448",
+      "gtin": "08711327489448",
+      "checkedAt": "2026-03-12T12:28:26.434Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/flutschfinger-8-x-64-ml.html/08711327578418",
+      "gtin": "08711327578418",
+      "checkedAt": "2026-03-12T12:28:26.208Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/langnese-klassiker-mix-482ml.html/08711327594296",
+      "gtin": "08711327594296",
+      "checkedAt": "2026-03-12T12:28:26.224Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/cornetto-erdbeer-6er-pack-540-ml.html/08711327617810",
+      "gtin": "08711327617810",
+      "checkedAt": "2026-03-12T12:28:26.055Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/twister-mini-mallow-8er-pack-400-ml.html/08711327653245",
+      "gtin": "08711327653245",
+      "checkedAt": "2026-03-12T12:28:25.729Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/push-up-haribo-1-x-85-ml.html/08711327667525",
+      "gtin": "08711327667525",
+      "checkedAt": "2026-03-12T12:28:25.729Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/cornetto-go-1-x-110-ml.html/08714100641002",
+      "gtin": "08714100641002",
+      "checkedAt": "2026-03-12T12:28:26.208Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.langnese.de/p/cuja-mara-split-1-x-84-ml.html/08722700011156",
+      "gtin": "08722700011156",
+      "checkedAt": "2026-03-12T12:28:26.411Z"
+    }
+  ],
+  "errors": 36,
+  "duration": "9.42s",
+  "speedMetrics": "4.99 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/capri-1-x-55-ml.html/00000040561035",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.854Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/nogger-1-x-94-ml.html/00000040561219",
+      "error": "request to https://www.langnese.de/p/nogger-1-x-94-ml.html/00000040561219 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/super-twister-1-x-110-ml.html/08000920402801",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.854Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/mini-milk-erdbeer-1-x-35-ml.html/08000920461143",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:28.423Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/mini-milk-vanille.html/08000920461150",
+      "error": "request to https://www.langnese.de/p/mini-milk-vanille.html/08000920461150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/calippo-cola-1-x-105-ml.html/08000920461235",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/mini-milk-schokolade.html/08000920470008",
+      "error": "request to https://www.langnese.de/p/mini-milk-schokolade.html/08000920470008 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-buttermilch-zitrone-1-x-120-ml.html/08711327325012",
+      "error": "request to https://www.langnese.de/p/cornetto-buttermilch-zitrone-1-x-120-ml.html/08711327325012 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/langnese-nogger-mix-6-x-90-ml.html/08711327345478",
+      "error": "request to https://www.langnese.de/p/langnese-nogger-mix-6-x-90-ml.html/08711327345478 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.307Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/twister-mini-pineapple-8er-pack-400-ml.html/08711327576810",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:28.482Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/twister-monstaahh-1-x-70-ml.html/08711327580336",
+      "error": "request to https://www.langnese.de/p/twister-monstaahh-1-x-70-ml.html/08711327580336 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cuja-mara-split-5-x-84-ml.html/08711327584686",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.486Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/flutschfinger-1-x-64-ml.html/08711327587588",
+      "error": "request to https://www.langnese.de/p/flutschfinger-1-x-64-ml.html/08711327587588 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/kids-mix-8-er-pack-360-ml.html/08711327592469",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:28.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/langnese-nogger-5-x-94-ml.html/08711327594883",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.455Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-classico-6er-pack-540-ml.html/08711327616783",
+      "error": "request to https://www.langnese.de/p/cornetto-classico-6er-pack-540-ml.html/08711327616783 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-haselnuss-1-x-125-ml.html/08711327620209",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.759Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-erdbeer-1-x-125-ml.html/08711327620322",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.717Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/dracula-1-x-54-ml.html/08711327629790",
+      "error": "request to https://www.langnese.de/p/dracula-1-x-54-ml.html/08711327629790 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/family-mix-7er-pack-462-ml.html/08711327635876",
+      "error": "request to https://www.langnese.de/p/family-mix-7er-pack-462-ml.html/08711327635876 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/solero-exotic-6er-xl-pack-540-ml.html/08711327653337",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.456Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/haribo-push-up-4er-pack-340-ml.html/08711327666825",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:27.659Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-max-mango-&-vanilla-4er-pack-360-ml.html/08711327680715",
+      "error": "request to https://www.langnese.de/p/cornetto-max-mango-&-vanilla-4er-pack-360-ml.html/08711327680715 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/dolomiti-6er-pack-428-ml.html/08712100493355",
+      "error": "request to https://www.langnese.de/p/dolomiti-6er-pack-428-ml.html/08712100493355 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/solero-exotic-1-x-90-ml.html/08712100889233",
+      "error": "request to https://www.langnese.de/p/solero-exotic-1-x-90-ml.html/08712100889233 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/minecraft-1-x-75-ml.html/08721274803136",
+      "error": "request to https://www.langnese.de/p/minecraft-1-x-75-ml.html/08721274803136 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-max-pistazie-1-x-115-ml.html/08721274809893",
+      "error": "request to https://www.langnese.de/p/cornetto-max-pistazie-1-x-115-ml.html/08721274809893 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/volcanix-1-x-80-ml.html/08721274810011",
+      "error": "request to https://www.langnese.de/p/volcanix-1-x-80-ml.html/08721274810011 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/twister-frrreeze-1-x-70-ml.html/08721274812640",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:25.855Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/solero-strawberry-twist-1-x-90-ml.html/08721274813623",
+      "error": "request to https://www.langnese.de/p/solero-strawberry-twist-1-x-90-ml.html/08721274813623 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/solero-strawberry-twist-4-x-90-ml.html/08721274815498",
+      "error": "request to https://www.langnese.de/p/solero-strawberry-twist-4-x-90-ml.html/08721274815498 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/solero-bon-bon-exotic-12-x-16-ml.html/08721274817652",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:28.819Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-king-cone-chocolate.html/08722700020097",
+      "error": "request to https://www.langnese.de/p/cornetto-king-cone-chocolate.html/08722700020097 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/riesenhappen-1-x-140-ml.html/08722700054405",
+      "error": "request to https://www.langnese.de/p/riesenhappen-1-x-140-ml.html/08722700054405 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/konfekt-10-x-10-ml.html/08722700127765",
+      "error": "request to https://www.langnese.de/p/konfekt-10-x-10-ml.html/08722700127765 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/nogger-choc-1-x-90-ml.html/08722700209973",
+      "error": "request to https://www.langnese.de/p/nogger-choc-1-x-90-ml.html/08722700209973 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:33.413Z"
+    }
+  ]
+}

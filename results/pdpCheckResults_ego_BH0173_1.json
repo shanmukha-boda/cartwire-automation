@@ -1,0 +1,219 @@
+{
+  "generatedAt": "2026-03-12T12:28:27.406Z",
+  "brand": "ego",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 34,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-sport-en-barra-45g.html/00000075064853",
+      "gtin": "00000075064853",
+      "checkedAt": "2026-03-12T12:28:24.450Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-force-en-barra-45g.html/00000075064860",
+      "gtin": "00000075064860",
+      "checkedAt": "2026-03-12T12:28:24.416Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-fresh-en-barra-45g.html/00000075064884",
+      "gtin": "00000075064884",
+      "checkedAt": "2026-03-12T12:28:24.431Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirant-sport-roll-on-45ml.html/00000075064907",
+      "gtin": "00000075064907",
+      "checkedAt": "2026-03-12T12:28:24.477Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-fresh-roll-on-45ml.html/00000075064914",
+      "gtin": "00000075064914",
+      "checkedAt": "2026-03-12T12:28:24.418Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-force-roll-on-45ml.html/00000075064938",
+      "gtin": "00000075064938",
+      "checkedAt": "2026-03-12T12:28:24.377Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-ulta-fresh-en-barra-45g.html/00000075071790",
+      "gtin": "00000075071790",
+      "checkedAt": "2026-03-12T12:28:26.560Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirant-ulta-fresh-roll-on-45ml.html/00000075071806",
+      "gtin": "00000075071806",
+      "checkedAt": "2026-03-12T12:28:27.406Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-en-gel-force-80gr.html/00000075072858",
+      "gtin": "00000075072858",
+      "checkedAt": "2026-03-12T12:28:24.422Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-en-gel-sport-80gr.html/00000075072872",
+      "gtin": "00000075072872",
+      "checkedAt": "2026-03-12T12:28:24.451Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-black-250ml.html/07506192500555",
+      "gtin": "07506192500555",
+      "checkedAt": "2026-03-12T12:28:24.418Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-power-250ml.html/07506192500821",
+      "gtin": "07506192500821",
+      "checkedAt": "2026-03-12T12:28:24.477Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-force-250ml.html/07506192502139",
+      "gtin": "07506192502139",
+      "checkedAt": "2026-03-12T12:28:24.483Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-cera-for-men-dry-25ml.html/07506192504515",
+      "gtin": "07506192504515",
+      "checkedAt": "2026-03-12T12:28:24.418Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-cera-for-men-wet-25ml.html/07506192504539",
+      "gtin": "07506192504539",
+      "checkedAt": "2026-03-12T12:28:24.416Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-diez-180ml.html/07506192505659",
+      "gtin": "07506192505659",
+      "checkedAt": "2026-03-12T12:28:24.419Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-cera-for-men-mate-25ml.html/07506192506045",
+      "gtin": "07506192506045",
+      "checkedAt": "2026-03-12T12:28:24.496Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-attraction-200ml.html/07506192506601",
+      "gtin": "07506192506601",
+      "checkedAt": "2026-03-12T12:28:24.481Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-fresh-200ml.html/07506306209930",
+      "gtin": "07506306209930",
+      "checkedAt": "2026-03-12T12:28:24.461Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/gel-de-afeitar-ego-fresh-200ml.html/07506306209947",
+      "gtin": "07506306209947",
+      "checkedAt": "2026-03-12T12:28:24.472Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-force-200ml.html/07506306209954",
+      "gtin": "07506306209954",
+      "checkedAt": "2026-03-12T12:28:24.484Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-fresh-200ml.html/07506306209961",
+      "gtin": "07506306209961",
+      "checkedAt": "2026-03-12T12:28:24.424Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-sport-aerosol-150ml.html/07506306210080",
+      "gtin": "07506306210080",
+      "checkedAt": "2026-03-12T12:28:24.481Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-fresh-aerosol-150ml.html/07506306210097",
+      "gtin": "07506306210097",
+      "checkedAt": "2026-03-12T12:28:24.470Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-force-aerosol-150ml.html/07506306210103",
+      "gtin": "07506306210103",
+      "checkedAt": "2026-03-12T12:28:24.468Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/jabon-2-en-1-para-cuerpo-y-barba-ego-force-45g.html/07506306210318",
+      "gtin": "07506306210318",
+      "checkedAt": "2026-03-12T12:28:24.484Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-en-aerosol-attraction-150ml.html/07506306215504",
+      "gtin": "07506306215504",
+      "checkedAt": "2026-03-12T12:28:27.291Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-control-caida-200ml.html/07506306215689",
+      "gtin": "07506306215689",
+      "checkedAt": "2026-03-12T12:28:24.445Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-shampoo-control-ca%C3%ADda-2-en-1.html/07506306218949",
+      "gtin": "07506306218949",
+      "checkedAt": "2026-03-12T12:28:24.439Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-shampoo-limpieza-profunda.html/07506306218987",
+      "gtin": "07506306218987",
+      "checkedAt": "2026-03-12T12:28:24.479Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/shampoo-ego-control-caspa-200ml.html/07506306221222",
+      "gtin": "07506306221222",
+      "checkedAt": "2026-03-12T12:28:24.455Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-ultra-fresh-aerosol-150ml.html/07506306221765",
+      "gtin": "07506306221765",
+      "checkedAt": "2026-03-12T12:28:24.460Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/gel-ego-control-caspa-180ml.html/07506306222755",
+      "gtin": "07506306222755",
+      "checkedAt": "2026-03-12T12:28:24.478Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-en-aerosol-black-150ml.html/07506306222854",
+      "gtin": "07506306222854",
+      "checkedAt": "2026-03-12T12:28:24.445Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "4.94s",
+  "speedMetrics": "6.88 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

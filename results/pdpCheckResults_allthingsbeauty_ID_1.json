@@ -1,0 +1,2836 @@
+{
+  "generatedAt": "2026-03-12T12:29:28.028Z",
+  "brand": "allthingsbeauty",
+  "assortmentCode": "ID",
+  "feedUrl": "https://www.allthingsbeauty.com/id/home.productfeed.json",
+  "totalUrlsChecked": 470,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deo-aerosols-dark-temptation-50ml.html/04800888141101",
+      "gtin": "04800888141101",
+      "checkedAt": "2026-03-12T12:28:39.646Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-dark-temptation-parfum-pria-135ml.html/04800888141125",
+      "gtin": "04800888141125",
+      "checkedAt": "2026-03-12T12:28:40.360Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-dark-temptation-deodorants-dark-temptation.html/04800888146632",
+      "gtin": "04800888146632",
+      "checkedAt": "2026-03-12T12:28:39.147Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932171397",
+      "gtin": "08851932171397",
+      "checkedAt": "2026-03-12T12:28:39.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-lightening-day-cream-spf-18-50g.html/08851932171403",
+      "gtin": "08851932171403",
+      "checkedAt": "2026-03-12T12:28:40.396Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932171410",
+      "gtin": "08851932171410",
+      "checkedAt": "2026-03-12T12:28:39.137Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-night-cream-50g.html/08851932171427",
+      "gtin": "08851932171427",
+      "checkedAt": "2026-03-12T12:28:39.793Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-facial-foam-100g.html/08851932172264",
+      "gtin": "08851932172264",
+      "checkedAt": "2026-03-12T12:28:39.741Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932181846",
+      "gtin": "08851932181846",
+      "checkedAt": "2026-03-12T12:28:39.063Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-age-miracle-facial-foam-100g.html/08851932199179",
+      "gtin": "08851932199179",
+      "checkedAt": "2026-03-12T12:28:39.592Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932203258",
+      "gtin": "08851932203258",
+      "checkedAt": "2026-03-12T12:28:39.042Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-serum-30ml.html/08851932203265",
+      "gtin": "08851932203265",
+      "checkedAt": "2026-03-12T12:28:39.724Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-lightening-day-cream-spf-18-25g.html/08851932221528",
+      "gtin": "08851932221528",
+      "checkedAt": "2026-03-12T12:28:39.561Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932221535",
+      "gtin": "08851932221535",
+      "checkedAt": "2026-03-12T12:28:39.109Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-age-miracle-perawatan-wajah-age-miracle.html/08851932285797",
+      "gtin": "08851932285797",
+      "checkedAt": "2026-03-12T12:28:39.123Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-deep-whitening-perawatan-wajah-deep-whitening.html/08851932287692",
+      "gtin": "08851932287692",
+      "checkedAt": "2026-03-12T12:28:39.091Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deo-aerosols-gold-temptation-50ml.html/08851932323901",
+      "gtin": "08851932323901",
+      "checkedAt": "2026-03-12T12:28:40.903Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-age-miracle-perawatan-wajah-age-miracle.html/08851932343800",
+      "gtin": "08851932343800",
+      "checkedAt": "2026-03-12T12:28:39.071Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-dewy-rose-cream-spf-30-50g.html/08851932346856",
+      "gtin": "08851932346856",
+      "checkedAt": "2026-03-12T12:28:40.197Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932346863",
+      "gtin": "08851932346863",
+      "checkedAt": "2026-03-12T12:28:39.205Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-rouge-122-ml.html/08851932376860",
+      "gtin": "08851932376860",
+      "checkedAt": "2026-03-12T12:28:40.167Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-intense-122-ml.html/08851932376884",
+      "gtin": "08851932376884",
+      "checkedAt": "2026-03-12T12:28:40.297Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-face-cleanser-white-beauty-100ml.html/08851932378925",
+      "gtin": "08851932378925",
+      "checkedAt": "2026-03-12T12:28:39.738Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-clay-mask-pure-white-8g.html/08851932390361",
+      "gtin": "08851932390361",
+      "checkedAt": "2026-03-12T12:28:39.718Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-white-beauty-clay-mask-mineral-8g.html/08851932390392",
+      "gtin": "08851932390392",
+      "checkedAt": "2026-03-12T12:28:39.769Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-masker-wajah-glow-up.html/08851932396561",
+      "gtin": "08851932396561",
+      "checkedAt": "2026-03-12T12:28:39.132Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-serum-100-ml.html/08851932400992",
+      "gtin": "08851932400992",
+      "checkedAt": "2026-03-12T12:28:40.256Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-mask-180-ml.html/08851932401012",
+      "gtin": "08851932401012",
+      "checkedAt": "2026-03-12T12:28:40.003Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-age-miracle-perawatan-wajah-age-miracle.html/08901030202148",
+      "gtin": "08901030202148",
+      "checkedAt": "2026-03-12T12:28:39.102Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-cool-fresh-180ml.html/08999999001032",
+      "gtin": "08999999001032",
+      "checkedAt": "2026-03-12T12:28:40.976Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-hand-wash-mild-care-antiseptik-180ml.html/08999999001056",
+      "gtin": "08999999001056",
+      "checkedAt": "2026-03-12T12:28:40.423Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-cool-fresh-250ml.html/08999999001094",
+      "gtin": "08999999001094",
+      "checkedAt": "2026-03-12T12:28:39.873Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-mild-care-250ml.html/08999999001124",
+      "gtin": "08999999001124",
+      "checkedAt": "2026-03-12T12:28:39.913Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-cool-fresh-300ml.html/08999999001131",
+      "gtin": "08999999001131",
+      "checkedAt": "2026-03-12T12:28:40.173Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-nature-pure-300ml.html/08999999001148",
+      "gtin": "08999999001148",
+      "checkedAt": "2026-03-12T12:28:40.866Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-total-10-300ml.html/08999999001155",
+      "gtin": "08999999001155",
+      "checkedAt": "2026-03-12T12:28:40.470Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-mild-care-300ml.html/08999999001162",
+      "gtin": "08999999001162",
+      "checkedAt": "2026-03-12T12:28:40.215Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-nature-pure-450ml.html/08999999001186",
+      "gtin": "08999999001186",
+      "checkedAt": "2026-03-12T12:28:40.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-total-10-100ml.html/08999999001230",
+      "gtin": "08999999001230",
+      "checkedAt": "2026-03-12T12:28:40.003Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-mild-care-100ml.html/08999999001247",
+      "gtin": "08999999001247",
+      "checkedAt": "2026-03-12T12:28:41.278Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-intensive-care-hand-body-lotion-deep-restore-200ml.html/08999999003050",
+      "gtin": "08999999003050",
+      "checkedAt": "2026-03-12T12:28:40.988Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-day-cream-50g.html/08999999004880",
+      "gtin": "08999999004880",
+      "checkedAt": "2026-03-12T12:28:41.110Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-vita-protect-450ml.html/08999999005481",
+      "gtin": "08999999005481",
+      "checkedAt": "2026-03-12T12:28:40.270Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-intensive-care-hand-body-lotion-cocoa-radiant-200ml.html/08999999020293",
+      "gtin": "08999999020293",
+      "checkedAt": "2026-03-12T12:28:40.366Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-face-care-age-miracle-30ml.html/08999999022426",
+      "gtin": "08999999022426",
+      "checkedAt": "2026-03-12T12:28:39.883Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-perfect-10-200ml.html/08999999024789",
+      "gtin": "08999999024789",
+      "checkedAt": "2026-03-12T12:28:41.008Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-kuat-berkilau-sachet-10-ml.html/08999999027032",
+      "gtin": "08999999027032",
+      "checkedAt": "2026-03-12T12:28:41.259Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-perawatan-rambut-rontok-sachet-10-ml.html/08999999027049",
+      "gtin": "08999999027049",
+      "checkedAt": "2026-03-12T12:28:40.271Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-sachet-10-ml.html/08999999027056",
+      "gtin": "08999999027056",
+      "checkedAt": "2026-03-12T12:28:39.932Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-lemon-fresh-300ml.html/08999999027247",
+      "gtin": "08999999027247",
+      "checkedAt": "2026-03-12T12:28:47.547Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-lemon-fresh-100ml.html/08999999027254",
+      "gtin": "08999999027254",
+      "checkedAt": "2026-03-12T12:28:47.819Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-ice-cool-menthol-men-340ml.html/08999999029562-clear-shampoo",
+      "gtin": "08999999029562",
+      "checkedAt": "2026-03-12T12:28:47.467Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-ice-cool-menthol-170ml.html/08999999029616-clear-shampoo",
+      "gtin": "08999999029616",
+      "checkedAt": "2026-03-12T12:28:47.497Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-anti-hairfall-170ml.html/08999999029715-clear-shampoo",
+      "gtin": "08999999029715",
+      "checkedAt": "2026-03-12T12:28:47.838Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-anti-hairfall-men-170ml.html/08999999029746-clear-shampoo",
+      "gtin": "08999999029746",
+      "checkedAt": "2026-03-12T12:28:47.722Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-strong-&-soft-340ml.html/08999999029838-clear-shampoo",
+      "gtin": "08999999029838",
+      "checkedAt": "2026-03-12T12:28:48.782Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-kitchen-fresh-225ml.html/08999999032753",
+      "gtin": "08999999032753",
+      "checkedAt": "2026-03-12T12:28:47.875Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-perawatan-rambut-rontok-bottle-170-ml.html/08999999033132",
+      "gtin": "08999999033132",
+      "checkedAt": "2026-03-12T12:28:47.738Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-perawatan-rambut-rontok-big-pump-680ml.html/08999999033156",
+      "gtin": "08999999033156",
+      "checkedAt": "2026-03-12T12:28:47.947Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-kuat-berkilau-bottle-70-21-ml.html/08999999033163",
+      "gtin": "08999999033163",
+      "checkedAt": "2026-03-12T12:28:47.733Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-kuat-berkilau-bottle-170-ml.html/08999999033170",
+      "gtin": "08999999033170",
+      "checkedAt": "2026-03-12T12:28:47.656Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-kuat-berkilau-bottle-340-ml.html/08999999033187",
+      "gtin": "08999999033187",
+      "checkedAt": "2026-03-12T12:28:47.815Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-kuat-berkilau-big-pump-680-ml.html/08999999033194",
+      "gtin": "08999999033194",
+      "checkedAt": "2026-03-12T12:28:47.704Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-bottle-70-21-ml.html/08999999033200",
+      "gtin": "08999999033200",
+      "checkedAt": "2026-03-12T12:28:48.065Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-bottle-170-ml.html/08999999033217",
+      "gtin": "08999999033217",
+      "checkedAt": "2026-03-12T12:28:47.807Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-bottle-340-ml.html/08999999033224",
+      "gtin": "08999999033224",
+      "checkedAt": "2026-03-12T12:28:47.800Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-facial-wash-sabun-cuci-muka-pria-energy-charge-energizing-100g.html/08999999034696",
+      "gtin": "08999999034696",
+      "checkedAt": "2026-03-12T12:28:47.544Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-energy-charge-face-moisturizer-20ml.html/08999999034740",
+      "gtin": "08999999034740",
+      "checkedAt": "2026-03-12T12:28:47.713Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-oil-control-face-moisturizer-20g.html/08999999034764",
+      "gtin": "08999999034764",
+      "checkedAt": "2026-03-12T12:28:47.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-conditioner-perawatan-rontok-sx-480x9-ml.html/08999999037130",
+      "gtin": "08999999037130",
+      "checkedAt": "2026-03-12T12:28:47.542Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-conditioner-perawatan-rontok-12x320-ml.html/08999999037161",
+      "gtin": "08999999037161",
+      "checkedAt": "2026-03-12T12:28:47.897Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-conditioner-perawatan-rambut-rusak-sx-480x9-ml.html/08999999037178",
+      "gtin": "08999999037178",
+      "checkedAt": "2026-03-12T12:28:47.783Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-conditioner-perawatan-rambut-rusak-12x160-ml.html/08999999037192",
+      "gtin": "08999999037192",
+      "checkedAt": "2026-03-12T12:28:47.695Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-conditioner-perawatan-rambut-rusak-12x320-ml.html/08999999037208",
+      "gtin": "08999999037208",
+      "checkedAt": "2026-03-12T12:28:47.842Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-nourishing-black-perawatan-rambut-nourishing-black-70-ml.html/08999999037246",
+      "gtin": "08999999037246",
+      "checkedAt": "2026-03-12T12:28:47.924Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-krim-wajah-10g.html/08999999038571",
+      "gtin": "08999999038571",
+      "checkedAt": "2026-03-12T12:28:47.529Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/close-up-pasta-gigi-diamond-attraction-100g.html/08999999038946",
+      "gtin": "08999999038946",
+      "checkedAt": "2026-03-12T12:28:47.635Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-48x70-ml.html/08999999039103",
+      "gtin": "08999999039103",
+      "checkedAt": "2026-03-12T12:28:47.560Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-6x680-ml.html/08999999039134",
+      "gtin": "08999999039134",
+      "checkedAt": "2026-03-12T12:28:48.102Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rambut-rusak-6x680-ml.html/08999999039189",
+      "gtin": "08999999039189",
+      "checkedAt": "2026-03-12T12:28:47.725Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-fresh-whitening-cleansing-gel-50g.html/08999999040000",
+      "gtin": "08999999040000",
+      "checkedAt": "2026-03-12T12:28:47.901Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-pearl-cleansing-gel-100g.html/08999999040451",
+      "gtin": "08999999040451",
+      "checkedAt": "2026-03-12T12:28:49.019Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-complete-3-5l.html/08999999040833",
+      "gtin": "08999999040833",
+      "checkedAt": "2026-03-12T12:28:47.784Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-bond-repair-shampoo-670-ml.html/08999999040970",
+      "gtin": "08999999040970",
+      "checkedAt": "2026-03-12T12:28:47.907Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-sabun-cuci-muka-pollution-out-100g.html/08999999041656",
+      "gtin": "08999999041656",
+      "checkedAt": "2026-03-12T12:28:47.756Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-gel-clini-shield-fresh-100ml.html/08999999045302",
+      "gtin": "08999999045302",
+      "checkedAt": "2026-03-12T12:28:56.127Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-total-10-4x110g.html/08999999045920",
+      "gtin": "08999999045920",
+      "checkedAt": "2026-03-12T12:28:56.368Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-total-10-110g.html/08999999045937",
+      "gtin": "08999999045937",
+      "checkedAt": "2026-03-12T12:28:56.052Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-mild-care-110g.html/08999999045944",
+      "gtin": "08999999045944",
+      "checkedAt": "2026-03-12T12:28:56.361Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-conditioner-bottle-160-ml.html/08999999047887",
+      "gtin": "08999999047887",
+      "checkedAt": "2026-03-12T12:28:56.006Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-pump-650-ml.html/08999999047917",
+      "gtin": "08999999047917",
+      "checkedAt": "2026-03-12T12:28:56.141Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-sachet-10-ml.html/08999999048167",
+      "gtin": "08999999048167",
+      "checkedAt": "2026-03-12T12:28:56.201Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-bottle-160-ml.html/08999999048181",
+      "gtin": "08999999048181",
+      "checkedAt": "2026-03-12T12:28:56.200Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-conditioner-bottle-70-ml.html/08999999048228",
+      "gtin": "08999999048228",
+      "checkedAt": "2026-03-12T12:28:56.509Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-conditioner-bottle-160-ml.html/08999999048235",
+      "gtin": "08999999048235",
+      "checkedAt": "2026-03-12T12:28:56.918Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-sachet-10-ml.html/08999999048242",
+      "gtin": "08999999048242",
+      "checkedAt": "2026-03-12T12:28:56.932Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-bottle-70-ml.html/08999999048259",
+      "gtin": "08999999048259",
+      "checkedAt": "2026-03-12T12:28:56.116Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-bottle-160-ml.html/08999999048266",
+      "gtin": "08999999048266",
+      "checkedAt": "2026-03-12T12:28:56.199Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-sunsilk-hijab-refresh-hairfall-solution-70ml-hijab-refresh-70ml.html/08999999048297",
+      "gtin": "08999999048297",
+      "checkedAt": "2026-03-12T12:28:56.276Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-shampo-refresh-and-anti-hair-fall-solution-170ml.html/08999999048303",
+      "gtin": "08999999048303",
+      "checkedAt": "2026-03-12T12:28:56.103Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-lively-straight-170ml.html/08999999048419-sunsilk-shampoo",
+      "gtin": "08999999048419",
+      "checkedAt": "2026-03-12T12:28:56.706Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-lively-straight-340ml.html/08999999048426-sunsilk-shampoo",
+      "gtin": "08999999048426",
+      "checkedAt": "2026-03-12T12:28:56.848Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-menthol-dingin-shampoo-bottle-70-ml.html/08999999048488",
+      "gtin": "08999999048488",
+      "checkedAt": "2026-03-12T12:28:56.102Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-menthol-dingin-shampoo-bottle-160-ml.html/08999999048501",
+      "gtin": "08999999048501",
+      "checkedAt": "2026-03-12T12:28:56.058Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-anti-dandruff-170ml.html/08999999048525-sunsilk-shampoo",
+      "gtin": "08999999048525",
+      "checkedAt": "2026-03-12T12:28:56.187Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-sabun-cuci-muka-gentle-50g.html/08999999052959",
+      "gtin": "08999999052959",
+      "checkedAt": "2026-03-12T12:28:56.963Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-sabun-cuci-muka-pure-white-50g.html/08999999052973",
+      "gtin": "08999999052973",
+      "checkedAt": "2026-03-12T12:28:56.225Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-sabun-cuci-muka-sun-dullness-50g.html/08999999052980",
+      "gtin": "08999999052980",
+      "checkedAt": "2026-03-12T12:28:56.066Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-sabun-cuci-muka-clear-solutions-50g.html/08999999052997",
+      "gtin": "08999999052997",
+      "checkedAt": "2026-03-12T12:28:56.158Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-sabun-cuci-muka-oil-control-50g.html/08999999053000",
+      "gtin": "08999999053000",
+      "checkedAt": "2026-03-12T12:28:56.136Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-perawatan-wajah-white-beauty.html/08999999056278",
+      "gtin": "08999999056278",
+      "checkedAt": "2026-03-12T12:28:55.486Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-night-cream-20g.html/08999999056872",
+      "gtin": "08999999056872",
+      "checkedAt": "2026-03-12T12:28:55.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-face-care-acne-solution-20g.html/08999999058364",
+      "gtin": "08999999058364",
+      "checkedAt": "2026-03-12T12:28:56.470Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-cool-fresh-85g.html/08999999059347",
+      "gtin": "08999999059347",
+      "checkedAt": "2026-03-12T12:28:56.147Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-age-miracle-day-cream-moisturizer-anti-aging+glowing-with-retinol-&-spf18-20g.html/08999999059910",
+      "gtin": "08999999059910",
+      "checkedAt": "2026-03-12T12:28:56.392Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-age-miracle-perawatan-wajah-age-miracle.html/08999999071219",
+      "gtin": "08999999071219",
+      "checkedAt": "2026-03-12T12:28:55.441Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-face-moisturizer-age-miracle.html/08999999071233",
+      "gtin": "08999999071233",
+      "checkedAt": "2026-03-12T12:28:55.362Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-conditioner-sachet-5-ml.html/08999999500917",
+      "gtin": "08999999500917",
+      "checkedAt": "2026-03-12T12:28:56.294Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-sakura-fresh-340ml.html/08999999501471-clear-shampoo",
+      "gtin": "08999999501471",
+      "checkedAt": "2026-03-12T12:28:56.057Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-menthol-dingin-shampoo-bottle-300-ml.html/08999999506520",
+      "gtin": "08999999506520",
+      "checkedAt": "2026-03-12T12:28:56.556Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-hand-sanitizer-total-10-50ml.html/08999999508609",
+      "gtin": "08999999508609",
+      "checkedAt": "2026-03-12T12:28:56.448Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-hand-sanitizer-lemon-50-ml.html/08999999508616",
+      "gtin": "08999999508616",
+      "checkedAt": "2026-03-12T12:28:55.999Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-kasturi-musk-300ml.html/08999999518813",
+      "gtin": "08999999518813",
+      "checkedAt": "2026-03-12T12:28:56.159Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-sabun-cair-diversity-gifting-1-pc.html/08999999520915",
+      "gtin": "08999999520915",
+      "checkedAt": "2026-03-12T12:28:56.118Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-tidak-lepek-shampoo-sachet-10-ml.html/08999999526160",
+      "gtin": "08999999526160",
+      "checkedAt": "2026-03-12T12:28:56.827Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-tidak-lepek-shampoo-bottle-320-ml.html/08999999526177",
+      "gtin": "08999999526177",
+      "checkedAt": "2026-03-12T12:28:56.950Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-bond-repair-shampoo-170-ml.html/08999999526344",
+      "gtin": "08999999526344",
+      "checkedAt": "2026-03-12T12:28:56.414Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-conditioner-170-ml.html/08999999526382",
+      "gtin": "08999999526382",
+      "checkedAt": "2026-03-12T12:28:56.505Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-shampoo-340-ml.html/08999999526399",
+      "gtin": "08999999526399",
+      "checkedAt": "2026-03-12T12:28:56.332Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-scalp-care-shampoo-170-ml.html/08999999526467",
+      "gtin": "08999999526467",
+      "checkedAt": "2026-03-12T12:29:04.487Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-scalp-care-shampoo-340-ml.html/08999999526511",
+      "gtin": "08999999526511",
+      "checkedAt": "2026-03-12T12:29:04.306Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-bond-repair-conditioner-170-ml.html/08999999526597",
+      "gtin": "08999999526597",
+      "checkedAt": "2026-03-12T12:29:04.506Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-facewash-ice-chill-100-g.html/08999999527860",
+      "gtin": "08999999527860",
+      "checkedAt": "2026-03-12T12:29:03.794Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-sabun-cuci-muka-white-poished-scrub-100g.html/08999999527884",
+      "gtin": "08999999527884",
+      "checkedAt": "2026-03-12T12:29:04.340Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-hairfall-160-ml.html/08999999529543",
+      "gtin": "08999999529543",
+      "checkedAt": "2026-03-12T12:29:04.601Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-bottle-70-ml.html/08999999529550",
+      "gtin": "08999999529550",
+      "checkedAt": "2026-03-12T12:29:04.263Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-total-active-bottle-300-ml.html/08999999529598",
+      "gtin": "08999999529598",
+      "checkedAt": "2026-03-12T12:29:04.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-total-active-bottle-160-ml.html/08999999529604",
+      "gtin": "08999999529604",
+      "checkedAt": "2026-03-12T12:29:04.336Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-bottle-300-ml.html/08999999529635",
+      "gtin": "08999999529635",
+      "checkedAt": "2026-03-12T12:29:04.204Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-bottle-70-ml.html/08999999529673",
+      "gtin": "08999999529673",
+      "checkedAt": "2026-03-12T12:29:04.339Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-fresh-active-bottle-70-ml.html/08999999529703",
+      "gtin": "08999999529703",
+      "checkedAt": "2026-03-12T12:29:04.491Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-fresh-active-bottle-160-ml.html/08999999529710",
+      "gtin": "08999999529710",
+      "checkedAt": "2026-03-12T12:29:04.388Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-bottle-160-ml.html/08999999529734",
+      "gtin": "08999999529734",
+      "checkedAt": "2026-03-12T12:29:04.286Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-bottle-300-ml.html/08999999529741",
+      "gtin": "08999999529741",
+      "checkedAt": "2026-03-12T12:29:04.815Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-pump-660-ml.html/08999999529758",
+      "gtin": "08999999529758",
+      "checkedAt": "2026-03-12T12:29:04.391Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-sachet-10-ml.html/08999999529833",
+      "gtin": "08999999529833",
+      "checkedAt": "2026-03-12T12:29:04.630Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-apel-wangi-segar-bottle-160-ml.html/08999999529901",
+      "gtin": "08999999529901",
+      "checkedAt": "2026-03-12T12:29:04.484Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-apel-wangi-segar-bottle-70-ml.html/08999999529918",
+      "gtin": "08999999529918",
+      "checkedAt": "2026-03-12T12:29:04.400Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-sakura-fresh-320-ml.html/08999999529932",
+      "gtin": "08999999529932",
+      "checkedAt": "2026-03-12T12:29:04.420Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-natural-black-320-ml.html/08999999529956",
+      "gtin": "08999999529956",
+      "checkedAt": "2026-03-12T12:29:04.565Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-sabun-mandi-cair-black-180ml.html/08999999530167",
+      "gtin": "08999999530167",
+      "checkedAt": "2026-03-12T12:29:04.313Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-skin-cleansing-dark-temptation-450-ml.html/08999999530174",
+      "gtin": "08999999530174",
+      "checkedAt": "2026-03-12T12:29:04.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-hair-styling-gel-extreme-hold-75ml.html/08999999530464",
+      "gtin": "08999999530464",
+      "checkedAt": "2026-03-12T12:29:04.253Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-fresh-and-fair-100ml.html/08999999533366",
+      "gtin": "08999999533366",
+      "checkedAt": "2026-03-12T12:29:04.518Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-fresh-and-fair-200ml.html/08999999533373",
+      "gtin": "08999999533373",
+      "checkedAt": "2026-03-12T12:29:04.430Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-creambath-sachet-48x30-g.html/08999999536008",
+      "gtin": "08999999536008",
+      "checkedAt": "2026-03-12T12:29:04.651Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-kondisioner-thick-and-long-170ml.html/08999999536237",
+      "gtin": "08999999536237",
+      "checkedAt": "2026-03-12T12:29:04.515Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-lemon-bersih-segar-bottle-160-ml.html/08999999537142",
+      "gtin": "08999999537142",
+      "checkedAt": "2026-03-12T12:29:04.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-lemon-bersih-segar-bottle-300-ml.html/08999999537159",
+      "gtin": "08999999537159",
+      "checkedAt": "2026-03-12T12:29:04.389Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-lemon-bersih-segar-sachet-10-ml.html/08999999537180",
+      "gtin": "08999999537180",
+      "checkedAt": "2026-03-12T12:29:04.485Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-honey-habbatussauda-450ml.html/08999999538200",
+      "gtin": "08999999538200",
+      "checkedAt": "2026-03-12T12:29:04.494Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hair-mist-vitamin-smooth-128ml.html/08999999539238",
+      "gtin": "08999999539238",
+      "checkedAt": "2026-03-12T12:29:04.617Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-antiseptik-lemon-fresh-200ml.html/08999999539382",
+      "gtin": "08999999539382",
+      "checkedAt": "2026-03-12T12:29:04.478Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-glow-up-krim-wajah-pink-crush-20g.html/08999999543082",
+      "gtin": "08999999543082",
+      "checkedAt": "2026-03-12T12:29:04.557Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-hijab-pure-shampo-anti-ketombe-dan-rontok-160ml.html/08999999549138",
+      "gtin": "08999999549138",
+      "checkedAt": "2026-03-12T12:29:04.653Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-hijab-pure-shampo-anti-ketombe-dan-rontok-320ml.html/08999999549145",
+      "gtin": "08999999549145",
+      "checkedAt": "2026-03-12T12:29:04.544Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-hijab-pure-shampo-anti-ketombe-dan-lepek-160ml.html/08999999549169",
+      "gtin": "08999999549169",
+      "checkedAt": "2026-03-12T12:29:04.510Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-hijab-pure-shampo-anti-ketombe-dan-lepek-320ml.html/08999999549176",
+      "gtin": "08999999549176",
+      "checkedAt": "2026-03-12T12:29:04.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-white-beauty-essence-wajah-serum-burst-20g.html/08999999553258",
+      "gtin": "08999999553258",
+      "checkedAt": "2026-03-12T12:29:04.446Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-anti-ketombe-sx-sj-480x8-ml.html/08999999554897",
+      "gtin": "08999999554897",
+      "checkedAt": "2026-03-12T12:29:12.378Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-sx-sj-480x8-ml.html/08999999554903",
+      "gtin": "08999999554903",
+      "checkedAt": "2026-03-12T12:29:12.463Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-rambut-berkilau-sx-sj-480x8-ml.html/08999999554910",
+      "gtin": "08999999554910",
+      "checkedAt": "2026-03-12T12:29:12.638Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-sachet-10-ml.html/08999999554972",
+      "gtin": "08999999554972",
+      "checkedAt": "2026-03-12T12:29:12.881Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-vitamin-micellar-water-makeup-remover-brightening-rose-for-all-skin-type-55ml.html/08999999555481",
+      "gtin": "08999999555481",
+      "checkedAt": "2026-03-12T12:29:12.696Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-white-beauty-essence-wajah-perfect-potion-110ml.html/08999999555528",
+      "gtin": "08999999555528",
+      "checkedAt": "2026-03-12T12:29:12.339Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-3in1-clean-active-bottle-160-ml.html/08999999555931",
+      "gtin": "08999999555931",
+      "checkedAt": "2026-03-12T12:29:13.091Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-juice-collection-pembersih-wajah-watermelon-extract-90g.html/08999999556747",
+      "gtin": "08999999556747",
+      "checkedAt": "2026-03-12T12:29:12.403Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-krim-wajah-20g.html/08999999556785",
+      "gtin": "08999999556785",
+      "checkedAt": "2026-03-12T12:29:12.294Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-sheet-mask-orange-nectar-20g.html/08999999556792",
+      "gtin": "08999999556792",
+      "checkedAt": "2026-03-12T12:29:12.390Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-krim-wajah-20g.html/08999999556815",
+      "gtin": "08999999556815",
+      "checkedAt": "2026-03-12T12:29:12.893Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-sheet-mask-aloe-vera-extract-20g.html/08999999556822",
+      "gtin": "08999999556822",
+      "checkedAt": "2026-03-12T12:29:12.557Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-krim-wajah-20g.html/08999999559670",
+      "gtin": "08999999559670",
+      "checkedAt": "2026-03-12T12:29:12.270Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-parfum-saku-dark-temptation-17ml.html/08999999559861",
+      "gtin": "08999999559861",
+      "checkedAt": "2026-03-12T12:29:12.532Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-super-shampoo-sx-480x8-ml.html/08999999560126",
+      "gtin": "08999999560126",
+      "checkedAt": "2026-03-12T12:29:12.694Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-super-shampoo-24x125-ml.html/08999999560423",
+      "gtin": "08999999560423",
+      "checkedAt": "2026-03-12T12:29:12.692Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-whip-facial-foam-sabun-muka-bright-beauty-with-10x-collagen-serum-100-g.html/08999999562182",
+      "gtin": "08999999562182",
+      "checkedAt": "2026-03-12T12:29:12.494Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-vaseline-skin-serum-peach-3x6x-peach-200-ml.html/08999999565619",
+      "gtin": "08999999565619",
+      "checkedAt": "2026-03-12T12:29:12.446Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-pouch-900-ml.html/08999999566807",
+      "gtin": "08999999566807",
+      "checkedAt": "2026-03-12T12:29:12.596Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-coconut-fresh-fragrant-bottle-300-ml.html/08999999568092",
+      "gtin": "08999999568092",
+      "checkedAt": "2026-03-12T12:29:12.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-hand-body-lotion-body-serum-soft-glow-with-niacinamide-&-100x-vitamin-c-100-ml.html/08999999568542",
+      "gtin": "08999999568542",
+      "checkedAt": "2026-03-12T12:29:12.904Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-antiperspirant-men-deodorant-deodorant-body-spray-body-spray-pria-dark-temptation-deodorant-spray-pria-kesegaran-48-jam-135-ml.html/08999999572709",
+      "gtin": "08999999572709",
+      "checkedAt": "2026-03-12T12:29:12.697Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-rambut-berkilau-24x135-ml.html/08999999573058",
+      "gtin": "08999999573058",
+      "checkedAt": "2026-03-12T12:29:11.944Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rambut-rusak-24x135-ml.html/08999999573072",
+      "gtin": "08999999573072",
+      "checkedAt": "2026-03-12T12:29:12.504Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-24x135-ml.html/08999999573089",
+      "gtin": "08999999573089",
+      "checkedAt": "2026-03-12T12:29:13.045Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-anti-ketombe-6x680-ml.html/08999999573096",
+      "gtin": "08999999573096",
+      "checkedAt": "2026-03-12T12:29:12.553Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-anti-ketombe-24x135-ml.html/08999999573102",
+      "gtin": "08999999573102",
+      "checkedAt": "2026-03-12T12:29:12.872Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rambut-rusak-12x290-ml.html/08999999573133",
+      "gtin": "08999999573133",
+      "checkedAt": "2026-03-12T12:29:12.716Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-12x290-ml.html/08999999573157",
+      "gtin": "08999999573157",
+      "checkedAt": "2026-03-12T12:29:12.528Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-pump-660-ml.html/08999999574918",
+      "gtin": "08999999574918",
+      "checkedAt": "2026-03-12T12:29:12.355Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-pump-900-ml.html/08999999578169",
+      "gtin": "08999999578169",
+      "checkedAt": "2026-03-12T12:29:12.668Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-pump-400-ml.html/08999999579821",
+      "gtin": "08999999579821",
+      "checkedAt": "2026-03-12T12:29:12.585Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-pouch1200-ml.html/08999999579845",
+      "gtin": "08999999579845",
+      "checkedAt": "2026-03-12T12:29:12.478Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-pump-850-ml.html/08999999579852",
+      "gtin": "08999999579852",
+      "checkedAt": "2026-03-12T12:29:12.350Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-12x900-ml.html/08999999580094",
+      "gtin": "08999999580094",
+      "checkedAt": "2026-03-12T12:29:12.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-shampoo-850-ml.html/08999999580117",
+      "gtin": "08999999580117",
+      "checkedAt": "2026-03-12T12:29:12.549Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/rexona-deodorant-roll-on-antiperspirant-invisible-dry-roll-on-deodorant-72-jam-kesegaran*-bebas-noda-ketiak-pada-baju-45-ml.html/08999999580773",
+      "gtin": "08999999580773",
+      "checkedAt": "2026-03-12T12:29:12.544Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-scalp-care-shampoo-850-ml.html/08999999581558",
+      "gtin": "08999999581558",
+      "checkedAt": "2026-03-12T12:29:12.439Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-color-vibrancy-shampoo-220-ml.html/08999999581770",
+      "gtin": "08999999581770",
+      "checkedAt": "2026-03-12T12:29:12.920Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-body-serum-lotion-dewy-radiance-10x-niacinamide*-200-ml.html/08999999581947",
+      "gtin": "08999999581947",
+      "checkedAt": "2026-03-12T12:29:13.037Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-heat-protect-spray-236-ml.html/08999999582531",
+      "gtin": "08999999582531",
+      "checkedAt": "2026-03-12T12:29:12.491Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-volume-spray-193-gr.html/08999999582647",
+      "gtin": "08999999582647",
+      "checkedAt": "2026-03-12T12:29:12.970Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-pump-400-ml.html/08999999582968",
+      "gtin": "08999999582968",
+      "checkedAt": "2026-03-12T12:29:12.466Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/closeup-pasta-gigi-complete-fresh-protection-160-g.html/08999999586713",
+      "gtin": "08999999586713",
+      "checkedAt": "2026-03-12T12:29:20.663Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-color-vibrancy-conditioner-220-ml.html/08999999586843",
+      "gtin": "08999999586843",
+      "checkedAt": "2026-03-12T12:29:20.577Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-total-11-1650-ml.html/08999999587420",
+      "gtin": "08999999587420",
+      "checkedAt": "2026-03-12T12:29:20.627Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-facial-wash-sabun-muka-pria-ultra-bright-oil-fighter-oil-control-&-wajah-lebih-cerah-100-g.html/08999999587499",
+      "gtin": "08999999587499",
+      "checkedAt": "2026-03-12T12:29:20.472Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-kuat-berkilau-pouch-900-ml.html/08999999588151",
+      "gtin": "08999999588151",
+      "checkedAt": "2026-03-12T12:29:20.711Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-essence-age-miracle-110-ml.html/08999999588595",
+      "gtin": "08999999588595",
+      "checkedAt": "2026-03-12T12:29:20.755Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-age-miracle-hya-retinol-hydrating-serum-pond's-ultimate-glow-brightening-serum-essence-skin-serum-with-vit--c-&-niacinamide-retinol-serum-face-moisturizer-50-ml.html/08999999588601",
+      "gtin": "08999999588601",
+      "checkedAt": "2026-03-12T12:29:20.790Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-kuat-berkilau-medium-pump-430-ml.html/08999999589769",
+      "gtin": "08999999589769",
+      "checkedAt": "2026-03-12T12:29:20.568Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-anti-dandruff-ice-cool-menthol-perawatan-rambut-shampoo-anti-ketombe-sensasi-dingin-sepanjang-hari-290-ml.html/08999999589868",
+      "gtin": "08999999589868",
+      "checkedAt": "2026-03-12T12:29:20.552Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-pch-12x900-ml.html/08999999590642",
+      "gtin": "08999999590642",
+      "checkedAt": "2026-03-12T12:29:20.877Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-pouch-900-ml.html/08999999590659",
+      "gtin": "08999999590659",
+      "checkedAt": "2026-03-12T12:29:20.693Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-pump-400-ml.html/08999999591496",
+      "gtin": "08999999591496",
+      "checkedAt": "2026-03-12T12:29:20.613Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-micellar-hair-boost-sachet-480x10-ml.html/08999999591946",
+      "gtin": "08999999591946",
+      "checkedAt": "2026-03-12T12:29:20.915Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-anti-ketombe-sehat-kuat-shampoo-bottle-160-ml.html/08999999593841",
+      "gtin": "08999999593841",
+      "checkedAt": "2026-03-12T12:29:21.015Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-anti-ketombe-sehat-kuat-shampoo-bottle-320-ml.html/08999999593858",
+      "gtin": "08999999593858",
+      "checkedAt": "2026-03-12T12:29:20.664Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-anti-ketombe-sehat-kuat-shampoo-pump-400-ml.html/08999999594213",
+      "gtin": "08999999594213",
+      "checkedAt": "2026-03-12T12:29:20.670Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-anti-ketombe-sehat-kuat-shampoo-pump-650-ml.html/08999999594220",
+      "gtin": "08999999594220",
+      "checkedAt": "2026-03-12T12:29:21.010Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-hair-tonic-intensive-tmt-6x75-ml.html/08999999595357",
+      "gtin": "08999999595357",
+      "checkedAt": "2026-03-12T12:29:20.703Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-anti-ketombe-rambut-rontok-bottle-160-ml.html/08999999595463",
+      "gtin": "08999999595463",
+      "checkedAt": "2026-03-12T12:29:20.637Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-anti-ketombe-rambut-rontok-bottle-300-ml.html/08999999595470",
+      "gtin": "08999999595470",
+      "checkedAt": "2026-03-12T12:29:20.606Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-lemon-bersih-segar-bottle-400-ml.html/08999999595999",
+      "gtin": "08999999595999",
+      "checkedAt": "2026-03-12T12:29:20.664Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-anti-ketombe-rambut-rontok-sachet-10-ml.html/08999999599249",
+      "gtin": "08999999599249",
+      "checkedAt": "2026-03-12T12:29:20.585Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-multivitamin-hair-perfume-silky-smooth-spray-50-ml.html/08999999600303",
+      "gtin": "08999999600303",
+      "checkedAt": "2026-03-12T12:29:20.702Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-multivitamin-hair-perfume-silky-smooth-spray-100-ml.html/08999999600310",
+      "gtin": "08999999600310",
+      "checkedAt": "2026-03-12T12:29:20.603Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-menthol-dingin-sachet-10-ml.html/08999999601065",
+      "gtin": "08999999601065",
+      "checkedAt": "2026-03-12T12:29:20.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-anti-ketombe-sehat-kuat-shampoo-sachet-10-ml.html/08999999601461",
+      "gtin": "08999999601461",
+      "checkedAt": "2026-03-12T12:29:20.782Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-shampoo-70-ml.html/08999999604851",
+      "gtin": "08999999604851",
+      "checkedAt": "2026-03-12T12:29:20.643Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/close-up-pasta-gigi-penyegar-mulut-ever-fresh-nafas-segar-tahan-lama-65g.html/08999999707835",
+      "gtin": "08999999707835",
+      "checkedAt": "2026-03-12T12:29:21.017Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-clear-solution-pembersih-wajah-shake-&-clean-100ml.html/08999999719760",
+      "gtin": "08999999719760",
+      "checkedAt": "2026-03-12T12:29:20.775Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deo-aerosols-twist-150ml.html/09300663461769",
+      "gtin": "09300663461769",
+      "checkedAt": "2026-03-12T12:29:20.927Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-twist-deodorants-twist.html/09300666560162",
+      "gtin": "09300666560162",
+      "checkedAt": "2026-03-12T12:29:20.055Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-anarchy-for-him-deodorants-anarchy-for-him.html/09300830003853",
+      "gtin": "09300830003853",
+      "checkedAt": "2026-03-12T12:29:20.135Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deo-aerosols-anarchy-for-her-150ml.html/09300830006489",
+      "gtin": "09300830006489",
+      "checkedAt": "2026-03-12T12:29:20.803Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-black-deodorants-black.html/09300830012862",
+      "gtin": "09300830012862",
+      "checkedAt": "2026-03-12T12:29:20.124Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-antiperspirant-deodorant-body-spray-black-kesegaran-48-jam-135-ml.html/09300830022557",
+      "gtin": "09300830022557",
+      "checkedAt": "2026-03-12T12:29:20.896Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-body-serum-lotion-flawless-bright-10x-pro-retinol*-330-ml.html/09556126670654",
+      "gtin": "09556126670654",
+      "checkedAt": "2026-03-12T12:29:20.852Z"
+    }
+  ],
+  "errors": 222,
+  "duration": "50.60s",
+  "speedMetrics": "9.29 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-score-parfum-pria-150ml.html/04800888137319",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-score-parfum-pria-150ml.html/04800888137319 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-cleansing-balm-pembersih-make-up-makeup-remover-100%-organic-french-rose-extract-44ml.html/04800888211552",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:28:38.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-talcum-face-pink.html/08851932111799",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:38.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-bedak-wajah-white-glow-powder-50g.html/08851932111805",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:38.855Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-krim-wajah-10g.html/08851932181853",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-flawless-white-krim-wajah-10g.html/08851932181853 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-bedak-wajah-mattfying-powder-50g.html/08851932234429",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-bedak-wajah-mattfying-powder-50g.html/08851932234429 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-talcum-blue.html/08851932234436",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:42.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-bedak-wajah-bb-powder-50g.html/08851932301572",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:41.733Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-magic-bb-talcum.html/08851932301589",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-magic-bb-talcum.html/08851932301589 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-gold-temptation-deodorants-gold-temptation.html/08851932324229",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-gold-temptation-deodorants-gold-temptation.html/08851932324229 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-dewy-rose-gel-50g.html/08851932345736",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-flawless-white-dewy-rose-gel-50g.html/08851932345736 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932345743",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932345743 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-dewy-rose-gel-10g.html/08851932345750",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:39.497Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-flawless-white-perawatan-wajah-flawless-white.html/08851932345767",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:38.968Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-mysterious-122-ml.html/08851932376877",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-mysterious-122-ml.html/08851932376877 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-age-miracle-double-action-serum.html/08851932387255",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:38.938Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-sheet-mask-tone-up-milk-vitamin-c-25g.html/08851932396523",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:38.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-sheet-mask-tone-up-milk-honey-25g.html/08851932396530",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:42.085Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-masker-wajah-plump-up-25-g.html/08851932396547",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-masker-wajah-plump-up-25-g.html/08851932396547 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-masker-wajah-bright-up.html/08851932396554",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-masker-wajah-bright-up.html/08851932396554 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-masker-wajah-plump-up.html/08851932396578",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-masker-wajah-plump-up.html/08851932396578 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-antiseptik-hand-wash-total-10-activ-silver-formula,-bunuh-kuman-10-detik-180ml.html/08999999001049",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-antiseptik-hand-wash-total-10-activ-silver-formula,-bunuh-kuman-10-detik-180ml.html/08999999001049 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.797Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-nature-pure-250ml.html/08999999001100",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-nature-pure-250ml.html/08999999001100 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-nature-pure-100ml.html/08999999001223",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:41.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-sun-+-pollution-protection-spf25-200ml.html/08999999003043",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-sun-+-pollution-protection-spf25-200ml.html/08999999003043 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-intensive-care-hand-body-lotion-aloe-soothe-200ml.html/08999999003098",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-intensive-care-hand-body-lotion-aloe-soothe-200ml.html/08999999003098 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/close-up-pasta-gigi-fire-freeze-gaga-160g.html/08999999008482",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:41.959Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/close-up-pasta-gigi-fire-freeze-65g.html/08999999008499",
+      "error": "request to https://www.allthingsbeauty.com/id/p/close-up-pasta-gigi-fire-freeze-65g.html/08999999008499 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:46.797Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-pump-antibakteri-mild-care-activ-silver+-formula-&-milk-cream-500ml.html/08999999009595",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:39.564Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cair-sabun-mandi-antiseptic-total-10-dengan-activ-silver+-formula-500ml.html/08999999009601",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:43.671Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-hand-body-lotion-intensive-care-cocoa-radiant-mengembalikan-kilau-alami-pada-kulit-kering-400-ml.html/08999999020248",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:39.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-lemon-fresh-250ml.html/08999999027278",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.313Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-color-change-200ml.html/08999999027902",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-color-change-180ml.html/08999999027919",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-ice-cool-menthol-men-170ml.html/08999999029579-clear-shampoo",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-ice-cool-menthol-680ml.html/08999999029593-clear-shampoo",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.709Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-ice-cool-menthol-340ml.html/08999999029609-clear-shampoo",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-men-340ml.html/08999999029630-clear-shampoo",
+      "error": "request to https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-men-340ml.html/08999999029630-clear-shampoo failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:54.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-men-170ml.html/08999999029647-clear-shampoo",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-680ml.html/08999999029661-clear-shampoo",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:51.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-170ml.html/08999999029685-clear-shampoo",
+      "error": "request to https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-170ml.html/08999999029685-clear-shampoo failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:54.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-340ml.html/08999999029692-clear-shampoo",
+      "error": "request to https://www.allthingsbeauty.com/id/p/2in1-complete-soft-care-340ml.html/08999999029692-clear-shampoo failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:54.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-anti-hairfall-340ml.html/08999999029708-clear-shampoo",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.378Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-strong-&-soft-170ml.html/08999999029821-clear-shampoo",
+      "error": "request to https://www.allthingsbeauty.com/id/p/2in1-strong-&-soft-170ml.html/08999999029821-clear-shampoo failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-skin-cleansing-bar-shield-care-70g.html/08999999029852",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-skin-cleansing-bar-shield-care-70g.html/08999999029852 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-skin-cleansing-bar-shield-care-70g.html/08999999029869",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-complete-180ml.html/08999999030247",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:50.222Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-complete-250ml.html/08999999030254",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.525Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-fresh-180ml.html/08999999030261",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.140Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-fresh-250ml.html/08999999030278",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-fresh-250ml.html/08999999030278 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:54.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shower-complete-250ml.html/08999999030506",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.791Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shower-complete-300ml.html/08999999030513",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.393Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shower-fresh-250ml.html/08999999030520",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shower-fresh-300ml.html/08999999030537",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-shower-fresh-300ml.html/08999999030537 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-complete-solution-pimple-concealer-pen-1-8g.html/08999999032302",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-complete-solution-pimple-concealer-pen-1-8g.html/08999999032302 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.001Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-antiseptik-lemon-fresh-180ml.html/08999999032760",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.123Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-perawatan-rambut-rontok-bottle-70-21-ml.html/08999999033125",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-perawatan-rambut-rontok-bottle-70-21-ml.html/08999999033125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.001Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-perawatan-rambut-rontok-bottle-340-ml.html/08999999033149",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-perawatan-rambut-rontok-bottle-340-ml.html/08999999033149 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.001Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-big-pump-680-ml.html/08999999033231",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.906Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-total10-225ml.html/08999999034191",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.232Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-mild-care-225ml.html/08999999034207",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cuci-tangan-mild-care-225ml.html/08999999034207 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-cool-fresh-225ml.html/08999999034214",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-cool-fresh-225ml.html/08999999034214 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-sabun-cuci-muka-energy-charge-50g.html/08999999034689",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-pelembab-wajah-pria-krim-wajah-pria-bright-boost-hilangkan-noda-hitam-dan-wajah-tampak-lebih-cerah-sejak-pemakaian-pertama-20ml.html/08999999034788",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-pelembap-kulit-kering-nourishing-serum-180ml.html/08999999035280",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.513Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-insta-fair.html/08999999035488",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:51.852Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-insta-fair.html/08999999035495",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-insta-fair.html/08999999035495 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-night-repair.html/08999999035525",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-healthy-white-uv-hand-body-lotion-night-repair.html/08999999035525 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.051Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-bright-body-lotion-perawatan-tubuh-night-repair-mencerahkan-8-jam-200ml.html/08999999035532",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-healthy-bright-body-lotion-perawatan-tubuh-night-repair-mencerahkan-8-jam-200ml.html/08999999035532 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.051Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-deep-cleanse-men-170ml.html/08999999035815-clear-shampoo",
+      "error": "request to https://www.allthingsbeauty.com/id/p/2in1-deep-cleanse-men-170ml.html/08999999035815-clear-shampoo failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:55.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-conditioner-perawatan-rontok-12x160-ml.html/08999999037154",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:51.997Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-conditioner-anti-hair-fall-70ml.html/08999999037215",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-sabun-cuci-muka-pollution-out-50g.html/08999999041663",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:49.895Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-gel-clini-shield-complete-35ml.html/08999999045272",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-gel-clini-shield-complete-100ml.html/08999999045289",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:47.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-gel-clini-shield-fresh-35ml.html/08999999045296",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-gel-clini-shield-fresh-35ml.html/08999999045296 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.132Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-intensive-care-hand-body-lotion-advanced-stregth-200ml.html/08999999045579",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-intensive-care-hand-body-lotion-advanced-stregth-200ml.html/08999999045579 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.211Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-bar-soap-antiseptik-mild-care-100%-lebih-kuat-lawan-kuman-dengan-moisturizer-4x100-g.html/08999999045913",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:28:55.302Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-batang-bar-soap-antibakteri-mild-care-activ-silver+-formula-60g.html/08999999046989",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-batang-bar-soap-antibakteri-mild-care-activ-silver+-formula-60g.html/08999999046989 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-batang-bar-soap-antibakteri-total-10-activ-silver+-formula-60g.html/08999999046996",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-batang-bar-soap-antibakteri-total-10-activ-silver+-formula-60g.html/08999999046996 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-smoothies-rambut-hitam-berkilau-black-shine-activ-infusion-dengan-urang-aring-70-ml.html/08999999047894",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-smoothies-rambut-hitam-berkilau-black-shine-activ-infusion-dengan-urang-aring-70-ml.html/08999999047894 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-bottle-70-ml.html/08999999048174",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-bottle-70-ml.html/08999999048174 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-bottle-320-ml.html/08999999048198",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-shampoo-bottle-320-ml.html/08999999048198 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pump-650-ml.html/08999999048204",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pump-650-ml.html/08999999048204 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-bottle-320-ml.html/08999999048273",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:55.607Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-menthol-dingin-shampoo-sachet-10-ml.html/08999999048280",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-menthol-dingin-shampoo-sachet-10-ml.html/08999999048280 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-shampo-refresh-and-anti-hair-fall-solution-340ml.html/08999999048310",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-hijab-shampo-refresh-and-anti-hair-fall-solution-340ml.html/08999999048310 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-lively-strong-hairfall-solution-70ml.html/08999999048327",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-lively-strong-hairfall-solution-70ml.html/08999999048327 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-lively-strong-hairfall-solution-170ml.html/08999999048334",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-lively-strong-hairfall-solution-170ml.html/08999999048334 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-lively-straight-70ml.html/08999999048402-sunsilk-shampoo",
+      "error": "request to https://www.allthingsbeauty.com/id/p/2in1-lively-straight-70ml.html/08999999048402-sunsilk-shampoo failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-lively-straight-70ml.html/08999999048433",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:58.196Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-lively-straight-170ml.html/08999999048440",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-conditioner-lively-straight-170ml.html/08999999048440 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-anti-dandruff-70ml.html/08999999048518-sunsilk-shampoo",
+      "error": "request to https://www.allthingsbeauty.com/id/p/2in1-anti-dandruff-70ml.html/08999999048518-sunsilk-shampoo failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-sabun-cuci-muka-oil-control-100g.html/08999999053079",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-sabun-cuci-muka-oil-control-100g.html/08999999053079 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-lemon-fresh-240g.html/08999999053307",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-lemon-fresh-240g.html/08999999053307 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-total-10-60ml.html/08999999056186",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:55.417Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-pure-white-perawatan-wajah-pure-white.html/08999999056285",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-pure-white-perawatan-wajah-pure-white.html/08999999056285 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-white-beauty-krim-wajah-skin-perfecting-cream-for-normal-skin-7-5g.html/08999999056988",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-white-beauty-krim-wajah-skin-perfecting-cream-for-normal-skin-7-5g.html/08999999056988 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.268Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-liquid-hand-soap-hand-soap-4l.html/08999999397654",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:55.957Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-conditioner-sachet-5-ml.html/08999999500900",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-black-shine-conditioner-sachet-5-ml.html/08999999500900 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.268Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/2in1-sakura-fresh-170ml.html/08999999501464-clear-shampoo",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:57.664Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-lemon-fresh-110g.html/08999999501594",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-lemon-fresh-110g.html/08999999501594 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-total-damage-treatment-480-ml.html/08999999502744",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:55.600Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-total-hairfall-treatment-480-ml.html/08999999502751",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:55.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-roll-on-urban-anti-bacterial-protection-50ml.html/08999999503901",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-deodorant-roll-on-urban-anti-bacterial-protection-50ml.html/08999999503901 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.268Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-roll-on-signature-invi-protection-50ml.html/08999999503918",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-deodorant-roll-on-signature-invi-protection-50ml.html/08999999503918 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-white-beauty-sabun-cuci-muka-gentle-9g.html/08999999511272",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-white-beauty-sabun-cuci-muka-gentle-9g.html/08999999511272 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.292Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-krim-pagi-+-krim-malam-normal-20-g.html/08999999525316",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-krim-pagi-+-krim-malam-normal-20-g.html/08999999525316 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.292Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-tidak-lepek-shampoo-bottle-160-ml.html/08999999526184",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-hijab-anti-ketombe-tidak-lepek-shampoo-bottle-160-ml.html/08999999526184 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-bond-repair-shampoo-340-ml.html/08999999526337",
+      "error": "request to https://www.allthingsbeauty.com/id/p/tresemme-bond-repair-shampoo-340-ml.html/08999999526337 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.292Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-conditioner-340-ml.html/08999999526375",
+      "error": "request to https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-conditioner-340-ml.html/08999999526375 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:03.292Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-shampoo-170-ml.html/08999999526405",
+      "error": "request to https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-shampoo-170-ml.html/08999999526405 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-shampoo-670-ml.html/08999999526412",
+      "error": "request to https://www.allthingsbeauty.com/id/p/tresemme-keratin-smooth-shampoo-670-ml.html/08999999526412 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-facewash-deep-clean-100-g.html/08999999527853",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-facewash-deep-clean-100-g.html/08999999527853 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-facewash-acne-protect-100-g.html/08999999527877",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-facewash-acne-protect-100-g.html/08999999527877 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-hairfall-160-ml.html/08999999529567",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.227Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-hairfall-320-ml.html/08999999529574",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-clear-hairfall-320-ml.html/08999999529574 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.568Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-soft-care-660-ml.html/08999999529611",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-clear-soft-care-660-ml.html/08999999529611 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-bottle-160-ml.html/08999999529628",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.130Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-soft-care-480-ml.html/08999999529666",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-clear-soft-care-480-ml.html/08999999529666 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-deep-cleanse-80-ml.html/08999999529680",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:04.852Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-deep-cleanse-160-ml.html/08999999529697",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-fresh-active-bottle-300-ml.html/08999999529727",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampo-natural-black-10ml.html/08999999529802",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:03.767Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-sachet-10-ml.html/08999999529819",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-sachet-10-ml.html/08999999529819 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-cool-menthol-80-ml.html/08999999529864",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-clear-cool-menthol-80-ml.html/08999999529864 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-sakura-fresh-160-ml.html/08999999529925",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.222Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-clear-natural-black-160-ml.html/08999999529949",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-clear-natural-black-160-ml.html/08999999529949 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.632Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-sabun-mandi-cair-dark-temptation-180ml.html/08999999530150",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:03.767Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antibacterial-body-wash-matcha-lawan-acne-100%-lebih-kuat-lawan-kuman*-penyebab-jerawat-250-ml.html/08999999530228",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:29:03.754Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-matcha-100ml.html/08999999530266",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-matcha-100ml.html/08999999530266 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-matcha-110g.html/08999999530303",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:07.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-hair-styling-gel-slick-back-shine-75ml.html/08999999530471",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:07.056Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-hair-styling-pomade-perfect-control-75g.html/08999999530488",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:08.144Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-hair-styling-matte-wax-high-hold-matte-75g.html/08999999530495",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-hair-styling-matte-wax-high-hold-matte-75g.html/08999999530495 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-batang-antiseptik-matcha-75g.html/08999999530662",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:04.040Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-fresh-active-sachet-9-ml.html/08999999533434",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:08.000Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-shampo-thick-and-long-aloevera-dan-biotin-rambut-2x-lebih-panjang-340ml.html/08999999536213",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-shampo-thick-and-long-10ml.html/08999999536220",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.125Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-hair-mist-vitamin-volume-128ml.html/08999999537296",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-hair-mist-vitamin-volume-128ml.html/08999999537296 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.662Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampo-ice-cool-menthol-55ml.html/08999999538422",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampo-ice-cool-menthol-55ml.html/08999999538422 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.662Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampo-complete-soft-care-55ml.html/08999999538439",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampo-complete-soft-care-55ml.html/08999999538439 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.661Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/closeup-pasta-gigi-red-hot-160g.html/08999999540340",
+      "error": "request to https://www.allthingsbeauty.com/id/p/closeup-pasta-gigi-red-hot-160g.html/08999999540340 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.662Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-glow-up-krim-wajah-golden-sunshine-20g.html/08999999543099",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:04.052Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-hijab-pure-shampo-anti-ketombe-dan-rontok-9ml.html/08999999549121",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-hijab-pure-shampo-anti-ketombe-dan-rontok-9ml.html/08999999549121 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.662Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-superfood-hand-body-lotion-citrus-200ml.html/08999999549299",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:03.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-superfood-hand-body-lotion-cranberry-200ml.html/08999999549305",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:03.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-hand-body-lotion-green-tea-200ml.html/08999999549312",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:06.106Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-vitamin-micellar-water-makeup-remover-d-toxx-charcoal-oily-&-acne-prone-skin-100ml.html/08999999549589",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-vitamin-micellar-water-makeup-remover-d-toxx-charcoal-oily-&-acne-prone-skin-100ml.html/08999999549589 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.676Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-vitamin-micellar-water-makeup-remover-hydrating-aloe-vera-untuk-kulit-kering-100ml.html/08999999549596",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:07.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-vitamin-micellar-water-waterproof-makeup-remover-nourishing-milk-all-skin-100ml.html/08999999549602",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-vitamin-micellar-water-waterproof-makeup-remover-nourishing-milk-all-skin-100ml.html/08999999549602 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:11.676Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rambut-rusak-sx-sj-480x8-ml.html/08999999554934",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:15.829Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-men-sabun-cuci-muka-oil-blaster-100g.html/08999999555214",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-men-men-sabun-cuci-muka-oil-blaster-100g.html/08999999555214 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.797Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-pembersih-wajah-dirt-fader-100g.html/08999999555221",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:15.707Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-men-masker-wajah-dirt-fader-20g.html/08999999555238",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-men-masker-wajah-dirt-fader-20g.html/08999999555238 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampo-complete-soft-care-125ml.html/08999999555863",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampo-complete-soft-care-125ml.html/08999999555863 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampo-ice-cool-menthol-125ml.html/08999999555870",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:15.828Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-juice-pelembab-muka-moisturizer-watermelon-100%-free-alcohol-w-vite&hyaluronic-20g.html/08999999556754",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:29:11.951Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-sheet-mask-watermelon-extract-20g.html/08999999556761",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-sheet-mask-watermelon-extract-20g.html/08999999556761 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-juice-collection-pembersih-wajah-orange-nectar-90g.html/08999999556778",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-juice-collection-pembersih-wajah-orange-nectar-90g.html/08999999556778 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-juice-collection-pembersih-wajah-aloe-vera-cleanser-90g.html/08999999556808",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:15.724Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-yoghurt-care-500ml.html/08999999559519",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antiseptik-yoghurt-care-500ml.html/08999999559519 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antibacterial-body-wash-yoghurt-100%-lebih-kuat*-lawan-kuman-penyebab-gatal-400-ml.html/08999999559526",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:29:12.190Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-bright-vitamin-gel-body-serum-body-care-fresh-glow-kulit-berkilau-&-sehat-0%-alkohol-180ml.html/08999999559571",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:29:11.951Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-vitamin-body-serum-body-lotion-firm-glow-anti-aging-with-aha-&-pro-retinol-180ml.html/08999999559595",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-vitamin-body-serum-body-lotion-firm-glow-anti-aging-with-aha-&-pro-retinol-180ml.html/08999999559595 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-parfum-saku-black-17ml.html/08999999559854",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:15.684Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-antibacterial-body-wash-yoghurt-100%-lebih-kuat*-lawan-kuman-penyebab-gatal-825-ml.html/08999999562113",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:29:12.022Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/pond's-whip-facial-foam-sabun-cuci-muka-pure-bright-with-10x-collagen-serum-100-g.html/08999999562199",
+      "error": "request to https://www.allthingsbeauty.com/id/p/pond%27s-whip-facial-foam-sabun-cuci-muka-pure-bright-with-10x-collagen-serum-100-g.html/08999999562199 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-sabun-mandi-cair-body-wash-deeply-nourishing-melembapkan-kulit-825-ml.html/08999999564513",
+      "error": "request to https://www.allthingsbeauty.com/id/p/dove-sabun-mandi-cair-body-wash-deeply-nourishing-melembapkan-kulit-825-ml.html/08999999564513 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-vaseline-skin-serum-strawberry-strawverrt-200-ml.html/08999999565596",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:16.178Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-vaseline-skin-serum-blueberry-blueberry-200-ml.html/08999999565602",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-vaseline-skin-serum-blueberry-blueberry-200-ml.html/08999999565602 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.834Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-hand-cream-antibac-2-in-1-antiseptik-moisturizer-perlindungan-dari-kuman-50-ml.html/08999999566098",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-hand-cream-antibac-2-in-1-antiseptik-moisturizer-perlindungan-dari-kuman-50-ml.html/08999999566098 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-coconut-fresh-fragrant-bottle-160-ml.html/08999999568108",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampoo-coconut-fresh-fragrant-bottle-160-ml.html/08999999568108 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-black-parfum-pria-135-ml.html/08999999572693",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-black-parfum-pria-135-ml.html/08999999572693 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-antiperspirant-deodorant-body-spray-ice-chill-dengan-sensasi-dingin-48-jam-135-ml.html/08999999572730",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-antiperspirant-deodorant-body-spray-ice-chill-dengan-sensasi-dingin-48-jam-135-ml.html/08999999572730 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-rambut-berkilau-12x290-ml.html/08999999573140",
+      "error": "request to https://www.allthingsbeauty.com/id/p/dove-shampoo-rambut-berkilau-12x290-ml.html/08999999573140 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-lip-care-tinted-lip-balm-rosy-tinted-pencerah-bibir-10-gr.html/08999999574413",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-lip-care-tinted-lip-balm-rosy-tinted-pencerah-bibir-10-gr.html/08999999574413 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-cair-anti-bakteri-japanese-shiso-&-mineral-clay-sabun-mandi-cair-100%-lebih-kuat-lawan-kuman---sabun-cair-825-ml.html/08999999574994",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:29:12.227Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-anti-ketombe-12x290-ml.html/08999999575120",
+      "error": "request to https://www.allthingsbeauty.com/id/p/dove-shampoo-anti-ketombe-12x290-ml.html/08999999575120 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.834Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pump-900-ml.html/08999999578176",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pump-900-ml.html/08999999578176 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.833Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-pump-850-ml.html/08999999579838",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampoo-menthol-segar-pump-850-ml.html/08999999579838 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.834Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-pouch-1200-ml.html/08999999579869",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampoo-perawatan-komplit-pouch-1200-ml.html/08999999579869 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.834Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-6x1400-ml.html/08999999580100",
+      "error": "request to https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-6x1400-ml.html/08999999580100 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/rexona-deodorant-roll-on-antiperspirant-ice-cool-roll-on-deodorant-kesegaran*-hingga-72-jam-45-ml.html/08999999580735",
+      "error": "request to https://www.allthingsbeauty.com/id/p/rexona-deodorant-roll-on-antiperspirant-ice-cool-roll-on-deodorant-kesegaran*-hingga-72-jam-45-ml.html/08999999580735 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/rexona-deodorant-roll-on-sport-defense-45-ml.html/08999999580742",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:14.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/rexona-men-deodorant-ultimate-recharge-45-ml.html/08999999580766",
+      "error": "request to https://www.allthingsbeauty.com/id/p/rexona-men-deodorant-ultimate-recharge-45-ml.html/08999999580766 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-gluta-hya-body-serum-lotion-flawless-bright-10x-pro-retinol*-200-ml.html/08999999581930",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-gluta-hya-body-serum-lotion-flawless-bright-10x-pro-retinol*-200-ml.html/08999999581930 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/tresemme-dry-texture-spray-141-gr.html/08999999582630",
+      "error": "request to https://www.allthingsbeauty.com/id/p/tresemme-dry-texture-spray-141-gr.html/08999999582630 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:19.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-sabun-mandi-cair-body-wash-+-shampoo-+-face-wash-3-in-1-lawan-99-9%-kuman-250-ml.html/08999999583538",
+      "error": "HTTP Error: 400 Bad Request",
+      "checkedAt": "2026-03-12T12:29:20.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-sabun-mandi-cair-body-wash-deeply-nourishing-melembapkan-kulit-400-ml-x-2.html/08999999583897",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:20.136Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-perawatan-rontok-12x430-ml.html/08999999584191",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:22.723Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-micellar-hair-boost-24x290-ml.html/08999999584214",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:20.582Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-micellar-hair-boost-12x430-ml.html/08999999584238",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:20.160Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-lemon-dingin-bottle-340-ml.html/08999999585990",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-lemon-dingin-bottle-340-ml.html/08999999585990 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.956Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-lemon-dingin-bottle-170-ml.html/08999999586904",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:20.675Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-body-serum-lotion-overnight-radiance-repair-serum-body-lotion-amino-peptide-complex-330-ml.html/08999999590055",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:21.079Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pouch-900-ml.html/08999999590666",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pouch-900-ml.html/08999999590666 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.956Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pump-400-ml.html/08999999591502",
+      "error": "request to https://www.allthingsbeauty.com/id/p/sunsilk-soft-smooth-shampoo-pump-400-ml.html/08999999591502 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/sunsilk-anti-ketombe-sehat-kuat-shampoo-bottle-70-ml.html/08999999593865",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:20.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-shampoo-micellar-hair-boost-24x135-ml.html/08999999595425",
+      "error": "request to https://www.allthingsbeauty.com/id/p/dove-shampoo-micellar-hair-boost-24x135-ml.html/08999999595425 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/clear-shampoo-anti-ketombe-rambut-rontok-pump-660-ml.html/08999999595494",
+      "error": "request to https://www.allthingsbeauty.com/id/p/clear-shampoo-anti-ketombe-rambut-rontok-pump-660-ml.html/08999999595494 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-menthol-dingin-bottle-170-ml.html/08999999598563",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:20.628Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-menthol-dingin-bottle-340-ml.html/08999999598570",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:20.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-lemon-dingin-sachet-10-ml.html/08999999601027",
+      "error": "request to https://www.allthingsbeauty.com/id/p/lifebuoy-shampoo-anti-ketombe-lemon-dingin-sachet-10-ml.html/08999999601027 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.994Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/close-up-pasta-gigi-icy-white-65g.html/08999999706449",
+      "error": "request to https://www.allthingsbeauty.com/id/p/close-up-pasta-gigi-icy-white-65g.html/08999999706449 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-acne-blemish-lightening-cream-20g.html/08999999717520",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-white-beauty-acne-blemish-lightening-cream-20g.html/08999999717520 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.992Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-healthy-bright-hand-body-lotion-water-resistant-sunblock-spf-30-pa++-formula-anti-lengket-100-ml.html/08999999719081",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-healthy-bright-hand-body-lotion-water-resistant-sunblock-spf-30-pa++-formula-anti-lengket-100-ml.html/08999999719081 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/ponds-white-beauty-toner-wajah-lightening-toner-150ml.html/08999999720094",
+      "error": "request to https://www.allthingsbeauty.com/id/p/ponds-white-beauty-toner-wajah-lightening-toner-150ml.html/08999999720094 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-anarchy-for-her-deodorants-anarchy-for-her.html/09300830003860",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-anarchy-for-her-deodorants-anarchy-for-her.html/09300830003860 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-body-spray-anarchy-for-him-150ml.html/09300830006472",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:20.709Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-body-spray-apollo-150ml.html/09300830007813",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:29:20.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-apollo-deodorants-apollo.html/09300830010950",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-apollo-deodorants-apollo.html/09300830010950 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:27.993Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-gold-temptation-deodorants-gold-temptation.html/09300830011537",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-gold-temptation-deodorants-gold-temptation.html/09300830011537 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.026Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/dove-deodorant-original.html/09300830014781",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:20.223Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-gold-temptation-parfum-pria-135ml.html/09300830019380",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-gold-temptation-parfum-pria-135ml.html/09300830019380 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-body-spray-you-150ml.html/09300830038527",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-deodorant-body-spray-you-150ml.html/09300830038527 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-you-cool-charge.html/09300830038947",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-you-cool-charge.html/09300830038947 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-body-spray-cool-charge-150ml.html/09300830043521",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:29:20.150Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-you-cool-charge.html/09300830043538",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-deodorant-bodyspray-you-cool-charge.html/09300830043538 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-ice-chill-parfum-pria-dengan-kesegaran-48-jam-135ml.html/09300830049073",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-ice-chill-parfum-pria-dengan-kesegaran-48-jam-135ml.html/09300830049073 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/axe-deodorant-body-spray-harumkan-indonesia-150ml.html/09300830050451",
+      "error": "request to https://www.allthingsbeauty.com/id/p/axe-deodorant-body-spray-harumkan-indonesia-150ml.html/09300830050451 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingsbeauty.com/id/p/vaseline-body-serum-lotion-dewy-radiance-10x-niacinamide*-330-ml.html/09556126670661",
+      "error": "request to https://www.allthingsbeauty.com/id/p/vaseline-body-serum-lotion-dewy-radiance-10x-niacinamide*-330-ml.html/09556126670661 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:29:28.028Z"
+    }
+  ]
+}

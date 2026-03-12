@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-03-12T12:28:36.052Z",
+  "brand": "walls",
+  "assortmentCode": "BF1055",
+  "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/twister-mallow-j%C3%A4%C3%A4tel%C3%B6puikko-80ml.html/08711327661509",
+      "gtin": "08711327661509",
+      "checkedAt": "2026-03-12T12:28:28.380Z"
+    }
+  ]
+}

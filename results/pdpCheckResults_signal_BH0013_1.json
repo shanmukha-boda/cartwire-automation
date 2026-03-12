@@ -1,0 +1,316 @@
+{
+  "generatedAt": "2026-03-12T12:28:26.546Z",
+  "brand": "signal",
+  "assortmentCode": "BH0013",
+  "feedUrl": "https://www.aim.gr/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system.html/00000052015298",
+      "gtin": "00000052015298",
+      "checkedAt": "2026-03-12T12:28:19.132Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/crystal-gel.html/05201028124104",
+      "gtin": "05201028124104",
+      "checkedAt": "2026-03-12T12:28:19.822Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-antibac-%2B-white.html/08710522404805",
+      "gtin": "08710522404805",
+      "checkedAt": "2026-03-12T12:28:19.092Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-smile-detox.html/08710522664360",
+      "gtin": "08710522664360",
+      "checkedAt": "2026-03-12T12:28:19.461Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/family-protection-white.html/08710908436758",
+      "gtin": "08710908436758",
+      "checkedAt": "2026-03-12T12:28:19.560Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/family-protection-anticavity.html/08711600365698",
+      "gtin": "08711600365698",
+      "checkedAt": "2026-03-12T12:28:19.242Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-charcoal.html/08720181268731",
+      "gtin": "08720181268731",
+      "checkedAt": "2026-03-12T12:28:19.092Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-bamboo-salt.html/08720181268755",
+      "gtin": "08720181268755",
+      "checkedAt": "2026-03-12T12:28:19.935Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-charcoal-x2.html/08720181772221",
+      "gtin": "08720181772221",
+      "checkedAt": "2026-03-12T12:28:19.474Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/kids-0-6-x3.html/08720181772238",
+      "gtin": "08720181772238",
+      "checkedAt": "2026-03-12T12:28:19.904Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/gentle-care-x4.html/08720181772245",
+      "gtin": "08720181772245",
+      "checkedAt": "2026-03-12T12:28:19.452Z"
+    }
+  ],
+  "errors": 39,
+  "duration": "9.70s",
+  "speedMetrics": "5.15 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system.html/00000052015304",
+      "error": "request to https://www.aim.gr/p/white-system.html/00000052015304 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system.html/05201028118950",
+      "error": "request to https://www.aim.gr/p/white-system.html/05201028118950 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/gentle-care.html/08710522681657",
+      "error": "request to https://www.aim.gr/p/gentle-care.html/08710522681657 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-carboncorrect.html/08710908837500",
+      "error": "request to https://www.aim.gr/p/white-now-carboncorrect.html/08710908837500 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/anti-plaque.html/08711600396357",
+      "error": "request to https://www.aim.gr/p/anti-plaque.html/08711600396357 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/anti-plaque-x2.html/08711700809580",
+      "error": "request to https://www.aim.gr/p/anti-plaque-x2.html/08711700809580 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/vertical-expert.html/08711700968904",
+      "error": "request to https://www.aim.gr/p/vertical-expert.html/08711700968904 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/vertical-expert.html/08711700968997",
+      "error": "request to https://www.aim.gr/p/vertical-expert.html/08711700968997 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system-enamel.html/08712561360432",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:24.248Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now.html/08712561877664",
+      "error": "request to https://www.aim.gr/p/white-now.html/08712561877664 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-ice-mint.html/08712561877695",
+      "error": "request to https://www.aim.gr/p/white-now-ice-mint.html/08712561877695 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/family-protection-herbal.html/08717163434062",
+      "error": "request to https://www.aim.gr/p/family-protection-herbal.html/08717163434062 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system-x2.html/08718114143422",
+      "error": "request to https://www.aim.gr/p/white-system-x2.html/08718114143422 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-ultra-reach-edition.html/08718114256474",
+      "error": "request to https://www.aim.gr/p/white-now-ultra-reach-edition.html/08718114256474 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensitive-expert.html/08718114580005",
+      "error": "request to https://www.aim.gr/p/sensitive-expert.html/08718114580005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/ultra-reach.html/08718114584782",
+      "error": "request to https://www.aim.gr/p/ultra-reach.html/08718114584782 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/classic-fresh.html/08718114585215",
+      "error": "request to https://www.aim.gr/p/classic-fresh.html/08718114585215 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-shiny-white.html/08720181125935",
+      "error": "request to https://www.aim.gr/p/white-now-shiny-white.html/08720181125935 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/comfort-plus-x3.html/08720181147500",
+      "error": "request to https://www.aim.gr/p/comfort-plus-x3.html/08720181147500 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensisoft-clean.html/08720181268748",
+      "error": "request to https://www.aim.gr/p/sensisoft-clean.html/08720181268748 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensisoft-sensitive.html/08720181268762",
+      "error": "request to https://www.aim.gr/p/sensisoft-sensitive.html/08720181268762 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system-charcoal.html/08720181436284",
+      "error": "request to https://www.aim.gr/p/white-system-charcoal.html/08720181436284 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-ultra-whitening.html/08720181470233",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-extra-fresh.html/08720181470240",
+      "error": "request to https://www.aim.gr/p/complete-8-actions-extra-fresh.html/08720181470240 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-complete-protection.html/08720181470257",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-deep-clean.html/08720181470264",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/kids-0-6.html/08720181501371",
+      "error": "request to https://www.aim.gr/p/kids-0-6.html/08720181501371 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/junior-6-13.html/08720181501388",
+      "error": "request to https://www.aim.gr/p/junior-6-13.html/08720181501388 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/junior-6-13.html/08720181502866",
+      "error": "request to https://www.aim.gr/p/junior-6-13.html/08720181502866 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/kids-0-6.html/08720181502873",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:26.457Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/classic-fresh-(2x2)-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%AE.html/08720181534416",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/%CE%B1nti-plaque-(2x2)-%CE%BC%CE%AD%CF%84%CF%81%CE%B9%CE%B1.html/08720181534423",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:26.129Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system-charcoal-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%AE.html/08720181534430",
+      "error": "request to https://www.aim.gr/p/white-system-charcoal-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%AE.html/08720181534430 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1.html/08720181697005",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.555Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-white-boost.html/08720181697050",
+      "error": "request to https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-white-boost.html/08720181697050 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-forever-young.html/08720181697722",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-hello-glow.html/08720181697739",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.547Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-shine-with-care.html/08720181697760",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:28:18.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-fresh-kiss.html/08720181698118",
+      "error": "request to https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-fresh-kiss.html/08720181698118 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.545Z"
+    }
+  ]
+}

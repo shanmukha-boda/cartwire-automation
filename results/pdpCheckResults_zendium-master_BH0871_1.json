@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-03-12T12:28:28.348Z",
+  "brand": "zendium-master",
+  "assortmentCode": "BH0871",
+  "feedUrl": "https://www.zendium.nl/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.zendium.nl/p/classic-tandpasta-75-ml.html/08710604793568",
+      "gtin": "08710604793568",
+      "checkedAt": "2026-03-12T12:28:22.413Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zendium.nl/p/junior-tandpasta-5-12-jaar-50-ml.html/08710604793612",
+      "gtin": "08710604793612",
+      "checkedAt": "2026-03-12T12:28:23.947Z"
+    }
+  ],
+  "errors": 7,
+  "duration": "8.52s",
+  "speedMetrics": "1.06 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.zendium.nl/p/extra-fresh-tandpasta-75ml.html/08710604793575",
+      "error": "request to https://www.zendium.nl/p/extra-fresh-tandpasta-75ml.html/08710604793575 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zendium.nl/p/fresh-white-tandpasta-75-ml.html/08710604793582",
+      "error": "request to https://www.zendium.nl/p/fresh-white-tandpasta-75-ml.html/08710604793582 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zendium.nl/p/sensitive-tandpasta-75-ml.html/08710604793599",
+      "error": "request to https://www.zendium.nl/p/sensitive-tandpasta-75-ml.html/08710604793599 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zendium.nl/p/sensitive-whitener-tandpasta-75-ml.html/08710604793605",
+      "error": "request to https://www.zendium.nl/p/sensitive-whitener-tandpasta-75-ml.html/08710604793605 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zendium.nl/p/kids-nijntje-0-5jr-tandpasta-50ml.html/08710604793629",
+      "error": "request to https://www.zendium.nl/p/kids-nijntje-0-5jr-tandpasta-50ml.html/08710604793629 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zendium.nl/p/tandvlees-protect-tandpasta-75-ml.html/08710604793636",
+      "error": "request to https://www.zendium.nl/p/tandvlees-protect-tandpasta-75-ml.html/08710604793636 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zendium.nl/p/classic-mondwater-500-ml.html/08710604793971",
+      "error": "request to https://www.zendium.nl/p/classic-mondwater-500-ml.html/08710604793971 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.348Z"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-03-12T12:28:26.537Z",
+  "brand": "smile",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal-zahnpflege.de/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnb%C3%BCrste-0-6-jahre-extra-soft-trio.html/08720181502811",
+      "gtin": "08720181502811",
+      "checkedAt": "2026-03-12T12:28:19.098Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnb%C3%BCrste-6-13-jahre-extra-soft.html/08720181502828",
+      "gtin": "08720181502828",
+      "checkedAt": "2026-03-12T12:28:19.135Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-sport-gel-fresh-xxl.html/08718114436395",
+      "gtin": "08718114436395",
+      "checkedAt": "2026-03-12T12:28:19.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-cool-mint-xxl.html/08720181323577",
+      "gtin": "08720181323577",
+      "checkedAt": "2026-03-12T12:28:19.100Z"
+    }
+  ],
+  "errors": 11,
+  "duration": "8.82s",
+  "speedMetrics": "1.70 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now.html/08712561437370",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now.html/08712561437370 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now-time-correct.html/08720181327186",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.874Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnpasta-0-6-jahre-mit-fruchtgeschmack.html/08720181501456",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-kids-zahnpasta-0-6-jahre-mit-fruchtgeschmack.html/08720181501456 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnpasta-6-13-jahre-milde-minze.html/08720181501760",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-junior-zahnpasta-6-13-jahre-milde-minze.html/08720181501760 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.328Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnpasta-6-13-jahre-rote-fr%C3%BCchte.html/08720181501777",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnb%C3%BCrste-6-13-jahre-extra-soft-trio.html/08720181502804",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-junior-zahnb%C3%BCrste-6-13-jahre-extra-soft-trio.html/08720181502804 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.537Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnb%C3%BCrste-0-6-jahre-extra-soft.html/08720181502835",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:21.867Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz.html/08720181323539",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz.html/08720181323539 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.537Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-sport-gel-fresh.html/08720181323546",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-zahnpasta-sport-gel-fresh.html/08720181323546 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-cool-mint.html/08720181323553",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-zahnpasta-cool-mint.html/08720181323553 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz-xxl.html/08720181323560",
+      "error": "request to https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz-xxl.html/08720181323560 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.537Z"
+    }
+  ]
+}

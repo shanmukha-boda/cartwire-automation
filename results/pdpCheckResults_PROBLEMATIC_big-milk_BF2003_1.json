@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-03-12T12:28:23.371Z",
+  "brand": "big-milk",
+  "assortmentCode": "BF2003",
+  "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+  "totalProblematicPages": 6,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-slony-karmel-intense.html/08711327334601",
+      "gtin": "08711327334601",
+      "checkedAt": "2026-03-12T12:28:15.767Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-owoce-egotyczne-intense.html/08711327532755",
+      "gtin": "08711327532755",
+      "checkedAt": "2026-03-12T12:28:16.208Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-ciasteczko-intense.html/08711327624306",
+      "gtin": "08711327624306",
+      "checkedAt": "2026-03-12T12:28:15.971Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327667570",
+      "gtin": "08711327667570",
+      "checkedAt": "2026-03-12T12:28:15.897Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-wafelek.html/08711327669819",
+      "gtin": "08711327669819",
+      "checkedAt": "2026-03-12T12:28:15.884Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-jagoda-%C5%9Bmietanka.html/08711327672949",
+      "gtin": "08711327672949",
+      "checkedAt": "2026-03-12T12:28:15.968Z"
+    }
+  ]
+}

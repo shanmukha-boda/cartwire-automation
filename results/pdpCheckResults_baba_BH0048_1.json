@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-03-12T12:28:30.451Z",
+  "brand": "baba",
+  "assortmentCode": "BH0048",
+  "feedUrl": "https://www.baba.hu/home.productfeed.json",
+  "totalUrlsChecked": 62,
+  "problematicPagesFound": 5,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-nyugtato-tusfuerd-levendula-es-vanilia-illat-400-ml.html/08720181464171",
+      "gtin": "08720181464171",
+      "checkedAt": "2026-03-12T12:28:23.501Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-nyugtato-tusfuerd-levendula-es-vanilia-illat-750-ml.html/08720181464188",
+      "gtin": "08720181464188",
+      "checkedAt": "2026-03-12T12:28:23.672Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-vadszeder-es-gyoember-illat-2in1-750-ml.html/08720181464195",
+      "gtin": "08720181464195",
+      "checkedAt": "2026-03-12T12:28:23.584Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-malna-es-rozsafa-illat-750-ml.html/08720181464201",
+      "gtin": "08720181464201",
+      "checkedAt": "2026-03-12T12:28:23.562Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bogyosgyumolcs-illat-400-ml.html/08720181637957",
+      "gtin": "08720181637957",
+      "checkedAt": "2026-03-12T12:28:23.502Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-lanolin-400-ml.html/05996037081394",
+      "gtin": "05996037081394",
+      "checkedAt": "2026-03-12T12:28:23.585Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-kamilla-es-mez-400-ml.html/05996358011865",
+      "gtin": "05996358011865",
+      "checkedAt": "2026-03-12T12:28:23.628Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-sampon-2in1-kokuszolajjal-400-ml.html/08710447462720",
+      "gtin": "08710447462720",
+      "checkedAt": "2026-03-12T12:28:23.626Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-sampon-2in1-mandulaolajjal-400-ml.html/08710447462737",
+      "gtin": "08710447462737",
+      "checkedAt": "2026-03-12T12:28:23.692Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-konnymentes-gyereksampon-400-ml.html/08710447462744",
+      "gtin": "08710447462744",
+      "checkedAt": "2026-03-12T12:28:23.561Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-sampon-avokadoolajjal-400-ml.html/08710447462768",
+      "gtin": "08710447462768",
+      "checkedAt": "2026-03-12T12:28:23.502Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-sampon-zoeldtea-kivonattal-400-ml.html/08710447462775",
+      "gtin": "08710447462775",
+      "checkedAt": "2026-03-12T12:28:23.581Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-sampon-gyogynovenyekkel-400-ml.html/08710447462782",
+      "gtin": "08710447462782",
+      "checkedAt": "2026-03-12T12:28:23.628Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bodza-es-rozsaviz-illat-400-ml.html/08710847953798",
+      "gtin": "08710847953798",
+      "checkedAt": "2026-03-12T12:28:23.710Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-kamilla-250-ml.html/08710908194528",
+      "gtin": "08710908194528",
+      "checkedAt": "2026-03-12T12:28:23.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-cseresznye-illat-400-ml.html/08710908324079",
+      "gtin": "08710908324079",
+      "checkedAt": "2026-03-12T12:28:23.647Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kenyezteto-tusfurdo-tej-es-gyumolcs-illat-400-ml.html/08710908324147",
+      "gtin": "08710908324147",
+      "checkedAt": "2026-03-12T12:28:23.683Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-tej-es-gyuemoelcs-750-ml.html/08710908324451",
+      "gtin": "08710908324451",
+      "checkedAt": "2026-03-12T12:28:23.584Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kenyezteto-tusfurdo-magnolia-illat-750-ml.html/08710908828577",
+      "gtin": "08710908828577",
+      "checkedAt": "2026-03-12T12:28:23.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-frissit-menta-2in1-750-ml.html/08711600390140",
+      "gtin": "08711600390140",
+      "checkedAt": "2026-03-12T12:28:23.476Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-kakaovaj-400-ml.html/08711600748934",
+      "gtin": "08711600748934",
+      "checkedAt": "2026-03-12T12:28:23.502Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-kakaovaj-750-ml.html/08711600748965",
+      "gtin": "08711600748965",
+      "checkedAt": "2026-03-12T12:28:23.477Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-kamilla-500-ml.html/08711700676823",
+      "gtin": "08711700676823",
+      "checkedAt": "2026-03-12T12:28:23.582Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-tej-es-gyumolcs-500-ml.html/08711700677219",
+      "gtin": "08711700677219",
+      "checkedAt": "2026-03-12T12:28:23.476Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-zoldcitrom-es-menta-illat-400-ml.html/08712561021807",
+      "gtin": "08712561021807",
+      "checkedAt": "2026-03-12T12:28:23.577Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-vadszeder-es-gyoember-illat-2in1-400-ml.html/08712561398893",
+      "gtin": "08712561398893",
+      "checkedAt": "2026-03-12T12:28:23.677Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-sheavaj-es-narancsvirag-illat-400-ml.html/08712561399074",
+      "gtin": "08712561399074",
+      "checkedAt": "2026-03-12T12:28:23.608Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-sheavaj-es-narancsvirag-illat-750-ml.html/08712561399159",
+      "gtin": "08712561399159",
+      "checkedAt": "2026-03-12T12:28:23.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-gyongyvirag-es-viola-illat-400-ml.html/08712561399234",
+      "gtin": "08712561399234",
+      "checkedAt": "2026-03-12T12:28:23.608Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-aloe-veras-frissito-testapolo-400-ml.html/08712561672511",
+      "gtin": "08712561672511",
+      "checkedAt": "2026-03-12T12:28:23.583Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kakaovajas-kenyeztet-testapolo-400-ml.html/08712561672535",
+      "gtin": "08712561672535",
+      "checkedAt": "2026-03-12T12:28:23.476Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-melyhidratalo-testapolo-400ml.html/08712561684521",
+      "gtin": "08712561684521",
+      "checkedAt": "2026-03-12T12:28:23.577Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kamillas-nyugtato-testapolo-400-ml.html/08712561704489",
+      "gtin": "08712561704489",
+      "checkedAt": "2026-03-12T12:28:23.672Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-intenziv-testapolo-400ml.html/08712561704502",
+      "gtin": "08712561704502",
+      "checkedAt": "2026-03-12T12:28:23.677Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-kakaovaj-750-ml.html/08712561772983",
+      "gtin": "08712561772983",
+      "checkedAt": "2026-03-12T12:28:23.584Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-tengeri-asvany-2in1-750-ml.html/08712561773072",
+      "gtin": "08712561773072",
+      "checkedAt": "2026-03-12T12:28:23.692Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-gorogdinnye-illat-400-ml.html/08717163761182",
+      "gtin": "08717163761182",
+      "checkedAt": "2026-03-12T12:28:23.477Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-lanolin-750-ml.html/08717644119938",
+      "gtin": "08717644119938",
+      "checkedAt": "2026-03-12T12:28:23.583Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-kamilla-es-mez-750-ml.html/08717644120224",
+      "gtin": "08717644120224",
+      "checkedAt": "2026-03-12T12:28:23.584Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-lanolin-750-ml.html/08717644192917",
+      "gtin": "08717644192917",
+      "checkedAt": "2026-03-12T12:28:23.577Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-kamilla-es-mez-750-ml.html/08717644192948",
+      "gtin": "08717644192948",
+      "checkedAt": "2026-03-12T12:28:23.608Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-frissit-menta-2in1-400-ml.html/08717644485910",
+      "gtin": "08717644485910",
+      "checkedAt": "2026-03-12T12:28:23.561Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-tengeri-asvany-2in1-400-ml.html/08717644966594",
+      "gtin": "08717644966594",
+      "checkedAt": "2026-03-12T12:28:23.677Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-aloe-vera-es-avokado-400-ml.html/08720181012907",
+      "gtin": "08720181012907",
+      "checkedAt": "2026-03-12T12:28:23.503Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-antibakterialis-osszetevovel-gyomber-400-ml.html/08720181074059",
+      "gtin": "08720181074059",
+      "checkedAt": "2026-03-12T12:28:23.577Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-antibakterialis-lime-250-ml.html/08720181109201",
+      "gtin": "08720181109201",
+      "checkedAt": "2026-03-12T12:28:23.584Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-lime-500-ml.html/08720181109218",
+      "gtin": "08720181109218",
+      "checkedAt": "2026-03-12T12:28:23.577Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bodza-es-rozsaviz-illat-750-ml.html/08720181144592",
+      "gtin": "08720181144592",
+      "checkedAt": "2026-03-12T12:28:23.601Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kenyeztet_-tusfuerd-malna-es-rozsafa-400-ml.html/08720181209550",
+      "gtin": "08720181209550",
+      "checkedAt": "2026-03-12T12:28:23.710Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kenyeztet_-tusfuerd-malna-es-rozsafa-750-ml.html/08720181209567",
+      "gtin": "08720181209567",
+      "checkedAt": "2026-03-12T12:28:23.584Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-kenyezteto-tusfurdo-edesmandula-illat-400-ml.html/08720181338182",
+      "gtin": "08720181338182",
+      "checkedAt": "2026-03-12T12:28:23.562Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-szappan-jazmin-90-g.html/08720181392450",
+      "gtin": "08720181392450",
+      "checkedAt": "2026-03-12T12:28:23.672Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-szappan-lanolin-90-g.html/08720181392467",
+      "gtin": "08720181392467",
+      "checkedAt": "2026-03-12T12:28:23.660Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.baba.hu/p/baba-szappan-lanolin-4x90-g.html/08720181392474",
+      "gtin": "08720181392474",
+      "checkedAt": "2026-03-12T12:28:23.642Z"
+    }
+  ],
+  "errors": 3,
+  "duration": "9.73s",
+  "speedMetrics": "6.37 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfurdo-erzekeny-borre-3in1-400-ml.html/08720181637964",
+      "gtin": "08720181637964",
+      "checkedAt": "2026-03-12T12:28:23.502Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bogyosgyumolcs-illat-750-ml.html/08720181637971",
+      "gtin": "08720181637971",
+      "checkedAt": "2026-03-12T12:28:23.503Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-500-ml.html/08720181740343",
+      "gtin": "08720181740343",
+      "checkedAt": "2026-03-12T12:28:23.578Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-antibakterialis-eukaliptusz-250-ml.html/08720181740367",
+      "gtin": "08720181740367",
+      "checkedAt": "2026-03-12T12:28:23.477Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-750-ml.html/08720181741067",
+      "gtin": "08720181741067",
+      "checkedAt": "2026-03-12T12:28:23.501Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-zoldcitrom-es-menta-illat-750-ml.html/08712561021883",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:22.734Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-volumennovelo-sampon-uborka-kivonattal-400-ml.html/08720181074394",
+      "error": "request to https://www.baba.hu/p/baba-volumennovelo-sampon-uborka-kivonattal-400-ml.html/08720181074394 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.451Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-utantolto-lanolin-500-ml.html/08720181350900",
+      "error": "request to https://www.baba.hu/p/baba-kremtusfurdo-utantolto-lanolin-500-ml.html/08720181350900 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:30.451Z"
+    }
+  ]
+}

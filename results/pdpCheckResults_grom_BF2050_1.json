@@ -1,0 +1,436 @@
+{
+  "generatedAt": "2026-03-12T12:28:29.103Z",
+  "brand": "grom",
+  "assortmentCode": "BF2050",
+  "feedUrl": "https://www.gromgelato.com/it/it/home.productfeed.json",
+  "totalUrlsChecked": 70,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/tiramis%C3%B9.html/01000000000014",
+      "gtin": "01000000000014",
+      "checkedAt": "2026-03-12T12:28:21.299Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/caramello-al-sale.html/01000000000015",
+      "gtin": "01000000000015",
+      "checkedAt": "2026-03-12T12:28:21.464Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/cassata-siciliana.html/01000000000016",
+      "gtin": "01000000000016",
+      "checkedAt": "2026-03-12T12:28:21.392Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/cocco.html/01000000000018",
+      "gtin": "01000000000018",
+      "checkedAt": "2026-03-12T12:28:21.573Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/cheesecake-alle-amarene.html/01000000000121",
+      "gtin": "01000000000121",
+      "checkedAt": "2026-03-12T12:28:21.371Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/yogurt-croccante.html/01000000000132",
+      "gtin": "01000000000132",
+      "checkedAt": "2026-03-12T12:28:21.353Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato-e-mandorle.html/01000000000137",
+      "gtin": "01000000000137",
+      "checkedAt": "2026-03-12T12:28:21.416Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-al-limone.html/01000000000150",
+      "gtin": "01000000000150",
+      "checkedAt": "2026-03-12T12:28:21.405Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/mango.html/01000000081089",
+      "gtin": "01000000081089",
+      "checkedAt": "2026-03-12T12:28:21.282Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/colomba.html/01000000081094",
+      "gtin": "01000000081094",
+      "checkedAt": "2026-03-12T12:28:21.335Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/panettone.html/01000000081099",
+      "gtin": "01000000081099",
+      "checkedAt": "2026-03-12T12:28:21.324Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/pera.html/01000000081534",
+      "gtin": "01000000081534",
+      "checkedAt": "2026-03-12T12:28:21.495Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/fior-di-panna.html/08711327510388",
+      "gtin": "08711327510388",
+      "checkedAt": "2026-03-12T12:28:24.169Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/08711327510432",
+      "gtin": "08711327510432",
+      "checkedAt": "2026-03-12T12:28:24.926Z"
+    }
+  ],
+  "errors": 56,
+  "duration": "9.37s",
+  "speedMetrics": "7.47 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/crema-di-grom.html/01000000000001",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.442Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/crema-come-una-volta.html/01000000000002",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato.html/01000000000003",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.395Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8.html/01000000000004",
+      "error": "request to https://www.gromgelato.com/it/it/p/caff%C3%A8.html/01000000000004 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato-extranoir.html/01000000000005",
+      "error": "request to https://www.gromgelato.com/it/it/p/cioccolato-extranoir.html/01000000000005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/gianduia.html/01000000000007",
+      "error": "request to https://www.gromgelato.com/it/it/p/gianduia.html/01000000000007 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.102Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/nocciola.html/01000000000008",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/01000000000009",
+      "error": "request to https://www.gromgelato.com/it/it/p/pistacchio.html/01000000000009 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.703Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/stracciatella.html/01000000000011",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.130Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/yogurt.html/01000000000013",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.393Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/vaniglia.html/01000000000017",
+      "error": "request to https://www.gromgelato.com/it/it/p/vaniglia.html/01000000000017 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.703Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caramello-e-mandorle.html/01000000000019",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.583Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/lampone.html/01000000000020",
+      "error": "request to https://www.gromgelato.com/it/it/p/lampone.html/01000000000020 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.703Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cheesecake-alle-fragole.html/01000000000021",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.395Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/marron-glac%C3%A9.html/01000000000022",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.176Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/limone.html/01000000000023",
+      "error": "request to https://www.gromgelato.com/it/it/p/limone.html/01000000000023 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fragola.html/01000000000024",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.679Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/marocchino.html/01000000000049",
+      "error": "request to https://www.gromgelato.com/it/it/p/marocchino.html/01000000000049 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/ricotta-e-fichi.html/01000000000122",
+      "error": "request to https://www.gromgelato.com/it/it/p/ricotta-e-fichi.html/01000000000122 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.102Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/malaga.html/01000000000123",
+      "error": "request to https://www.gromgelato.com/it/it/p/malaga.html/01000000000123 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/stracciatella-amarena-e-meringhe.html/01000000000124",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.763Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/stracciatella-al-cocco.html/01000000000125",
+      "error": "request to https://www.gromgelato.com/it/it/p/stracciatella-al-cocco.html/01000000000125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:28.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-alla-fragola.html/01000000000126",
+      "error": "request to https://www.gromgelato.com/it/it/p/meringata-alla-fragola.html/01000000000126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pera-e-granella-di-cioccolato.html/01000000000127",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pera-e-rum.html/01000000000128",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.720Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/variegato-all%E2%80%99amarena-con-granella-di-cioccolato.html/01000000000129",
+      "error": "request to https://www.gromgelato.com/it/it/p/variegato-all%E2%80%99amarena-con-granella-di-cioccolato.html/01000000000129 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/yogurt-con-fragole-e-nocciole.html/01000000000131",
+      "error": "request to https://www.gromgelato.com/it/it/p/yogurt-con-fragole-e-nocciole.html/01000000000131 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8-variegato-al-gianduia.html/01000000000134",
+      "error": "request to https://www.gromgelato.com/it/it/p/caff%C3%A8-variegato-al-gianduia.html/01000000000134 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cannella-e-noci-pecan.html/01000000000135",
+      "error": "request to https://www.gromgelato.com/it/it/p/cannella-e-noci-pecan.html/01000000000135 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caramello-e-noci-pecan.html/01000000000136",
+      "error": "request to https://www.gromgelato.com/it/it/p/caramello-e-noci-pecan.html/01000000000136 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/crema-e-amaretti.html/01000000000138",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.452Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cremino.html/01000000000141",
+      "error": "request to https://www.gromgelato.com/it/it/p/cremino.html/01000000000141 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fiordilatte-croccante.html/01000000000142",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fiordilatte-variegato-al-gianduia.html/01000000000143",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.112Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fiordilatte-variegato-al-pistacchio.html/01000000000144",
+      "error": "request to https://www.gromgelato.com/it/it/p/fiordilatte-variegato-al-pistacchio.html/01000000000144 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio-variegato-al-gianduia.html/01000000000147",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.478Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-vaniglia-e-amarene.html/01000000000224",
+      "error": "request to https://www.gromgelato.com/it/it/p/meringata-vaniglia-e-amarene.html/01000000000224 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-al-marron-glac%C3%A9.html/01000000000345",
+      "error": "request to https://www.gromgelato.com/it/it/p/meringata-al-marron-glac%C3%A9.html/01000000000345 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/vaniglia-albicocca-e-nocciola-pralinata.html/01000000001125",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-cioccolato-e-nocciole.html/01000000081091",
+      "error": "request to https://www.gromgelato.com/it/it/p/meringata-cioccolato-e-nocciole.html/01000000081091 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato-e-fragole.html/01000000081092",
+      "error": "request to https://www.gromgelato.com/it/it/p/cioccolato-e-fragole.html/01000000081092 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/crema-ai-frutti-di-bosco.html/01000000081095",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/torta-sacher.html/01000005281088",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pastiera-napoletana.html/01000006781088",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caramello-salato-vivace.html/08711327485259",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.223Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/08711327512627",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.752Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8.html/08711327512672",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fragola-succosa.html/08714100083550",
+      "error": "request to https://www.gromgelato.com/it/it/p/fragola-succosa.html/08714100083550 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/limone.html/08714100618837",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.205Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fragola.html/08714100619018",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.225Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/lampone.html/08714100619049",
+      "error": "request to https://www.gromgelato.com/it/it/p/lampone.html/08714100619049 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/gianduja.html/08714100658635",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/08714100658666",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.633Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio-regale.html/08714100719589",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.610Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/crema-di-grom-avvolgente.html/08714100719602",
+      "error": "request to https://www.gromgelato.com/it/it/p/crema-di-grom-avvolgente.html/08714100719602 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:29.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato-goloso.html/08714100719626",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:28:21.812Z"
+    }
+  ]
+}

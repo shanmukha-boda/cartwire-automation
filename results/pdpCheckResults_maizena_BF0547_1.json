@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-03-12T12:28:15.748Z",
+  "brand": "maizena",
+  "assortmentCode": "BF0547",
+  "feedUrl": "https://www.maizena.com.br/home.productfeed.json",
+  "totalUrlsChecked": 1,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.maizena.com.br/p/amido-de-milho-maizena.html/07894000010014",
+      "gtin": "07894000010014",
+      "checkedAt": "2026-03-12T12:28:15.748Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "1.00s",
+  "speedMetrics": "1.00 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

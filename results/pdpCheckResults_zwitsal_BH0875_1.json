@@ -1,0 +1,296 @@
+{
+  "generatedAt": "2026-03-12T12:28:27.269Z",
+  "brand": "zwitsal",
+  "assortmentCode": "BH0875",
+  "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+  "totalUrlsChecked": 45,
+  "problematicPagesFound": 3,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/sensitive-billendoekjes-57-stuks.html/08710447314319",
+      "gtin": "08710447314319",
+      "checkedAt": "2026-03-12T12:28:19.669Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/vochtige-washandjes-20-stuks.html/08711700508483",
+      "gtin": "08711700508483",
+      "checkedAt": "2026-03-12T12:28:19.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/op-%E2%80%99t-wangetje-100-ml.html/08712561632379",
+      "gtin": "08712561632379",
+      "checkedAt": "2026-03-12T12:28:19.687Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/bodymist-original-150-ml.html/08720181147418",
+      "gtin": "08720181147418",
+      "checkedAt": "2026-03-12T12:28:19.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/water-&-care-babydoekjes-52-stuks.html/08720181264269",
+      "gtin": "08720181264269",
+      "checkedAt": "2026-03-12T12:28:19.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-75-ml.html/08720181647161",
+      "gtin": "08720181647161",
+      "checkedAt": "2026-03-12T12:28:19.689Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-200-ml.html/08720181647192",
+      "gtin": "08720181647192",
+      "checkedAt": "2026-03-12T12:28:19.691Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-400-ml.html/08720181647208",
+      "gtin": "08720181647208",
+      "checkedAt": "2026-03-12T12:28:19.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-700-ml.html/08720181647215",
+      "gtin": "08720181647215",
+      "checkedAt": "2026-03-12T12:28:19.689Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-navulverpakking-500-ml.html/08720181647277",
+      "gtin": "08720181647277",
+      "checkedAt": "2026-03-12T12:28:19.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/zeepvrije-wascr%C3%A8me-200-ml.html/08720181647284",
+      "gtin": "08720181647284",
+      "checkedAt": "2026-03-12T12:28:19.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/zeepvrije-wascr%C3%A8me-400-ml.html/08720181647291",
+      "gtin": "08720181647291",
+      "checkedAt": "2026-03-12T12:28:19.691Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/shampoo-700-ml.html/08720181648755",
+      "gtin": "08720181648755",
+      "checkedAt": "2026-03-12T12:28:19.710Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zwitsal.nl/p/bodylotion-400-ml.html/08720181649622",
+      "gtin": "08720181649622",
+      "checkedAt": "2026-03-12T12:28:19.691Z"
+    }
+  ],
+  "errors": 28,
+  "duration": "9.43s",
+  "speedMetrics": "4.77 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-400-ml.html/08720181647253",
+      "gtin": "08720181647253",
+      "checkedAt": "2026-03-12T12:28:19.690Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/shampoo-200-ml.html/08720181648748",
+      "gtin": "08720181648748",
+      "checkedAt": "2026-03-12T12:28:19.753Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zachte-cr%C3%A8me-pot-200-ml.html/08720181649646",
+      "gtin": "08720181649646",
+      "checkedAt": "2026-03-12T12:28:19.694Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/lotion-billendoekjes-65-stuks.html/08710447314302",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.671Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/deodorant-original-100-ml.html/08710847868498",
+      "error": "request to https://www.zwitsal.nl/p/deodorant-original-100-ml.html/08710847868498 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.968Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/deodorant-poederzacht-100-ml.html/08710847868504",
+      "error": "request to https://www.zwitsal.nl/p/deodorant-poederzacht-100-ml.html/08710847868504 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/snoetenpoetsers-40-stuks.html/08710908596636",
+      "error": "request to https://www.zwitsal.nl/p/snoetenpoetsers-40-stuks.html/08710908596636 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/eau-de-zwitsal-95-ml.html/08711600972285",
+      "error": "request to https://www.zwitsal.nl/p/eau-de-zwitsal-95-ml.html/08711600972285 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/bodymist-pink-blossom-150-ml.html/08720181147401",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:26.331Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/douche-mousse-original-200-ml.html/08720181168734",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/zinkzalf-100-ml.html/08720181172724",
+      "error": "request to https://www.zwitsal.nl/p/zinkzalf-100-ml.html/08720181172724 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-200-ml.html/08720181647444",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.487Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-700-ml.html/08720181647482",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:24.760Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/shampoo-met-pompje-400-ml.html/08720181648700",
+      "error": "request to https://www.zwitsal.nl/p/shampoo-met-pompje-400-ml.html/08720181648700 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:26.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/shampoo-75-ml.html/08720181648731",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/anti-klit-shampoo-200-ml.html/08720181648762",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/anti-klit-shampoo-met-pompje-400-ml.html/08720181648779",
+      "error": "request to https://www.zwitsal.nl/p/anti-klit-shampoo-met-pompje-400-ml.html/08720181648779 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.231Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/conditioner-200-ml.html/08720181649196",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/haargel-100-ml.html/08720181649202",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/haarlotion-200-ml.html/08720181649219",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:24.614Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/wasschuim-200-ml.html/08720181649226",
+      "error": "request to https://www.zwitsal.nl/p/wasschuim-200-ml.html/08720181649226 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.231Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/cr%C3%A8me-zeepblok-4x90-g.html/08720181649233",
+      "error": "request to https://www.zwitsal.nl/p/cr%C3%A8me-zeepblok-4x90-g.html/08720181649233 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.231Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/bodylotion-75-ml.html/08720181649608",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:26.124Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/bodylotion-200-ml.html/08720181649615",
+      "error": "request to https://www.zwitsal.nl/p/bodylotion-200-ml.html/08720181649615 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.231Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/zachte-cr%C3%A8me-tube-100-ml.html/08720181649639",
+      "error": "request to https://www.zwitsal.nl/p/zachte-cr%C3%A8me-tube-100-ml.html/08720181649639 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.230Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/rijke-huidolie-200-ml.html/08720181649677",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:25.862Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/badolie-200-ml.html/08720181649684",
+      "error": "request to https://www.zwitsal.nl/p/badolie-200-ml.html/08720181649684 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.231Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-mini-set-3x75-ml.html/08720181770500",
+      "error": "request to https://www.zwitsal.nl/p/baby-&-kids-mini-set-3x75-ml.html/08720181770500 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.231Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-startersbox.html/08720181773563",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:24.093Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-essentials-geschenkset-3x200-ml.html/08721317709142",
+      "error": "request to https://www.zwitsal.nl/p/baby-&-kids-essentials-geschenkset-3x200-ml.html/08721317709142 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:27.268Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-bath-care-set-2-x-200-ml.html/08721317738180",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:28:23.210Z"
+    }
+  ]
+}

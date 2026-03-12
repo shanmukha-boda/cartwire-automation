@@ -1,0 +1,189 @@
+{
+  "generatedAt": "2026-03-12T12:28:38.425Z",
+  "brand": "andrelon",
+  "assortmentCode": "BH0027",
+  "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+  "totalProblematicPages": 20,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/klei-fris-and-zuiver-conditioner.html/08720181325496",
+      "gtin": "08720181325496",
+      "checkedAt": "2026-03-12T12:28:23.660Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/verrassend-volume-conditioner.html/08720181325601",
+      "gtin": "08720181325601",
+      "checkedAt": "2026-03-12T12:28:23.723Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/kokos-boost-conditioner.html/08720181325618",
+      "gtin": "08720181325618",
+      "checkedAt": "2026-03-12T12:28:23.724Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/levendige-kleur-conditioner.html/08720181325625",
+      "gtin": "08720181325625",
+      "checkedAt": "2026-03-12T12:28:23.623Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/mild-and-zacht-conditioner.html/08720181325717",
+      "gtin": "08720181325717",
+      "checkedAt": "2026-03-12T12:28:23.715Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/levendige-kleur-shampoo.html/08720181479946",
+      "gtin": "08720181479946",
+      "checkedAt": "2026-03-12T12:28:23.678Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/levendig-lang-masker.html/08720181495366",
+      "gtin": "08720181495366",
+      "checkedAt": "2026-03-12T12:28:23.724Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/kokos-boost-droogshampoo.html/08710847951008",
+      "gtin": "08710847951008",
+      "checkedAt": "2026-03-12T12:28:23.715Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/zomer-blond-droogshampoo.html/08710847951046",
+      "gtin": "08710847951046",
+      "checkedAt": "2026-03-12T12:28:23.723Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-care-serum-oil.html/08717163707845",
+      "gtin": "08717163707845",
+      "checkedAt": "2026-03-12T12:28:23.694Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/iedere-dag-conditioner.html/08720181325410",
+      "gtin": "08720181325410",
+      "checkedAt": "2026-03-12T12:28:23.695Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/aloe-vera-repair-conditioner.html/08720181325557",
+      "gtin": "08720181325557",
+      "checkedAt": "2026-03-12T12:28:23.677Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-curl-special-conditioner.html/08720181325649",
+      "gtin": "08720181325649",
+      "checkedAt": "2026-03-12T12:28:23.693Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/honing-blond-conditioner.html/08720181325724",
+      "gtin": "08720181325724",
+      "checkedAt": "2026-03-12T12:28:23.774Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/iedere-dag-shampoo.html/08720181327704",
+      "gtin": "08720181327704",
+      "checkedAt": "2026-03-12T12:28:23.694Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/anti-roos-shampoo.html/08720181327728",
+      "gtin": "08720181327728",
+      "checkedAt": "2026-03-12T12:28:23.681Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-care-haarmasker.html/08720181495359",
+      "gtin": "08720181495359",
+      "checkedAt": "2026-03-12T12:28:23.661Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-curl-haarcreme.html/08720181513190",
+      "gtin": "08720181513190",
+      "checkedAt": "2026-03-12T12:28:23.715Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/care-and-repair-cr%C3%A8me.html/08720181513213",
+      "gtin": "08720181513213",
+      "checkedAt": "2026-03-12T12:28:23.678Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-care-voedende-creme.html/08720181513220",
+      "gtin": "08720181513220",
+      "checkedAt": "2026-03-12T12:28:23.723Z"
+    }
+  ]
+}

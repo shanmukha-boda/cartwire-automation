@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-03-12T12:28:25.280Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0468",
+  "feedUrl": "https://www.sunsilk.com.vn/home.productfeed.json",
+  "totalUrlsChecked": 8,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.sunsilk.com.vn/p/dau-xa-natural-duong-ngan-gay-rung.html/08934868156802",
+      "gtin": "08934868156802",
+      "checkedAt": "2026-03-12T12:28:17.783Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sunsilk.com.vn/p/dau-goi-ong-muot-rang-ngoi.html/08934868156925",
+      "gtin": "08934868156925",
+      "checkedAt": "2026-03-12T12:28:17.804Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sunsilk.com.vn/p/dau-goi-mem-muot-dieu-ky.html/08934868156987",
+      "gtin": "08934868156987",
+      "checkedAt": "2026-03-12T12:28:17.789Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sunsilk.com.vn/p/dau-goi-natural-duong-ngan-gay-rung.html/08934868157014",
+      "gtin": "08934868157014",
+      "checkedAt": "2026-03-12T12:28:17.744Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sunsilk.com.vn/p/dau-goi-natural-mem-muot-toa-huong.html/08934868157038",
+      "gtin": "08934868157038",
+      "checkedAt": "2026-03-12T12:28:17.745Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sunsilk.com.vn/p/dau-xa-mem-muot-dieu-ky.html/08934868161493",
+      "gtin": "08934868161493",
+      "checkedAt": "2026-03-12T12:28:17.788Z"
+    }
+  ],
+  "errors": 2,
+  "duration": "8.79s",
+  "speedMetrics": "0.91 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com.vn/p/dau-xa-natural-mem-muot-toa-huong.html/08934868156826",
+      "error": "request to https://www.sunsilk.com.vn/p/dau-xa-natural-mem-muot-toa-huong.html/08934868156826 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:25.111Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com.vn/p/dau-xa-ong-muot-rang-ngoi.html/08934868161486",
+      "error": "request to https://www.sunsilk.com.vn/p/dau-xa-ong-muot-rang-ngoi.html/08934868161486 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:28:25.280Z"
+    }
+  ]
+}

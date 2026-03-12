@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-03-12T12:28:15.916Z",
+  "brand": "simple",
+  "assortmentCode": "BH0992",
+  "feedUrl": "https://www.simpleskincare.com/vn/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-soothing-facial-toner.html/05011451103856",
+      "gtin": "05011451103856",
+      "checkedAt": "2026-03-12T12:28:15.873Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-refreshing-facial-gel-wash.html/05011451103863",
+      "gtin": "05011451103863",
+      "checkedAt": "2026-03-12T12:28:15.576Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-moisturising-face-wash.html/05011451103870",
+      "gtin": "05011451103870",
+      "checkedAt": "2026-03-12T12:28:15.783Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-smoothing-facial-scrub.html/05011451103894",
+      "gtin": "05011451103894",
+      "checkedAt": "2026-03-12T12:28:15.844Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-replenishing-rich-moisturiser.html/05011451103948",
+      "gtin": "05011451103948",
+      "checkedAt": "2026-03-12T12:28:15.819Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-cleansing-facial-wipes.html/05011451103979",
+      "gtin": "05011451103979",
+      "checkedAt": "2026-03-12T12:28:15.559Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-micellar-cleansing-water.html/08712561669825",
+      "gtin": "08712561669825",
+      "checkedAt": "2026-03-12T12:28:15.916Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "1.13s",
+  "speedMetrics": "6.19 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}
