@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-03-12T15:43:08.345Z",
+  "brand": "tehsariwangi",
+  "assortmentCode": "BF0755",
+  "feedUrl": "https://www.tehsariwangi.com/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-100%25-teh-asli.html/00000100256452",
+      "gtin": "00000100256452",
+      "checkedAt": "2026-03-12T15:43:08.345Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-teh-hitam-jahe-&-kunyit.html/00000619465842",
+      "gtin": "00000619465842",
+      "checkedAt": "2026-03-12T15:43:08.175Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-teh-hitam-kurma-&-madu.html/00003014361304",
+      "gtin": "00003014361304",
+      "checkedAt": "2026-03-12T15:43:08.191Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-sarimurni.html/08999999031602",
+      "gtin": "08999999031602",
+      "checkedAt": "2026-03-12T15:43:08.249Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-teh-hijau.html/08999999193447",
+      "gtin": "08999999193447",
+      "checkedAt": "2026-03-12T15:43:08.189Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-teh-melati.html/08999999501983",
+      "gtin": "08999999501983",
+      "checkedAt": "2026-03-12T15:43:08.156Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-teh-mawar.html/08999999560539",
+      "gtin": "08999999560539",
+      "checkedAt": "2026-03-12T15:43:08.320Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.43s",
+  "speedMetrics": "16.28 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

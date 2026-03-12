@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-03-12T15:42:48.448Z",
+  "brand": "neutral",
+  "assortmentCode": "BH0869",
+  "feedUrl": "https://www.neutral.nl/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "neutral",
+      "assortmentCode": "BH0869",
+      "feedUrl": "https://www.neutral.nl/home.productfeed.json",
+      "url": "https://www.neutral.nl/p/neutral-baby-0%25-2-in-1-bad-wasgel-&-shampoo.html/08720181537851",
+      "gtin": "08720181537851",
+      "checkedAt": "2026-03-12T15:42:40.872Z"
+    }
+  ]
+}

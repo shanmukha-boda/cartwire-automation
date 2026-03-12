@@ -1,0 +1,610 @@
+{
+  "generatedAt": "2026-03-12T15:43:22.472Z",
+  "brand": "masakapahariini",
+  "assortmentCode": "BFA335",
+  "feedUrl": "https://www.masakapahariini.com/home.productfeed.json",
+  "totalUrlsChecked": 99,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-100%25-teh-asli.html/00000100256452",
+      "gtin": "00000100256452",
+      "checkedAt": "2026-03-12T15:43:13.535Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-mawar.html/00000613176759",
+      "gtin": "00000613176759",
+      "checkedAt": "2026-03-12T15:43:13.492Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-hitam-jahe-&-kunyit.html/00000619465842",
+      "gtin": "00000619465842",
+      "checkedAt": "2026-03-12T15:43:13.440Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-hitam-kurma-&-madu.html/00003014361304",
+      "gtin": "00003014361304",
+      "checkedAt": "2026-03-12T15:43:13.430Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-620ml.html/08990121011028",
+      "gtin": "08990121011028",
+      "checkedAt": "2026-03-12T15:43:13.712Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/jeruk.html/08998009020179",
+      "gtin": "08998009020179",
+      "checkedAt": "2026-03-12T15:43:13.596Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/jambu.html/08998009020186",
+      "gtin": "08998009020186",
+      "checkedAt": "2026-03-12T15:43:13.564Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/mangga.html/08998009020193",
+      "gtin": "08998009020193",
+      "checkedAt": "2026-03-12T15:43:14.429Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/leci.html/08998009020216",
+      "gtin": "08998009020216",
+      "checkedAt": "2026-03-12T15:43:13.724Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/apel.html/08998009020223",
+      "gtin": "08998009020223",
+      "checkedAt": "2026-03-12T15:43:13.720Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-buavita-apple-jus-apel-1000ml-buavita-apple-1000-ml.html/08998009020247",
+      "gtin": "08998009020247",
+      "checkedAt": "2026-03-12T15:43:13.743Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-kemasan-apel-125ml.html/08998009020513",
+      "gtin": "08998009020513",
+      "checkedAt": "2026-03-12T15:43:14.226Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-grape-24x250ml-250ml.html/08999999023171",
+      "gtin": "08999999023171",
+      "checkedAt": "2026-03-12T15:43:13.478Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pedas-210ml.html/08999999026257",
+      "gtin": "08999999026257",
+      "checkedAt": "2026-03-12T15:43:13.707Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-royale-mix-berries-24-x-250ml-250ml.html/08999999031510",
+      "gtin": "08999999031510",
+      "checkedAt": "2026-03-12T15:43:13.733Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-royale-mix-berries-12-x-1000ml-1000ml.html/08999999031527",
+      "gtin": "08999999031527",
+      "checkedAt": "2026-03-12T15:43:13.523Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sarimelati-black-leaf-tea-tea-bag-1-7g.html/08999999031572",
+      "gtin": "08999999031572",
+      "checkedAt": "2026-03-12T15:43:13.664Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sarimurni-teh-celup-kantong-bundar-1-6g.html/08999999031602",
+      "gtin": "08999999031602",
+      "checkedAt": "2026-03-12T15:43:13.728Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-rock-bag-40g.html/08999999035396",
+      "gtin": "08999999035396",
+      "checkedAt": "2026-03-12T15:43:13.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-broccoli-24x250ml-250ml.html/08999999037390",
+      "gtin": "08999999037390",
+      "checkedAt": "2026-03-12T15:43:13.536Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-broccoli-12x1000ml-1000ml.html/08999999037406",
+      "gtin": "08999999037406",
+      "checkedAt": "2026-03-12T15:43:13.493Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-carrot-24x250ml-250ml.html/08999999037413",
+      "gtin": "08999999037413",
+      "checkedAt": "2026-03-12T15:43:13.560Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-carrot-12x1000ml-1000ml.html/08999999037420",
+      "gtin": "08999999037420",
+      "checkedAt": "2026-03-12T15:43:13.636Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-kelapa-12x1000ml-1000ml.html/08999999037468",
+      "gtin": "08999999037468",
+      "checkedAt": "2026-03-12T15:43:13.658Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-markisa-24x250ml-0.html/08999999037482",
+      "gtin": "08999999037482",
+      "checkedAt": "2026-03-12T15:43:13.439Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-sirsak-24x250ml-250ml.html/08999999038137",
+      "gtin": "08999999038137",
+      "checkedAt": "2026-03-12T15:43:13.478Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-ikan-goreng-22-5g.html/08999999039240",
+      "gtin": "08999999039240",
+      "checkedAt": "2026-03-12T15:43:13.536Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-pedas-17g.html/08999999039288",
+      "gtin": "08999999039288",
+      "checkedAt": "2026-03-12T15:43:13.720Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-ikan-goreng-22g.html/08999999039820",
+      "gtin": "08999999039820",
+      "checkedAt": "2026-03-12T15:43:13.441Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-tempe-tahu-goreng-17g.html/08999999039837",
+      "gtin": "08999999039837",
+      "checkedAt": "2026-03-12T15:43:13.985Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-17g.html/08999999039868",
+      "gtin": "08999999039868",
+      "checkedAt": "2026-03-12T15:43:13.758Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-mealmaker-ayam-bacem-60g.html/08999999042448",
+      "gtin": "08999999042448",
+      "checkedAt": "2026-03-12T15:43:13.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-mealmaker-tempe-tahu-bacem-60g.html/08999999042462",
+      "gtin": "08999999042462",
+      "checkedAt": "2026-03-12T15:43:13.688Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-asli-harian-1000-ml.html/08999999055714",
+      "gtin": "08999999055714",
+      "checkedAt": "2026-03-12T15:43:13.635Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-buah-asli-mango-juice-mangga-100%25-vitamin-c-asli-harian-1000ml.html/08999999055721",
+      "gtin": "08999999055721",
+      "checkedAt": "2026-03-12T15:43:13.596Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-black-leaf-tea-tea-bag-25x1-8.html/08999999059842",
+      "gtin": "08999999059842",
+      "checkedAt": "2026-03-12T15:43:13.523Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-tea-bag-40g.html/08999999059859",
+      "gtin": "08999999059859",
+      "checkedAt": "2026-03-12T15:43:13.569Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-520ml.html/08999999100506",
+      "gtin": "08999999100506",
+      "checkedAt": "2026-03-12T15:43:13.596Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sup-krim-ayam.html/08999999191436",
+      "gtin": "08999999191436",
+      "checkedAt": "2026-03-12T15:43:13.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sup-krim-jagung.html/08999999191443",
+      "gtin": "08999999191443",
+      "checkedAt": "2026-03-12T15:43:13.628Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/kaldu-ayam-medium-pack.html/08999999192150",
+      "gtin": "08999999192150",
+      "checkedAt": "2026-03-12T15:43:13.635Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/kaldu-sapi-medium-pack.html/08999999192198",
+      "gtin": "08999999192198",
+      "checkedAt": "2026-03-12T15:43:13.766Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/kaldu-ayam-big-pack.html/08999999193317",
+      "gtin": "08999999193317",
+      "checkedAt": "2026-03-12T15:43:13.564Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/kaldu-sapi-big-pack.html/08999999193324",
+      "gtin": "08999999193324",
+      "checkedAt": "2026-03-12T15:43:13.535Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-hijau.html/08999999193447",
+      "gtin": "08999999193447",
+      "checkedAt": "2026-03-12T15:43:13.675Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-46-25g.html/08999999195649",
+      "gtin": "08999999195649",
+      "checkedAt": "2026-03-12T15:43:13.584Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-100%25-teh-hitam-asli-teh-celup-membantu-kesehatan-jantung*-1-85g-isi-50.html/08999999195656",
+      "gtin": "08999999195656",
+      "checkedAt": "2026-03-12T15:43:13.640Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-black-leaf-tea-tea-bag-0.html/08999999195670",
+      "gtin": "08999999195670",
+      "checkedAt": "2026-03-12T15:43:13.696Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pouch-540g.html/08999999204693",
+      "gtin": "08999999204693",
+      "checkedAt": "2026-03-12T15:43:13.591Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-385g.html/08999999206451",
+      "gtin": "08999999206451",
+      "checkedAt": "2026-03-12T15:43:13.536Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-865g.html/08999999206468",
+      "gtin": "08999999206468",
+      "checkedAt": "2026-03-12T15:43:13.787Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-189g.html/08999999210168",
+      "gtin": "08999999210168",
+      "checkedAt": "2026-03-12T15:43:13.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pouch-700gr.html/08999999210748",
+      "gtin": "08999999210748",
+      "checkedAt": "2026-03-12T15:43:14.145Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pouch-950g.html/08999999210762",
+      "gtin": "08999999210762",
+      "checkedAt": "2026-03-12T15:43:13.486Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-melati-teh-bubuk-teh-melati-30-g.html/08999999501976",
+      "gtin": "08999999501976",
+      "checkedAt": "2026-03-12T15:43:13.841Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-melati.html/08999999501983",
+      "gtin": "08999999501983",
+      "checkedAt": "2026-03-12T15:43:13.764Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-melati-teh-celup-jasmine-tea-dari-daun-teh-asli-isi-25-isi-30.html/08999999501990",
+      "gtin": "08999999501990",
+      "checkedAt": "2026-03-12T15:43:13.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-kantong-bundar-1-8g.html/08999999502003",
+      "gtin": "08999999502003",
+      "checkedAt": "2026-03-12T15:43:13.678Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-18-5-g.html/08999999502041",
+      "gtin": "08999999502041",
+      "checkedAt": "2026-03-12T15:43:13.642Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/kaldu-ayam-sachet.html/08999999502393",
+      "gtin": "08999999502393",
+      "checkedAt": "2026-03-12T15:43:13.640Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/kaldu-sapi-sachet.html/08999999502409",
+      "gtin": "08999999502409",
+      "checkedAt": "2026-03-12T15:43:13.688Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-sapi-6x9g.html/08999999502423",
+      "gtin": "08999999502423",
+      "checkedAt": "2026-03-12T15:43:13.659Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-kemasan-apel-500ml.html/08999999504052",
+      "gtin": "08999999504052",
+      "checkedAt": "2026-03-12T15:43:13.664Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-harian-500-ml.html/08999999504069",
+      "gtin": "08999999504069",
+      "checkedAt": "2026-03-12T15:43:13.779Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-sarimurni.html/08999999504656",
+      "gtin": "08999999504656",
+      "checkedAt": "2026-03-12T15:43:13.675Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-7-4-g.html/08999999506544",
+      "gtin": "08999999506544",
+      "checkedAt": "2026-03-12T15:43:13.642Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-138-75-g.html/08999999514389",
+      "gtin": "08999999514389",
+      "checkedAt": "2026-03-12T15:43:13.707Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-penyedap-makanan-penyedap-rasa-ayam-beryodium-220g.html/08999999516208",
+      "gtin": "08999999516208",
+      "checkedAt": "2026-03-12T15:43:13.720Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-penyedap-makanan-penyedap-rasa-sapi-beriodium-220-g.html/08999999516215",
+      "gtin": "08999999516215",
+      "checkedAt": "2026-03-12T15:43:13.691Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-light-135ml.html/08999999518875",
+      "gtin": "08999999518875",
+      "checkedAt": "2026-03-12T15:43:13.636Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-220ml.html/08999999518882",
+      "gtin": "08999999518882",
+      "checkedAt": "2026-03-12T15:43:13.664Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-kemasan-mangga-500ml.html/08999999528973",
+      "gtin": "08999999528973",
+      "checkedAt": "2026-03-12T15:43:13.708Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/ayam-bumbu-rujak.html/08999999531218",
+      "gtin": "08999999531218",
+      "checkedAt": "2026-03-12T15:43:13.720Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-cabe-hijau-17g.html/08999999531225",
+      "gtin": "08999999531225",
+      "checkedAt": "2026-03-12T15:43:13.675Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-rendang-17g.html/08999999531232",
+      "gtin": "08999999531232",
+      "checkedAt": "2026-03-12T15:43:13.664Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-sachet-18ml.html/08999999533496",
+      "gtin": "08999999533496",
+      "checkedAt": "2026-03-12T15:43:13.642Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-soto-17g.html/08999999539276",
+      "gtin": "08999999539276",
+      "checkedAt": "2026-03-12T15:43:21.470Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-goreng-belacan-25g.html/08999999539290",
+      "gtin": "08999999539290",
+      "checkedAt": "2026-03-12T15:43:21.522Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-tonseng-khas-solo-50g.html/08999999540265",
+      "gtin": "08999999540265",
+      "checkedAt": "2026-03-12T15:43:21.576Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-opor-ayam-35g.html/08999999540272",
+      "gtin": "08999999540272",
+      "checkedAt": "2026-03-12T15:43:21.475Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-soto-45g.html/08999999540289",
+      "gtin": "08999999540289",
+      "checkedAt": "2026-03-12T15:43:21.561Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-nasi-goreng-kambing-40g.html/08999999540296",
+      "gtin": "08999999540296",
+      "checkedAt": "2026-03-12T15:43:21.455Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-4x1-85.html/08999999540333",
+      "gtin": "08999999540333",
+      "checkedAt": "2026-03-12T15:43:22.471Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-less-sugar-520ml.html/08999999541897",
+      "gtin": "08999999541897",
+      "checkedAt": "2026-03-12T15:43:21.804Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-saus-telur-asin-22g.html/08999999549701",
+      "gtin": "08999999549701",
+      "checkedAt": "2026-03-12T15:43:21.561Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-ayam-230g-2.html/08999999555405",
+      "gtin": "08999999555405",
+      "checkedAt": "2026-03-12T15:43:21.492Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-100%25-teh-hitam-asli-teh-celup-membantu-kesehatan-jantung*-1-85g-isi-30.html/08999999556327",
+      "gtin": "08999999556327",
+      "checkedAt": "2026-03-12T15:43:21.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-jamur-170g.html/08999999557041",
+      "gtin": "08999999557041",
+      "checkedAt": "2026-03-12T15:43:21.601Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-jamur-36g.html/08999999557058",
+      "gtin": "08999999557058",
+      "checkedAt": "2026-03-12T15:43:21.472Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/saus-tiram-275ml.html/08999999576950",
+      "gtin": "08999999576950",
+      "checkedAt": "2026-03-12T15:43:21.514Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/saus-tiram-135ml.html/08999999576967",
+      "gtin": "08999999576967",
+      "checkedAt": "2026-03-12T15:43:21.519Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-hitam-gurih-550ml.html/08999999579548",
+      "gtin": "08999999579548",
+      "checkedAt": "2026-03-12T15:43:21.513Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/korean-white-peach.html/08999999587376",
+      "gtin": "08999999587376",
+      "checkedAt": "2026-03-12T15:43:21.577Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-hitam-gurih-55g.html/08999999596507",
+      "gtin": "08999999596507",
+      "checkedAt": "2026-03-12T15:43:21.528Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-hitam-gurih-550g.html/08999999596521",
+      "gtin": "08999999596521",
+      "checkedAt": "2026-03-12T15:43:21.860Z"
+    }
+  ],
+  "errors": 4,
+  "duration": "9.46s",
+  "speedMetrics": "10.47 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-rock-bag-1-9g.html/08999999035389",
+      "error": "request to https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-rock-bag-1-9g.html/08999999035389 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:43:21.145Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-goreng-22g.html/08999999039844",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-goreng-22g.html/08999999039844 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:43:21.222Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-1-85g.html/08999999193522",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-1-85g.html/08999999193522 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:43:21.222Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sup-krim-kepiting-dan-jagung.html/08999999537982",
+      "error": "request to https://www.masakapahariini.com/p/sup-krim-kepiting-dan-jagung.html/08999999537982 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:43:21.253Z"
+    }
+  ]
+}

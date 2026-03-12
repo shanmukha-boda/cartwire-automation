@@ -1,0 +1,568 @@
+{
+  "generatedAt": "2026-03-12T15:41:53.839Z",
+  "brand": "walls",
+  "assortmentCode": "BF0765",
+  "feedUrl": "https://www.selectaphilippines.com/home.productfeed.json",
+  "totalUrlsChecked": 92,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/supreme-coffee-crumble-ice-cream.html/04800086035943",
+      "gtin": "04800086035943",
+      "checkedAt": "2026-03-12T15:41:42.544Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/super-thick-super-chocolate-ice-cream.html/04800086036018",
+      "gtin": "04800086036018",
+      "checkedAt": "2026-03-12T15:41:42.080Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/super-thick-vanilla-ice-cream.html/04800086036049",
+      "gtin": "04800086036049",
+      "checkedAt": "2026-03-12T15:41:41.878Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/super-thick-strawberry-ice-cream.html/04800086036094",
+      "gtin": "04800086036094",
+      "checkedAt": "2026-03-12T15:41:41.754Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cookies-&-cream-ice-cream-stick.html/04800086036513",
+      "gtin": "04800086036513",
+      "checkedAt": "2026-03-12T15:41:42.873Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-quezo-real-buco-salad.html/04800086038708",
+      "gtin": "04800086038708",
+      "checkedAt": "2026-03-12T15:41:42.300Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-rocky-road-cookies-&-cream.html/04800086040633",
+      "gtin": "04800086040633",
+      "checkedAt": "2026-03-12T15:41:41.824Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/supreme-rocky-road-ice-cream-750ml.html/04800086040886",
+      "gtin": "04800086040886",
+      "checkedAt": "2026-03-12T15:41:42.422Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/supreme-mango-graham-cake-ice-cream.html/04800086042309",
+      "gtin": "04800086042309",
+      "checkedAt": "2026-03-12T15:41:42.960Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/supreme-black-forest-ice-cream.html/04800086043368",
+      "gtin": "04800086043368",
+      "checkedAt": "2026-03-12T15:41:41.753Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/double-dutch-solo-pack.html/04800086043603",
+      "gtin": "04800086043603",
+      "checkedAt": "2026-03-12T15:41:43.471Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/supreme-coffee-crumble-ice-cream-solo-pack.html/04800086043634",
+      "gtin": "04800086043634",
+      "checkedAt": "2026-03-12T15:41:42.470Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/supreme-pistachios-&-cashews-ice-cream-solo-pack.html/04800086043641",
+      "gtin": "04800086043641",
+      "checkedAt": "2026-03-12T15:41:41.724Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-ube-caramel.html/04800086050519",
+      "gtin": "04800086050519",
+      "checkedAt": "2026-03-12T15:41:42.669Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-white-rose.html/08851932469555",
+      "gtin": "08851932469555",
+      "checkedAt": "2026-03-12T15:41:41.954Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/rocky-road-ice-cream-stick.html/04800086036520",
+      "gtin": "04800086036520",
+      "checkedAt": "2026-03-12T15:41:42.145Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/creamdae-3in1-choco-keso-ube.html/04800086040527",
+      "gtin": "04800086040527",
+      "checkedAt": "2026-03-12T15:41:42.437Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/creamdae-ube-hapi-pack.html/04800086044365",
+      "gtin": "04800086044365",
+      "checkedAt": "2026-03-12T15:41:42.712Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/boom-boom-pinipig-chocolate-ice-cream-stick.html/04800086045768",
+      "gtin": "04800086045768",
+      "checkedAt": "2026-03-12T15:41:42.460Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/watermelon-slice-ice-cream-stick.html/04800086045973",
+      "gtin": "04800086045973",
+      "checkedAt": "2026-03-12T15:41:42.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-disc-black-choco-cookie.html/04800086046482",
+      "gtin": "04800086046482",
+      "checkedAt": "2026-03-12T15:41:41.589Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/supreme-choco-almond-fudge-ice-cream.html/04800086047625",
+      "gtin": "04800086047625",
+      "checkedAt": "2026-03-12T15:41:41.779Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/creamdae-3in1-1-choco-keso-ube-mango.html/04800086047717",
+      "gtin": "04800086047717",
+      "checkedAt": "2026-03-12T15:41:41.791Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-disc-matcha-crumble.html/04800086049551",
+      "gtin": "04800086049551",
+      "checkedAt": "2026-03-12T15:41:41.820Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/selecta-chocky.html/04800086049797",
+      "gtin": "04800086049797",
+      "checkedAt": "2026-03-12T15:41:41.576Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/selecta-coco-melon.html/04800086050250",
+      "gtin": "04800086050250",
+      "checkedAt": "2026-03-12T15:41:42.998Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-berry-crazy-for-yoh.html/04800086050298",
+      "gtin": "04800086050298",
+      "checkedAt": "2026-03-12T15:41:42.034Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/magnum-ice-cream-pint-white.html/08714100290408",
+      "gtin": "08714100290408",
+      "checkedAt": "2026-03-12T15:41:41.820Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/selecta-dragon-pop.html/08851932346016",
+      "gtin": "08851932346016",
+      "checkedAt": "2026-03-12T15:41:42.392Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/selecta-bites-time!.html/08851932441438",
+      "gtin": "08851932441438",
+      "checkedAt": "2026-03-12T15:41:42.530Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/calippo-blue-lemon.html/08851932460132",
+      "gtin": "08851932460132",
+      "checkedAt": "2026-03-12T15:41:42.822Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/magnum-classic-bar.html/08999999005689",
+      "gtin": "08999999005689",
+      "checkedAt": "2026-03-12T15:41:50.025Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/magnum-minis-ice-cream-stick-almond-6x45ml.html/08999999035624",
+      "gtin": "08999999035624",
+      "checkedAt": "2026-03-12T15:41:49.930Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/magnum-minis-almond.html/08999999035631",
+      "gtin": "08999999035631",
+      "checkedAt": "2026-03-12T15:41:49.898Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/magnum-choco-luxe-bar.html/08999999595586",
+      "gtin": "08999999595586",
+      "checkedAt": "2026-03-12T15:41:50.302Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/magnum-mango-yoghurt-parfait.html/08999999600822",
+      "gtin": "08999999600822",
+      "checkedAt": "2026-03-12T15:41:49.785Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-chocolate-ice-cream.html/14800086040265",
+      "gtin": "14800086040265",
+      "checkedAt": "2026-03-12T15:41:49.797Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-vanilla-ice-cream.html/14800086040272",
+      "gtin": "14800086040272",
+      "checkedAt": "2026-03-12T15:41:49.876Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.selectaphilippines.com/p/cornetto-disc-white-choco-cookies-&-cream-ice-cream.html/14800086045673",
+      "gtin": "14800086045673",
+      "checkedAt": "2026-03-12T15:41:49.639Z"
+    }
+  ],
+  "errors": 53,
+  "duration": "12.63s",
+  "speedMetrics": "7.28 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-cookies-&-cream-ice-cream.html/04800086035929",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-cookies-&-cream-ice-cream.html/04800086035929 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-double-dutch-ice-cream-3l.html/04800086035950",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-double-dutch-ice-cream-3l.html/04800086035950 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/super-thick-mango.html/04800086036001",
+      "error": "request to https://www.selectaphilippines.com/p/super-thick-mango.html/04800086036001 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/super-thick-vanilla-ice-cream-3l.html/04800086036032",
+      "error": "request to https://www.selectaphilippines.com/p/super-thick-vanilla-ice-cream-3l.html/04800086036032 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/super-thick-ube-royale-ice-cream.html/04800086036063",
+      "error": "request to https://www.selectaphilippines.com/p/super-thick-ube-royale-ice-cream.html/04800086036063 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-quezo-real-ice-cream.html/04800086036162",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-quezo-real-ice-cream.html/04800086036162 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-rocky-road-ice-cream.html/04800086036186",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-rocky-road-ice-cream.html/04800086036186 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-double-dutch-rocky-road.html/04800086038630",
+      "error": "request to https://www.selectaphilippines.com/p/2-in-1-double-dutch-rocky-road.html/04800086038630 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-double-dutch-and-rocky-road.html/04800086038647",
+      "error": "request to https://www.selectaphilippines.com/p/2-in-1-double-dutch-and-rocky-road.html/04800086038647 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-rocky-road-cookies-&-cream-750ml.html/04800086040657",
+      "error": "request to https://www.selectaphilippines.com/p/2-in-1-rocky-road-cookies-&-cream-750ml.html/04800086040657 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-double-dutch-cookies-&-cream.html/04800086040671",
+      "error": "request to https://www.selectaphilippines.com/p/2-in-1-double-dutch-cookies-&-cream.html/04800086040671 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-double-dutch-cookies-&-cream-750ml.html/04800086040688",
+      "error": "request to https://www.selectaphilippines.com/p/2-in-1-double-dutch-cookies-&-cream-750ml.html/04800086040688 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-double-dutch-ice-cream-750ml.html/04800086040879",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-double-dutch-ice-cream-750ml.html/04800086040879 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-cookies-&-cream-ice-cream.html/04800086040893",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-cookies-&-cream-ice-cream.html/04800086040893 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-coffee-crumble-ice-cream-750ml.html/04800086040909",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-coffee-crumble-ice-cream-750ml.html/04800086040909 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-quezo-real-ice-cream-750ml.html/04800086040916",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-quezo-real-ice-cream-750ml.html/04800086040916 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/mango-graham-cake.html/04800086042293",
+      "error": "request to https://www.selectaphilippines.com/p/mango-graham-cake.html/04800086042293 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/hersheys-milk-chocolate-with-almonds-ice-cream.html/04800086043467",
+      "error": "request to https://www.selectaphilippines.com/p/hersheys-milk-chocolate-with-almonds-ice-cream.html/04800086043467 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-rocky-road-ice-cream-solo-pack.html/04800086043610",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-rocky-road-ice-cream-solo-pack.html/04800086043610 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-cookies-&-cream-ice-cream-solo-pack.html/04800086043627",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-cookies-&-cream-ice-cream-solo-pack.html/04800086043627 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/hersheys-milk-chocolate-with-almonds-ice-cream-solo-pack.html/04800086043672",
+      "error": "request to https://www.selectaphilippines.com/p/hersheys-milk-chocolate-with-almonds-ice-cream-solo-pack.html/04800086043672 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/quezo-real-ice-cream-stick.html/04800086036506",
+      "error": "request to https://www.selectaphilippines.com/p/quezo-real-ice-cream-stick.html/04800086036506 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-choco-hapi-pack.html/04800086044372",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-choco-hapi-pack.html/04800086044372 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-keso-hapi-pack.html/04800086044389",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-keso-hapi-pack.html/04800086044389 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/hersheys-cookies-n-creme-ice-cream-solo-pack.html/04800086045126",
+      "error": "request to https://www.selectaphilippines.com/p/hersheys-cookies-n-creme-ice-cream-solo-pack.html/04800086045126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/hersheys-cookies-n-chocolate-ice-cream-solo-pack.html/04800086045133",
+      "error": "request to https://www.selectaphilippines.com/p/hersheys-cookies-n-chocolate-ice-cream-solo-pack.html/04800086045133 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-pistachios-&-cashews-ice-cream.html/04800086045560",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-pistachios-&-cashews-ice-cream.html/04800086045560 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/mango-slush-ice-cream-stick.html/04800086046031",
+      "error": "request to https://www.selectaphilippines.com/p/mango-slush-ice-cream-stick.html/04800086046031 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-ube-cup.html/04800086046970",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-ube-cup.html/04800086046970 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-choco-cup.html/04800086046987",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-choco-cup.html/04800086046987 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-coco-mango-mochi-ice-cream.html/04800086047151",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-coco-mango-mochi-ice-cream.html/04800086047151 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-boom-boom-cookies-&-cream-ice-cream-stick.html/04800086047472",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-boom-boom-cookies-&-cream-ice-cream-stick.html/04800086047472 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-ube-macapuno-ice-cream.html/04800086048721",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-ube-macapuno-ice-cream.html/04800086048721 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/supreme-halo-halo-ice-cream.html/04800086048745",
+      "error": "request to https://www.selectaphilippines.com/p/supreme-halo-halo-ice-cream.html/04800086048745 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-3in1-choco-mango-ube-750-ml.html/04800086049681",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-3in1-choco-mango-ube-750-ml.html/04800086049681 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-rocky-road-cookies-&-cream.html/04800086049742",
+      "error": "request to https://www.selectaphilippines.com/p/2-in-1-rocky-road-cookies-&-cream.html/04800086049742 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/2-in-1-mango-float-ube-cake.html/04800086050045",
+      "error": "request to https://www.selectaphilippines.com/p/2-in-1-mango-float-ube-cake.html/04800086050045 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-sundae-choco-cup.html/04800086050120",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-sundae-choco-cup.html/04800086050120 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-crunchy-max.html/04800086050168",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-crunchy-max.html/04800086050168 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-coco-ube.html/04800086050236",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-coco-ube.html/04800086050236 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-3in1-choco-vanilla-strawberry-750-ml.html/04800086050304",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-3in1-choco-vanilla-strawberry-750-ml.html/04800086050304 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-3in1-1-choco-vanilla-strawberry-ube.html/04800086050311",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-3in1-1-choco-vanilla-strawberry-ube.html/04800086050311 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/creamdae-3in1-ube-mango-avocado-750-ml.html/04800086050328",
+      "error": "request to https://www.selectaphilippines.com/p/creamdae-3in1-ube-mango-avocado-750-ml.html/04800086050328 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-ice-pop-berry-choco.html/04800086050588",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-ice-pop-berry-choco.html/04800086050588 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-ice-pop-milky-coffee.html/04800086050595",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-ice-pop-milky-coffee.html/04800086050595 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-tornado-grape.html/08851932310352",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-tornado-grape.html/08851932310352 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/calippo-red-strawberry.html/08851932460125",
+      "error": "request to https://www.selectaphilippines.com/p/calippo-red-strawberry.html/08851932460125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/selecta-winnie-the-pooh-honey-milk-&-strawberry-ice-cream.html/08851932473897",
+      "error": "request to https://www.selectaphilippines.com/p/selecta-winnie-the-pooh-honey-milk-&-strawberry-ice-cream.html/08851932473897 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/magnum-almond-bar.html/08999999005610",
+      "error": "request to https://www.selectaphilippines.com/p/magnum-almond-bar.html/08999999005610 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:41:49.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/magnum-ice-cream-stick-white-almond.html/08999999045555",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:41:52.856Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/magnum-minis-cookies-and-cream-&-almond-&-classic.html/08999999569235",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:41:53.611Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/magnum-minis-mango-yogurt-&-almond-&-classic.html/08999999603502",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:41:53.838Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.selectaphilippines.com/p/cornetto-cookies-&-dream-ice-cream.html/14800086043303",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:41:53.393Z"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2026-03-12T15:42:50.661Z",
+  "brand": "ego",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 34,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-fresh-en-barra-45g.html/00000075064884",
+      "gtin": "00000075064884",
+      "checkedAt": "2026-03-12T15:42:42.910Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-power-250ml.html/07506192500821",
+      "gtin": "07506192500821",
+      "checkedAt": "2026-03-12T15:42:42.854Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-cera-for-men-dry-25ml.html/07506192504515",
+      "gtin": "07506192504515",
+      "checkedAt": "2026-03-12T15:42:43.775Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-diez-180ml.html/07506192505659",
+      "gtin": "07506192505659",
+      "checkedAt": "2026-03-12T15:42:42.957Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/gel-de-afeitar-ego-fresh-200ml.html/07506306209947",
+      "gtin": "07506306209947",
+      "checkedAt": "2026-03-12T15:42:43.249Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-force-aerosol-150ml.html/07506306210103",
+      "gtin": "07506306210103",
+      "checkedAt": "2026-03-12T15:42:44.477Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-en-aerosol-attraction-150ml.html/07506306215504",
+      "gtin": "07506306215504",
+      "checkedAt": "2026-03-12T15:42:42.869Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/ego-shampoo-control-ca%C3%ADda-2-en-1.html/07506306218949",
+      "gtin": "07506306218949",
+      "checkedAt": "2026-03-12T15:42:42.855Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.mx/p/gel-ego-control-caspa-180ml.html/07506306222755",
+      "gtin": "07506306222755",
+      "checkedAt": "2026-03-12T15:42:43.087Z"
+    }
+  ],
+  "errors": 25,
+  "duration": "8.20s",
+  "speedMetrics": "4.15 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-sport-en-barra-45g.html/00000075064853",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-desodorante-sport-en-barra-45g.html/00000075064853 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.622Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-force-en-barra-45g.html/00000075064860",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-desodorante-force-en-barra-45g.html/00000075064860 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirant-sport-roll-on-45ml.html/00000075064907",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-antitranspirant-sport-roll-on-45ml.html/00000075064907 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.622Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-fresh-roll-on-45ml.html/00000075064914",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-antitranspirante-fresh-roll-on-45ml.html/00000075064914 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.622Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-force-roll-on-45ml.html/00000075064938",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:42:45.620Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-ulta-fresh-en-barra-45g.html/00000075071790",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:42:44.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirant-ulta-fresh-roll-on-45ml.html/00000075071806",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-antitranspirant-ulta-fresh-roll-on-45ml.html/00000075071806 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-en-gel-force-80gr.html/00000075072858",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-antitranspirante-en-gel-force-80gr.html/00000075072858 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-en-gel-sport-80gr.html/00000075072872",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-antitranspirante-en-gel-sport-80gr.html/00000075072872 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-black-250ml.html/07506192500555",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:42:45.220Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-force-250ml.html/07506192502139",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-gel-for-men-force-250ml.html/07506192502139 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-cera-for-men-wet-25ml.html/07506192504539",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-cera-for-men-wet-25ml.html/07506192504539 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-cera-for-men-mate-25ml.html/07506192506045",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-cera-for-men-mate-25ml.html/07506192506045 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-attraction-200ml.html/07506192506601",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:42:43.905Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-fresh-200ml.html/07506306209930",
+      "error": "request to https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-fresh-200ml.html/07506306209930 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-force-200ml.html/07506306209954",
+      "error": "request to https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-force-200ml.html/07506306209954 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-fresh-200ml.html/07506306209961",
+      "error": "request to https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-fresh-200ml.html/07506306209961 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-sport-aerosol-150ml.html/07506306210080",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-body-spray-sport-aerosol-150ml.html/07506306210080 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-fresh-aerosol-150ml.html/07506306210097",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-body-spray-fresh-aerosol-150ml.html/07506306210097 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/jabon-2-en-1-para-cuerpo-y-barba-ego-force-45g.html/07506306210318",
+      "error": "request to https://www.egoparahombres.com.mx/p/jabon-2-en-1-para-cuerpo-y-barba-ego-force-45g.html/07506306210318 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-control-caida-200ml.html/07506306215689",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:42:45.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-shampoo-limpieza-profunda.html/07506306218987",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-shampoo-limpieza-profunda.html/07506306218987 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.660Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/shampoo-ego-control-caspa-200ml.html/07506306221222",
+      "error": "request to https://www.egoparahombres.com.mx/p/shampoo-ego-control-caspa-200ml.html/07506306221222 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.660Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-ultra-fresh-aerosol-150ml.html/07506306221765",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-body-spray-ultra-fresh-aerosol-150ml.html/07506306221765 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.660Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-en-aerosol-black-150ml.html/07506306222854",
+      "error": "request to https://www.egoparahombres.com.mx/p/ego-desodorante-en-aerosol-black-150ml.html/07506306222854 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:42:50.660Z"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "generatedAt": "2026-03-12T15:44:13.238Z",
+  "brand": "allthingsbeauty",
+  "assortmentCode": "PH",
+  "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+  "totalProblematicPages": 32,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/rexona-men-sport-defense-roll-on.html/04800888154873",
+      "gtin": "04800888154873",
+      "checkedAt": "2026-03-12T15:43:49.089Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/rexona-men-antibacterial-defense-roll-on.html/04800888192486",
+      "gtin": "04800888192486",
+      "checkedAt": "2026-03-12T15:43:49.121Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-dark-temptation-stick.html/04800888197870",
+      "gtin": "04800888197870",
+      "checkedAt": "2026-03-12T15:43:49.022Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/tresemme-detox-and-nourish-shampoo.html/04800888200396",
+      "gtin": "04800888200396",
+      "checkedAt": "2026-03-12T15:43:49.169Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/pond-s-healthy-hydration-aloe-vera-hydrating-jelly-cleanser.html/04800888223104",
+      "gtin": "04800888223104",
+      "checkedAt": "2026-03-12T15:43:57.317Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-radiant-plus-care-serum-bar-50x-niacinamide-plus-vitamin-c-and-e.html/04800888285300",
+      "gtin": "04800888285300",
+      "checkedAt": "2026-03-12T15:43:57.297Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-men-plus-care-body-face-and-hair-wash-clean-comfort.html/04800888286062",
+      "gtin": "04800888286062",
+      "checkedAt": "2026-03-12T15:43:57.249Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/rexona-dry-serum-deodorant-berry-glow-40ml.html/04800888287939",
+      "gtin": "04800888287939",
+      "checkedAt": "2026-03-12T15:43:57.267Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-blue-lavender-stick.html/04800888289902",
+      "gtin": "04800888289902",
+      "checkedAt": "2026-03-12T15:43:57.299Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-aqua-bergamot-stick.html/04800888289919",
+      "gtin": "04800888289919",
+      "checkedAt": "2026-03-12T15:43:57.529Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/ponds-new-york-bright-brilliance-essence.html/06902088935165",
+      "gtin": "06902088935165",
+      "checkedAt": "2026-03-12T15:43:57.256Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-beauty-bar-sensitive-skin.html/08000700000227",
+      "gtin": "08000700000227",
+      "checkedAt": "2026-03-12T15:43:57.297Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-body-spray-cherry-spritz.html/08851932483223",
+      "gtin": "08851932483223",
+      "checkedAt": "2026-03-12T15:43:57.299Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-aqua-bergamot-roll-on.html/08851932485760",
+      "gtin": "08851932485760",
+      "checkedAt": "2026-03-12T15:43:57.322Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/closeup-white-now-detox-cleanse-serum-toothpaste.html/08934839135737",
+      "gtin": "08934839135737",
+      "checkedAt": "2026-03-12T15:44:05.455Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/closeup-white-now-purple-serum-toothpaste.html/08934839135751",
+      "gtin": "08934839135751",
+      "checkedAt": "2026-03-12T15:44:05.418Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-glow-recharge-serum-body-wash.html/08934868196082",
+      "gtin": "08934868196082",
+      "checkedAt": "2026-03-12T15:44:05.452Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-hydration-boost-serum-body-wash.html/08934868196099",
+      "gtin": "08934868196099",
+      "checkedAt": "2026-03-12T15:44:05.589Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-men-deodorant-spray-extra-fresh.html/09300830037872",
+      "gtin": "09300830037872",
+      "checkedAt": "2026-03-12T15:44:05.444Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-bio-keratin-straight-silky-conditioner-500ml.html/18851932471463",
+      "gtin": "18851932471463",
+      "checkedAt": "2026-03-12T15:44:05.491Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-restorative-oil-nourishing-care-shampoo-300ml.html/24800888154372",
+      "gtin": "24800888154372",
+      "checkedAt": "2026-03-12T15:44:05.498Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-ceramide-intense-repair-shampoo-300ml.html/24800888154389",
+      "gtin": "24800888154389",
+      "checkedAt": "2026-03-12T15:44:05.477Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-bio-keratin-straight-silky-shampoo-300ml.html/24800888154396",
+      "gtin": "24800888154396",
+      "checkedAt": "2026-03-12T15:44:05.502Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-biotin-hair-fall-shampoo-300ml.html/24800888179627",
+      "gtin": "24800888179627",
+      "checkedAt": "2026-03-12T15:44:05.514Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-biotin-hair-fall-conditioner-170ml.html/24800888206651",
+      "gtin": "24800888206651",
+      "checkedAt": "2026-03-12T15:44:05.704Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-anti-dandruff-scalp-hair-fall-recovery-shampoo-300ml.html/24800888225836",
+      "gtin": "24800888225836",
+      "checkedAt": "2026-03-12T15:44:05.491Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-ceramide-intense-repair-protective-nourishing-oil-95ml.html/24800888289289",
+      "gtin": "24800888289289",
+      "checkedAt": "2026-03-12T15:44:05.516Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-bio-keratin-straight-silky-protective-nourishing-oil-95ml.html/24800888289296",
+      "gtin": "24800888289296",
+      "checkedAt": "2026-03-12T15:44:05.538Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-hair-fall-recovery-conditioner-170ml.html/24800888291992",
+      "gtin": "24800888291992",
+      "checkedAt": "2026-03-12T15:44:05.481Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-oil-control-shampoo-185ml.html/24800888292005",
+      "gtin": "24800888292005",
+      "checkedAt": "2026-03-12T15:44:05.452Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-soothing-moisture-3-in-1-serum-45ml.html/24800888292876",
+      "gtin": "24800888292876",
+      "checkedAt": "2026-03-12T15:44:05.488Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-hair-fall-recovery-3-in-1-serum-45ml.html/24800888292883",
+      "gtin": "24800888292883",
+      "checkedAt": "2026-03-12T15:44:05.492Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-03-12T15:42:58.649Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0432",
+  "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+  "totalProblematicPages": 7,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-frutas-vermelhas-e-gengibre.html/07891150031746",
+      "gtin": "07891150031746",
+      "checkedAt": "2026-03-12T15:42:43.205Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060883",
+      "gtin": "07891150060883",
+      "checkedAt": "2026-03-12T15:42:42.966Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom.html/07891150066694",
+      "gtin": "07891150066694",
+      "checkedAt": "2026-03-12T15:42:43.206Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespissimos.html/07891150066748",
+      "gtin": "07891150066748",
+      "checkedAt": "2026-03-12T15:42:42.977Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-des-coloridos.html/07891150066755",
+      "gtin": "07891150066755",
+      "checkedAt": "2026-03-12T15:42:43.044Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-modelador-antifrizz.html/07891150088368",
+      "gtin": "07891150088368",
+      "checkedAt": "2026-03-12T15:42:50.905Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088375",
+      "gtin": "07891150088375",
+      "checkedAt": "2026-03-12T15:42:50.849Z"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-03-12T15:42:09.410Z",
+  "brand": "walls",
+  "assortmentCode": "BF1055",
+  "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+  "totalProblematicPages": 9,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/viennetta-vanilja.html/08000920200025",
+      "gtin": "08000920200025",
+      "checkedAt": "2026-03-12T15:41:57.810Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/cornetto-classico-gluteeniton-&-laktoositon.html/08711327357198",
+      "gtin": "08711327357198",
+      "checkedAt": "2026-03-12T15:41:58.042Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/omenasorbetti-j%C3%A4%C3%A4tel%C3%B6-vegaaninen.html/08711327398030",
+      "gtin": "08711327398030",
+      "checkedAt": "2026-03-12T15:42:06.001Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/cornetto-mansikka-j%C3%A4%C3%A4tel%C3%B6tuutti.html/08711327620322",
+      "gtin": "08711327620322",
+      "checkedAt": "2026-03-12T15:42:05.859Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/twister-mini-mallow-j%C3%A4%C3%A4tel%C3%B6-monipakkaus-8-kpl.html/08711327653245",
+      "gtin": "08711327653245",
+      "checkedAt": "2026-03-12T15:42:06.136Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/twister-mallow-j%C3%A4%C3%A4tel%C3%B6puikko-80ml.html/08711327661509",
+      "gtin": "08711327661509",
+      "checkedAt": "2026-03-12T15:42:05.707Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/haribo-push-up-j%C3%A4%C3%A4tel%C3%B6puikko-85ml.html/08711327667525",
+      "gtin": "08711327667525",
+      "checkedAt": "2026-03-12T15:42:05.645Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/calippo-lime-5mp.html/08722700231981",
+      "gtin": "08722700231981",
+      "checkedAt": "2026-03-12T15:42:06.117Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/calippo-cola-5mp.html/08722700231998",
+      "gtin": "08722700231998",
+      "checkedAt": "2026-03-12T15:42:05.862Z"
+    }
+  ]
+}

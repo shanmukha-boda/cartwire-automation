@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-03-12T15:42:10.522Z",
+  "brand": "signal",
+  "assortmentCode": "BH0880",
+  "feedUrl": "https://www.prodent.nl/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-kids-6---13-jaar-glazuurbeschermer.html/08720181201202",
+      "gtin": "08720181201202",
+      "checkedAt": "2026-03-12T15:42:09.041Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-cool-mint.html/08720181318641",
+      "gtin": "08720181318641",
+      "checkedAt": "2026-03-12T15:42:09.281Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-white-system.html/08720181436345",
+      "gtin": "08720181436345",
+      "checkedAt": "2026-03-12T15:42:08.976Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-gevoelighied.html/08720181501104",
+      "gtin": "08720181501104",
+      "checkedAt": "2026-03-12T15:42:10.521Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/complete-bescherming.html/08720181501111",
+      "gtin": "08720181501111",
+      "checkedAt": "2026-03-12T15:42:09.127Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-frisse-adem.html/08720181501128",
+      "gtin": "08720181501128",
+      "checkedAt": "2026-03-12T15:42:08.950Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-wit-fris.html/08720181501135",
+      "gtin": "08720181501135",
+      "checkedAt": "2026-03-12T15:42:08.958Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/prodent-tandpasta-kids-0-6-jaar-75-ml.html/08720181501432",
+      "gtin": "08720181501432",
+      "checkedAt": "2026-03-12T15:42:08.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/prodent-tandpasta-junior-6-13-jaar-75-ml.html/08720181501449",
+      "gtin": "08720181501449",
+      "checkedAt": "2026-03-12T15:42:09.012Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/prodent-tandenborstel-junior-6-13-jaar.html/08720181502842",
+      "gtin": "08720181502842",
+      "checkedAt": "2026-03-12T15:42:10.097Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/prodent-tandenborstel-kids-0-6-jaar.html/08720181502859",
+      "gtin": "08720181502859",
+      "checkedAt": "2026-03-12T15:42:09.266Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/prodent-tandpasta-cool-mint-125-ml.html/08720181512674",
+      "gtin": "08720181512674",
+      "checkedAt": "2026-03-12T15:42:09.357Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-menthol-power.html/08720181604355",
+      "gtin": "08720181604355",
+      "checkedAt": "2026-03-12T15:42:09.159Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/tandpasta-freshgel.html/08720181604362",
+      "gtin": "08720181604362",
+      "checkedAt": "2026-03-12T15:42:08.967Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.prodent.nl/p/prodent-tandpasta-white-now-3-in-1.html/08720181697012",
+      "gtin": "08720181697012",
+      "checkedAt": "2026-03-12T15:42:09.020Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "1.79s",
+  "speedMetrics": "8.38 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}
