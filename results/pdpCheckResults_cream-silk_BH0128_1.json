@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:43:00.497Z",
+  "generatedAt": "2026-03-12T15:55:45.651Z",
   "brand": "cream-silk",
   "assortmentCode": "BH0128",
   "feedUrl": "https://www.creamsilk.com.ph/home.productfeed.json",
@@ -10,121 +10,120 @@
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/rich-moisture-300ml.html/04800888215062",
       "gtin": "04800888215062",
-      "checkedAt": "2026-03-12T15:42:59.853Z"
+      "checkedAt": "2026-03-12T15:55:45.532Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/rich-lustre-300ml.html/04800888215079",
+      "gtin": "04800888215079",
+      "checkedAt": "2026-03-12T15:55:45.639Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-hair-fall-defiance-treatment-shot-12ml.html/04800888220608",
+      "gtin": "04800888220608",
+      "checkedAt": "2026-03-12T15:55:45.615Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/ultimate-hair-fall-defiance-ultra-conditioner-340ml.html/04800888220943",
       "gtin": "04800888220943",
-      "checkedAt": "2026-03-12T15:42:53.209Z"
+      "checkedAt": "2026-03-12T15:55:45.425Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-reborn-damage-control-tri-oleo-conditioner-180ml.html/04800888139450",
+      "gtin": "04800888139450",
+      "checkedAt": "2026-03-12T15:55:45.613Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/hairfall-defense-conditioner-180ml.html/04800888139467",
       "gtin": "04800888139467",
-      "checkedAt": "2026-03-12T15:42:53.120Z"
+      "checkedAt": "2026-03-12T15:55:45.434Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/ultimate-reborn-standout-straight-tri-oleo-conditioner-180ml.html/04800888139481",
       "gtin": "04800888139481",
-      "checkedAt": "2026-03-12T15:42:52.731Z"
+      "checkedAt": "2026-03-12T15:55:45.641Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/dry-rescue-conditioner-180ml.html/04800888180124",
+      "gtin": "04800888180124",
+      "checkedAt": "2026-03-12T15:55:45.438Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-repair-and-shine-170ml.html/04800888206091",
+      "gtin": "04800888206091",
+      "checkedAt": "2026-03-12T15:55:45.624Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-straight-170ml.html/04800888206183",
+      "gtin": "04800888206183",
+      "checkedAt": "2026-03-12T15:55:45.487Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-color-revive-150ml.html/04800888209573",
+      "gtin": "04800888209573",
+      "checkedAt": "2026-03-12T15:55:45.493Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-straight-200ml.html/04800888209825",
+      "gtin": "04800888209825",
+      "checkedAt": "2026-03-12T15:55:45.596Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-repair-200ml.html/04800888209832",
+      "gtin": "04800888209832",
+      "checkedAt": "2026-03-12T15:55:45.395Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/ultimate-straight-25ml.html/04800888209887",
       "gtin": "04800888209887",
-      "checkedAt": "2026-03-12T15:42:53.439Z"
+      "checkedAt": "2026-03-12T15:55:45.579Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/ultimate-repair-25ml.html/04800888209894",
       "gtin": "04800888209894",
-      "checkedAt": "2026-03-12T15:42:53.443Z"
+      "checkedAt": "2026-03-12T15:55:45.646Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/fresh-and-hydrated-150-ml.html/04800888211217",
       "gtin": "04800888211217",
-      "checkedAt": "2026-03-12T15:42:53.169Z"
+      "checkedAt": "2026-03-12T15:55:45.502Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/fresh-and-bouncy-150-ml.html/04800888211231",
       "gtin": "04800888211231",
-      "checkedAt": "2026-03-12T15:42:59.815Z"
+      "checkedAt": "2026-03-12T15:55:45.650Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.creamsilk.com.ph/p/ultimate-reborn-long-and-luscious-tri-oleo-conditioner-170ml.html/04800888217134",
+      "gtin": "04800888217134",
+      "checkedAt": "2026-03-12T15:55:45.532Z"
     },
     {
       "type": "successful",
       "url": "https://www.creamsilk.com.ph/p/triple-keratin-rescue-ultimate-straight-600ml.html/04800888217738",
       "gtin": "04800888217738",
-      "checkedAt": "2026-03-12T15:42:52.707Z"
+      "checkedAt": "2026-03-12T15:55:45.523Z"
     }
   ],
-  "errors": 10,
-  "duration": "8.14s",
-  "speedMetrics": "2.33 URLs/second",
+  "errors": 0,
+  "duration": "0.65s",
+  "speedMetrics": "29.23 URLs/second",
   "problematicPages": [],
-  "errorPages": [
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/rich-lustre-300ml.html/04800888215079",
-      "error": "request to https://www.creamsilk.com.ph/p/rich-lustre-300ml.html/04800888215079 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.493Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-hair-fall-defiance-treatment-shot-12ml.html/04800888220608",
-      "error": "request to https://www.creamsilk.com.ph/p/ultimate-hair-fall-defiance-treatment-shot-12ml.html/04800888220608 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.493Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-reborn-damage-control-tri-oleo-conditioner-180ml.html/04800888139450",
-      "error": "request to https://www.creamsilk.com.ph/p/ultimate-reborn-damage-control-tri-oleo-conditioner-180ml.html/04800888139450 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.494Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/dry-rescue-conditioner-180ml.html/04800888180124",
-      "error": "request to https://www.creamsilk.com.ph/p/dry-rescue-conditioner-180ml.html/04800888180124 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.493Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-repair-and-shine-170ml.html/04800888206091",
-      "error": "request to https://www.creamsilk.com.ph/p/ultimate-repair-and-shine-170ml.html/04800888206091 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.493Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-straight-170ml.html/04800888206183",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:54.728Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-color-revive-150ml.html/04800888209573",
-      "error": "request to https://www.creamsilk.com.ph/p/ultimate-color-revive-150ml.html/04800888209573 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.494Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-straight-200ml.html/04800888209825",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:55.216Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-repair-200ml.html/04800888209832",
-      "error": "request to https://www.creamsilk.com.ph/p/ultimate-repair-200ml.html/04800888209832 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.497Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.creamsilk.com.ph/p/ultimate-reborn-long-and-luscious-tri-oleo-conditioner-170ml.html/04800888217134",
-      "error": "request to https://www.creamsilk.com.ph/p/ultimate-reborn-long-and-luscious-tri-oleo-conditioner-170ml.html/04800888217134 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:00.494Z"
-    }
-  ]
+  "errorPages": []
 }

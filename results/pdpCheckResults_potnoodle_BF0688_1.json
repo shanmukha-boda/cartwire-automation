@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:43:20.547Z",
+  "generatedAt": "2026-03-12T15:56:14.863Z",
   "brand": "potnoodle",
   "assortmentCode": "BF0688",
   "feedUrl": "https://www.potnoodle.com/home.productfeed.json",
@@ -10,163 +10,163 @@
       "type": "successful",
       "url": "https://www.potnoodle.com/p/originalcurry.html/05000118203480",
       "gtin": "05000118203480",
-      "checkedAt": "2026-03-12T15:43:12.764Z"
+      "checkedAt": "2026-03-12T15:56:07.102Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/beeftomato.html/05000118203497",
       "gtin": "05000118203497",
-      "checkedAt": "2026-03-12T15:43:12.722Z"
+      "checkedAt": "2026-03-12T15:56:07.202Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/chickenmushroom.html/05000118203503",
       "gtin": "05000118203503",
-      "checkedAt": "2026-03-12T15:43:12.841Z"
+      "checkedAt": "2026-03-12T15:56:07.089Z"
     },
     {
       "type": "successful",
-      "url": "https://www.potnoodle.com/p/sweetsour.html/05000118203510",
-      "gtin": "05000118203510",
-      "checkedAt": "2026-03-12T15:43:12.832Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.potnoodle.com/p/bombaybadboy.html/05000118203541",
-      "gtin": "05000118203541",
-      "checkedAt": "2026-03-12T15:43:12.792Z"
+      "url": "https://www.potnoodle.com/p/chowmein.html/05000118203534",
+      "gtin": "05000118203534",
+      "checkedAt": "2026-03-12T15:56:07.160Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/kingchickenmushroom.html/05000118203664",
       "gtin": "05000118203664",
-      "checkedAt": "2026-03-12T15:43:12.701Z"
+      "checkedAt": "2026-03-12T15:56:07.091Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/kingoriginalcurry.html/05000118203688",
       "gtin": "05000118203688",
-      "checkedAt": "2026-03-12T15:43:12.805Z"
+      "checkedAt": "2026-03-12T15:56:07.423Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/kingbombaybadboy.html/05000118203695",
       "gtin": "05000118203695",
-      "checkedAt": "2026-03-12T15:43:12.790Z"
+      "checkedAt": "2026-03-12T15:56:14.704Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/packchickenmushroom.html/05000118203718",
       "gtin": "05000118203718",
-      "checkedAt": "2026-03-12T15:43:12.712Z"
+      "checkedAt": "2026-03-12T15:56:07.179Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/packbeeftomato.html/05000118203725",
       "gtin": "05000118203725",
-      "checkedAt": "2026-03-12T15:43:12.743Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.potnoodle.com/p/kingpotpastabolognese.html/08710522806593",
-      "gtin": "08710522806593",
-      "checkedAt": "2026-03-12T15:43:14.491Z"
+      "checkedAt": "2026-03-12T15:56:07.600Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/kingstickyrib.html/08714100272947",
       "gtin": "08714100272947",
-      "checkedAt": "2026-03-12T15:43:12.753Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.potnoodle.com/p/stickyrib.html/08718114797977",
-      "gtin": "08718114797977",
-      "checkedAt": "2026-03-12T15:43:12.765Z"
+      "checkedAt": "2026-03-12T15:56:07.536Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/piripirichicken.html/08720181138720",
       "gtin": "08720181138720",
-      "checkedAt": "2026-03-12T15:43:12.747Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.potnoodle.com/p/donerkebab.html/08720182443878",
-      "gtin": "08720182443878",
-      "checkedAt": "2026-03-12T15:43:12.737Z"
+      "checkedAt": "2026-03-12T15:56:07.536Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/kingbeeftomato.html/08722700153276",
       "gtin": "08722700153276",
-      "checkedAt": "2026-03-12T15:43:12.777Z"
+      "checkedAt": "2026-03-12T15:56:14.157Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/fusionsthaigreencurry.html/08720182064363",
       "gtin": "08720182064363",
-      "checkedAt": "2026-03-12T15:43:12.832Z"
+      "checkedAt": "2026-03-12T15:56:07.203Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/fusionschillichicken.html/08720182064387",
       "gtin": "08720182064387",
-      "checkedAt": "2026-03-12T15:43:12.810Z"
+      "checkedAt": "2026-03-12T15:56:07.113Z"
     },
     {
       "type": "successful",
       "url": "https://www.potnoodle.com/p/fusionskatsucurry.html/08720182064400",
       "gtin": "08720182064400",
-      "checkedAt": "2026-03-12T15:43:12.780Z"
+      "checkedAt": "2026-03-12T15:56:07.413Z"
     }
   ],
-  "errors": 7,
-  "duration": "8.45s",
-  "speedMetrics": "3.08 URLs/second",
+  "errors": 11,
+  "duration": "8.19s",
+  "speedMetrics": "3.17 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
-      "url": "https://www.potnoodle.com/p/chowmein.html/05000118203534",
-      "error": "request to https://www.potnoodle.com/p/chowmein.html/05000118203534 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:20.517Z"
+      "url": "https://www.potnoodle.com/p/sweetsour.html/05000118203510",
+      "error": "request to https://www.potnoodle.com/p/sweetsour.html/05000118203510 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:14.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/bombaybadboy.html/05000118203541",
+      "error": "request to https://www.potnoodle.com/p/bombaybadboy.html/05000118203541 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:14.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/kingpotpastabolognese.html/08710522806593",
+      "error": "request to https://www.potnoodle.com/p/kingpotpastabolognese.html/08710522806593 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:14.848Z"
     },
     {
       "type": "error",
       "url": "https://www.potnoodle.com/p/kingpotpastacarbonara.html/08710522806609",
       "error": "request to https://www.potnoodle.com/p/kingpotpastacarbonara.html/08710522806609 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:20.509Z"
+      "checkedAt": "2026-03-12T15:56:14.849Z"
     },
     {
       "type": "error",
       "url": "https://www.potnoodle.com/p/pulledpork.html/08714100392355",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:43:15.733Z"
+      "checkedAt": "2026-03-12T15:56:10.116Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/stickyrib.html/08718114797977",
+      "error": "request to https://www.potnoodle.com/p/stickyrib.html/08718114797977 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:14.863Z"
     },
     {
       "type": "error",
       "url": "https://www.potnoodle.com/p/lostthepotnoodlesmokin-bbq.html/08720182414113",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:43:16.254Z"
+      "checkedAt": "2026-03-12T15:56:09.957Z"
     },
     {
       "type": "error",
       "url": "https://www.potnoodle.com/p/lostthepotnoodlechipshopcurry.html/08720182414120",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:43:16.049Z"
+      "checkedAt": "2026-03-12T15:56:09.096Z"
     },
     {
       "type": "error",
       "url": "https://www.potnoodle.com/p/lostthepotnoodlechampionchicken.html/08720182414137",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:43:16.143Z"
+      "checkedAt": "2026-03-12T15:56:08.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/donerkebab.html/08720182443878",
+      "error": "request to https://www.potnoodle.com/p/donerkebab.html/08720182443878 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:14.848Z"
     },
     {
       "type": "error",
       "url": "https://www.potnoodle.com/p/fusionsmalaysiancurry.html/08720182479648",
       "error": "request to https://www.potnoodle.com/p/fusionsmalaysiancurry.html/08720182479648 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:20.547Z"
+      "checkedAt": "2026-03-12T15:56:14.848Z"
     }
   ]
 }

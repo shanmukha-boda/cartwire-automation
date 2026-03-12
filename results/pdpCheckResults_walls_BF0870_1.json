@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:41:43.658Z",
+  "generatedAt": "2026-03-12T15:54:56.370Z",
   "brand": "walls",
   "assortmentCode": "BF0870",
   "feedUrl": "https://www.wallsthailand.com/home.productfeed.json",
@@ -10,511 +10,511 @@
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%84%E0%B8%9A%E0%B8%97%E0%B9%8C%E0%B8%AA-%E0%B9%84%E0%B8%97%E0%B8%A1%E0%B9%8C!.html/00885193244138",
       "gtin": "00885193244138",
-      "checkedAt": "2026-03-12T15:41:40.945Z"
+      "checkedAt": "2026-03-12T15:54:48.227Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-&-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/04800086050373",
       "gtin": "04800086050373",
-      "checkedAt": "2026-03-12T15:41:41.551Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%94%E0%B8%B1%E0%B8%97%E0%B8%8A%E0%B9%8C.html/04800086050397",
-      "gtin": "04800086050397",
-      "checkedAt": "2026-03-12T15:41:40.816Z"
+      "checkedAt": "2026-03-12T15:54:48.928Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%AD%E0%B8%9F%E0%B8%9F%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5.html/04800086050427",
       "gtin": "04800086050427",
-      "checkedAt": "2026-03-12T15:41:40.778Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%82%E0%B8%A3%E0%B9%89%E0%B8%94.html/04800086050441",
-      "gtin": "04800086050441",
-      "checkedAt": "2026-03-12T15:41:41.479Z"
+      "checkedAt": "2026-03-12T15:54:48.324Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B9%8C.html/04800086050465",
       "gtin": "04800086050465",
-      "checkedAt": "2026-03-12T15:41:40.799Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932028103",
-      "gtin": "08851932028103",
-      "checkedAt": "2026-03-12T15:41:42.667Z"
+      "checkedAt": "2026-03-12T15:54:48.344Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932030618",
       "gtin": "08851932030618",
-      "checkedAt": "2026-03-12T15:41:41.501Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932030656",
-      "gtin": "08851932030656",
-      "checkedAt": "2026-03-12T15:41:41.461Z"
+      "checkedAt": "2026-03-12T15:54:48.451Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B9%8C.html/08851932031752",
       "gtin": "08851932031752",
-      "checkedAt": "2026-03-12T15:41:40.912Z"
+      "checkedAt": "2026-03-12T15:54:48.508Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932074025",
       "gtin": "08851932074025",
-      "checkedAt": "2026-03-12T15:41:41.643Z"
+      "checkedAt": "2026-03-12T15:54:55.902Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932080149",
       "gtin": "08851932080149",
-      "checkedAt": "2026-03-12T15:41:40.741Z"
+      "checkedAt": "2026-03-12T15:54:48.890Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%96%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%94%E0%B8%B3.html/08851932105200",
       "gtin": "08851932105200",
-      "checkedAt": "2026-03-12T15:41:41.702Z"
+      "checkedAt": "2026-03-12T15:54:48.356Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B8%A5-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88.html/08851932115896",
       "gtin": "08851932115896",
-      "checkedAt": "2026-03-12T15:41:40.992Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B8%A5-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F.html/08851932115919",
-      "gtin": "08851932115919",
-      "checkedAt": "2026-03-12T15:41:41.017Z"
+      "checkedAt": "2026-03-12T15:54:48.774Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.html/08851932122986",
       "gtin": "08851932122986",
-      "checkedAt": "2026-03-12T15:41:40.942Z"
+      "checkedAt": "2026-03-12T15:54:48.863Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7.html/08851932122993",
       "gtin": "08851932122993",
-      "checkedAt": "2026-03-12T15:41:41.438Z"
+      "checkedAt": "2026-03-12T15:54:48.915Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932123013",
       "gtin": "08851932123013",
-      "checkedAt": "2026-03-12T15:41:40.767Z"
+      "checkedAt": "2026-03-12T15:54:48.917Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932126366",
       "gtin": "08851932126366",
-      "checkedAt": "2026-03-12T15:41:41.548Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932127127",
-      "gtin": "08851932127127",
-      "checkedAt": "2026-03-12T15:41:40.762Z"
+      "checkedAt": "2026-03-12T15:54:48.183Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B2.html/08851932143974",
       "gtin": "08851932143974",
-      "checkedAt": "2026-03-12T15:41:41.630Z"
+      "checkedAt": "2026-03-12T15:54:49.116Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932145329",
       "gtin": "08851932145329",
-      "checkedAt": "2026-03-12T15:41:41.042Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%97%E0%B8%AA%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.html/08851932200158",
-      "gtin": "08851932200158",
-      "checkedAt": "2026-03-12T15:41:40.741Z"
+      "checkedAt": "2026-03-12T15:54:48.489Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%81%E0%B8%95%E0%B8%87%E0%B9%82%E0%B8%A1.html/08851932268820",
       "gtin": "08851932268820",
-      "checkedAt": "2026-03-12T15:41:41.339Z"
+      "checkedAt": "2026-03-12T15:54:48.139Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08851932295789",
       "gtin": "08851932295789",
-      "checkedAt": "2026-03-12T15:41:40.856Z"
+      "checkedAt": "2026-03-12T15:54:48.662Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84.html/08851932295796",
       "gtin": "08851932295796",
-      "checkedAt": "2026-03-12T15:41:40.585Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B9%84%E0%B8%A5%E0%B8%A1%E0%B9%8C.html/08851932299152",
-      "gtin": "08851932299152",
-      "checkedAt": "2026-03-12T15:41:40.902Z"
+      "checkedAt": "2026-03-12T15:54:48.278Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%84%E0%B8%B9%E0%B9%88-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%89%E0%B8%A1.html/08851932316330",
       "gtin": "08851932316330",
-      "checkedAt": "2026-03-12T15:41:40.791Z"
+      "checkedAt": "2026-03-12T15:54:55.661Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%80%E0%B8%88%E0%B8%A5%E0%B8%A5%E0%B8%B5%E0%B9%88.html/08851932316347",
       "gtin": "08851932316347",
-      "checkedAt": "2026-03-12T15:41:41.680Z"
+      "checkedAt": "2026-03-12T15:54:48.989Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%B2.html/08851932320948",
       "gtin": "08851932320948",
-      "checkedAt": "2026-03-12T15:41:41.817Z"
+      "checkedAt": "2026-03-12T15:54:48.247Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89.html/08851932320986",
       "gtin": "08851932320986",
-      "checkedAt": "2026-03-12T15:41:42.202Z"
+      "checkedAt": "2026-03-12T15:54:48.670Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%A3-%E0%B8%AA%E0%B8%9B%E0%B8%A5%E0%B8%B4%E0%B8%97.html/08851932336857",
       "gtin": "08851932336857",
-      "checkedAt": "2026-03-12T15:41:41.314Z"
+      "checkedAt": "2026-03-12T15:54:49.093Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5-%E0%B8%8A%E0%B8%B5%E0%B8%AA%E0%B9%80%E0%B8%84%E0%B9%89%E0%B8%81.html/08851932344807",
       "gtin": "08851932344807",
-      "checkedAt": "2026-03-12T15:41:40.916Z"
+      "checkedAt": "2026-03-12T15:54:48.554Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99-%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B.html/08851932346016",
       "gtin": "08851932346016",
-      "checkedAt": "2026-03-12T15:41:40.764Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99.html/08851932346245",
-      "gtin": "08851932346245",
-      "checkedAt": "2026-03-12T15:41:40.725Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932348126",
-      "gtin": "08851932348126",
-      "checkedAt": "2026-03-12T15:41:41.830Z"
+      "checkedAt": "2026-03-12T15:54:48.863Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932348133",
       "gtin": "08851932348133",
-      "checkedAt": "2026-03-12T15:41:41.264Z"
+      "checkedAt": "2026-03-12T15:54:49.394Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C.html/08851932348140",
       "gtin": "08851932348140",
-      "checkedAt": "2026-03-12T15:41:41.599Z"
+      "checkedAt": "2026-03-12T15:54:48.721Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C.html/08851932348157",
       "gtin": "08851932348157",
-      "checkedAt": "2026-03-12T15:41:40.751Z"
+      "checkedAt": "2026-03-12T15:54:48.096Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B9%8A%E0%B8%95.html/08851932348164",
       "gtin": "08851932348164",
-      "checkedAt": "2026-03-12T15:41:41.720Z"
+      "checkedAt": "2026-03-12T15:54:48.334Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932348171",
       "gtin": "08851932348171",
-      "checkedAt": "2026-03-12T15:41:40.775Z"
+      "checkedAt": "2026-03-12T15:54:49.252Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-3-in-1-%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5-%E0%B8%99%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B9%81%E0%B8%97%E0%B8%99.html/08851932348188",
       "gtin": "08851932348188",
-      "checkedAt": "2026-03-12T15:41:40.587Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.html/08851932348201",
-      "gtin": "08851932348201",
-      "checkedAt": "2026-03-12T15:41:41.481Z"
+      "checkedAt": "2026-03-12T15:54:48.689Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-2-in-1-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.html/08851932348218",
       "gtin": "08851932348218",
-      "checkedAt": "2026-03-12T15:41:40.865Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.html/08851932348225",
-      "gtin": "08851932348225",
-      "checkedAt": "2026-03-12T15:41:41.427Z"
+      "checkedAt": "2026-03-12T15:54:55.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932348232",
       "gtin": "08851932348232",
-      "checkedAt": "2026-03-12T15:41:40.751Z"
+      "checkedAt": "2026-03-12T15:54:48.715Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B9%89.html/08851932349635",
       "gtin": "08851932349635",
-      "checkedAt": "2026-03-12T15:41:41.519Z"
+      "checkedAt": "2026-03-12T15:54:48.474Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932349758",
       "gtin": "08851932349758",
-      "checkedAt": "2026-03-12T15:41:41.841Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88.html/08851932349765",
-      "gtin": "08851932349765",
-      "checkedAt": "2026-03-12T15:41:41.470Z"
+      "checkedAt": "2026-03-12T15:54:49.613Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932349772",
       "gtin": "08851932349772",
-      "checkedAt": "2026-03-12T15:41:40.768Z"
+      "checkedAt": "2026-03-12T15:54:48.433Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932349789",
       "gtin": "08851932349789",
-      "checkedAt": "2026-03-12T15:41:40.792Z"
+      "checkedAt": "2026-03-12T15:54:49.602Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932349796",
       "gtin": "08851932349796",
-      "checkedAt": "2026-03-12T15:41:41.501Z"
+      "checkedAt": "2026-03-12T15:54:48.916Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%84%E0%B8%B2%E0%B8%9B%E0%B8%B9%E0%B8%8A%E0%B8%B4%E0%B9%82%E0%B8%99.html/08851932350945",
       "gtin": "08851932350945",
-      "checkedAt": "2026-03-12T15:41:41.046Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B9%8C.html/08851932350952",
-      "gtin": "08851932350952",
-      "checkedAt": "2026-03-12T15:41:41.659Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08851932352772",
-      "gtin": "08851932352772",
-      "checkedAt": "2026-03-12T15:41:41.264Z"
+      "checkedAt": "2026-03-12T15:54:48.404Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932355704",
       "gtin": "08851932355704",
-      "checkedAt": "2026-03-12T15:41:41.869Z"
+      "checkedAt": "2026-03-12T15:54:48.258Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-2-in-1-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95%E0%B8%8A%E0%B8%B4%E0%B8%9B-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932366892",
       "gtin": "08851932366892",
-      "checkedAt": "2026-03-12T15:41:41.448Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%AD%E0%B8%AD%E0%B8%84%E0%B9%82%E0%B8%95%E0%B8%9B%E0%B8%B8%E0%B8%AA.html/08851932367141",
-      "gtin": "08851932367141",
-      "checkedAt": "2026-03-12T15:41:41.433Z"
+      "checkedAt": "2026-03-12T15:54:48.365Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932382458",
       "gtin": "08851932382458",
-      "checkedAt": "2026-03-12T15:41:40.944Z"
+      "checkedAt": "2026-03-12T15:54:48.528Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932387675",
       "gtin": "08851932387675",
-      "checkedAt": "2026-03-12T15:41:40.914Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B4.html/08851932392648",
-      "gtin": "08851932392648",
-      "checkedAt": "2026-03-12T15:41:40.541Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87.html/08851932393850",
-      "gtin": "08851932393850",
-      "checkedAt": "2026-03-12T15:41:41.881Z"
+      "checkedAt": "2026-03-12T15:54:48.803Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%9B-%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99.html/08851932403252",
       "gtin": "08851932403252",
-      "checkedAt": "2026-03-12T15:41:40.863Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A1%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1.html/08851932410762",
-      "gtin": "08851932410762",
-      "checkedAt": "2026-03-12T15:41:41.531Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%88.html/08851932413909",
-      "gtin": "08851932413909",
-      "checkedAt": "2026-03-12T15:41:41.428Z"
+      "checkedAt": "2026-03-12T15:54:49.009Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%84%E0%B9%8C%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932421812",
       "gtin": "08851932421812",
-      "checkedAt": "2026-03-12T15:41:40.595Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C%E0%B8%A1%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%95-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932421997",
-      "gtin": "08851932421997",
-      "checkedAt": "2026-03-12T15:41:41.518Z"
+      "checkedAt": "2026-03-12T15:54:48.203Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95.html/08851932426015",
       "gtin": "08851932426015",
-      "checkedAt": "2026-03-12T15:41:40.772Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932438483",
-      "gtin": "08851932438483",
-      "checkedAt": "2026-03-12T15:41:40.679Z"
+      "checkedAt": "2026-03-12T15:54:49.262Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%8C.html/08851932442855",
       "gtin": "08851932442855",
-      "checkedAt": "2026-03-12T15:41:41.292Z"
+      "checkedAt": "2026-03-12T15:54:48.213Z"
     },
     {
       "type": "successful",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932450362",
-      "gtin": "08851932450362",
-      "checkedAt": "2026-03-12T15:41:40.800Z"
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932451475",
+      "gtin": "08851932451475",
+      "checkedAt": "2026-03-12T15:54:49.413Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B9%80%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C.html/08851932453189",
       "gtin": "08851932453189",
-      "checkedAt": "2026-03-12T15:41:41.456Z"
+      "checkedAt": "2026-03-12T15:54:48.992Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%84%E0%B9%8C-&-%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%9F%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B9%8C.html/08851932465342",
       "gtin": "08851932465342",
-      "checkedAt": "2026-03-12T15:41:40.922Z"
+      "checkedAt": "2026-03-12T15:54:48.754Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%AE%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%81%E0%B9%82%E0%B8%94-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%84%E0%B9%8C.html/08851932469654",
       "gtin": "08851932469654",
-      "checkedAt": "2026-03-12T15:41:41.537Z"
+      "checkedAt": "2026-03-12T15:54:48.328Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89&%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1.html/08851932473217",
       "gtin": "08851932473217",
-      "checkedAt": "2026-03-12T15:41:40.920Z"
+      "checkedAt": "2026-03-12T15:54:48.519Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%B5%E0%B8%95%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97.html/08851932476591",
       "gtin": "08851932476591",
-      "checkedAt": "2026-03-12T15:41:41.253Z"
+      "checkedAt": "2026-03-12T15:54:48.902Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A5.html/08851932478670",
       "gtin": "08851932478670",
-      "checkedAt": "2026-03-12T15:41:40.994Z"
+      "checkedAt": "2026-03-12T15:54:49.275Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B2.html/08851932479110",
       "gtin": "08851932479110",
-      "checkedAt": "2026-03-12T15:41:40.993Z"
+      "checkedAt": "2026-03-12T15:54:48.279Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5.html/08851932480734",
       "gtin": "08851932480734",
-      "checkedAt": "2026-03-12T15:41:43.185Z"
+      "checkedAt": "2026-03-12T15:54:56.296Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%AD%E0%B8%87%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7.html/08851932483551",
       "gtin": "08851932483551",
-      "checkedAt": "2026-03-12T15:41:42.968Z"
+      "checkedAt": "2026-03-12T15:54:56.211Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B4-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08999999035631",
       "gtin": "08999999035631",
-      "checkedAt": "2026-03-12T15:41:43.511Z"
+      "checkedAt": "2026-03-12T15:54:56.370Z"
     },
     {
       "type": "successful",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%87%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%88.html/08999999600990",
       "gtin": "08999999600990",
-      "checkedAt": "2026-03-12T15:41:43.658Z"
+      "checkedAt": "2026-03-12T15:54:56.177Z"
     }
   ],
-  "errors": 2,
-  "duration": "3.60s",
-  "speedMetrics": "23.33 URLs/second",
+  "errors": 24,
+  "duration": "8.60s",
+  "speedMetrics": "9.77 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
-      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932451475",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:41.951Z"
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%94%E0%B8%B1%E0%B8%97%E0%B8%8A%E0%B9%8C.html/04800086050397",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%94%E0%B8%B1%E0%B8%97%E0%B8%8A%E0%B9%8C.html/04800086050397 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%82%E0%B8%A3%E0%B9%89%E0%B8%94.html/04800086050441",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B9%89-%E0%B9%82%E0%B8%A3%E0%B9%89%E0%B8%94.html/04800086050441 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932028103",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2.html/08851932028103 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932030656",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81.html/08851932030656 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B8%A5-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F.html/08851932115919",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B8%A5-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F.html/08851932115919 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.031Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932127127",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89.html/08851932127127 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%97%E0%B8%AA%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.html/08851932200158",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%97%E0%B8%AA%E0%B9%8C-%E0%B8%9F%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.html/08851932200158 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B9%84%E0%B8%A5%E0%B8%A1%E0%B9%8C.html/08851932299152",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B9%84%E0%B8%A5%E0%B8%A1%E0%B9%8C.html/08851932299152 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99.html/08851932346245",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99.html/08851932346245 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932348126",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81.html/08851932348126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.html/08851932348201",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.html/08851932348201 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.031Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.html/08851932348225",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.html/08851932348225 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.031Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88.html/08851932349765",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88.html/08851932349765 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.031Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B9%8C.html/08851932350952",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%81-%E0%B8%A3%E0%B8%AA%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B9%8C.html/08851932350952 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.036Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08851932352772",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08851932352772 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%AD%E0%B8%AD%E0%B8%84%E0%B9%82%E0%B8%95%E0%B8%9B%E0%B8%B8%E0%B8%AA.html/08851932367141",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B-%E0%B8%AD%E0%B8%AD%E0%B8%84%E0%B9%82%E0%B8%95%E0%B8%9B%E0%B8%B8%E0%B8%AA.html/08851932367141 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B4.html/08851932392648",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B4.html/08851932392648 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87.html/08851932393850",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87.html/08851932393850 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:55.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A1%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1.html/08851932410762",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A1%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1.html/08851932410762 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.031Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%88.html/08851932413909",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%95%E0%B9%82%E0%B8%95-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%88.html/08851932413909 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.029Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C%E0%B8%A1%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%95-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932421997",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B9%84%E0%B8%A7%E0%B8%97%E0%B9%8C%E0%B8%A1%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%95-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932421997 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932438483",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%AE%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%95-%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%9B.html/08851932438483 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932450362",
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B9%88.html/08851932450362 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
     },
     {
       "type": "error",
       "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9E%E0%B8%B9%E0%B8%AB%E0%B9%8C.html/08851932473897",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:40.672Z"
+      "error": "request to https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9E%E0%B8%B9%E0%B8%AB%E0%B9%8C.html/08851932473897 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:56.030Z"
     }
   ]
 }

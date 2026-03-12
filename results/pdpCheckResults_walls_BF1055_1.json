@@ -1,243 +1,195 @@
 {
-  "generatedAt": "2026-03-12T15:42:09.410Z",
+  "generatedAt": "2026-03-12T15:55:00.262Z",
   "brand": "walls",
   "assortmentCode": "BF1055",
   "feedUrl": "https://www.ingman.fi/home.productfeed.json",
   "totalUrlsChecked": 104,
-  "problematicPagesFound": 9,
+  "problematicPagesFound": 8,
   "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.ingman.fi/p/salmiakki.html/07310290004149",
+      "gtin": "07310290004149",
+      "checkedAt": "2026-03-12T15:54:49.737Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ingman.fi/p/pekaanipahkina-kinuski.html/07310290004217",
+      "gtin": "07310290004217",
+      "checkedAt": "2026-03-12T15:54:49.359Z"
+    },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/nougatkrokantti.html/07310290004668",
       "gtin": "07310290004668",
-      "checkedAt": "2026-03-12T15:41:58.019Z"
+      "checkedAt": "2026-03-12T15:54:49.357Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ingman.fi/p/gelateria-dulce-de-leche.html/08000920813089",
+      "gtin": "08000920813089",
+      "checkedAt": "2026-03-12T15:54:49.896Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ingman.fi/p/sateenkaari.html/08000920815571",
+      "gtin": "08000920815571",
+      "checkedAt": "2026-03-12T15:54:49.417Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/gelateria-mansikka.html/08000920815885",
       "gtin": "08000920815885",
-      "checkedAt": "2026-03-12T15:41:58.047Z"
+      "checkedAt": "2026-03-12T15:54:49.372Z"
     },
     {
       "type": "successful",
-      "url": "https://www.ingman.fi/p/gelateria-tiramisu.html/08000920915516",
-      "gtin": "08000920915516",
-      "checkedAt": "2026-03-12T15:41:57.842Z"
+      "url": "https://www.ingman.fi/p/gelateria-minttusuklaa.html/08000920833582",
+      "gtin": "08000920833582",
+      "checkedAt": "2026-03-12T15:54:49.733Z"
     },
     {
       "type": "successful",
-      "url": "https://www.ingman.fi/p/gelateria-banaani-suklaa.html/08000920925003",
-      "gtin": "08000920925003",
-      "checkedAt": "2026-03-12T15:41:58.000Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/pehmyt-vanilja.html/08711327347175",
-      "gtin": "08711327347175",
-      "checkedAt": "2026-03-12T15:41:58.755Z"
+      "url": "https://www.ingman.fi/p/pehmyt-mansikka.html/08711327347137",
+      "gtin": "08711327347137",
+      "checkedAt": "2026-03-12T15:54:49.372Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/kahvi.html/08711327467620",
       "gtin": "08711327467620",
-      "checkedAt": "2026-03-12T15:41:58.226Z"
+      "checkedAt": "2026-03-12T15:54:49.444Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/cookies-&-cream.html/08711327495647",
       "gtin": "08711327495647",
-      "checkedAt": "2026-03-12T15:41:57.825Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/ohoj-caramel.html/08711327540934",
-      "gtin": "08711327540934",
-      "checkedAt": "2026-03-12T15:41:57.694Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/ohoj-hard-topping-milk-choco.html/08711327540965",
-      "gtin": "08711327540965",
-      "checkedAt": "2026-03-12T15:41:58.474Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/ohoj-hazelnut.html/08711327540996",
-      "gtin": "08711327540996",
-      "checkedAt": "2026-03-12T15:41:57.752Z"
+      "checkedAt": "2026-03-12T15:54:49.390Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/mini-milk-10mp.html/08711327574236",
       "gtin": "08711327574236",
-      "checkedAt": "2026-03-12T15:41:58.473Z"
+      "checkedAt": "2026-03-12T15:54:49.372Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/twister-pineapple.html/08711327575646",
       "gtin": "08711327575646",
-      "checkedAt": "2026-03-12T15:41:57.801Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/ingman-iso-kolmikko-jaatelo-2000ml.html/08711327576018",
-      "gtin": "08711327576018",
-      "checkedAt": "2026-03-12T15:41:58.324Z"
+      "checkedAt": "2026-03-12T15:54:49.436Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/ingman-creamy-mudcake.html/08711327576476",
       "gtin": "08711327576476",
-      "checkedAt": "2026-03-12T15:41:57.962Z"
+      "checkedAt": "2026-03-12T15:54:49.740Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/ingman-creamy-mustikka-&-valkosuklaa.html/08711327576544",
       "gtin": "08711327576544",
-      "checkedAt": "2026-03-12T15:41:57.818Z"
+      "checkedAt": "2026-03-12T15:54:49.782Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/ingman-creamy-englantilainen-lakritsi.html/08711327576612",
       "gtin": "08711327576612",
-      "checkedAt": "2026-03-12T15:41:58.356Z"
+      "checkedAt": "2026-03-12T15:54:49.416Z"
     },
     {
       "type": "successful",
-      "url": "https://www.ingman.fi/p/ingman-creamy-madagaskarin-vanilja-laktoositon.html/08711327583962",
-      "gtin": "08711327583962",
-      "checkedAt": "2026-03-12T15:41:57.694Z"
+      "url": "https://www.ingman.fi/p/ingman-creamy-english-mint-laktoositon.html/08711327584037",
+      "gtin": "08711327584037",
+      "checkedAt": "2026-03-12T15:54:49.359Z"
     },
     {
       "type": "successful",
-      "url": "https://www.ingman.fi/p/mango-meloni-laktoositon.html/08711327584150",
-      "gtin": "08711327584150",
-      "checkedAt": "2026-03-12T15:41:58.688Z"
+      "url": "https://www.ingman.fi/p/paaryna-laktoositon.html/08711327584105",
+      "gtin": "08711327584105",
+      "checkedAt": "2026-03-12T15:54:49.942Z"
     },
     {
       "type": "successful",
-      "url": "https://www.ingman.fi/p/vanhanajan-mansikka.html/08711327584860",
-      "gtin": "08711327584860",
-      "checkedAt": "2026-03-12T15:41:58.218Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/mudcake.html/08711327585010",
-      "gtin": "08711327585010",
-      "checkedAt": "2026-03-12T15:41:58.400Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/rommi-rusina.html/08711327585874",
-      "gtin": "08711327585874",
-      "checkedAt": "2026-03-12T15:41:58.398Z"
+      "url": "https://www.ingman.fi/p/vanhanajan-suklaa.html/08711327584204",
+      "gtin": "08711327584204",
+      "checkedAt": "2026-03-12T15:54:49.895Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/sitruunainen-lakritsi.html/08711327585928",
       "gtin": "08711327585928",
-      "checkedAt": "2026-03-12T15:41:58.394Z"
+      "checkedAt": "2026-03-12T15:54:49.420Z"
     },
     {
       "type": "successful",
-      "url": "https://www.ingman.fi/p/lipsi-paaryna.html/08711327586543",
-      "gtin": "08711327586543",
-      "checkedAt": "2026-03-12T15:41:57.949Z"
+      "url": "https://www.ingman.fi/p/lipsi-vadelma.html/08711327586376",
+      "gtin": "08711327586376",
+      "checkedAt": "2026-03-12T15:54:49.372Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/ingman-creamy-suklainen-vaahtokarkki-laktoositon.html/08711327586611",
       "gtin": "08711327586611",
-      "checkedAt": "2026-03-12T15:41:57.989Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/vanilja-laktoositon.html/08711327589032",
-      "gtin": "08711327589032",
-      "checkedAt": "2026-03-12T15:41:57.721Z"
+      "checkedAt": "2026-03-12T15:54:49.850Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/viennetta-suklaa.html/08711327589209",
       "gtin": "08711327589209",
-      "checkedAt": "2026-03-12T15:41:58.415Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/kingis-original-vanilja.html/08711327592308",
-      "gtin": "08711327592308",
-      "checkedAt": "2026-03-12T15:41:57.849Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/kingis-kultamuru-pahkina-kinuski.html/08711327592391",
-      "gtin": "08711327592391",
-      "checkedAt": "2026-03-12T15:41:58.756Z"
+      "checkedAt": "2026-03-12T15:54:49.376Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/kingis-minttu-laktoositon.html/08711327592636",
       "gtin": "08711327592636",
-      "checkedAt": "2026-03-12T15:41:58.269Z"
+      "checkedAt": "2026-03-12T15:54:49.408Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/kingis-vadelma-laku.html/08711327593220",
       "gtin": "08711327593220",
-      "checkedAt": "2026-03-12T15:41:58.183Z"
+      "checkedAt": "2026-03-12T15:54:49.418Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/ingman-klassikot-8mp.html/08711327628335",
       "gtin": "08711327628335",
-      "checkedAt": "2026-03-12T15:42:05.690Z"
+      "checkedAt": "2026-03-12T15:54:57.709Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/ingman-creamy-lemon-pie-825ml.html/08711327649781",
       "gtin": "08711327649781",
-      "checkedAt": "2026-03-12T15:42:06.465Z"
+      "checkedAt": "2026-03-12T15:54:57.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/solero-exotic--monipakkaus-3kpl.html/08712100889288",
       "gtin": "08712100889288",
-      "checkedAt": "2026-03-12T15:42:06.373Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/choice-toffee.html/08714100091487",
-      "gtin": "08714100091487",
-      "checkedAt": "2026-03-12T15:42:06.362Z"
+      "checkedAt": "2026-03-12T15:54:57.375Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/softis-vanilja-laktoositon.html/08714100680926",
       "gtin": "08714100680926",
-      "checkedAt": "2026-03-12T15:42:06.036Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.ingman.fi/p/vadelma-&-valkosuklaa-j%C3%A4%C3%A4tel%C3%B6-5500ml.html/08711327333932",
-      "gtin": "08711327333932",
-      "checkedAt": "2026-03-12T15:42:05.695Z"
+      "checkedAt": "2026-03-12T15:54:57.634Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/mustaherukkasorbetti-j%C3%A4%C3%A4tel%C3%B6-vegaaninen.html/08711327595620",
       "gtin": "08711327595620",
-      "checkedAt": "2026-03-12T15:42:06.125Z"
+      "checkedAt": "2026-03-12T15:54:57.731Z"
     },
     {
       "type": "successful",
       "url": "https://www.ingman.fi/p/solero-exotic-j%C3%A4%C3%A4tel%C3%B6-5500ml.html/08711327669437",
       "gtin": "08711327669437",
-      "checkedAt": "2026-03-12T15:42:05.654Z"
+      "checkedAt": "2026-03-12T15:54:57.810Z"
     }
   ],
-  "errors": 57,
-  "duration": "12.46s",
-  "speedMetrics": "8.35 URLs/second",
+  "errors": 66,
+  "duration": "11.38s",
+  "speedMetrics": "9.14 URLs/second",
   "problematicPages": [
     {
       "type": "problematic",
@@ -246,16 +198,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/viennetta-vanilja.html/08000920200025",
       "gtin": "08000920200025",
-      "checkedAt": "2026-03-12T15:41:57.810Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "walls",
-      "assortmentCode": "BF1055",
-      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
-      "url": "https://www.ingman.fi/p/cornetto-classico-gluteeniton-&-laktoositon.html/08711327357198",
-      "gtin": "08711327357198",
-      "checkedAt": "2026-03-12T15:41:58.042Z"
+      "checkedAt": "2026-03-12T15:54:49.618Z"
     },
     {
       "type": "problematic",
@@ -264,7 +207,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/omenasorbetti-j%C3%A4%C3%A4tel%C3%B6-vegaaninen.html/08711327398030",
       "gtin": "08711327398030",
-      "checkedAt": "2026-03-12T15:42:06.001Z"
+      "checkedAt": "2026-03-12T15:54:57.643Z"
     },
     {
       "type": "problematic",
@@ -273,7 +216,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/cornetto-mansikka-j%C3%A4%C3%A4tel%C3%B6tuutti.html/08711327620322",
       "gtin": "08711327620322",
-      "checkedAt": "2026-03-12T15:42:05.859Z"
+      "checkedAt": "2026-03-12T15:54:57.701Z"
     },
     {
       "type": "problematic",
@@ -282,7 +225,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/twister-mini-mallow-j%C3%A4%C3%A4tel%C3%B6-monipakkaus-8-kpl.html/08711327653245",
       "gtin": "08711327653245",
-      "checkedAt": "2026-03-12T15:42:06.136Z"
+      "checkedAt": "2026-03-12T15:54:57.778Z"
     },
     {
       "type": "problematic",
@@ -291,7 +234,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/twister-mallow-j%C3%A4%C3%A4tel%C3%B6puikko-80ml.html/08711327661509",
       "gtin": "08711327661509",
-      "checkedAt": "2026-03-12T15:42:05.707Z"
+      "checkedAt": "2026-03-12T15:54:57.565Z"
     },
     {
       "type": "problematic",
@@ -300,7 +243,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/haribo-push-up-j%C3%A4%C3%A4tel%C3%B6puikko-85ml.html/08711327667525",
       "gtin": "08711327667525",
-      "checkedAt": "2026-03-12T15:42:05.645Z"
+      "checkedAt": "2026-03-12T15:54:57.741Z"
     },
     {
       "type": "problematic",
@@ -309,7 +252,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/calippo-lime-5mp.html/08722700231981",
       "gtin": "08722700231981",
-      "checkedAt": "2026-03-12T15:42:06.117Z"
+      "checkedAt": "2026-03-12T15:54:57.550Z"
     },
     {
       "type": "problematic",
@@ -318,7 +261,7 @@
       "feedUrl": "https://www.ingman.fi/home.productfeed.json",
       "url": "https://www.ingman.fi/p/calippo-cola-5mp.html/08722700231998",
       "gtin": "08722700231998",
-      "checkedAt": "2026-03-12T15:42:05.862Z"
+      "checkedAt": "2026-03-12T15:54:57.366Z"
     }
   ],
   "errorPages": [
@@ -326,343 +269,397 @@
       "type": "error",
       "url": "https://www.ingman.fi/p/pistaasi.html/04056100032331",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.492Z"
+      "checkedAt": "2026-03-12T15:54:49.298Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/88--jaatelo.html/07310290002268",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.463Z"
+      "checkedAt": "2026-03-12T15:54:49.140Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/piggelin-55ml.html/07310290002961",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.432Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.ingman.fi/p/salmiakki.html/07310290004149",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.503Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.ingman.fi/p/pekaanipahkina-kinuski.html/07310290004217",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.511Z"
+      "checkedAt": "2026-03-12T15:54:51.483Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-polka.html/07310290004538",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.459Z"
+      "checkedAt": "2026-03-12T15:54:49.143Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/viennetta-suklaa.html/08000920200087",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:01.323Z"
+      "checkedAt": "2026-03-12T15:54:51.509Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/twister-original.html/08000920400470",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.521Z"
+      "checkedAt": "2026-03-12T15:54:51.772Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/twister-ananas-mansikka-lime-8-kpl.html/08000920473696",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.630Z"
+      "checkedAt": "2026-03-12T15:54:49.168Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/gelateria-stracciatella-5500-ml.html/08000920808078",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.513Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.ingman.fi/p/gelateria-dulce-de-leche.html/08000920813089",
-      "error": "request to https://www.ingman.fi/p/gelateria-dulce-de-leche.html/08000920813089 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:05.238Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.ingman.fi/p/sateenkaari.html/08000920815571",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.517Z"
+      "checkedAt": "2026-03-12T15:54:49.142Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/gelateria-kolme-suklaata.html/08000920815946",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.417Z"
+      "checkedAt": "2026-03-12T15:54:49.145Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/gelateria-custard.html/08000920829813",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.241Z"
+      "checkedAt": "2026-03-12T15:54:52.170Z"
     },
     {
       "type": "error",
-      "url": "https://www.ingman.fi/p/gelateria-minttusuklaa.html/08000920833582",
+      "url": "https://www.ingman.fi/p/gelateria-tiramisu.html/08000920915516",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.445Z"
+      "checkedAt": "2026-03-12T15:54:49.148Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/gelateria-banaani-suklaa.html/08000920925003",
+      "error": "request to https://www.ingman.fi/p/gelateria-banaani-suklaa.html/08000920925003 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:57.079Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/gelateria-tutti-frutti-vaahtokarkki.html/08000920981092",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.514Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.ingman.fi/p/pehmyt-mansikka.html/08711327347137",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.524Z"
+      "checkedAt": "2026-03-12T15:54:49.082Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/pehmyt-suklaahippu.html/08711327347144",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.392Z"
+      "checkedAt": "2026-03-12T15:54:49.146Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/pehmyt-vanilja.html/08711327347175",
+      "error": "request to https://www.ingman.fi/p/pehmyt-vanilja.html/08711327347175 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:57.079Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/cornetto-classico-gluteeniton-&-laktoositon.html/08711327357198",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.195Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/gelateria-suklaafondant.html/08711327369184",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.366Z"
+      "checkedAt": "2026-03-12T15:54:49.081Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/pehmyt-unicorn.html/08711327395237",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.510Z"
+      "checkedAt": "2026-03-12T15:54:49.148Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/mangosorbetti-(vegaaninen).html/08711327398023",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:01.521Z"
+      "checkedAt": "2026-03-12T15:54:51.384Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/vadelmasorbetti-(vegaaninen).html/08711327399440",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.511Z"
+      "checkedAt": "2026-03-12T15:54:49.161Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/cornetto-soft-chocolate.html/08711327489608",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:58.992Z"
+      "checkedAt": "2026-03-12T15:54:52.088Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/jattis-kinuski.html/08711327531703",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:01.349Z"
+      "checkedAt": "2026-03-12T15:54:50.996Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/jattis-vanilja.html/08711327531772",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.518Z"
+      "checkedAt": "2026-03-12T15:54:49.197Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/solero.html/08711327536791",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.277Z"
+      "checkedAt": "2026-03-12T15:54:49.383Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ohoj-choco.html/08711327540903",
       "error": "request to https://www.ingman.fi/p/ohoj-choco.html/08711327540903 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:05.238Z"
+      "checkedAt": "2026-03-12T15:54:57.079Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/ohoj-caramel.html/08711327540934",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.144Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/ohoj-hard-topping-milk-choco.html/08711327540965",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.445Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/ohoj-hazelnut.html/08711327540996",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.152Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/ingman-iso-kolmikko-jaatelo-2000ml.html/08711327576018",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:50.167Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-iso-tripletti-jaatelo-2000ml.html/08711327576124",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.546Z"
+      "checkedAt": "2026-03-12T15:54:49.146Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-creamy-brysselin-kinuskikeksi.html/08711327576681",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.549Z"
+      "checkedAt": "2026-03-12T15:54:49.246Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-creamy-rocky-road.html/08711327577718",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.519Z"
+      "checkedAt": "2026-03-12T15:54:49.157Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-creamy-paahdettu-pekaanipahkina-&-suolakinuski.html/08711327578074",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.511Z"
+      "checkedAt": "2026-03-12T15:54:49.253Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/twister-monstaahh.html/08711327580336",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:59.530Z"
+      "checkedAt": "2026-03-12T15:54:49.149Z"
     },
     {
       "type": "error",
-      "url": "https://www.ingman.fi/p/ingman-creamy-english-mint-laktoositon.html/08711327584037",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.524Z"
+      "url": "https://www.ingman.fi/p/ingman-creamy-madagaskarin-vanilja-laktoositon.html/08711327583962",
+      "error": "request to https://www.ingman.fi/p/ingman-creamy-madagaskarin-vanilja-laktoositon.html/08711327583962 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:54:57.140Z"
     },
     {
       "type": "error",
-      "url": "https://www.ingman.fi/p/paaryna-laktoositon.html/08711327584105",
+      "url": "https://www.ingman.fi/p/mango-meloni-laktoositon.html/08711327584150",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.790Z"
+      "checkedAt": "2026-03-12T15:54:49.327Z"
     },
     {
       "type": "error",
-      "url": "https://www.ingman.fi/p/vanhanajan-suklaa.html/08711327584204",
+      "url": "https://www.ingman.fi/p/vanhanajan-mansikka.html/08711327584860",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.787Z"
+      "checkedAt": "2026-03-12T15:54:49.152Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/mudcake.html/08711327585010",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.150Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-creamy-nougat-pahkina.html/08711327585027",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.018Z"
+      "checkedAt": "2026-03-12T15:54:49.297Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/suolainen-kinuski-brownie.html/08711327585690",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.586Z"
+      "checkedAt": "2026-03-12T15:54:49.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/rommi-rusina.html/08711327585874",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.198Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/vanhanajan-vanilja.html/08711327586024",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.476Z"
+      "checkedAt": "2026-03-12T15:54:49.353Z"
     },
     {
       "type": "error",
-      "url": "https://www.ingman.fi/p/lipsi-vadelma.html/08711327586376",
+      "url": "https://www.ingman.fi/p/lipsi-paaryna.html/08711327586543",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.520Z"
+      "checkedAt": "2026-03-12T15:54:49.154Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-creamy-kuningatar-laktoositon.html/08711327586956",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.531Z"
+      "checkedAt": "2026-03-12T15:54:49.185Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-creamy-maapahkina-banaani-vegaaninen.html/08711327588547",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.194Z"
+      "checkedAt": "2026-03-12T15:54:49.159Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/vanilja-laktoositon.html/08711327589032",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.162Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/kingis-original-vanilja.html/08711327592308",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/kingis-kultamuru-pahkina-kinuski.html/08711327592391",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:49.313Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/kids-mix-8mp.html/08711327592469",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.427Z"
+      "checkedAt": "2026-03-12T15:54:49.479Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/vanilja-vegaaninen.html/08711327597235",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.547Z"
+      "checkedAt": "2026-03-12T15:54:49.355Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/jattis-kuningatar-195ml.html/08711327621688",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.164Z"
+      "checkedAt": "2026-03-12T15:54:51.204Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-soft-suklaarouhe-&-kinuski-140ml.html/08711327623163",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.446Z"
+      "checkedAt": "2026-03-12T15:54:49.245Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/twister-tropical-8x50ml.html/08711327626997",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.519Z"
+      "checkedAt": "2026-03-12T15:54:49.325Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/ingman-soft-keksi-&-suklaa-140ml.html/08711327627260",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:00.691Z"
+      "checkedAt": "2026-03-12T15:54:51.817Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/twister-cosmixx-70ml.html/08711327628007",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:41:57.583Z"
+      "checkedAt": "2026-03-12T15:54:49.182Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/twister-sweet-&-sour-8x50ml.html/08711327628557",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:08.158Z"
+      "checkedAt": "2026-03-12T15:55:00.262Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/solero-exotic.html/08712100889233",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:05.423Z"
+      "checkedAt": "2026-03-12T15:54:58.626Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/haribo-push-up-85ml.html/08712566344321",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:05.627Z"
+      "checkedAt": "2026-03-12T15:54:57.304Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/kookos.html/08712566358113",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:09.410Z"
+      "checkedAt": "2026-03-12T15:54:57.331Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/choice-toffeetuutti.html/08714100081198",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:05.453Z"
+      "checkedAt": "2026-03-12T15:54:57.259Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/choice-vanilja-suklaatuutti.html/08714100081501",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:05.473Z"
+      "checkedAt": "2026-03-12T15:54:57.413Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/choice-pehmea-vanilja.html/08714100083352",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:09.253Z"
+      "checkedAt": "2026-03-12T15:54:59.683Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/choice-toffee.html/08714100091487",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:57.270Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/softis-suklaa-laktoositon.html/08714100680940",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:08.383Z"
+      "checkedAt": "2026-03-12T15:54:57.260Z"
     },
     {
       "type": "error",
       "url": "https://www.ingman.fi/p/cornetto-classico-125ml.html/08714100870686",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:05.509Z"
+      "checkedAt": "2026-03-12T15:54:57.284Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ingman.fi/p/vadelma-&-valkosuklaa-j%C3%A4%C3%A4tel%C3%B6-5500ml.html/08711327333932",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:54:57.415Z"
     }
   ]
 }

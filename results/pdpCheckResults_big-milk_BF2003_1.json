@@ -1,64 +1,115 @@
 {
-  "generatedAt": "2026-03-12T15:42:46.674Z",
+  "generatedAt": "2026-03-12T15:55:44.459Z",
   "brand": "big-milk",
   "assortmentCode": "BF2003",
   "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
   "totalUrlsChecked": 34,
-  "problematicPagesFound": 7,
+  "problematicPagesFound": 9,
   "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-mini-multipack.html/08711327494169",
+      "gtin": "08711327494169",
+      "checkedAt": "2026-03-12T15:55:37.085Z"
+    },
     {
       "type": "successful",
       "url": "https://www.bigmilk.pl/p/big-milk-big-rozek-waniliowy-z-sosem-czekoladowym.html/08711327494763",
       "gtin": "08711327494763",
-      "checkedAt": "2026-03-12T15:42:45.410Z"
+      "checkedAt": "2026-03-12T15:55:36.668Z"
     },
     {
       "type": "successful",
       "url": "https://www.bigmilk.pl/p/big-milk-trio-crunchy.html/08711327590229",
       "gtin": "08711327590229",
-      "checkedAt": "2026-03-12T15:42:45.071Z"
+      "checkedAt": "2026-03-12T15:55:36.632Z"
     },
     {
       "type": "successful",
       "url": "https://www.bigmilk.pl/p/big-milk-sandwich.html/08711327622623",
       "gtin": "08711327622623",
-      "checkedAt": "2026-03-12T15:42:39.823Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-karmel.html/08711327624429",
-      "gtin": "08711327624429",
-      "checkedAt": "2026-03-12T15:42:39.573Z"
+      "checkedAt": "2026-03-12T15:55:37.117Z"
     },
     {
       "type": "successful",
       "url": "https://www.bigmilk.pl/p/big-czekolada-intense.html/08711327624719",
       "gtin": "08711327624719",
-      "checkedAt": "2026-03-12T15:42:46.673Z"
+      "checkedAt": "2026-03-12T15:55:36.716Z"
     },
     {
       "type": "successful",
-      "url": "https://www.bigmilk.pl/p/big-milk-super-smietanka-wanilia.html/08711327625433",
-      "gtin": "08711327625433",
-      "checkedAt": "2026-03-12T15:42:39.107Z"
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327624962",
+      "gtin": "08711327624962",
+      "checkedAt": "2026-03-12T15:55:36.944Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-ciasteczko.html/08711327625075",
+      "gtin": "08711327625075",
+      "checkedAt": "2026-03-12T15:55:37.270Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327625259",
+      "gtin": "08711327625259",
+      "checkedAt": "2026-03-12T15:55:37.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-bakalia.html/08711327625501",
+      "gtin": "08711327625501",
+      "checkedAt": "2026-03-12T15:55:37.060Z"
     },
     {
       "type": "successful",
       "url": "https://www.bigmilk.pl/p/big-milk-tropical-mango.html/08711327663954",
       "gtin": "08711327663954",
-      "checkedAt": "2026-03-12T15:42:39.375Z"
+      "checkedAt": "2026-03-12T15:55:36.726Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-lodowa-przek%C4%85ska-multipack.html/08711327678613",
+      "gtin": "08711327678613",
+      "checkedAt": "2026-03-12T15:55:37.017Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-smietanka-intense.html/08711327683310",
+      "gtin": "08711327683310",
+      "checkedAt": "2026-03-12T15:55:43.223Z"
     },
     {
       "type": "successful",
       "url": "https://www.bigmilk.pl/p/big-milk-smietankowy.html/08714100581810",
       "gtin": "08714100581810",
-      "checkedAt": "2026-03-12T15:42:39.395Z"
+      "checkedAt": "2026-03-12T15:55:36.682Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-fruit.html/08714100641941",
+      "gtin": "08714100641941",
+      "checkedAt": "2026-03-12T15:55:36.938Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bigmilk.pl/p/big-milk-toffi.html/08714100641958",
+      "gtin": "08714100641958",
+      "checkedAt": "2026-03-12T15:55:37.103Z"
     }
   ],
-  "errors": 19,
-  "duration": "8.22s",
-  "speedMetrics": "4.14 URLs/second",
+  "errors": 10,
+  "duration": "8.17s",
+  "speedMetrics": "4.16 URLs/second",
   "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-slony-karmel-intense.html/08711327334601",
+      "gtin": "08711327334601",
+      "checkedAt": "2026-03-12T15:55:42.825Z"
+    },
     {
       "type": "problematic",
       "brand": "big-milk",
@@ -66,7 +117,25 @@
       "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
       "url": "https://www.bigmilk.pl/p/big-milk-owoce-egotyczne-intense.html/08711327532755",
       "gtin": "08711327532755",
-      "checkedAt": "2026-03-12T15:42:39.447Z"
+      "checkedAt": "2026-03-12T15:55:36.882Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-ciasteczko-intense.html/08711327624306",
+      "gtin": "08711327624306",
+      "checkedAt": "2026-03-12T15:55:36.783Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-truskawki-intense.html/08711327624665",
+      "gtin": "08711327624665",
+      "checkedAt": "2026-03-12T15:55:37.446Z"
     },
     {
       "type": "problematic",
@@ -75,7 +144,7 @@
       "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
       "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-wanilia.html/08711327666894",
       "gtin": "08711327666894",
-      "checkedAt": "2026-03-12T15:42:39.657Z"
+      "checkedAt": "2026-03-12T15:55:36.682Z"
     },
     {
       "type": "problematic",
@@ -84,16 +153,7 @@
       "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
       "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327667303",
       "gtin": "08711327667303",
-      "checkedAt": "2026-03-12T15:42:40.169Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "big-milk",
-      "assortmentCode": "BF2003",
-      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
-      "url": "https://www.bigmilk.pl/p/big-milk-wafelek.html/08711327669819",
-      "gtin": "08711327669819",
-      "checkedAt": "2026-03-12T15:42:39.643Z"
+      "checkedAt": "2026-03-12T15:55:36.957Z"
     },
     {
       "type": "problematic",
@@ -102,7 +162,7 @@
       "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
       "url": "https://www.bigmilk.pl/p/big-milk-jagoda-%C5%9Bmietanka.html/08711327672949",
       "gtin": "08711327672949",
-      "checkedAt": "2026-03-12T15:42:39.197Z"
+      "checkedAt": "2026-03-12T15:55:43.025Z"
     },
     {
       "type": "problematic",
@@ -111,7 +171,7 @@
       "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
       "url": "https://www.bigmilk.pl/p/big-milk-king-cone-rozek-waniliowy-z-sosem-czekoladowym.html/08711327677579",
       "gtin": "08711327677579",
-      "checkedAt": "2026-03-12T15:42:39.208Z"
+      "checkedAt": "2026-03-12T15:55:36.941Z"
     },
     {
       "type": "problematic",
@@ -120,123 +180,69 @@
       "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
       "url": "https://www.bigmilk.pl/p/big-milk-trio-chrup.html/08711327677982",
       "gtin": "08711327677982",
-      "checkedAt": "2026-03-12T15:42:39.196Z"
+      "checkedAt": "2026-03-12T15:55:36.672Z"
     }
   ],
   "errorPages": [
     {
       "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-slony-karmel-intense.html/08711327334601",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-slony-karmel-intense.html/08711327334601 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.650Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-mini-multipack.html/08711327494169",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-mini-multipack.html/08711327494169 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.648Z"
-    },
-    {
-      "type": "error",
       "url": "https://www.bigmilk.pl/p/big-milk-big-rozek-ciasteczkowo-czekoladowy.html/08711327540774",
       "error": "request to https://www.bigmilk.pl/p/big-milk-big-rozek-ciasteczkowo-czekoladowy.html/08711327540774 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.650Z"
+      "checkedAt": "2026-03-12T15:55:44.458Z"
     },
     {
       "type": "error",
       "url": "https://www.bigmilk.pl/p/big-milk-sandwich.html/08711327622494",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:44.159Z"
+      "error": "request to https://www.bigmilk.pl/p/big-milk-sandwich.html/08711327622494 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.458Z"
     },
     {
       "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-ciasteczko-intense.html/08711327624306",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-ciasteczko-intense.html/08711327624306 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.608Z"
+      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-karmel.html/08711327624429",
+      "error": "request to https://www.bigmilk.pl/p/big-milk-o-smaku-karmel.html/08711327624429 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.458Z"
     },
     {
       "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-truskawki-intense.html/08711327624665",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-truskawki-intense.html/08711327624665 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.648Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327624962",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327624962 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.649Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-ciasteczko.html/08711327625075",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-ciasteczko.html/08711327625075 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.608Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327625259",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327625259 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.650Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-bakalia.html/08711327625501",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-bakalia.html/08711327625501 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.649Z"
+      "url": "https://www.bigmilk.pl/p/big-milk-super-smietanka-wanilia.html/08711327625433",
+      "error": "request to https://www.bigmilk.pl/p/big-milk-super-smietanka-wanilia.html/08711327625433 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.424Z"
     },
     {
       "type": "error",
       "url": "https://www.bigmilk.pl/p/big-milk-straciatella-karmel.html/08711327629349",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:42.279Z"
+      "error": "request to https://www.bigmilk.pl/p/big-milk-straciatella-karmel.html/08711327629349 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.459Z"
     },
     {
       "type": "error",
       "url": "https://www.bigmilk.pl/p/big-milk-big-rozek-mango-biala-czekolada.html/08711327662254",
       "error": "request to https://www.bigmilk.pl/p/big-milk-big-rozek-mango-biala-czekolada.html/08711327662254 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.648Z"
+      "checkedAt": "2026-03-12T15:55:44.458Z"
     },
     {
       "type": "error",
       "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327667570",
       "error": "request to https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327667570 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.650Z"
+      "checkedAt": "2026-03-12T15:55:44.458Z"
     },
     {
       "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-lodowa-przek%C4%85ska-multipack.html/08711327678613",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-lodowa-przek%C4%85ska-multipack.html/08711327678613 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.650Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-smietanka-intense.html/08711327683310",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-smietanka-intense.html/08711327683310 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.648Z"
+      "url": "https://www.bigmilk.pl/p/big-milk-wafelek.html/08711327669819",
+      "error": "request to https://www.bigmilk.pl/p/big-milk-wafelek.html/08711327669819 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.459Z"
     },
     {
       "type": "error",
       "url": "https://www.bigmilk.pl/p/big-milk-vanilla-rozek.html/08712566101931",
       "error": "request to https://www.bigmilk.pl/p/big-milk-vanilla-rozek.html/08712566101931 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.649Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-fruit.html/08714100641941",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-fruit.html/08714100641941 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.649Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.bigmilk.pl/p/big-milk-toffi.html/08714100641958",
-      "error": "request to https://www.bigmilk.pl/p/big-milk-toffi.html/08714100641958 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.649Z"
+      "checkedAt": "2026-03-12T15:55:44.459Z"
     },
     {
       "type": "error",
       "url": "https://www.bigmilk.pl/p/big-milk-choco.html/08714100642078",
       "error": "request to https://www.bigmilk.pl/p/big-milk-choco.html/08714100642078 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:46.650Z"
+      "checkedAt": "2026-03-12T15:55:44.459Z"
     }
   ]
 }

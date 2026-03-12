@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:09.368Z",
+  "generatedAt": "2026-03-12T15:55:26.439Z",
   "brand": "parogencyl",
   "assortmentCode": "BHA123",
   "feedUrl": "https://www.parogencyl.fr/home.productfeed.json",
@@ -10,91 +10,91 @@
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/bain-de-bouche-gencives.html/08710522772188",
       "gtin": "08710522772188",
-      "checkedAt": "2026-03-12T15:42:01.800Z"
+      "checkedAt": "2026-03-12T15:55:19.153Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/dentifrice-protection-gencives.html/08710604763356",
       "gtin": "08710604763356",
-      "checkedAt": "2026-03-12T15:42:01.487Z"
+      "checkedAt": "2026-03-12T15:55:23.504Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/dentifrice-protection-gencives.html/08710604763363",
       "gtin": "08710604763363",
-      "checkedAt": "2026-03-12T15:42:01.362Z"
+      "checkedAt": "2026-03-12T15:55:18.881Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/batonnets-interdentaires.html/08720181088902",
       "gtin": "08720181088902",
-      "checkedAt": "2026-03-12T15:42:01.515Z"
+      "checkedAt": "2026-03-12T15:55:18.943Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/brosse-a-dents-a-tete-remplacable-souple.html/08720181175312",
       "gtin": "08720181175312",
-      "checkedAt": "2026-03-12T15:42:02.469Z"
+      "checkedAt": "2026-03-12T15:55:18.910Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/tete-remplacable-de-brosse-a-dents-gingi-pro-souple-recharge.html/08720181175329",
       "gtin": "08720181175329",
-      "checkedAt": "2026-03-12T15:42:02.080Z"
+      "checkedAt": "2026-03-12T15:55:18.910Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.parogencyl.fr/p/brosse-a-dents-chirurgicale-post-operatoire-ultra-souple.html/08720181361944",
+      "gtin": "08720181361944",
+      "checkedAt": "2026-03-12T15:55:19.137Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/brosse-a-dents-parodontie-extra-souple.html/08720181361951",
       "gtin": "08720181361951",
-      "checkedAt": "2026-03-12T15:42:09.368Z"
+      "checkedAt": "2026-03-12T15:55:23.768Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/brosse-a-dents-soin-gencives-souple.html/08720181361968",
       "gtin": "08720181361968",
-      "checkedAt": "2026-03-12T15:42:01.472Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.parogencyl.fr/p/dentifrice-soin-intensif-gencives.html/08720181369605",
-      "gtin": "08720181369605",
-      "checkedAt": "2026-03-12T15:42:01.301Z"
+      "checkedAt": "2026-03-12T15:55:19.112Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/dentifrice-soin-intensif-gencives.html/08720181397233",
       "gtin": "08720181397233",
-      "checkedAt": "2026-03-12T15:42:01.407Z"
+      "checkedAt": "2026-03-12T15:55:19.193Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.parogencyl.fr/p/dentifrice-protection-&-blancheur-gencives.html/08720182034380",
+      "gtin": "08720182034380",
+      "checkedAt": "2026-03-12T15:55:19.004Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.parogencyl.fr/p/dentifrice-protection-&-blancheur-gencives.html/08720182034410",
+      "gtin": "08720182034410",
+      "checkedAt": "2026-03-12T15:55:18.900Z"
     },
     {
       "type": "successful",
       "url": "https://www.parogencyl.fr/p/bain-de-bouche-soin-intensif-gencives.html/08720182039217",
       "gtin": "08720182039217",
-      "checkedAt": "2026-03-12T15:42:01.888Z"
+      "checkedAt": "2026-03-12T15:55:18.997Z"
     }
   ],
-  "errors": 3,
-  "duration": "8.26s",
+  "errors": 1,
+  "duration": "8.29s",
   "speedMetrics": "1.69 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
-      "url": "https://www.parogencyl.fr/p/brosse-a-dents-chirurgicale-post-operatoire-ultra-souple.html/08720181361944",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:03.935Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.parogencyl.fr/p/dentifrice-protection-&-blancheur-gencives.html/08720182034380",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:04.054Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.parogencyl.fr/p/dentifrice-protection-&-blancheur-gencives.html/08720182034410",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:04.176Z"
+      "url": "https://www.parogencyl.fr/p/dentifrice-soin-intensif-gencives.html/08720181369605",
+      "error": "request to https://www.parogencyl.fr/p/dentifrice-soin-intensif-gencives.html/08720181369605 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:26.438Z"
     }
   ]
 }

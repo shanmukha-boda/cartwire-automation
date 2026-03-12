@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:36.981Z",
+  "generatedAt": "2026-03-12T15:55:34.785Z",
   "brand": "axe",
   "assortmentCode": "BH0045",
   "feedUrl": "https://www.axe.com/br/home.productfeed.json",
@@ -10,42 +10,42 @@
       "type": "successful",
       "url": "https://www.axe.com/br/p/antitranspirante-urban.html/07506306233362",
       "gtin": "07506306233362",
-      "checkedAt": "2026-03-12T15:42:36.955Z"
+      "checkedAt": "2026-03-12T15:55:34.765Z"
     },
     {
       "type": "successful",
       "url": "https://www.axe.com/br/p/antitranspirante-apollo.html/07791293025780",
       "gtin": "07791293025780",
-      "checkedAt": "2026-03-12T15:42:36.926Z"
+      "checkedAt": "2026-03-12T15:55:34.764Z"
     },
     {
       "type": "successful",
       "url": "https://www.axe.com/br/p/antitranspirante-chocolate.html/07791293025797",
       "gtin": "07791293025797",
-      "checkedAt": "2026-03-12T15:42:36.973Z"
+      "checkedAt": "2026-03-12T15:55:34.760Z"
     },
     {
       "type": "successful",
       "url": "https://www.axe.com/br/p/antitranspirante-black.html/07791293028781",
       "gtin": "07791293028781",
-      "checkedAt": "2026-03-12T15:42:36.867Z"
+      "checkedAt": "2026-03-12T15:55:34.779Z"
     },
     {
       "type": "successful",
       "url": "https://www.axe.com/br/p/antitranspirante-marine.html/07891150080966",
       "gtin": "07891150080966",
-      "checkedAt": "2026-03-12T15:42:36.980Z"
+      "checkedAt": "2026-03-12T15:55:34.784Z"
     },
     {
       "type": "successful",
       "url": "https://www.axe.com/br/p/antitranspirante-musk.html/07891150080973",
       "gtin": "07891150080973",
-      "checkedAt": "2026-03-12T15:42:36.954Z"
+      "checkedAt": "2026-03-12T15:55:34.774Z"
     }
   ],
   "errors": 0,
-  "duration": "0.24s",
-  "speedMetrics": "25.00 URLs/second",
+  "duration": "0.26s",
+  "speedMetrics": "23.08 URLs/second",
   "problematicPages": [],
   "errorPages": []
 }

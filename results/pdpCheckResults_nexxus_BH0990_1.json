@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:41:42.826Z",
+  "generatedAt": "2026-03-12T15:54:49.406Z",
   "brand": "nexxus",
   "assortmentCode": "BH0990",
   "feedUrl": "https://www.nexxus.com/mx/home.productfeed.json",
@@ -10,78 +10,78 @@
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/shampoo-keraphix.html/00605592005183",
       "gtin": "00605592005183",
-      "checkedAt": "2026-03-12T15:41:41.043Z"
+      "checkedAt": "2026-03-12T15:54:49.138Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/acondicionador-keraphix.html/00605592005268",
       "gtin": "00605592005268",
-      "checkedAt": "2026-03-12T15:41:41.446Z"
+      "checkedAt": "2026-03-12T15:54:49.365Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/shampoo-therappe.html/00605592105531",
       "gtin": "00605592105531",
-      "checkedAt": "2026-03-12T15:41:36.013Z"
+      "checkedAt": "2026-03-12T15:54:49.201Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/acondicionador-humectress.html/00605592215537",
       "gtin": "00605592215537",
-      "checkedAt": "2026-03-12T15:41:40.801Z"
+      "checkedAt": "2026-03-12T15:54:49.278Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/shampoo-emergenc%C3%A9e.html/00605592416170",
       "gtin": "00605592416170",
-      "checkedAt": "2026-03-12T15:41:40.790Z"
+      "checkedAt": "2026-03-12T15:54:49.128Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/acondicionador-emergenc%C3%A9e.html/00605592416187",
       "gtin": "00605592416187",
-      "checkedAt": "2026-03-12T15:41:35.907Z"
+      "checkedAt": "2026-03-12T15:54:49.196Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/nexxus-acondicionador-frizz-defy.html/07506306216853",
       "gtin": "07506306216853",
-      "checkedAt": "2026-03-12T15:41:35.797Z"
+      "checkedAt": "2026-03-12T15:54:49.197Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/nexxus-shampoo-frizz-defy.html/07506306216860",
       "gtin": "07506306216860",
-      "checkedAt": "2026-03-12T15:41:40.286Z"
+      "checkedAt": "2026-03-12T15:54:49.007Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/nexxus-acondicionador-hydra-light.html/07506306216877",
       "gtin": "07506306216877",
-      "checkedAt": "2026-03-12T15:41:42.826Z"
+      "checkedAt": "2026-03-12T15:54:49.406Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/nexxus-shampoo-hydra-light.html/07506306217027",
       "gtin": "07506306217027",
-      "checkedAt": "2026-03-12T15:41:36.078Z"
+      "checkedAt": "2026-03-12T15:54:49.200Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/nexxus-tratamiento-vital-8-en-1.html/07506306217942",
       "gtin": "07506306217942",
-      "checkedAt": "2026-03-12T15:41:40.382Z"
+      "checkedAt": "2026-03-12T15:54:49.278Z"
     },
     {
       "type": "successful",
       "url": "https://www.nexxus.com/mx/p/nexxus-tratamiento-humectress.html/07506306218888",
       "gtin": "07506306218888",
-      "checkedAt": "2026-03-12T15:41:41.382Z"
+      "checkedAt": "2026-03-12T15:54:49.196Z"
     }
   ],
   "errors": 0,
-  "duration": "7.73s",
-  "speedMetrics": "1.55 URLs/second",
+  "duration": "0.70s",
+  "speedMetrics": "17.14 URLs/second",
   "problematicPages": [],
   "errorPages": []
 }

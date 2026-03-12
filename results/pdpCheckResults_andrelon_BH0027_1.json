@@ -1,327 +1,219 @@
 {
-  "generatedAt": "2026-03-12T15:42:43.545Z",
+  "generatedAt": "2026-03-12T15:55:54.206Z",
   "brand": "andrelon",
   "assortmentCode": "BH0027",
   "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
   "totalUrlsChecked": 81,
-  "problematicPagesFound": 29,
+  "problematicPagesFound": 19,
   "successfulPages": [
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/hydratatie-and-volume-shampoo.html/08710522890547",
-      "gtin": "08710522890547",
-      "checkedAt": "2026-03-12T15:42:42.790Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/klei-fris-and-zuiver-shampoo.html/08710847947292",
-      "gtin": "08710847947292",
-      "checkedAt": "2026-03-12T15:42:42.858Z"
-    },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/verrassend-volume-shampoo.html/08712561548281",
       "gtin": "08712561548281",
-      "checkedAt": "2026-03-12T15:42:43.135Z"
+      "checkedAt": "2026-03-12T15:55:39.191Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/mild-and-zacht-shampoo.html/08720181256844",
       "gtin": "08720181256844",
-      "checkedAt": "2026-03-12T15:42:42.739Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/kalmerende-anti-roos.html/08720181256851",
-      "gtin": "08720181256851",
-      "checkedAt": "2026-03-12T15:42:43.201Z"
+      "checkedAt": "2026-03-12T15:55:39.156Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/zilver-care-conditioner.html/08720181325571",
       "gtin": "08720181325571",
-      "checkedAt": "2026-03-12T15:42:42.939Z"
+      "checkedAt": "2026-03-12T15:55:39.014Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/perfecte-krul-conditioner.html/08720181325632",
       "gtin": "08720181325632",
-      "checkedAt": "2026-03-12T15:42:43.083Z"
+      "checkedAt": "2026-03-12T15:55:38.826Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/oil-and-care-conditioner.html/08720181325670",
       "gtin": "08720181325670",
-      "checkedAt": "2026-03-12T15:42:43.497Z"
+      "checkedAt": "2026-03-12T15:55:38.911Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/levendig-lang-conditoner.html/08720181325700",
       "gtin": "08720181325700",
-      "checkedAt": "2026-03-12T15:42:43.175Z"
+      "checkedAt": "2026-03-12T15:55:39.013Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/oil-and-care-shampoo.html/08720181327766",
       "gtin": "08720181327766",
-      "checkedAt": "2026-03-12T15:42:42.783Z"
+      "checkedAt": "2026-03-12T15:55:38.981Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/zilver-care-shampoo.html/08720181327773",
       "gtin": "08720181327773",
-      "checkedAt": "2026-03-12T15:42:43.018Z"
+      "checkedAt": "2026-03-12T15:55:39.285Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/perfecte-krul-shampoo.html/08720181479939",
       "gtin": "08720181479939",
-      "checkedAt": "2026-03-12T15:42:42.848Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/hair-and-body-men-shampoo-en-body-wash.html/08710447321669",
-      "gtin": "08710447321669",
-      "checkedAt": "2026-03-12T15:42:43.060Z"
+      "checkedAt": "2026-03-12T15:55:38.806Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/care-and-repair-shampoo.html/08710447321942",
       "gtin": "08710447321942",
-      "checkedAt": "2026-03-12T15:42:43.077Z"
+      "checkedAt": "2026-03-12T15:55:39.185Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/aloe-vera-repair-shampoo.html/08710522912843",
       "gtin": "08710522912843",
-      "checkedAt": "2026-03-12T15:42:43.061Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/oil-and-curl-shampoo.html/08710522912898",
-      "gtin": "08710522912898",
-      "checkedAt": "2026-03-12T15:42:43.181Z"
+      "checkedAt": "2026-03-12T15:55:39.096Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/vernieuwd-haarspray-perfecte-krul.html/08710522923900",
       "gtin": "08710522923900",
-      "checkedAt": "2026-03-12T15:42:42.868Z"
+      "checkedAt": "2026-03-12T15:55:39.119Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/vernieuwd-boost-spray-perfecte-krul.html/08710522968215",
       "gtin": "08710522968215",
-      "checkedAt": "2026-03-12T15:42:43.129Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/voedende-creme-zilver-care.html/08710847923692",
-      "gtin": "08710847923692",
-      "checkedAt": "2026-03-12T15:42:43.206Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/fris-and-zuiver-droogshampoo.html/08710847938627",
-      "gtin": "08710847938627",
-      "checkedAt": "2026-03-12T15:42:42.844Z"
+      "checkedAt": "2026-03-12T15:55:39.239Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/kokos-boost-volume-spray.html/08710908340734",
       "gtin": "08710908340734",
-      "checkedAt": "2026-03-12T15:42:43.054Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/pink-big-volume-droogshampoo.html/08710908887796",
-      "gtin": "08710908887796",
-      "checkedAt": "2026-03-12T15:42:42.868Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/vernieuwd-mousse-verrassend-volume.html/08711600604339",
-      "gtin": "08711600604339",
-      "checkedAt": "2026-03-12T15:42:42.892Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/vernieuwd-mousse-fantastische-fixatie.html/08711600604445",
-      "gtin": "08711600604445",
-      "checkedAt": "2026-03-12T15:42:43.071Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/vernieuwd-mousse-perfecte-krul.html/08711600604544",
-      "gtin": "08711600604544",
-      "checkedAt": "2026-03-12T15:42:42.997Z"
+      "checkedAt": "2026-03-12T15:55:38.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/vernieuwd-haarspray-fantastische-fixatie.html/08712561170116",
       "gtin": "08712561170116",
-      "checkedAt": "2026-03-12T15:42:43.061Z"
+      "checkedAt": "2026-03-12T15:55:38.907Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/vernieuwd-haarspray-verrassend-volume.html/08712561170130",
       "gtin": "08712561170130",
-      "checkedAt": "2026-03-12T15:42:42.802Z"
+      "checkedAt": "2026-03-12T15:55:39.043Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/glans-and-care-shampoo.html/08712561548243",
       "gtin": "08712561548243",
-      "checkedAt": "2026-03-12T15:42:43.052Z"
+      "checkedAt": "2026-03-12T15:55:38.667Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/vernieuwd-styling-paste-verleidelijk-kort.html/08712561567084",
       "gtin": "08712561567084",
-      "checkedAt": "2026-03-12T15:42:43.050Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/pink-big-volume-foehnspray.html/08714100145265",
-      "gtin": "08714100145265",
-      "checkedAt": "2026-03-12T15:42:43.053Z"
+      "checkedAt": "2026-03-12T15:55:39.515Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/pink-happy-curls-gel-spray.html/08714100145494",
       "gtin": "08714100145494",
-      "checkedAt": "2026-03-12T15:42:42.769Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/pink-happy-curls-cr%C3%A8me.html/08714100145609",
-      "gtin": "08714100145609",
-      "checkedAt": "2026-03-12T15:42:43.051Z"
+      "checkedAt": "2026-03-12T15:55:39.125Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/pink-beachy-texture-sea-salt-spray.html/08714100147870",
       "gtin": "08714100147870",
-      "checkedAt": "2026-03-12T15:42:43.216Z"
+      "checkedAt": "2026-03-12T15:55:39.258Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/glans-conditioner.html/08720181325519",
       "gtin": "08720181325519",
-      "checkedAt": "2026-03-12T15:42:43.167Z"
+      "checkedAt": "2026-03-12T15:55:39.224Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/care-and-repair-conditioner.html/08720181325540",
       "gtin": "08720181325540",
-      "checkedAt": "2026-03-12T15:42:43.122Z"
+      "checkedAt": "2026-03-12T15:55:39.173Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/glans-shampoo.html/08720181327698",
       "gtin": "08720181327698",
-      "checkedAt": "2026-03-12T15:42:43.214Z"
+      "checkedAt": "2026-03-12T15:55:38.982Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/glans-and-care-conditioner.html/08720181349744",
       "gtin": "08720181349744",
-      "checkedAt": "2026-03-12T15:42:42.738Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/ceramide-thick-&-full-lichtgewicht-anti-breuk-serum.html/08720181522048",
-      "gtin": "08720181522048",
-      "checkedAt": "2026-03-12T15:42:43.185Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/protein-plex-repair-intensief-herstellende-bond-pre-treatment.html/08720181522055",
-      "gtin": "08720181522055",
-      "checkedAt": "2026-03-12T15:42:42.941Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/ceramide-thick-&-full-intensief-verdikkende-bond-shampoo.html/08720181523731",
-      "gtin": "08720181523731",
-      "checkedAt": "2026-03-12T15:42:42.785Z"
+      "checkedAt": "2026-03-12T15:55:39.164Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/ceramide-thick-&-full-versterkende-volume-bond-conditioner.html/08720181523748",
       "gtin": "08720181523748",
-      "checkedAt": "2026-03-12T15:42:42.806Z"
+      "checkedAt": "2026-03-12T15:55:38.935Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/ceramide-thick-&-full-11-in-1-pre-styling-spray.html/08720181523755",
       "gtin": "08720181523755",
-      "checkedAt": "2026-03-12T15:42:43.077Z"
+      "checkedAt": "2026-03-12T15:55:39.166Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/protein-plex-repair-versterkende-bond-shampoo.html/08720181523762",
       "gtin": "08720181523762",
-      "checkedAt": "2026-03-12T15:42:43.018Z"
+      "checkedAt": "2026-03-12T15:55:38.906Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/protein-plex-repair-diep-voedende-bond-conditioner.html/08720181523779",
       "gtin": "08720181523779",
-      "checkedAt": "2026-03-12T15:42:43.005Z"
+      "checkedAt": "2026-03-12T15:55:38.857Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/protein-plex-repair-beschermende-bond-leave-in-cr%C3%A8me.html/08720181523786",
       "gtin": "08720181523786",
-      "checkedAt": "2026-03-12T15:42:43.054Z"
+      "checkedAt": "2026-03-12T15:55:38.996Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/pro-nature-bamboo-volume-boost-shampoo.html/08720182568144",
       "gtin": "08720182568144",
-      "checkedAt": "2026-03-12T15:42:43.129Z"
+      "checkedAt": "2026-03-12T15:55:44.755Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/pro-nature-bamboo-volume-boost-conditioner.html/08720182568151",
       "gtin": "08720182568151",
-      "checkedAt": "2026-03-12T15:42:43.129Z"
+      "checkedAt": "2026-03-12T15:55:38.877Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/pro-nature-coco-curl-creation-shampoo.html/08720182568168",
       "gtin": "08720182568168",
-      "checkedAt": "2026-03-12T15:42:43.018Z"
+      "checkedAt": "2026-03-12T15:55:39.067Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/pro-nature-coco-curl-creation-conditioner.html/08720182568175",
       "gtin": "08720182568175",
-      "checkedAt": "2026-03-12T15:42:43.139Z"
+      "checkedAt": "2026-03-12T15:55:45.592Z"
     },
     {
       "type": "successful",
       "url": "https://www.andrelon.nl/p/pro-nature-rosemary-refresh-shampoo.html/08720182568182",
       "gtin": "08720182568182",
-      "checkedAt": "2026-03-12T15:42:43.077Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/pro-nature-shea-strong-repair-shampoo.html/08720182568199",
-      "gtin": "08720182568199",
-      "checkedAt": "2026-03-12T15:42:42.950Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.andrelon.nl/p/pro-nature-shea-strong-repair-conditioner.html/08720182568205",
-      "gtin": "08720182568205",
-      "checkedAt": "2026-03-12T15:42:43.544Z"
+      "checkedAt": "2026-03-12T15:55:44.755Z"
     }
   ],
-  "errors": 0,
-  "duration": "1.36s",
-  "speedMetrics": "59.56 URLs/second",
+  "errors": 28,
+  "duration": "16.26s",
+  "speedMetrics": "4.98 URLs/second",
   "problematicPages": [
     {
       "type": "problematic",
@@ -330,7 +222,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/klei-fris-and-zuiver-conditioner.html/08720181325496",
       "gtin": "08720181325496",
-      "checkedAt": "2026-03-12T15:42:43.145Z"
+      "checkedAt": "2026-03-12T15:55:38.881Z"
     },
     {
       "type": "problematic",
@@ -339,7 +231,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/verrassend-volume-conditioner.html/08720181325601",
       "gtin": "08720181325601",
-      "checkedAt": "2026-03-12T15:42:42.989Z"
+      "checkedAt": "2026-03-12T15:55:38.759Z"
     },
     {
       "type": "problematic",
@@ -348,7 +240,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/kokos-boost-conditioner.html/08720181325618",
       "gtin": "08720181325618",
-      "checkedAt": "2026-03-12T15:42:43.018Z"
+      "checkedAt": "2026-03-12T15:55:38.670Z"
     },
     {
       "type": "problematic",
@@ -357,7 +249,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/levendige-kleur-conditioner.html/08720181325625",
       "gtin": "08720181325625",
-      "checkedAt": "2026-03-12T15:42:43.185Z"
+      "checkedAt": "2026-03-12T15:55:38.765Z"
     },
     {
       "type": "problematic",
@@ -366,16 +258,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/hydratatie-and-volume-conditioner.html/08720181325694",
       "gtin": "08720181325694",
-      "checkedAt": "2026-03-12T15:42:42.870Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/mild-and-zacht-conditioner.html/08720181325717",
-      "gtin": "08720181325717",
-      "checkedAt": "2026-03-12T15:42:42.934Z"
+      "checkedAt": "2026-03-12T15:55:38.734Z"
     },
     {
       "type": "problematic",
@@ -384,7 +267,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/2-in-1-shampoo.html/08720181327711",
       "gtin": "08720181327711",
-      "checkedAt": "2026-03-12T15:42:43.186Z"
+      "checkedAt": "2026-03-12T15:55:38.654Z"
     },
     {
       "type": "problematic",
@@ -393,7 +276,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/kokos-boost-shampoo.html/08720181327759",
       "gtin": "08720181327759",
-      "checkedAt": "2026-03-12T15:42:43.168Z"
+      "checkedAt": "2026-03-12T15:55:38.984Z"
     },
     {
       "type": "problematic",
@@ -402,16 +285,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/levendige-kleur-shampoo.html/08720181479946",
       "gtin": "08720181479946",
-      "checkedAt": "2026-03-12T15:42:42.981Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/levendig-lang-masker.html/08720181495366",
-      "gtin": "08720181495366",
-      "checkedAt": "2026-03-12T15:42:42.712Z"
+      "checkedAt": "2026-03-12T15:55:39.088Z"
     },
     {
       "type": "problematic",
@@ -420,7 +294,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/levendig-lang-shampoo.html/08720182302212",
       "gtin": "08720182302212",
-      "checkedAt": "2026-03-12T15:42:43.067Z"
+      "checkedAt": "2026-03-12T15:55:39.309Z"
     },
     {
       "type": "problematic",
@@ -429,34 +303,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/kokos-boost-droogshampoo.html/08710847951008",
       "gtin": "08710847951008",
-      "checkedAt": "2026-03-12T15:42:42.899Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/verrassend-volume-droogshampoo.html/08710847951022",
-      "gtin": "08710847951022",
-      "checkedAt": "2026-03-12T15:42:43.102Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/langer-fris-droogshampoo.html/08710847951039",
-      "gtin": "08710847951039",
-      "checkedAt": "2026-03-12T15:42:43.288Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/zomer-blond-droogshampoo.html/08710847951046",
-      "gtin": "08710847951046",
-      "checkedAt": "2026-03-12T15:42:42.891Z"
+      "checkedAt": "2026-03-12T15:55:38.694Z"
     },
     {
       "type": "problematic",
@@ -465,25 +312,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/oil-and-care-serum-oil.html/08717163707845",
       "gtin": "08717163707845",
-      "checkedAt": "2026-03-12T15:42:43.128Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/iedere-dag-conditioner.html/08720181325410",
-      "gtin": "08720181325410",
-      "checkedAt": "2026-03-12T15:42:43.168Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/aloe-vera-repair-conditioner.html/08720181325557",
-      "gtin": "08720181325557",
-      "checkedAt": "2026-03-12T15:42:42.792Z"
+      "checkedAt": "2026-03-12T15:55:38.725Z"
     },
     {
       "type": "problematic",
@@ -492,7 +321,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/oil-and-curl-special-conditioner.html/08720181325649",
       "gtin": "08720181325649",
-      "checkedAt": "2026-03-12T15:42:43.185Z"
+      "checkedAt": "2026-03-12T15:55:44.366Z"
     },
     {
       "type": "problematic",
@@ -501,7 +330,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/honing-blond-conditioner.html/08720181325724",
       "gtin": "08720181325724",
-      "checkedAt": "2026-03-12T15:42:42.843Z"
+      "checkedAt": "2026-03-12T15:55:44.207Z"
     },
     {
       "type": "problematic",
@@ -510,7 +339,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/iedere-dag-shampoo.html/08720181327704",
       "gtin": "08720181327704",
-      "checkedAt": "2026-03-12T15:42:43.217Z"
+      "checkedAt": "2026-03-12T15:55:44.196Z"
     },
     {
       "type": "problematic",
@@ -519,16 +348,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/anti-roos-shampoo.html/08720181327728",
       "gtin": "08720181327728",
-      "checkedAt": "2026-03-12T15:42:43.217Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/langer-fris-shampoo.html/08720181327742",
-      "gtin": "08720181327742",
-      "checkedAt": "2026-03-12T15:42:42.804Z"
+      "checkedAt": "2026-03-12T15:55:38.641Z"
     },
     {
       "type": "problematic",
@@ -537,16 +357,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/iedere-dag-men-shampoo.html/08720181327780",
       "gtin": "08720181327780",
-      "checkedAt": "2026-03-12T15:42:43.026Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/honing-blond-shampoo.html/08720181479908",
-      "gtin": "08720181479908",
-      "checkedAt": "2026-03-12T15:42:43.201Z"
+      "checkedAt": "2026-03-12T15:55:39.032Z"
     },
     {
       "type": "problematic",
@@ -555,7 +366,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/oil-and-care-haarmasker.html/08720181495359",
       "gtin": "08720181495359",
-      "checkedAt": "2026-03-12T15:42:43.135Z"
+      "checkedAt": "2026-03-12T15:55:38.821Z"
     },
     {
       "type": "problematic",
@@ -564,16 +375,7 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/oil-and-curl-haarcreme.html/08720181513190",
       "gtin": "08720181513190",
-      "checkedAt": "2026-03-12T15:42:43.145Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "andrelon",
-      "assortmentCode": "BH0027",
-      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
-      "url": "https://www.andrelon.nl/p/care-and-repair-cr%C3%A8me.html/08720181513213",
-      "gtin": "08720181513213",
-      "checkedAt": "2026-03-12T15:42:43.130Z"
+      "checkedAt": "2026-03-12T15:55:38.994Z"
     },
     {
       "type": "problematic",
@@ -582,8 +384,177 @@
       "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
       "url": "https://www.andrelon.nl/p/oil-and-care-voedende-creme.html/08720181513220",
       "gtin": "08720181513220",
-      "checkedAt": "2026-03-12T15:42:43.167Z"
+      "checkedAt": "2026-03-12T15:55:38.872Z"
     }
   ],
-  "errorPages": []
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/hydratatie-and-volume-shampoo.html/08710522890547",
+      "error": "request to https://www.andrelon.nl/p/hydratatie-and-volume-shampoo.html/08710522890547 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/klei-fris-and-zuiver-shampoo.html/08710847947292",
+      "error": "request to https://www.andrelon.nl/p/klei-fris-and-zuiver-shampoo.html/08710847947292 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/kalmerende-anti-roos.html/08720181256851",
+      "error": "request to https://www.andrelon.nl/p/kalmerende-anti-roos.html/08720181256851 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/mild-and-zacht-conditioner.html/08720181325717",
+      "error": "request to https://www.andrelon.nl/p/mild-and-zacht-conditioner.html/08720181325717 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.196Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/levendig-lang-masker.html/08720181495366",
+      "error": "request to https://www.andrelon.nl/p/levendig-lang-masker.html/08720181495366 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/hair-and-body-men-shampoo-en-body-wash.html/08710447321669",
+      "error": "request to https://www.andrelon.nl/p/hair-and-body-men-shampoo-en-body-wash.html/08710447321669 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/oil-and-curl-shampoo.html/08710522912898",
+      "error": "request to https://www.andrelon.nl/p/oil-and-curl-shampoo.html/08710522912898 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/voedende-creme-zilver-care.html/08710847923692",
+      "error": "request to https://www.andrelon.nl/p/voedende-creme-zilver-care.html/08710847923692 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/fris-and-zuiver-droogshampoo.html/08710847938627",
+      "error": "request to https://www.andrelon.nl/p/fris-and-zuiver-droogshampoo.html/08710847938627 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.199Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/verrassend-volume-droogshampoo.html/08710847951022",
+      "error": "request to https://www.andrelon.nl/p/verrassend-volume-droogshampoo.html/08710847951022 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/langer-fris-droogshampoo.html/08710847951039",
+      "error": "request to https://www.andrelon.nl/p/langer-fris-droogshampoo.html/08710847951039 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.199Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/zomer-blond-droogshampoo.html/08710847951046",
+      "error": "request to https://www.andrelon.nl/p/zomer-blond-droogshampoo.html/08710847951046 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/pink-big-volume-droogshampoo.html/08710908887796",
+      "error": "request to https://www.andrelon.nl/p/pink-big-volume-droogshampoo.html/08710908887796 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/vernieuwd-mousse-verrassend-volume.html/08711600604339",
+      "error": "request to https://www.andrelon.nl/p/vernieuwd-mousse-verrassend-volume.html/08711600604339 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.199Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/vernieuwd-mousse-fantastische-fixatie.html/08711600604445",
+      "error": "request to https://www.andrelon.nl/p/vernieuwd-mousse-fantastische-fixatie.html/08711600604445 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/vernieuwd-mousse-perfecte-krul.html/08711600604544",
+      "error": "request to https://www.andrelon.nl/p/vernieuwd-mousse-perfecte-krul.html/08711600604544 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.199Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/pink-big-volume-foehnspray.html/08714100145265",
+      "error": "request to https://www.andrelon.nl/p/pink-big-volume-foehnspray.html/08714100145265 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.199Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/pink-happy-curls-cr%C3%A8me.html/08714100145609",
+      "error": "request to https://www.andrelon.nl/p/pink-happy-curls-cr%C3%A8me.html/08714100145609 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.199Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/iedere-dag-conditioner.html/08720181325410",
+      "error": "request to https://www.andrelon.nl/p/iedere-dag-conditioner.html/08720181325410 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.199Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/aloe-vera-repair-conditioner.html/08720181325557",
+      "error": "request to https://www.andrelon.nl/p/aloe-vera-repair-conditioner.html/08720181325557 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/langer-fris-shampoo.html/08720181327742",
+      "error": "request to https://www.andrelon.nl/p/langer-fris-shampoo.html/08720181327742 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.196Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/honing-blond-shampoo.html/08720181479908",
+      "error": "request to https://www.andrelon.nl/p/honing-blond-shampoo.html/08720181479908 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.200Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/care-and-repair-cr%C3%A8me.html/08720181513213",
+      "error": "request to https://www.andrelon.nl/p/care-and-repair-cr%C3%A8me.html/08720181513213 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.200Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/ceramide-thick-&-full-lichtgewicht-anti-breuk-serum.html/08720181522048",
+      "error": "request to https://www.andrelon.nl/p/ceramide-thick-&-full-lichtgewicht-anti-breuk-serum.html/08720181522048 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/protein-plex-repair-intensief-herstellende-bond-pre-treatment.html/08720181522055",
+      "error": "request to https://www.andrelon.nl/p/protein-plex-repair-intensief-herstellende-bond-pre-treatment.html/08720181522055 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.200Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/ceramide-thick-&-full-intensief-verdikkende-bond-shampoo.html/08720181523731",
+      "error": "request to https://www.andrelon.nl/p/ceramide-thick-&-full-intensief-verdikkende-bond-shampoo.html/08720181523731 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/pro-nature-shea-strong-repair-shampoo.html/08720182568199",
+      "error": "request to https://www.andrelon.nl/p/pro-nature-shea-strong-repair-shampoo.html/08720182568199 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:46.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.andrelon.nl/p/pro-nature-shea-strong-repair-conditioner.html/08720182568205",
+      "error": "request to https://www.andrelon.nl/p/pro-nature-shea-strong-repair-conditioner.html/08720182568205 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:54.206Z"
+    }
+  ]
 }

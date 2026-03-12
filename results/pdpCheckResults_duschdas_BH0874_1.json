@@ -1,105 +1,63 @@
 {
-  "generatedAt": "2026-03-12T15:43:02.192Z",
+  "generatedAt": "2026-03-12T15:55:21.026Z",
   "brand": "duschdas",
   "assortmentCode": "BH0874",
   "feedUrl": "https://www.duschdas.de/home.productfeed.json",
   "totalUrlsChecked": 20,
-  "problematicPagesFound": 4,
+  "problematicPagesFound": 1,
   "successfulPages": [
     {
       "type": "successful",
       "url": "https://www.duschdas.de/p/duschgel-noire-3in1.html/08720181325380",
       "gtin": "08720181325380",
-      "checkedAt": "2026-03-12T15:42:54.796Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-ice-kick-2in1.html/08720181333996",
-      "gtin": "08720181333996",
-      "checkedAt": "2026-03-12T15:42:54.680Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-acai-berry.html/08720181334016",
-      "gtin": "08720181334016",
-      "checkedAt": "2026-03-12T15:42:54.609Z"
+      "checkedAt": "2026-03-12T15:55:13.315Z"
     },
     {
       "type": "successful",
       "url": "https://www.duschdas.de/p/duschgel-magnolie.html/08720181334030",
       "gtin": "08720181334030",
-      "checkedAt": "2026-03-12T15:42:54.721Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-wildrose-melisse.html/08720181334061",
-      "gtin": "08720181334061",
-      "checkedAt": "2026-03-12T15:42:54.375Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-limette-minze.html/08720181334108",
-      "gtin": "08720181334108",
-      "checkedAt": "2026-03-12T15:42:54.774Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-zitrone-rosmarin.html/08720181334122",
-      "gtin": "08720181334122",
-      "checkedAt": "2026-03-12T15:42:54.351Z"
+      "checkedAt": "2026-03-12T15:55:14.091Z"
     },
     {
       "type": "successful",
       "url": "https://www.duschdas.de/p/duschgel-pfirsich.html/08720181334139",
       "gtin": "08720181334139",
-      "checkedAt": "2026-03-12T15:42:54.477Z"
+      "checkedAt": "2026-03-12T15:55:13.234Z"
     },
     {
       "type": "successful",
       "url": "https://www.duschdas.de/p/duschgel-energy-3in1.html/08720181334153",
       "gtin": "08720181334153",
-      "checkedAt": "2026-03-12T15:42:54.353Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-shampoo-for-men-3in1.html/08720181334580",
-      "gtin": "08720181334580",
-      "checkedAt": "2026-03-12T15:42:54.664Z"
+      "checkedAt": "2026-03-12T15:55:13.338Z"
     },
     {
       "type": "successful",
       "url": "https://www.duschdas.de/p/duschgel-sport-3in1.html/08720181334597",
       "gtin": "08720181334597",
-      "checkedAt": "2026-03-12T15:42:54.446Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-mandel-jojoba-(almond-jojoba).html/08720181400247",
-      "gtin": "08720181400247",
-      "checkedAt": "2026-03-12T15:42:54.458Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.duschdas.de/p/duschgel-granatapfel.html/08720181490057",
-      "gtin": "08720181490057",
-      "checkedAt": "2026-03-12T15:42:54.439Z"
+      "checkedAt": "2026-03-12T15:55:18.215Z"
     },
     {
       "type": "successful",
       "url": "https://www.duschdas.de/p/duschgel-dfb-fan-edition.html/08720181798474",
       "gtin": "08720181798474",
-      "checkedAt": "2026-03-12T15:42:54.427Z"
+      "checkedAt": "2026-03-12T15:55:13.208Z"
     },
     {
       "type": "successful",
       "url": "https://www.duschdas.de/p/duschgel-dfb-fan-edition-450ml.html/08720181798481",
       "gtin": "08720181798481",
-      "checkedAt": "2026-03-12T15:42:54.447Z"
+      "checkedAt": "2026-03-12T15:55:13.169Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-spa-des-orients.html/08720181883699",
+      "gtin": "08720181883699",
+      "checkedAt": "2026-03-12T15:55:19.034Z"
     }
   ],
-  "errors": 1,
-  "duration": "8.18s",
-  "speedMetrics": "2.44 URLs/second",
+  "errors": 11,
+  "duration": "8.15s",
+  "speedMetrics": "2.45 URLs/second",
   "problematicPages": [
     {
       "type": "problematic",
@@ -108,42 +66,75 @@
       "feedUrl": "https://www.duschdas.de/home.productfeed.json",
       "url": "https://www.duschdas.de/p/duschgel-kokos-sheabutter-(cocos-shea-butter).html/08720181400254",
       "gtin": "08720181400254",
-      "checkedAt": "2026-03-12T15:42:54.512Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "duschdas",
-      "assortmentCode": "BH0874",
-      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
-      "url": "https://www.duschdas.de/p/duschgel-hydra-kick.html/08720181559648",
-      "gtin": "08720181559648",
-      "checkedAt": "2026-03-12T15:42:54.660Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "duschdas",
-      "assortmentCode": "BH0874",
-      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
-      "url": "https://www.duschdas.de/p/duschgel-deep-relax.html/08720181559655",
-      "gtin": "08720181559655",
-      "checkedAt": "2026-03-12T15:42:54.640Z"
-    },
-    {
-      "type": "problematic",
-      "brand": "duschdas",
-      "assortmentCode": "BH0874",
-      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
-      "url": "https://www.duschdas.de/p/duschgel-night-out.html/08720181685880",
-      "gtin": "08720181685880",
-      "checkedAt": "2026-03-12T15:42:54.682Z"
+      "checkedAt": "2026-03-12T15:55:13.229Z"
     }
   ],
   "errorPages": [
     {
       "type": "error",
-      "url": "https://www.duschdas.de/p/duschgel-spa-des-orients.html/08720181883699",
-      "error": "request to https://www.duschdas.de/p/duschgel-spa-des-orients.html/08720181883699 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:02.192Z"
+      "url": "https://www.duschdas.de/p/duschgel-ice-kick-2in1.html/08720181333996",
+      "error": "request to https://www.duschdas.de/p/duschgel-ice-kick-2in1.html/08720181333996 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-acai-berry.html/08720181334016",
+      "error": "request to https://www.duschdas.de/p/duschgel-acai-berry.html/08720181334016 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.026Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-wildrose-melisse.html/08720181334061",
+      "error": "request to https://www.duschdas.de/p/duschgel-wildrose-melisse.html/08720181334061 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-limette-minze.html/08720181334108",
+      "error": "request to https://www.duschdas.de/p/duschgel-limette-minze.html/08720181334108 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-zitrone-rosmarin.html/08720181334122",
+      "error": "request to https://www.duschdas.de/p/duschgel-zitrone-rosmarin.html/08720181334122 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-shampoo-for-men-3in1.html/08720181334580",
+      "error": "request to https://www.duschdas.de/p/duschgel-shampoo-for-men-3in1.html/08720181334580 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-mandel-jojoba-(almond-jojoba).html/08720181400247",
+      "error": "request to https://www.duschdas.de/p/duschgel-mandel-jojoba-(almond-jojoba).html/08720181400247 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.001Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-granatapfel.html/08720181490057",
+      "error": "request to https://www.duschdas.de/p/duschgel-granatapfel.html/08720181490057 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.026Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-hydra-kick.html/08720181559648",
+      "error": "request to https://www.duschdas.de/p/duschgel-hydra-kick.html/08720181559648 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.026Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-deep-relax.html/08720181559655",
+      "error": "request to https://www.duschdas.de/p/duschgel-deep-relax.html/08720181559655 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.024Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-night-out.html/08720181685880",
+      "error": "request to https://www.duschdas.de/p/duschgel-night-out.html/08720181685880 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:21.024Z"
     }
   ]
 }

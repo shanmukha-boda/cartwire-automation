@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:43:11.098Z",
+  "generatedAt": "2026-03-12T15:56:00.784Z",
   "brand": "dawn",
   "assortmentCode": "BH0141",
   "feedUrl": "https://www.dawn.co.za/home.productfeed.json",
@@ -10,187 +10,187 @@
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-lotion.html/06001087009928",
       "gtin": "06001087009928",
-      "checkedAt": "2026-03-12T15:43:03.765Z"
+      "checkedAt": "2026-03-12T15:55:53.442Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-radiant-glow-and-gold-dust-body-lotion.html/06001087010979",
       "gtin": "06001087010979",
-      "checkedAt": "2026-03-12T15:43:03.903Z"
+      "checkedAt": "2026-03-12T15:55:53.671Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-aloe-vera-and-avocado-oil-body-lotion.html/06001087012331",
       "gtin": "06001087012331",
-      "checkedAt": "2026-03-12T15:43:03.796Z"
+      "checkedAt": "2026-03-12T15:55:53.609Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-cocoa-butter-and-coconut-oil-body-lotion.html/06001087012348",
       "gtin": "06001087012348",
-      "checkedAt": "2026-03-12T15:43:03.795Z"
+      "checkedAt": "2026-03-12T15:55:53.301Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-rich-lanolin-and-rose-water-body-lotion.html/06001087012362",
       "gtin": "06001087012362",
-      "checkedAt": "2026-03-12T15:43:03.868Z"
+      "checkedAt": "2026-03-12T15:55:53.264Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-lotion.html/06001087012379",
       "gtin": "06001087012379",
-      "checkedAt": "2026-03-12T15:43:04.045Z"
+      "checkedAt": "2026-03-12T15:55:53.527Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-tropical-cream-and-papaya-oil-body-lotion.html/06001087012386",
       "gtin": "06001087012386",
-      "checkedAt": "2026-03-12T15:43:03.607Z"
+      "checkedAt": "2026-03-12T15:55:53.436Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-vitamin-e-and-argan-oil-body-lotion.html/06001087012393",
       "gtin": "06001087012393",
-      "checkedAt": "2026-03-12T15:43:03.844Z"
+      "checkedAt": "2026-03-12T15:55:53.739Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-aloe-vera-and-avocado-oil-body-cream.html/06001087370844",
       "gtin": "06001087370844",
-      "checkedAt": "2026-03-12T15:43:03.863Z"
+      "checkedAt": "2026-03-12T15:55:53.456Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-vitamin-e-and-argan-oil-body-cream.html/06001087370875",
       "gtin": "06001087370875",
-      "checkedAt": "2026-03-12T15:43:03.937Z"
+      "checkedAt": "2026-03-12T15:55:53.329Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-rich-lanolin-and-rose-water-body-cream.html/06001087370912",
       "gtin": "06001087370912",
-      "checkedAt": "2026-03-12T15:43:03.982Z"
+      "checkedAt": "2026-03-12T15:55:53.571Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-cream.html/06001087371032",
+      "gtin": "06001087371032",
+      "checkedAt": "2026-03-12T15:55:53.553Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-cocoa-butter-and-coconut-oil-body-cream.html/06001087371155",
+      "gtin": "06001087371155",
+      "checkedAt": "2026-03-12T15:55:53.238Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-chamomile-and-moringa-oil-body-lotion.html/06001087380775",
       "gtin": "06001087380775",
-      "checkedAt": "2026-03-12T15:43:03.534Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.dawn.co.za/p/dawn-shea-butter-and-almond-oil-body-lotion.html/06001087380799",
-      "gtin": "06001087380799",
-      "checkedAt": "2026-03-12T15:43:03.733Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.dawn.co.za/p/dawn-black-white-antiperspirant-roll-on.html/00000060028297",
-      "gtin": "00000060028297",
-      "checkedAt": "2026-03-12T15:43:03.983Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.dawn.co.za/p/dawn-pearl-of-africa-beauty-antiperspirant-roll-on.html/00000060028303",
-      "gtin": "00000060028303",
-      "checkedAt": "2026-03-12T15:43:03.677Z"
+      "checkedAt": "2026-03-12T15:55:53.200Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-cool-musk-antiperspirant-roll-on.html/00000060028310",
       "gtin": "00000060028310",
-      "checkedAt": "2026-03-12T15:43:03.858Z"
+      "checkedAt": "2026-03-12T15:55:53.363Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-forever-fresh-antiperspirant-roll-on.html/00000060028327",
       "gtin": "00000060028327",
-      "checkedAt": "2026-03-12T15:43:03.714Z"
+      "checkedAt": "2026-03-12T15:55:53.939Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-gentle-aloe-antiperspirant-roll-on.html/00000060028334",
       "gtin": "00000060028334",
-      "checkedAt": "2026-03-12T15:43:03.708Z"
+      "checkedAt": "2026-03-12T15:55:53.352Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-black-white-antiperspirant-roll-on.html/00000060028341",
       "gtin": "00000060028341",
-      "checkedAt": "2026-03-12T15:43:04.062Z"
+      "checkedAt": "2026-03-12T15:55:53.307Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.dawn.co.za/p/dawn-men-active-dry-antiperspirant-roll-on.html/00000060028358",
+      "gtin": "00000060028358",
+      "checkedAt": "2026-03-12T15:55:53.332Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-cool-and-fresh-antiperspirant-roll-on.html/00000060028365",
       "gtin": "00000060028365",
-      "checkedAt": "2026-03-12T15:43:03.749Z"
+      "checkedAt": "2026-03-12T15:55:53.227Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-refresh-cooling-body-lotion.html/06001087009911",
       "gtin": "06001087009911",
-      "checkedAt": "2026-03-12T15:43:03.828Z"
+      "checkedAt": "2026-03-12T15:55:53.296Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-refresh-cooling-body-cream.html/06001087370974",
       "gtin": "06001087370974",
-      "checkedAt": "2026-03-12T15:43:03.600Z"
+      "checkedAt": "2026-03-12T15:55:53.333Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-cream.html/06001087371278",
       "gtin": "06001087371278",
-      "checkedAt": "2026-03-12T15:43:03.857Z"
+      "checkedAt": "2026-03-12T15:55:53.659Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-energy-revitalizing-body-cream.html/06001087371360",
       "gtin": "06001087371360",
-      "checkedAt": "2026-03-12T15:43:03.752Z"
+      "checkedAt": "2026-03-12T15:55:53.228Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-legacy-fragrance-free-body-lotion.html/06001087373784",
       "gtin": "06001087373784",
-      "checkedAt": "2026-03-12T15:43:03.700Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.dawn.co.za/p/dawn-men-energy-revitalizing-body-lotion.html/06001087373791",
-      "gtin": "06001087373791",
-      "checkedAt": "2026-03-12T15:43:03.991Z"
+      "checkedAt": "2026-03-12T15:55:53.408Z"
     },
     {
       "type": "successful",
       "url": "https://www.dawn.co.za/p/dawn-men-legacy-fragrance-free-body-cream.html/06001087386616",
       "gtin": "06001087386616",
-      "checkedAt": "2026-03-12T15:43:03.846Z"
+      "checkedAt": "2026-03-12T15:55:53.375Z"
     }
   ],
-  "errors": 3,
-  "duration": "8.23s",
-  "speedMetrics": "3.65 URLs/second",
+  "errors": 4,
+  "duration": "8.34s",
+  "speedMetrics": "3.60 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
-      "url": "https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-cream.html/06001087371032",
-      "error": "request to https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-cream.html/06001087371032 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:11.084Z"
+      "url": "https://www.dawn.co.za/p/dawn-shea-butter-and-almond-oil-body-lotion.html/06001087380799",
+      "error": "request to https://www.dawn.co.za/p/dawn-shea-butter-and-almond-oil-body-lotion.html/06001087380799 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:00.763Z"
     },
     {
       "type": "error",
-      "url": "https://www.dawn.co.za/p/dawn-cocoa-butter-and-coconut-oil-body-cream.html/06001087371155",
-      "error": "request to https://www.dawn.co.za/p/dawn-cocoa-butter-and-coconut-oil-body-cream.html/06001087371155 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:11.084Z"
+      "url": "https://www.dawn.co.za/p/dawn-black-white-antiperspirant-roll-on.html/00000060028297",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:55.093Z"
     },
     {
       "type": "error",
-      "url": "https://www.dawn.co.za/p/dawn-men-active-dry-antiperspirant-roll-on.html/00000060028358",
-      "error": "request to https://www.dawn.co.za/p/dawn-men-active-dry-antiperspirant-roll-on.html/00000060028358 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:11.098Z"
+      "url": "https://www.dawn.co.za/p/dawn-pearl-of-africa-beauty-antiperspirant-roll-on.html/00000060028303",
+      "error": "request to https://www.dawn.co.za/p/dawn-pearl-of-africa-beauty-antiperspirant-roll-on.html/00000060028303 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:00.784Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-energy-revitalizing-body-lotion.html/06001087373791",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:56.651Z"
     }
   ]
 }

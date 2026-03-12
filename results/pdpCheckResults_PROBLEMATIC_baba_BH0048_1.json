@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:57.245Z",
+  "generatedAt": "2026-03-12T15:55:54.809Z",
   "brand": "baba",
   "assortmentCode": "BH0048",
   "feedUrl": "https://www.baba.hu/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-ferfi-tusfurdo-erzekeny-borre-3in1-400-ml.html/08720181637964",
       "gtin": "08720181637964",
-      "checkedAt": "2026-03-12T15:42:50.192Z"
+      "checkedAt": "2026-03-12T15:55:47.225Z"
     },
     {
       "type": "problematic",
@@ -21,7 +21,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bogyosgyumolcs-illat-750-ml.html/08720181637971",
       "gtin": "08720181637971",
-      "checkedAt": "2026-03-12T15:42:49.677Z"
+      "checkedAt": "2026-03-12T15:55:47.116Z"
     },
     {
       "type": "problematic",
@@ -30,7 +30,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-500-ml.html/08720181740343",
       "gtin": "08720181740343",
-      "checkedAt": "2026-03-12T15:42:49.960Z"
+      "checkedAt": "2026-03-12T15:55:47.354Z"
     },
     {
       "type": "problematic",
@@ -39,7 +39,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-antibakterialis-eukaliptusz-250-ml.html/08720181740367",
       "gtin": "08720181740367",
-      "checkedAt": "2026-03-12T15:42:49.848Z"
+      "checkedAt": "2026-03-12T15:55:47.283Z"
     },
     {
       "type": "problematic",
@@ -48,7 +48,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-750-ml.html/08720181741067",
       "gtin": "08720181741067",
-      "checkedAt": "2026-03-12T15:42:56.819Z"
+      "checkedAt": "2026-03-12T15:55:47.222Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:43:18.877Z",
+  "generatedAt": "2026-03-12T15:55:44.530Z",
   "brand": "mae-terra",
   "assortmentCode": "BF8834",
   "feedUrl": "https://www.maeterra.com.br/home.productfeed.json",
@@ -10,169 +10,169 @@
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/granola-tradicional-com-castanhas-brasileiras.html/07891150075443",
       "gtin": "07891150075443",
-      "checkedAt": "2026-03-12T15:43:11.016Z"
+      "checkedAt": "2026-03-12T15:55:36.654Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/granola-banana-e-cacau.html/07891150075450",
       "gtin": "07891150075450",
-      "checkedAt": "2026-03-12T15:43:11.082Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-cacau-organico.html/07891150081338",
-      "gtin": "07891150081338",
-      "checkedAt": "2026-03-12T15:43:11.095Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-maizena.html/07891150084643",
-      "gtin": "07891150084643",
-      "checkedAt": "2026-03-12T15:43:11.023Z"
+      "checkedAt": "2026-03-12T15:55:36.492Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/granola-tradicional-zero-acucares.html/07891150087606",
       "gtin": "07891150087606",
-      "checkedAt": "2026-03-12T15:43:11.341Z"
+      "checkedAt": "2026-03-12T15:55:36.744Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/pipoca-doce-brigadeiro-zero.html/07891150089112",
       "gtin": "07891150089112",
-      "checkedAt": "2026-03-12T15:43:10.978Z"
+      "checkedAt": "2026-03-12T15:55:36.876Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/choco-cookies-castanhas-brasileiras.html/07891150089167",
       "gtin": "07891150089167",
-      "checkedAt": "2026-03-12T15:43:11.042Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.maeterra.com.br/p/choco-biscoito-maizena.html/07891150089181",
-      "gtin": "07891150089181",
-      "checkedAt": "2026-03-12T15:43:11.096Z"
+      "checkedAt": "2026-03-12T15:55:36.940Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/choco-biscoito-cacau.html/07891150089198",
       "gtin": "07891150089198",
-      "checkedAt": "2026-03-12T15:43:11.073Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.maeterra.com.br/p/granola-castanha-de-caju-amigos-do-bem.html/07891150090798",
-      "gtin": "07891150090798",
-      "checkedAt": "2026-03-12T15:43:17.118Z"
+      "checkedAt": "2026-03-12T15:55:36.746Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-queijo.html/07891150094857",
       "gtin": "07891150094857",
-      "checkedAt": "2026-03-12T15:43:11.624Z"
+      "checkedAt": "2026-03-12T15:55:36.606Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-caramelo-com-coco.html/07896496917655",
+      "gtin": "07896496917655",
+      "checkedAt": "2026-03-12T15:55:36.493Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-cacau.html/07896496917662",
+      "gtin": "07896496917662",
+      "checkedAt": "2026-03-12T15:55:36.489Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/tribos-cacau.html/07896496917709",
       "gtin": "07896496917709",
-      "checkedAt": "2026-03-12T15:43:11.223Z"
+      "checkedAt": "2026-03-12T15:55:36.502Z"
     },
     {
       "type": "successful",
-      "url": "https://www.maeterra.com.br/p/granola-frutas-e-mel-vegano.html/07896496972111",
-      "gtin": "07896496972111",
-      "checkedAt": "2026-03-12T15:43:11.014Z"
+      "url": "https://www.maeterra.com.br/p/tribos-coco.html/07896496917716",
+      "gtin": "07896496917716",
+      "checkedAt": "2026-03-12T15:55:36.872Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-pizza.html/07896496972326",
+      "gtin": "07896496972326",
+      "checkedAt": "2026-03-12T15:55:36.583Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-cebola.html/07896496972340",
+      "gtin": "07896496972340",
+      "checkedAt": "2026-03-12T15:55:42.404Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/remix-castanhas-brasileiras.html/07896496972500",
+      "gtin": "07896496972500",
+      "checkedAt": "2026-03-12T15:55:36.908Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/remix-acai.html/07896496972555",
+      "gtin": "07896496972555",
+      "checkedAt": "2026-03-12T15:55:36.580Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/remix-cacau.html/07896496972609",
+      "gtin": "07896496972609",
+      "checkedAt": "2026-03-12T15:55:36.713Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/remix-sementes.html/07896496972623",
       "gtin": "07896496972623",
-      "checkedAt": "2026-03-12T15:43:12.042Z"
+      "checkedAt": "2026-03-12T15:55:36.500Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-cacau-e-castanhas.html/07896496980857",
+      "gtin": "07896496980857",
+      "checkedAt": "2026-03-12T15:55:36.887Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/mini-cookies-banana-e-cacau.html/07896496980888",
       "gtin": "07896496980888",
-      "checkedAt": "2026-03-12T15:43:17.106Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.maeterra.com.br/p/mini-cookies-coco-e-castanhas.html/07896496980994",
-      "gtin": "07896496980994",
-      "checkedAt": "2026-03-12T15:43:17.298Z"
+      "checkedAt": "2026-03-12T15:55:36.867Z"
     },
     {
       "type": "successful",
       "url": "https://www.maeterra.com.br/p/granola-cacau.html/07896496995219",
       "gtin": "07896496995219",
-      "checkedAt": "2026-03-12T15:43:11.034Z"
+      "checkedAt": "2026-03-12T15:55:36.523Z"
     }
   ],
-  "errors": 10,
-  "duration": "8.31s",
+  "errors": 7,
+  "duration": "8.32s",
   "speedMetrics": "3.25 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-cacau-organico.html/07891150081338",
+      "error": "request to https://www.maeterra.com.br/p/zooreta-biscoito-cacau-organico.html/07891150081338 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.484Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-maizena.html/07891150084643",
+      "error": "request to https://www.maeterra.com.br/p/zooreta-biscoito-maizena.html/07891150084643 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/choco-biscoito-maizena.html/07891150089181",
+      "error": "request to https://www.maeterra.com.br/p/choco-biscoito-maizena.html/07891150089181 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.456Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-castanha-de-caju-amigos-do-bem.html/07891150090798",
+      "error": "request to https://www.maeterra.com.br/p/granola-castanha-de-caju-amigos-do-bem.html/07891150090798 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.465Z"
+    },
+    {
+      "type": "error",
       "url": "https://www.maeterra.com.br/p/tribos-cracker-gergelim.html/07896496917525",
       "error": "request to https://www.maeterra.com.br/p/tribos-cracker-gergelim.html/07896496917525 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.876Z"
+      "checkedAt": "2026-03-12T15:55:44.470Z"
     },
     {
       "type": "error",
-      "url": "https://www.maeterra.com.br/p/pipoca-doce-caramelo-com-coco.html/07896496917655",
-      "error": "request to https://www.maeterra.com.br/p/pipoca-doce-caramelo-com-coco.html/07896496917655 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.861Z"
+      "url": "https://www.maeterra.com.br/p/granola-frutas-e-mel-vegano.html/07896496972111",
+      "error": "request to https://www.maeterra.com.br/p/granola-frutas-e-mel-vegano.html/07896496972111 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.443Z"
     },
     {
       "type": "error",
-      "url": "https://www.maeterra.com.br/p/pipoca-doce-cacau.html/07896496917662",
-      "error": "request to https://www.maeterra.com.br/p/pipoca-doce-cacau.html/07896496917662 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.857Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.maeterra.com.br/p/tribos-coco.html/07896496917716",
-      "error": "request to https://www.maeterra.com.br/p/tribos-coco.html/07896496917716 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.873Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-pizza.html/07896496972326",
-      "error": "request to https://www.maeterra.com.br/p/zooreta-salgadinho-pizza.html/07896496972326 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.874Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-cebola.html/07896496972340",
-      "error": "request to https://www.maeterra.com.br/p/zooreta-salgadinho-cebola.html/07896496972340 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.874Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.maeterra.com.br/p/remix-castanhas-brasileiras.html/07896496972500",
-      "error": "request to https://www.maeterra.com.br/p/remix-castanhas-brasileiras.html/07896496972500 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.874Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.maeterra.com.br/p/remix-acai.html/07896496972555",
-      "error": "request to https://www.maeterra.com.br/p/remix-acai.html/07896496972555 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.874Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.maeterra.com.br/p/remix-cacau.html/07896496972609",
-      "error": "request to https://www.maeterra.com.br/p/remix-cacau.html/07896496972609 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.874Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.maeterra.com.br/p/mini-cookies-cacau-e-castanhas.html/07896496980857",
-      "error": "request to https://www.maeterra.com.br/p/mini-cookies-cacau-e-castanhas.html/07896496980857 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:18.861Z"
+      "url": "https://www.maeterra.com.br/p/mini-cookies-coco-e-castanhas.html/07896496980994",
+      "error": "request to https://www.maeterra.com.br/p/mini-cookies-coco-e-castanhas.html/07896496980994 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:44.464Z"
     }
   ]
 }

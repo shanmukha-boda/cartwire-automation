@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:54.998Z",
+  "generatedAt": "2026-03-12T15:55:28.039Z",
   "brand": "liquid",
   "assortmentCode": "BHA361",
   "feedUrl": "https://www.liquid-iv.com.br/home.productfeed.json",
@@ -10,24 +10,24 @@
       "type": "successful",
       "url": "https://www.liquid-iv.com.br/p/liquid-iv-beb-po-limao-16x16x16g.html/07891150101241",
       "gtin": "07891150101241",
-      "checkedAt": "2026-03-12T15:42:54.998Z"
+      "checkedAt": "2026-03-12T15:55:27.935Z"
     },
     {
       "type": "successful",
       "url": "https://www.liquid-iv.com.br/p/liquid-iv-beb-po-tangerina-16x16x16g.html/07891150101258",
       "gtin": "07891150101258",
-      "checkedAt": "2026-03-12T15:42:54.656Z"
+      "checkedAt": "2026-03-12T15:55:28.039Z"
     },
     {
       "type": "successful",
       "url": "https://www.liquid-iv.com.br/p/liquid-iv-beb-po-frutas-trop-16x16x16g.html/07891150101272",
       "gtin": "07891150101272",
-      "checkedAt": "2026-03-12T15:42:54.725Z"
+      "checkedAt": "2026-03-12T15:55:28.019Z"
     }
   ],
   "errors": 0,
-  "duration": "0.76s",
-  "speedMetrics": "3.95 URLs/second",
+  "duration": "0.42s",
+  "speedMetrics": "7.14 URLs/second",
   "problematicPages": [],
   "errorPages": []
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:40.172Z",
+  "generatedAt": "2026-03-12T15:55:43.573Z",
   "brand": "whatsfordinner",
   "assortmentCode": "BFA317",
   "feedUrl": "https://www.whatsfordinner.co.za/home.productfeed.json",
@@ -10,1255 +10,1255 @@
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-macaroni-cheese-pasta-sauce.html/06001087002882",
       "gtin": "06001087002882",
-      "checkedAt": "2026-03-12T15:42:16.468Z"
+      "checkedAt": "2026-03-12T15:55:33.491Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-sour-cream-and-chives-potato-bake.html/06001087007382",
       "gtin": "06001087007382",
-      "checkedAt": "2026-03-12T15:42:16.555Z"
+      "checkedAt": "2026-03-12T15:55:33.905Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-garlic-and-rosemary-cook-in-bags.html/06001087009539",
       "gtin": "06001087009539",
-      "checkedAt": "2026-03-12T15:42:17.198Z"
+      "checkedAt": "2026-03-12T15:55:34.537Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-barbeque-cook-in-bag.html/06001087009546",
       "gtin": "06001087009546",
-      "checkedAt": "2026-03-12T15:42:16.148Z"
+      "checkedAt": "2026-03-12T15:55:34.307Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-french-salad-dressing.html/06001087311311",
       "gtin": "06001087311311",
-      "checkedAt": "2026-03-12T15:42:16.778Z"
+      "checkedAt": "2026-03-12T15:55:34.305Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-greek-salad-dressing.html/06001087311335",
       "gtin": "06001087311335",
-      "checkedAt": "2026-03-12T15:42:16.543Z"
+      "checkedAt": "2026-03-12T15:55:34.175Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-honey-mustard-salad-dressing.html/06001087311410",
+      "gtin": "06001087311410",
+      "checkedAt": "2026-03-12T15:55:33.522Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-garlic-herb-salad-dressing.html/06001087311458",
       "gtin": "06001087311458",
-      "checkedAt": "2026-03-12T15:42:16.855Z"
+      "checkedAt": "2026-03-12T15:55:33.460Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-light-greek-salad-dressing.html/06001087311519",
       "gtin": "06001087311519",
-      "checkedAt": "2026-03-12T15:42:16.954Z"
+      "checkedAt": "2026-03-12T15:55:33.460Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-light-yoghurt-herb-salad-dressing.html/06001087311533",
       "gtin": "06001087311533",
-      "checkedAt": "2026-03-12T15:42:16.215Z"
+      "checkedAt": "2026-03-12T15:55:33.951Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-rich-oxtail-soup.html/06001087359610",
       "gtin": "06001087359610",
-      "checkedAt": "2026-03-12T15:42:16.460Z"
+      "checkedAt": "2026-03-12T15:55:33.568Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-curry-vegetable-soup.html/06001087359634",
       "gtin": "06001087359634",
-      "checkedAt": "2026-03-12T15:42:16.688Z"
+      "checkedAt": "2026-03-12T15:55:33.841Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-beef-onion-soup.html/06001087359658",
       "gtin": "06001087359658",
-      "checkedAt": "2026-03-12T15:42:16.959Z"
+      "checkedAt": "2026-03-12T15:55:33.687Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-tomato-base-dry-cook-in-sauce.html/06001087376464",
       "gtin": "06001087376464",
-      "checkedAt": "2026-03-12T15:42:16.402Z"
+      "checkedAt": "2026-03-12T15:55:33.621Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-mild-breyani-rice-mate.html/06001087376655",
       "gtin": "06001087376655",
-      "checkedAt": "2026-03-12T15:42:16.150Z"
+      "checkedAt": "2026-03-12T15:55:34.075Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-alfredo-pasta-sauce.html/06001089029009",
       "gtin": "06001089029009",
-      "checkedAt": "2026-03-12T15:42:17.029Z"
+      "checkedAt": "2026-03-12T15:55:34.443Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-classic-white-sauce.html/06009001001119",
+      "gtin": "06009001001119",
+      "checkedAt": "2026-03-12T15:55:33.618Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-cheese-instant-sauce.html/06009001001157",
       "gtin": "06009001001157",
-      "checkedAt": "2026-03-12T15:42:17.009Z"
+      "checkedAt": "2026-03-12T15:55:33.886Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-brown-onion-instant-gravy.html/06009001001218",
       "gtin": "06009001001218",
-      "checkedAt": "2026-03-12T15:42:16.468Z"
+      "checkedAt": "2026-03-12T15:55:33.905Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-spaghetti-bolognaise-dry-cook-in-sauce.html/06009001001393",
       "gtin": "06009001001393",
-      "checkedAt": "2026-03-12T15:42:16.973Z"
+      "checkedAt": "2026-03-12T15:55:33.618Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-cheese-vegetable-bake.html/06009001011507",
       "gtin": "06009001011507",
-      "checkedAt": "2026-03-12T15:42:17.068Z"
+      "checkedAt": "2026-03-12T15:55:33.888Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-garlic-herb-potato-bake.html/06009001011569",
       "gtin": "06009001011569",
-      "checkedAt": "2026-03-12T15:42:16.682Z"
+      "checkedAt": "2026-03-12T15:55:33.594Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cheese-bacon-potato-bake.html/06009001011583",
       "gtin": "06009001011583",
-      "checkedAt": "2026-03-12T15:42:16.995Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes.html/00000060013507",
-      "gtin": "00000060013507",
-      "checkedAt": "2026-03-12T15:42:16.362Z"
+      "checkedAt": "2026-03-12T15:55:33.726Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-2ea.html/00000060013521",
       "gtin": "00000060013521",
-      "checkedAt": "2026-03-12T15:42:16.615Z"
+      "checkedAt": "2026-03-12T15:55:33.916Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-noodle-soup.html/06001038001551",
       "gtin": "06001038001551",
-      "checkedAt": "2026-03-12T15:42:16.643Z"
+      "checkedAt": "2026-03-12T15:55:33.850Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cream-of-chicken-soup.html/06001038002152",
       "gtin": "06001038002152",
-      "checkedAt": "2026-03-12T15:42:16.259Z"
+      "checkedAt": "2026-03-12T15:55:34.509Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-rich-beef-tomato-soup.html/06001038009151",
       "gtin": "06001038009151",
-      "checkedAt": "2026-03-12T15:42:16.678Z"
+      "checkedAt": "2026-03-12T15:55:33.736Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-brown-onion-soup.html/06001038009359",
       "gtin": "06001038009359",
-      "checkedAt": "2026-03-12T15:42:16.631Z"
+      "checkedAt": "2026-03-12T15:55:33.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-soup-200g.html/06001038016050",
       "gtin": "06001038016050",
-      "checkedAt": "2026-03-12T15:42:16.776Z"
+      "checkedAt": "2026-03-12T15:55:33.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup.html/06001038016159",
       "gtin": "06001038016159",
-      "checkedAt": "2026-03-12T15:42:16.687Z"
+      "checkedAt": "2026-03-12T15:55:34.010Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup.html/06001038016258",
       "gtin": "06001038016258",
-      "checkedAt": "2026-03-12T15:42:16.831Z"
+      "checkedAt": "2026-03-12T15:55:33.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-200gr.html/06001038016357",
       "gtin": "06001038016357",
-      "checkedAt": "2026-03-12T15:42:16.487Z"
+      "checkedAt": "2026-03-12T15:55:33.653Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soup-200gr.html/06001038016456",
       "gtin": "06001038016456",
-      "checkedAt": "2026-03-12T15:42:23.042Z"
+      "checkedAt": "2026-03-12T15:55:33.777Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup.html/06001038016555",
       "gtin": "06001038016555",
-      "checkedAt": "2026-03-12T15:42:16.863Z"
+      "checkedAt": "2026-03-12T15:55:33.725Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-6ea.html/06001038061753",
       "gtin": "06001038061753",
-      "checkedAt": "2026-03-12T15:42:16.783Z"
+      "checkedAt": "2026-03-12T15:55:33.618Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-6ea.html/06001038061852",
       "gtin": "06001038061852",
-      "checkedAt": "2026-03-12T15:42:17.126Z"
+      "checkedAt": "2026-03-12T15:55:33.406Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-6ea.html/06001038062354",
       "gtin": "06001038062354",
-      "checkedAt": "2026-03-12T15:42:16.536Z"
+      "checkedAt": "2026-03-12T15:55:33.594Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/-knorrox-beef-stock-cubes-12ea.html/06001038062453",
+      "gtin": "06001038062453",
+      "checkedAt": "2026-03-12T15:55:33.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-12ea.html/06001038062552",
       "gtin": "06001038062552",
-      "checkedAt": "2026-03-12T15:42:16.555Z"
+      "checkedAt": "2026-03-12T15:55:33.633Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-12ea.html/06001038062651",
+      "gtin": "06001038062651",
+      "checkedAt": "2026-03-12T15:55:34.492Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-stock-cubes-12ea.html/06001038062750",
       "gtin": "06001038062750",
-      "checkedAt": "2026-03-12T15:42:16.824Z"
+      "checkedAt": "2026-03-12T15:55:34.403Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-chicken-stock-cubes-12ea.html/06001038062859",
       "gtin": "06001038062859",
-      "checkedAt": "2026-03-12T15:42:16.434Z"
+      "checkedAt": "2026-03-12T15:55:33.809Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-stock-cubes-12ea.html/06001038062958",
       "gtin": "06001038062958",
-      "checkedAt": "2026-03-12T15:42:16.841Z"
+      "checkedAt": "2026-03-12T15:55:33.809Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-24ea.html/06001038063054",
       "gtin": "06001038063054",
-      "checkedAt": "2026-03-12T15:42:16.265Z"
+      "checkedAt": "2026-03-12T15:55:34.484Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-24ea.html/06001038063153",
       "gtin": "06001038063153",
-      "checkedAt": "2026-03-12T15:42:16.868Z"
+      "checkedAt": "2026-03-12T15:55:34.299Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-stock-cubes-24ea.html/06001038063252",
       "gtin": "06001038063252",
-      "checkedAt": "2026-03-12T15:42:17.042Z"
+      "checkedAt": "2026-03-12T15:55:34.043Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-stock-cubes-24ea.html/06001038063306",
       "gtin": "06001038063306",
-      "checkedAt": "2026-03-12T15:42:16.131Z"
+      "checkedAt": "2026-03-12T15:55:34.058Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-100gr.html/06001038065157",
       "gtin": "06001038065157",
-      "checkedAt": "2026-03-12T15:42:16.570Z"
+      "checkedAt": "2026-03-12T15:55:33.640Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-100gr.html/06001038065355",
       "gtin": "06001038065355",
-      "checkedAt": "2026-03-12T15:42:17.222Z"
+      "checkedAt": "2026-03-12T15:55:33.364Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-onion-flavoured-soya-mince.html/06001038065553",
       "gtin": "06001038065553",
-      "checkedAt": "2026-03-12T15:42:16.210Z"
+      "checkedAt": "2026-03-12T15:55:34.430Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-200gr.html/06001038066154",
+      "gtin": "06001038066154",
+      "checkedAt": "2026-03-12T15:55:33.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-200gr.html/06001038066352",
       "gtin": "06001038066352",
-      "checkedAt": "2026-03-12T15:42:16.577Z"
+      "checkedAt": "2026-03-12T15:55:33.841Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-seasoning.html/06001038071554",
       "gtin": "06001038071554",
-      "checkedAt": "2026-03-12T15:42:16.442Z"
+      "checkedAt": "2026-03-12T15:55:34.059Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-peri-peri-seasoning.html/06001038071608",
       "gtin": "06001038071608",
-      "checkedAt": "2026-03-12T15:42:16.487Z"
+      "checkedAt": "2026-03-12T15:55:33.634Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-200g.html/06001038071653",
       "gtin": "06001038071653",
-      "checkedAt": "2026-03-12T15:42:16.297Z"
+      "checkedAt": "2026-03-12T15:55:33.738Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-refill-75g.html/06001038072704",
       "gtin": "06001038072704",
-      "checkedAt": "2026-03-12T15:42:16.604Z"
+      "checkedAt": "2026-03-12T15:55:33.647Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-trio-refill-200g.html/06001038073459",
       "gtin": "06001038073459",
-      "checkedAt": "2026-03-12T15:42:16.706Z"
+      "checkedAt": "2026-03-12T15:55:33.832Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-seasoning.html/06001038073503",
       "gtin": "06001038073503",
-      "checkedAt": "2026-03-12T15:42:16.215Z"
+      "checkedAt": "2026-03-12T15:55:34.095Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-all-purpose-seasoning-spice-refill-75g.html/06001038073602",
       "gtin": "06001038073602",
-      "checkedAt": "2026-03-12T15:42:16.676Z"
+      "checkedAt": "2026-03-12T15:55:33.725Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/medium-curry-powder-100g.html/06001038201555",
       "gtin": "06001038201555",
-      "checkedAt": "2026-03-12T15:42:16.556Z"
+      "checkedAt": "2026-03-12T15:55:33.906Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/rajah-mild-spicy-curry-powder-100gr.html/06001038203252",
       "gtin": "06001038203252",
-      "checkedAt": "2026-03-12T15:42:16.442Z"
+      "checkedAt": "2026-03-12T15:55:34.114Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/rajah-hot-curry-powder-100gr.html/06001038204556",
       "gtin": "06001038204556",
-      "checkedAt": "2026-03-12T15:42:17.013Z"
+      "checkedAt": "2026-03-12T15:55:34.856Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-cayenne-pepper.html/06001038221553",
       "gtin": "06001038221553",
-      "checkedAt": "2026-03-12T15:42:16.155Z"
+      "checkedAt": "2026-03-12T15:55:34.002Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-cinnamon.html/06001038222154",
       "gtin": "06001038222154",
-      "checkedAt": "2026-03-12T15:42:16.468Z"
+      "checkedAt": "2026-03-12T15:55:34.002Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-ground-cloves.html/06001038222550",
+      "gtin": "06001038222550",
+      "checkedAt": "2026-03-12T15:55:33.936Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-coriander.html/06001038223151",
       "gtin": "06001038223151",
-      "checkedAt": "2026-03-12T15:42:16.571Z"
+      "checkedAt": "2026-03-12T15:55:33.833Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-ginger.html/06001038223557",
       "gtin": "06001038223557",
-      "checkedAt": "2026-03-12T15:42:16.434Z"
+      "checkedAt": "2026-03-12T15:55:33.926Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-nutmeg.html/06001038225155",
+      "gtin": "06001038225155",
+      "checkedAt": "2026-03-12T15:55:33.926Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-paprika.html/06001038225551",
+      "gtin": "06001038225551",
+      "checkedAt": "2026-03-12T15:55:33.871Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-white-pepper.html/06001038226152",
       "gtin": "06001038226152",
-      "checkedAt": "2026-03-12T15:42:16.478Z"
+      "checkedAt": "2026-03-12T15:55:33.832Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-black-pepper.html/06001038226558",
       "gtin": "06001038226558",
-      "checkedAt": "2026-03-12T15:42:16.962Z"
+      "checkedAt": "2026-03-12T15:55:34.319Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-coarse-black-pepper.html/06001038226657",
       "gtin": "06001038226657",
-      "checkedAt": "2026-03-12T15:42:16.958Z"
+      "checkedAt": "2026-03-12T15:55:33.737Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-tumeric.html/06001038227555",
       "gtin": "06001038227555",
-      "checkedAt": "2026-03-12T15:42:22.895Z"
+      "checkedAt": "2026-03-12T15:55:33.847Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-origanum-herbs.html/06001038232559",
       "gtin": "06001038232559",
-      "checkedAt": "2026-03-12T15:42:16.748Z"
+      "checkedAt": "2026-03-12T15:55:33.887Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-parsley.html/06001038233150",
       "gtin": "06001038233150",
-      "checkedAt": "2026-03-12T15:42:16.991Z"
+      "checkedAt": "2026-03-12T15:55:33.981Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-rosemary.html/06001038233556",
       "gtin": "06001038233556",
-      "checkedAt": "2026-03-12T15:42:16.895Z"
+      "checkedAt": "2026-03-12T15:55:33.757Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-thyme.html/06001038236151",
       "gtin": "06001038236151",
-      "checkedAt": "2026-03-12T15:42:16.402Z"
+      "checkedAt": "2026-03-12T15:55:33.723Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-black-peppercorn-refill.html/06001038246150",
       "gtin": "06001038246150",
-      "checkedAt": "2026-03-12T15:42:16.623Z"
+      "checkedAt": "2026-03-12T15:55:33.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-peppercorn-grinder.html/06001038246600",
       "gtin": "06001038246600",
-      "checkedAt": "2026-03-12T15:42:16.997Z"
+      "checkedAt": "2026-03-12T15:55:34.290Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-meat-tenderiser.html/06001038261153",
       "gtin": "06001038261153",
-      "checkedAt": "2026-03-12T15:42:24.625Z"
+      "checkedAt": "2026-03-12T15:55:41.713Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-barbecue-spice.html/06001038261559",
       "gtin": "06001038261559",
-      "checkedAt": "2026-03-12T15:42:24.574Z"
+      "checkedAt": "2026-03-12T15:55:41.908Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-peri-peri.html/06001038262150",
       "gtin": "06001038262150",
-      "checkedAt": "2026-03-12T15:42:24.574Z"
+      "checkedAt": "2026-03-12T15:55:41.977Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-garlic-flakes.html/06001038271558",
       "gtin": "06001038271558",
-      "checkedAt": "2026-03-12T15:42:24.669Z"
+      "checkedAt": "2026-03-12T15:55:41.838Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-garlic-salt.html/06001038272159",
       "gtin": "06001038272159",
-      "checkedAt": "2026-03-12T15:42:24.718Z"
+      "checkedAt": "2026-03-12T15:55:41.811Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-salt-and-vinegar-seasoning.html/06001038272555",
+      "gtin": "06001038272555",
+      "checkedAt": "2026-03-12T15:55:41.769Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-chicken-spice.html/06001038275150",
       "gtin": "06001038275150",
-      "checkedAt": "2026-03-12T15:42:24.374Z"
+      "checkedAt": "2026-03-12T15:55:41.593Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-lemon-pepper.html/06001038275556",
       "gtin": "06001038275556",
-      "checkedAt": "2026-03-12T15:42:25.104Z"
+      "checkedAt": "2026-03-12T15:55:42.232Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-fish-spice.html/06001038276157",
       "gtin": "06001038276157",
-      "checkedAt": "2026-03-12T15:42:24.327Z"
+      "checkedAt": "2026-03-12T15:55:41.860Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-italian-herbs.html/06001038276959",
       "gtin": "06001038276959",
-      "checkedAt": "2026-03-12T15:42:24.357Z"
+      "checkedAt": "2026-03-12T15:55:42.030Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-portuguese-chicken-spice.html/06001038277208",
       "gtin": "06001038277208",
-      "checkedAt": "2026-03-12T15:42:24.696Z"
+      "checkedAt": "2026-03-12T15:55:41.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-spice-for-rice.html/06001038283551",
       "gtin": "06001038283551",
-      "checkedAt": "2026-03-12T15:42:24.357Z"
+      "checkedAt": "2026-03-12T15:55:41.524Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-144ea.html/06001087000642",
       "gtin": "06001087000642",
-      "checkedAt": "2026-03-12T15:42:24.601Z"
+      "checkedAt": "2026-03-12T15:55:41.843Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-beef-2in1-stew-mix-with-robertsons-barbecue-spice.html/06001087005791",
       "gtin": "06001087005791",
-      "checkedAt": "2026-03-12T15:42:24.497Z"
+      "checkedAt": "2026-03-12T15:55:42.208Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-chicken-and-onion-2in1-stew-mix-with-robertsons-rosemary.html/06001087005807",
       "gtin": "06001087005807",
-      "checkedAt": "2026-03-12T15:42:24.581Z"
+      "checkedAt": "2026-03-12T15:55:42.008Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-brown-onion-soup-2in1-stew-mix-with-robertsons-mixed-herbs.html/06001087005814",
       "gtin": "06001087005814",
-      "checkedAt": "2026-03-12T15:42:24.666Z"
+      "checkedAt": "2026-03-12T15:55:41.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-all-purpose-seasoning-spice-refill-75g.html/06001087006842",
+      "gtin": "06001087006842",
+      "checkedAt": "2026-03-12T15:55:41.841Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-all-purpose-seasoning-spice-refill-200g.html/06001087006859",
       "gtin": "06001087006859",
-      "checkedAt": "2026-03-12T15:42:24.613Z"
+      "checkedAt": "2026-03-12T15:55:42.151Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-seasoning.html/06001087006866",
+      "gtin": "06001087006866",
+      "checkedAt": "2026-03-12T15:55:41.905Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-spicy-roast-chicken-cook-in-bags.html/06001087009522",
+      "gtin": "06001087009522",
+      "checkedAt": "2026-03-12T15:55:41.936Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-beef-stock-pot.html/06001087011327",
       "gtin": "06001087011327",
-      "checkedAt": "2026-03-12T15:42:24.224Z"
+      "checkedAt": "2026-03-12T15:55:41.867Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-stock-pot.html/06001087011334",
       "gtin": "06001087011334",
-      "checkedAt": "2026-03-12T15:42:31.555Z"
+      "checkedAt": "2026-03-12T15:55:41.585Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-veg-stock-pot.html/06001087011341",
       "gtin": "06001087011341",
-      "checkedAt": "2026-03-12T15:42:24.787Z"
+      "checkedAt": "2026-03-12T15:55:42.168Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-sticky-chicken-wings-cook-in-bag.html/06001087013024",
+      "gtin": "06001087013024",
+      "checkedAt": "2026-03-12T15:55:42.026Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-three-cheese-sauce.html/06001087300445",
+      "gtin": "06001087300445",
+      "checkedAt": "2026-03-12T15:55:41.738Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-mushroom-dry-cook-in-sauce.html/06001087300506",
       "gtin": "06001087300506",
-      "checkedAt": "2026-03-12T15:42:25.116Z"
+      "checkedAt": "2026-03-12T15:55:42.259Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-curry-stock-cubes-12ea.html/06001087300971",
+      "gtin": "06001087300971",
+      "checkedAt": "2026-03-12T15:55:42.376Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-curry-stock-cubes-24ea.html/06001087300995",
       "gtin": "06001087300995",
-      "checkedAt": "2026-03-12T15:42:24.537Z"
+      "checkedAt": "2026-03-12T15:55:42.251Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lamb-and-vegetable-instant-soup.html/06001087302715",
       "gtin": "06001087302715",
-      "checkedAt": "2026-03-12T15:42:24.224Z"
+      "checkedAt": "2026-03-12T15:55:41.627Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-crushed-chilli.html/06001087303613",
       "gtin": "06001087303613",
-      "checkedAt": "2026-03-12T15:42:24.851Z"
+      "checkedAt": "2026-03-12T15:55:41.601Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-ground-cumin.html/06001087303637",
       "gtin": "06001087303637",
-      "checkedAt": "2026-03-12T15:42:24.375Z"
+      "checkedAt": "2026-03-12T15:55:41.722Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-400gr-bag.html/06001087306508",
+      "gtin": "06001087306508",
+      "checkedAt": "2026-03-12T15:55:41.908Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-soup-400g.html/06001087306522",
+      "gtin": "06001087306522",
+      "checkedAt": "2026-03-12T15:55:41.607Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-savoury-soya-mince-400gr.html/06001087306546",
       "gtin": "06001087306546",
-      "checkedAt": "2026-03-12T15:42:24.966Z"
+      "checkedAt": "2026-03-12T15:55:41.962Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-400gr.html/06001087306560",
       "gtin": "06001087306560",
-      "checkedAt": "2026-03-12T15:42:24.911Z"
+      "checkedAt": "2026-03-12T15:55:41.907Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-bag.html/06001087307109",
+      "gtin": "06001087307109",
+      "checkedAt": "2026-03-12T15:55:42.403Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soya-mince-400gr.html/06001087307147",
       "gtin": "06001087307147",
-      "checkedAt": "2026-03-12T15:42:31.556Z"
+      "checkedAt": "2026-03-12T15:55:41.917Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-tomato-onion-soya-mince-400gr.html/06001087307161",
       "gtin": "06001087307161",
-      "checkedAt": "2026-03-12T15:42:25.078Z"
+      "checkedAt": "2026-03-12T15:55:41.738Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-hearty-beef-2in1-stew-mix-with-robertsons-steak-&-chops-spice.html/06001087308038",
       "gtin": "06001087308038",
-      "checkedAt": "2026-03-12T15:42:30.101Z"
+      "checkedAt": "2026-03-12T15:55:42.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-chicken-2in1-stew-mix-with-robertsons-chicken-spice.html/06001087308076",
+      "gtin": "06001087308076",
+      "checkedAt": "2026-03-12T15:55:42.083Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-italian-salad-dressing.html/06001087309103",
       "gtin": "06001087309103",
-      "checkedAt": "2026-03-12T15:42:24.486Z"
+      "checkedAt": "2026-03-12T15:55:41.907Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-blue-cheese-salad-dressing.html/06001087309127",
       "gtin": "06001087309127",
-      "checkedAt": "2026-03-12T15:42:24.697Z"
+      "checkedAt": "2026-03-12T15:55:41.713Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-ranch-salad-dressing.html/06001087309141",
+      "gtin": "06001087309141",
+      "checkedAt": "2026-03-12T15:55:42.509Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-sweet-chilli-salad-dressing.html/06001087309165",
       "gtin": "06001087309165",
-      "checkedAt": "2026-03-12T15:42:31.504Z"
+      "checkedAt": "2026-03-12T15:55:41.736Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-1000-island-salad-dressing.html/06001087309189",
       "gtin": "06001087309189",
-      "checkedAt": "2026-03-12T15:42:24.436Z"
+      "checkedAt": "2026-03-12T15:55:41.754Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-italian-salad-dressing.html/06001087311199",
       "gtin": "06001087311199",
-      "checkedAt": "2026-03-12T15:42:25.015Z"
+      "checkedAt": "2026-03-12T15:55:41.528Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-greek-salad-dressing.html/06001087311434",
       "gtin": "06001087311434",
-      "checkedAt": "2026-03-12T15:42:25.069Z"
+      "checkedAt": "2026-03-12T15:55:41.601Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-light-italian-salad-dressing.html/06001087311472",
       "gtin": "06001087311472",
-      "checkedAt": "2026-03-12T15:42:24.933Z"
+      "checkedAt": "2026-03-12T15:55:41.910Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-light-french-salad-dressing.html/06001087311496",
       "gtin": "06001087311496",
-      "checkedAt": "2026-03-12T15:42:24.436Z"
+      "checkedAt": "2026-03-12T15:55:41.842Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-chilli-beef-all-purpose-seasoning-spice-refill-200g.html/06001087311762",
       "gtin": "06001087311762",
-      "checkedAt": "2026-03-12T15:42:25.101Z"
+      "checkedAt": "2026-03-12T15:55:41.805Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-36ea.html/06001087352307",
+      "gtin": "06001087352307",
+      "checkedAt": "2026-03-12T15:55:41.940Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes-36ea.html/06001087352314",
       "gtin": "06001087352314",
-      "checkedAt": "2026-03-12T15:42:24.755Z"
+      "checkedAt": "2026-03-12T15:55:41.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cream-of-tomato-soup.html/06001087353144",
       "gtin": "06001087353144",
-      "checkedAt": "2026-03-12T15:42:25.048Z"
+      "checkedAt": "2026-03-12T15:55:42.553Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cream-of-mushroom-soup.html/06001087353151",
       "gtin": "06001087353151",
-      "checkedAt": "2026-03-12T15:42:24.581Z"
+      "checkedAt": "2026-03-12T15:55:41.713Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-minestrone-soup-200g.html/06001087356046",
+      "gtin": "06001087356046",
+      "checkedAt": "2026-03-12T15:55:42.372Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/rajah-flavourful-mild-curry-powder-100gr.html/06001087357722",
       "gtin": "06001087357722",
-      "checkedAt": "2026-03-12T15:42:24.991Z"
+      "checkedAt": "2026-03-12T15:55:42.432Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/masterblends-rustic-garlic-herb.html/06001087358286",
       "gtin": "06001087358286",
-      "checkedAt": "2026-03-12T15:42:25.041Z"
+      "checkedAt": "2026-03-12T15:55:42.068Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-aromatic-roast-potato.html/06001087358293",
       "gtin": "06001087358293",
-      "checkedAt": "2026-03-12T15:42:24.572Z"
+      "checkedAt": "2026-03-12T15:55:41.897Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-rosemary-and-garlic.html/06001087358309",
+      "gtin": "06001087358309",
+      "checkedAt": "2026-03-12T15:55:41.794Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-zesty-lemon-and-herb-spice-blend-200ml.html/06001087358316",
       "gtin": "06001087358316",
-      "checkedAt": "2026-03-12T15:42:24.809Z"
+      "checkedAt": "2026-03-12T15:55:42.205Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-spicy-shisanyama.html/06001087358323",
       "gtin": "06001087358323",
-      "checkedAt": "2026-03-12T15:42:24.768Z"
+      "checkedAt": "2026-03-12T15:55:41.926Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-traditional-braai-mix.html/06001087358330",
+      "gtin": "06001087358330",
+      "checkedAt": "2026-03-12T15:55:41.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-144ea.html/06001087358422",
       "gtin": "06001087358422",
-      "checkedAt": "2026-03-12T15:42:24.574Z"
+      "checkedAt": "2026-03-12T15:55:42.420Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-thick-white-onion-soup.html/06001087359559",
       "gtin": "06001087359559",
-      "checkedAt": "2026-03-12T15:42:24.347Z"
+      "checkedAt": "2026-03-12T15:55:42.213Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-hearty-beef-soup.html/06001087359566",
+      "gtin": "06001087359566",
+      "checkedAt": "2026-03-12T15:55:41.968Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-thick-vegetable-soup.html/06001087359573",
       "gtin": "06001087359573",
-      "checkedAt": "2026-03-12T15:42:24.651Z"
+      "checkedAt": "2026-03-12T15:55:42.104Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-chakalaka-soup.html/06001087359580",
       "gtin": "06001087359580",
-      "checkedAt": "2026-03-12T15:42:24.884Z"
+      "checkedAt": "2026-03-12T15:55:41.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-minestrone-soup.html/06001087359597",
       "gtin": "06001087359597",
-      "checkedAt": "2026-03-12T15:42:24.486Z"
+      "checkedAt": "2026-03-12T15:55:41.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-oxtail-vegetable-soup.html/06001087359603",
       "gtin": "06001087359603",
-      "checkedAt": "2026-03-12T15:42:25.050Z"
+      "checkedAt": "2026-03-12T15:55:42.031Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-chilli-beef-vegetable-soup.html/06001087359627",
       "gtin": "06001087359627",
-      "checkedAt": "2026-03-12T15:42:24.759Z"
+      "checkedAt": "2026-03-12T15:55:41.799Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-mutton-vegetable-soup.html/06001087359641",
       "gtin": "06001087359641",
-      "checkedAt": "2026-03-12T15:42:24.572Z"
+      "checkedAt": "2026-03-12T15:55:42.109Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/hellmanns-original-mayonnaise-394g.html/06001087364522",
       "gtin": "06001087364522",
-      "checkedAt": "2026-03-12T15:42:25.138Z"
+      "checkedAt": "2026-03-12T15:55:42.053Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/hellmanns-original-mayonnaise-789g.html/06001087364539",
       "gtin": "06001087364539",
-      "checkedAt": "2026-03-12T15:42:24.560Z"
+      "checkedAt": "2026-03-12T15:55:41.894Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-750gr.html/06001087368759",
+      "gtin": "06001087368759",
+      "checkedAt": "2026-03-12T15:55:41.941Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-soup-750g.html/06001087368766",
       "gtin": "06001087368766",
-      "checkedAt": "2026-03-12T15:42:25.135Z"
+      "checkedAt": "2026-03-12T15:55:41.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-mutton-soup-750gr.html/06001087368773",
       "gtin": "06001087368773",
-      "checkedAt": "2026-03-12T15:42:25.048Z"
+      "checkedAt": "2026-03-12T15:55:41.724Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-750gr-bag.html/06001087368780",
       "gtin": "06001087368780",
-      "checkedAt": "2026-03-12T15:42:25.585Z"
+      "checkedAt": "2026-03-12T15:55:41.789Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-naturally-tasty-seasoning.html/06001087374767",
       "gtin": "06001087374767",
-      "checkedAt": "2026-03-12T15:42:24.537Z"
+      "checkedAt": "2026-03-12T15:55:41.595Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-tomato-onion-stock-cube-120gr.html/06001087375634",
+      "gtin": "06001087375634",
+      "checkedAt": "2026-03-12T15:55:41.840Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-curry-vegetable-stock-cube-120gr.html/06001087375641",
       "gtin": "06001087375641",
-      "checkedAt": "2026-03-12T15:42:24.427Z"
+      "checkedAt": "2026-03-12T15:55:41.770Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-a-la-king-dry-cook-in-sauce.html/06001087376419",
       "gtin": "06001087376419",
-      "checkedAt": "2026-03-12T15:42:32.404Z"
+      "checkedAt": "2026-03-12T15:55:42.929Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-beef-stroganoff-dry-cook-in-sauce.html/06001087376426",
       "gtin": "06001087376426",
-      "checkedAt": "2026-03-12T15:42:32.678Z"
+      "checkedAt": "2026-03-12T15:55:43.172Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-country-beef-stew-cook-in-sauce.html/06001087376433",
       "gtin": "06001087376433",
-      "checkedAt": "2026-03-12T15:42:32.582Z"
+      "checkedAt": "2026-03-12T15:55:42.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-fruit-chutney-flavour-curry-sauce-mince-mate-230g.html/06001087376679",
+      "gtin": "06001087376679",
+      "checkedAt": "2026-03-12T15:55:43.253Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-three-cheese-mincemate.html/06001087376686",
       "gtin": "06001087376686",
-      "checkedAt": "2026-03-12T15:42:32.522Z"
+      "checkedAt": "2026-03-12T15:55:42.758Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-mince-lasagne-mate.html/06001087376693",
       "gtin": "06001087376693",
-      "checkedAt": "2026-03-12T15:42:32.380Z"
+      "checkedAt": "2026-03-12T15:55:43.134Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-chicken-lasagne-mate-295g.html/06001087376709",
       "gtin": "06001087376709",
-      "checkedAt": "2026-03-12T15:42:32.380Z"
+      "checkedAt": "2026-03-12T15:55:43.053Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-boloroni-mince-mate.html/06001087376716",
       "gtin": "06001087376716",
-      "checkedAt": "2026-03-12T15:42:32.456Z"
+      "checkedAt": "2026-03-12T15:55:42.853Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-cheesy-noodle-mince-mate.html/06001087376723",
       "gtin": "06001087376723",
-      "checkedAt": "2026-03-12T15:42:32.456Z"
+      "checkedAt": "2026-03-12T15:55:42.819Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/rajah-masala-curry-powder-100gr.html/06001087377041",
       "gtin": "06001087377041",
-      "checkedAt": "2026-03-12T15:42:32.947Z"
+      "checkedAt": "2026-03-12T15:55:42.955Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup-bag.html/06001087377799",
       "gtin": "06001087377799",
-      "checkedAt": "2026-03-12T15:42:32.986Z"
+      "checkedAt": "2026-03-12T15:55:43.079Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup-bag.html/06001087377805",
       "gtin": "06001087377805",
-      "checkedAt": "2026-03-12T15:42:32.822Z"
+      "checkedAt": "2026-03-12T15:55:43.128Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-minestrone-soup-bag.html/06001087377812",
       "gtin": "06001087377812",
-      "checkedAt": "2026-03-12T15:42:32.846Z"
+      "checkedAt": "2026-03-12T15:55:42.880Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-spicy-chicken-soup-750gr-bag.html/06001087377829",
       "gtin": "06001087377829",
-      "checkedAt": "2026-03-12T15:42:32.643Z"
+      "checkedAt": "2026-03-12T15:55:43.078Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-original-all-purpose-seasoning-spice-450g.html/06001087382182",
       "gtin": "06001087382182",
-      "checkedAt": "2026-03-12T15:42:32.770Z"
+      "checkedAt": "2026-03-12T15:55:42.955Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-barbeque-spice.html/06001087385213",
       "gtin": "06001087385213",
-      "checkedAt": "2026-03-12T15:42:32.620Z"
+      "checkedAt": "2026-03-12T15:55:43.288Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-spice-175-gr.html/06001087385220",
       "gtin": "06001087385220",
-      "checkedAt": "2026-03-12T15:42:32.626Z"
+      "checkedAt": "2026-03-12T15:55:42.954Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-all-in-one-spice-350gr.html/06001087385237",
       "gtin": "06001087385237",
-      "checkedAt": "2026-03-12T15:42:32.678Z"
+      "checkedAt": "2026-03-12T15:55:43.153Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-all-in-one-spice-175-gr.html/06001087385244",
       "gtin": "06001087385244",
-      "checkedAt": "2026-03-12T15:42:32.522Z"
+      "checkedAt": "2026-03-12T15:55:43.045Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-barbeque-spice-175g.html/06001087385251",
       "gtin": "06001087385251",
-      "checkedAt": "2026-03-12T15:42:32.855Z"
+      "checkedAt": "2026-03-12T15:55:43.102Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-chicken-spice-350gr.html/06001087385268",
       "gtin": "06001087385268",
-      "checkedAt": "2026-03-12T15:42:32.960Z"
+      "checkedAt": "2026-03-12T15:55:43.007Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388733",
       "gtin": "06001087388733",
-      "checkedAt": "2026-03-12T15:42:32.881Z"
+      "checkedAt": "2026-03-12T15:55:42.894Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388740",
       "gtin": "06001087388740",
-      "checkedAt": "2026-03-12T15:42:39.865Z"
+      "checkedAt": "2026-03-12T15:55:43.119Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-boerewors-flavoured-soya-mince.html/06001087388757",
       "gtin": "06001087388757",
-      "checkedAt": "2026-03-12T15:42:32.811Z"
+      "checkedAt": "2026-03-12T15:55:42.991Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-braai-grill-all-in-one.html/06001087389082",
       "gtin": "06001087389082",
-      "checkedAt": "2026-03-12T15:42:32.671Z"
+      "checkedAt": "2026-03-12T15:55:42.887Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-braai-grill-spicy-bbq.html/06001087389099",
       "gtin": "06001087389099",
-      "checkedAt": "2026-03-12T15:42:32.520Z"
+      "checkedAt": "2026-03-12T15:55:42.961Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-vegetable-curry-flavoured-stock-powder.html/06001087389754",
       "gtin": "06001087389754",
-      "checkedAt": "2026-03-12T15:42:32.444Z"
+      "checkedAt": "2026-03-12T15:55:43.009Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-garlic-onion-flavoured-stock-powder.html/06001087389761",
       "gtin": "06001087389761",
-      "checkedAt": "2026-03-12T15:42:32.556Z"
+      "checkedAt": "2026-03-12T15:55:43.076Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-flavoured-stock-powder.html/06001087389778",
       "gtin": "06001087389778",
-      "checkedAt": "2026-03-12T15:42:32.909Z"
+      "checkedAt": "2026-03-12T15:55:42.887Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-greek-salad-dressing-with-moringa.html/06001087393676",
+      "gtin": "06001087393676",
+      "checkedAt": "2026-03-12T15:55:43.016Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-flavoured-stock-powder-22gr.html/06001087401784",
       "gtin": "06001087401784",
-      "checkedAt": "2026-03-12T15:42:32.627Z"
+      "checkedAt": "2026-03-12T15:55:43.537Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorrox-garlic-onion-flavoured-stock-powder-22gr.html/06001087401791",
       "gtin": "06001087401791",
-      "checkedAt": "2026-03-12T15:42:32.409Z"
+      "checkedAt": "2026-03-12T15:55:43.246Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-smokey-bacon-cheddar-mince-mate.html/06001089000626",
       "gtin": "06001089000626",
-      "checkedAt": "2026-03-12T15:42:32.265Z"
+      "checkedAt": "2026-03-12T15:55:43.284Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-chicken-and-mushroom.html/06001089001104",
       "gtin": "06001089001104",
-      "checkedAt": "2026-03-12T15:42:32.773Z"
+      "checkedAt": "2026-03-12T15:55:43.572Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-tomato.html/06001089025704",
+      "gtin": "06001089025704",
+      "checkedAt": "2026-03-12T15:55:43.007Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-chicken-noodle-instant-soup.html/06001089025711",
       "gtin": "06001089025711",
-      "checkedAt": "2026-03-12T15:42:39.174Z"
+      "checkedAt": "2026-03-12T15:55:43.035Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-hearty-beef-instant-soup.html/06001089025735",
       "gtin": "06001089025735",
-      "checkedAt": "2026-03-12T15:42:32.348Z"
+      "checkedAt": "2026-03-12T15:55:42.993Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-beef-and-vegetable.html/06001089025742",
       "gtin": "06001089025742",
-      "checkedAt": "2026-03-12T15:42:32.481Z"
+      "checkedAt": "2026-03-12T15:55:42.910Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-country-vegetable.html/06001089025780",
       "gtin": "06001089025780",
-      "checkedAt": "2026-03-12T15:42:32.560Z"
+      "checkedAt": "2026-03-12T15:55:42.928Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-mushroom.html/06001089025797",
+      "gtin": "06001089025797",
+      "checkedAt": "2026-03-12T15:55:43.299Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-chicken-and-herb-instant-soup.html/06001089026619",
+      "gtin": "06001089026619",
+      "checkedAt": "2026-03-12T15:55:43.002Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-beef-and-vegetable-instant-soup.html/06001089026633",
       "gtin": "06001089026633",
-      "checkedAt": "2026-03-12T15:42:33.064Z"
+      "checkedAt": "2026-03-12T15:55:42.992Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-mushroom-sauce.html/06009001001133",
       "gtin": "06009001001133",
-      "checkedAt": "2026-03-12T15:42:32.632Z"
+      "checkedAt": "2026-03-12T15:55:42.891Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-roast-meat-instant-gravy.html/06009001001256",
       "gtin": "06009001001256",
-      "checkedAt": "2026-03-12T15:42:32.846Z"
+      "checkedAt": "2026-03-12T15:55:42.908Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-savoury-mince-dry-cook-in-sauce.html/06009001001454",
       "gtin": "06009001001454",
-      "checkedAt": "2026-03-12T15:42:32.675Z"
+      "checkedAt": "2026-03-12T15:55:43.026Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/robertsons-crushed-garlic.html/06009001003717",
       "gtin": "06009001003717",
-      "checkedAt": "2026-03-12T15:42:32.563Z"
+      "checkedAt": "2026-03-12T15:55:42.915Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/knorr-roasted-vegetable-bake.html/06009001011545",
       "gtin": "06009001011545",
-      "checkedAt": "2026-03-12T15:42:32.867Z"
+      "checkedAt": "2026-03-12T15:55:43.014Z"
     },
     {
       "type": "successful",
       "url": "https://www.whatsfordinner.co.za/p/rajah-all-in-one-curry-powder-100gr.html/06009001015864",
       "gtin": "06009001015864",
-      "checkedAt": "2026-03-12T15:42:32.920Z"
+      "checkedAt": "2026-03-12T15:55:42.853Z"
     }
   ],
-  "errors": 32,
-  "duration": "24.62s",
-  "speedMetrics": "8.45 URLs/second",
+  "errors": 1,
+  "duration": "10.77s",
+  "speedMetrics": "19.31 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-honey-mustard-salad-dressing.html/06001087311410",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:21.143Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-classic-white-sauce.html/06009001001119",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-classic-white-sauce.html/06009001001119 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:23.734Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/-knorrox-beef-stock-cubes-12ea.html/06001038062453",
-      "error": "request to https://www.whatsfordinner.co.za/p/-knorrox-beef-stock-cubes-12ea.html/06001038062453 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:23.788Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-12ea.html/06001038062651",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-12ea.html/06001038062651 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:23.828Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soya-mince-200gr.html/06001038066154",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:20.831Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/robertsons-ground-cloves.html/06001038222550",
-      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-ground-cloves.html/06001038222550 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:23.867Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/robertsons-nutmeg.html/06001038225155",
-      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-nutmeg.html/06001038225155 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:23.868Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/robertsons-paprika.html/06001038225551",
-      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-paprika.html/06001038225551 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:23.868Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/robertsons-salt-and-vinegar-seasoning.html/06001038272555",
-      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-salt-and-vinegar-seasoning.html/06001038272555 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.006Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-all-purpose-seasoning-spice-refill-75g.html/06001087006842",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:26.465Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-seasoning.html/06001087006866",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-aromat-cheese-seasoning.html/06001087006866 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.007Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-spicy-roast-chicken-cook-in-bags.html/06001087009522",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-spicy-roast-chicken-cook-in-bags.html/06001087009522 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.007Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-sticky-chicken-wings-cook-in-bag.html/06001087013024",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-sticky-chicken-wings-cook-in-bag.html/06001087013024 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.007Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-three-cheese-sauce.html/06001087300445",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-three-cheese-sauce.html/06001087300445 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.008Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-curry-stock-cubes-12ea.html/06001087300971",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-curry-stock-cubes-12ea.html/06001087300971 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.008Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-400gr-bag.html/06001087306508",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-400gr-bag.html/06001087306508 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.008Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-soup-400g.html/06001087306522",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-soup-400g.html/06001087306522 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.008Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-bag.html/06001087307109",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-oxtail-soup-bag.html/06001087307109 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.008Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-chicken-2in1-stew-mix-with-robertsons-chicken-spice.html/06001087308076",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-tasty-chicken-2in1-stew-mix-with-robertsons-chicken-spice.html/06001087308076 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.009Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-creamy-ranch-salad-dressing.html/06001087309141",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-creamy-ranch-salad-dressing.html/06001087309141 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.009Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-36ea.html/06001087352307",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-stock-cubes-36ea.html/06001087352307 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.037Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-minestrone-soup-200g.html/06001087356046",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-minestrone-soup-200g.html/06001087356046 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.037Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-rosemary-and-garlic.html/06001087358309",
-      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-masterblends-rosemary-and-garlic.html/06001087358309 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.037Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/robertsons-masterblends-traditional-braai-mix.html/06001087358330",
-      "error": "request to https://www.whatsfordinner.co.za/p/robertsons-masterblends-traditional-braai-mix.html/06001087358330 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.036Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-tasty-hearty-beef-soup.html/06001087359566",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-tasty-hearty-beef-soup.html/06001087359566 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.036Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-750gr.html/06001087368759",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-chilli-beef-soup-750gr.html/06001087368759 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.061Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorrox-tomato-onion-stock-cube-120gr.html/06001087375634",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-tomato-onion-stock-cube-120gr.html/06001087375634 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:32.061Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-fruit-chutney-flavour-curry-sauce-mince-mate-230g.html/06001087376679",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-fruit-chutney-flavour-curry-sauce-mince-mate-230g.html/06001087376679 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:40.097Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-greek-salad-dressing-with-moringa.html/06001087393676",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-greek-salad-dressing-with-moringa.html/06001087393676 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:40.142Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-tomato.html/06001089025704",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-tomato.html/06001089025704 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:40.171Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-mushroom.html/06001089025797",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-creamy-mushroom.html/06001089025797 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:40.172Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-chicken-and-herb-instant-soup.html/06001089026619",
-      "error": "request to https://www.whatsfordinner.co.za/p/knorr-cup-a-soup-lite-chicken-and-herb-instant-soup.html/06001089026619 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:40.171Z"
+      "url": "https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes.html/00000060013507",
+      "error": "request to https://www.whatsfordinner.co.za/p/knorrox-beef-stock-cubes.html/00000060013507 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:41.061Z"
     }
   ]
 }

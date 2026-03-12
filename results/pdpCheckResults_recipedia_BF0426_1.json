@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:43:05.667Z",
+  "generatedAt": "2026-03-12T15:56:26.759Z",
   "brand": "recipedia",
   "assortmentCode": "BF0426",
   "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
@@ -10,498 +10,499 @@
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/delmaiz-fecula-de-maiz-90g.html/00000000575231",
       "gtin": "00000000575231",
-      "checkedAt": "2026-03-12T15:43:05.395Z"
+      "checkedAt": "2026-03-12T15:56:19.169Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/rinde-mas-de-knorr.html/00000040213675",
       "gtin": "00000040213675",
-      "checkedAt": "2026-03-12T15:43:04.890Z"
+      "checkedAt": "2026-03-12T15:56:19.824Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-4-cereales-con-vitaminas-y-minerales-200g.html/00000068302642",
       "gtin": "00000068302642",
-      "checkedAt": "2026-03-12T15:43:05.213Z"
+      "checkedAt": "2026-03-12T15:56:18.750Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-200g.html/00000068302643",
       "gtin": "00000068302643",
-      "checkedAt": "2026-03-12T15:43:05.144Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-28g.html/00000068302644",
-      "gtin": "00000068302644",
-      "checkedAt": "2026-03-12T15:43:05.261Z"
+      "checkedAt": "2026-03-12T15:56:19.421Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-colada-de-fresa-con-vitaminas-y-minerales-28g.html/00000068302647",
       "gtin": "00000068302647",
-      "checkedAt": "2026-03-12T15:43:05.395Z"
+      "checkedAt": "2026-03-12T15:56:19.752Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-yucarina-300g.html/07702047001424",
       "gtin": "07702047001424",
-      "checkedAt": "2026-03-12T15:43:05.144Z"
+      "checkedAt": "2026-03-12T15:56:19.902Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-aj%C3%AD-fruco.html/07702047001745",
       "gtin": "07702047001745",
-      "checkedAt": "2026-03-12T15:43:04.441Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/salsa-china-fruco.html/07702047001769",
-      "gtin": "07702047001769",
-      "checkedAt": "2026-03-12T15:43:05.077Z"
+      "checkedAt": "2026-03-12T15:56:19.739Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-soya-fruco.html/07702047001851",
       "gtin": "07702047001851",
-      "checkedAt": "2026-03-12T15:43:04.790Z"
+      "checkedAt": "2026-03-12T15:56:19.633Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-para-carnes-fruco-156ml.html/07702047003138",
       "gtin": "07702047003138",
-      "checkedAt": "2026-03-12T15:43:05.079Z"
+      "checkedAt": "2026-03-12T15:56:19.784Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-90g.html/07702047003466",
       "gtin": "07702047003466",
-      "checkedAt": "2026-03-12T15:43:05.078Z"
+      "checkedAt": "2026-03-12T15:56:19.058Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-380g.html/07702047003497",
       "gtin": "07702047003497",
-      "checkedAt": "2026-03-12T15:43:05.069Z"
+      "checkedAt": "2026-03-12T15:56:20.066Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-bunuelos-800g.html/07702047003510",
       "gtin": "07702047003510",
-      "checkedAt": "2026-03-12T15:43:05.323Z"
+      "checkedAt": "2026-03-12T15:56:19.702Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-natilla-arequipe-300g.html/07702047005095",
       "gtin": "07702047005095",
-      "checkedAt": "2026-03-12T15:43:05.395Z"
+      "checkedAt": "2026-03-12T15:56:19.397Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-natilla-coco-300g.html/07702047005248",
       "gtin": "07702047005248",
-      "checkedAt": "2026-03-12T15:43:04.926Z"
+      "checkedAt": "2026-03-12T15:56:19.739Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047005330",
       "gtin": "07702047005330",
-      "checkedAt": "2026-03-12T15:43:04.942Z"
+      "checkedAt": "2026-03-12T15:56:19.205Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047015735",
       "gtin": "07702047015735",
-      "checkedAt": "2026-03-12T15:43:05.355Z"
+      "checkedAt": "2026-03-12T15:56:19.793Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047016824",
       "gtin": "07702047016824",
-      "checkedAt": "2026-03-12T15:43:04.788Z"
+      "checkedAt": "2026-03-12T15:56:19.900Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-mostaza-fruco.html/07702047021934",
       "gtin": "07702047021934",
-      "checkedAt": "2026-03-12T15:43:04.883Z"
+      "checkedAt": "2026-03-12T15:56:19.689Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-para-carnes-fruco.html/07702047022078",
       "gtin": "07702047022078",
-      "checkedAt": "2026-03-12T15:43:04.995Z"
+      "checkedAt": "2026-03-12T15:56:18.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-3-89-kg.html/07702047025598",
       "gtin": "07702047025598",
-      "checkedAt": "2026-03-12T15:43:05.270Z"
+      "checkedAt": "2026-03-12T15:56:19.786Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/pasta-de-tomate-fruco.html/07702047028247",
       "gtin": "07702047028247",
-      "checkedAt": "2026-03-12T15:43:05.075Z"
+      "checkedAt": "2026-03-12T15:56:19.344Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-bunuelos-300g.html/07702047037645",
       "gtin": "07702047037645",
-      "checkedAt": "2026-03-12T15:43:05.430Z"
+      "checkedAt": "2026-03-12T15:56:19.394Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-natilla-tradicional-300g.html/07702047037652",
       "gtin": "07702047037652",
-      "checkedAt": "2026-03-12T15:43:05.313Z"
+      "checkedAt": "2026-03-12T15:56:20.068Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-natilla-tradicional-600g.html/07702047037744",
       "gtin": "07702047037744",
-      "checkedAt": "2026-03-12T15:43:05.143Z"
+      "checkedAt": "2026-03-12T15:56:19.743Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-original-mezcla-bu%C3%B1uelos-600gr.html/07702047037751",
       "gtin": "07702047037751",
-      "checkedAt": "2026-03-12T15:43:05.069Z"
+      "checkedAt": "2026-03-12T15:56:19.475Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-natilla-arequipe-600g.html/07702047037768",
       "gtin": "07702047037768",
-      "checkedAt": "2026-03-12T15:43:05.068Z"
+      "checkedAt": "2026-03-12T15:56:19.929Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038116",
       "gtin": "07702047038116",
-      "checkedAt": "2026-03-12T15:43:05.183Z"
+      "checkedAt": "2026-03-12T15:56:18.793Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038123",
       "gtin": "07702047038123",
-      "checkedAt": "2026-03-12T15:43:05.323Z"
+      "checkedAt": "2026-03-12T15:56:19.650Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-natilla-coco-600g.html/07702047038642",
       "gtin": "07702047038642",
-      "checkedAt": "2026-03-12T15:43:05.069Z"
+      "checkedAt": "2026-03-12T15:56:19.844Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-natilla-maracuya-300g.html/07702047038659",
       "gtin": "07702047038659",
-      "checkedAt": "2026-03-12T15:43:05.154Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038758",
-      "gtin": "07702047038758",
-      "checkedAt": "2026-03-12T15:43:05.238Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038765",
-      "gtin": "07702047038765",
-      "checkedAt": "2026-03-12T15:43:04.931Z"
+      "checkedAt": "2026-03-12T15:56:19.278Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038772",
       "gtin": "07702047038772",
-      "checkedAt": "2026-03-12T15:43:04.933Z"
+      "checkedAt": "2026-03-12T15:56:19.101Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-light-fruco.html/07702047038789",
       "gtin": "07702047038789",
-      "checkedAt": "2026-03-12T15:43:04.931Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047038796",
-      "gtin": "07702047038796",
-      "checkedAt": "2026-03-12T15:43:05.114Z"
+      "checkedAt": "2026-03-12T15:56:19.832Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-85-gr.html/07702047038949",
       "gtin": "07702047038949",
-      "checkedAt": "2026-03-12T15:43:05.408Z"
+      "checkedAt": "2026-03-12T15:56:19.363Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-light-fruco.html/07702047039014",
       "gtin": "07702047039014",
-      "checkedAt": "2026-03-12T15:43:05.068Z"
+      "checkedAt": "2026-03-12T15:56:18.938Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-artesanal-fruco.html/07702047039236",
       "gtin": "07702047039236",
-      "checkedAt": "2026-03-12T15:43:05.210Z"
+      "checkedAt": "2026-03-12T15:56:19.194Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-colada-de-arequipe-con-vitaminas-y-minerales-28g.html/07702047040034",
       "gtin": "07702047040034",
-      "checkedAt": "2026-03-12T15:43:05.143Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/maizena-colada-de-vainilla-con-vitaminas-y-minerales-28g.html/07702047040058",
-      "gtin": "07702047040058",
-      "checkedAt": "2026-03-12T15:43:05.076Z"
+      "checkedAt": "2026-03-12T15:56:25.804Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-coladas-mix-28gr.html/07702047040065",
       "gtin": "07702047040065",
-      "checkedAt": "2026-03-12T15:43:05.083Z"
+      "checkedAt": "2026-03-12T15:56:19.139Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-colada-vainilla-180-gr.html/07702047040096",
       "gtin": "07702047040096",
-      "checkedAt": "2026-03-12T15:43:05.069Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/maizena-colada-de-arequipe-con-vitaminas-y-minerales-180g.html/07702047040102",
-      "gtin": "07702047040102",
-      "checkedAt": "2026-03-12T15:43:05.075Z"
+      "checkedAt": "2026-03-12T15:56:19.383Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-receta-artesanal-fruco-doypack.html/07702047040577",
       "gtin": "07702047040577",
-      "checkedAt": "2026-03-12T15:43:04.942Z"
+      "checkedAt": "2026-03-12T15:56:19.801Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-botella-400g.html/07702047040638",
       "gtin": "07702047040638",
-      "checkedAt": "2026-03-12T15:43:05.419Z"
+      "checkedAt": "2026-03-12T15:56:18.989Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-380g.html/07702047040645",
       "gtin": "07702047040645",
-      "checkedAt": "2026-03-12T15:43:05.355Z"
+      "checkedAt": "2026-03-12T15:56:19.336Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-180g.html/07702047040652",
       "gtin": "07702047040652",
-      "checkedAt": "2026-03-12T15:43:04.883Z"
+      "checkedAt": "2026-03-12T15:56:19.709Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047040874",
       "gtin": "07702047040874",
-      "checkedAt": "2026-03-12T15:43:05.395Z"
+      "checkedAt": "2026-03-12T15:56:19.035Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-original-salsa-de-tomate-sachet-40gr.html/07702047040881",
       "gtin": "07702047040881",
-      "checkedAt": "2026-03-12T15:43:05.078Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047040898",
-      "gtin": "07702047040898",
-      "checkedAt": "2026-03-12T15:43:04.933Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-de-mayonesa-sachet-40gr.html/07702047040904",
-      "gtin": "07702047040904",
-      "checkedAt": "2026-03-12T15:43:05.408Z"
+      "checkedAt": "2026-03-12T15:56:19.544Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-rosada-sachet-x-12-unidades-80gr.html/07702047041185",
       "gtin": "07702047041185",
-      "checkedAt": "2026-03-12T15:43:05.154Z"
+      "checkedAt": "2026-03-12T15:56:19.921Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-mostaza-fruco.html/07702047041192",
       "gtin": "07702047041192",
-      "checkedAt": "2026-03-12T15:43:05.355Z"
+      "checkedAt": "2026-03-12T15:56:19.791Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-tomate-sachet-80g.html/07702047041208",
       "gtin": "07702047041208",
-      "checkedAt": "2026-03-12T15:43:05.144Z"
+      "checkedAt": "2026-03-12T15:56:19.616Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-sachet-x-12-unidades-80gr.html/07702047041215",
       "gtin": "07702047041215",
-      "checkedAt": "2026-03-12T15:43:05.078Z"
+      "checkedAt": "2026-03-12T15:56:24.833Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-80g.html/07702047041222",
       "gtin": "07702047041222",
-      "checkedAt": "2026-03-12T15:43:05.444Z"
+      "checkedAt": "2026-03-12T15:56:19.662Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco-80.html/07702047041239",
       "gtin": "07702047041239",
-      "checkedAt": "2026-03-12T15:43:04.407Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047041253",
-      "gtin": "07702047041253",
-      "checkedAt": "2026-03-12T15:43:05.114Z"
+      "checkedAt": "2026-03-12T15:56:24.321Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047041260",
       "gtin": "07702047041260",
-      "checkedAt": "2026-03-12T15:43:05.068Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-doypack-120gr.html/07702047041284",
-      "gtin": "07702047041284",
-      "checkedAt": "2026-03-12T15:43:05.077Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-doypack.html/07702047041291",
-      "gtin": "07702047041291",
-      "checkedAt": "2026-03-12T15:43:04.882Z"
+      "checkedAt": "2026-03-12T15:56:19.900Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-de-tomate-original-1000-gr.html/07702047041482",
       "gtin": "07702047041482",
-      "checkedAt": "2026-03-12T15:43:04.769Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128930",
-      "gtin": "07702047128930",
-      "checkedAt": "2026-03-12T15:43:05.143Z"
+      "checkedAt": "2026-03-12T15:56:19.169Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128947",
       "gtin": "07702047128947",
-      "checkedAt": "2026-03-12T15:43:05.444Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/fruco-salsa-negra-gourmet-para-cocinar-155ml.html/07702047129913",
-      "gtin": "07702047129913",
-      "checkedAt": "2026-03-12T15:43:05.226Z"
+      "checkedAt": "2026-03-12T15:56:19.759Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130308",
       "gtin": "07702047130308",
-      "checkedAt": "2026-03-12T15:43:05.077Z"
+      "checkedAt": "2026-03-12T15:56:19.771Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130315",
       "gtin": "07702047130315",
-      "checkedAt": "2026-03-12T15:43:04.769Z"
+      "checkedAt": "2026-03-12T15:56:19.035Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130322",
       "gtin": "07702047130322",
-      "checkedAt": "2026-03-12T15:43:04.639Z"
+      "checkedAt": "2026-03-12T15:56:19.722Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-8-gr.html/07702047133569",
       "gtin": "07702047133569",
-      "checkedAt": "2026-03-12T15:43:05.439Z"
+      "checkedAt": "2026-03-12T15:56:19.660Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/knorr-crema-de-pollo-con-champinones.html/07702047137468",
       "gtin": "07702047137468",
-      "checkedAt": "2026-03-12T15:43:05.268Z"
+      "checkedAt": "2026-03-12T15:56:19.390Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047137994",
       "gtin": "07702047137994",
-      "checkedAt": "2026-03-12T15:43:05.261Z"
+      "checkedAt": "2026-03-12T15:56:19.530Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047138007",
       "gtin": "07702047138007",
-      "checkedAt": "2026-03-12T15:43:04.460Z"
+      "checkedAt": "2026-03-12T15:56:19.798Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/natilla-tres-leches.html/07702047140697",
       "gtin": "07702047140697",
-      "checkedAt": "2026-03-12T15:43:05.144Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-720g.html/07702047140819",
-      "gtin": "07702047140819",
-      "checkedAt": "2026-03-12T15:43:05.213Z"
+      "checkedAt": "2026-03-12T15:56:19.823Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/natilla-tres-leches.html/07702047140918",
       "gtin": "07702047140918",
-      "checkedAt": "2026-03-12T15:43:05.408Z"
+      "checkedAt": "2026-03-12T15:56:19.925Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-mayonesa-pague-800gr-lleve-1000gr.html/07702047140925",
       "gtin": "07702047140925",
-      "checkedAt": "2026-03-12T15:43:05.214Z"
+      "checkedAt": "2026-03-12T15:56:20.246Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/mayonesa-receta-artesanal-fruco-doypack.html/07702047140956",
       "gtin": "07702047140956",
-      "checkedAt": "2026-03-12T15:43:05.285Z"
+      "checkedAt": "2026-03-12T15:56:18.998Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-200g.html/07702047140963",
       "gtin": "07702047140963",
-      "checkedAt": "2026-03-12T15:43:05.500Z"
+      "checkedAt": "2026-03-12T15:56:19.513Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-de-mayonesa-sachet-80gr.html/07702047141014",
       "gtin": "07702047141014",
-      "checkedAt": "2026-03-12T15:43:05.666Z"
+      "checkedAt": "2026-03-12T15:56:26.556Z"
     },
     {
       "type": "successful",
       "url": "https://www.recepedia.com/co/p/fruco-salsa-de-tomate-sachet-x-12unidades-80gr.html/07702047141021",
       "gtin": "07702047141021",
-      "checkedAt": "2026-03-12T15:43:05.667Z"
+      "checkedAt": "2026-03-12T15:56:26.758Z"
     }
   ],
-  "errors": 0,
-  "duration": "2.21s",
-  "speedMetrics": "37.10 URLs/second",
+  "errors": 15,
+  "duration": "8.70s",
+  "speedMetrics": "9.43 URLs/second",
   "problematicPages": [],
-  "errorPages": []
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-28g.html/00000068302644",
+      "error": "request to https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-28g.html/00000068302644 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-china-fruco.html/07702047001769",
+      "error": "request to https://www.recepedia.com/co/p/salsa-china-fruco.html/07702047001769 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038758",
+      "error": "request to https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038758 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.272Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038765",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038765 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.271Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047038796",
+      "error": "request to https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047038796 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.272Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-vainilla-con-vitaminas-y-minerales-28g.html/07702047040058",
+      "error": "request to https://www.recepedia.com/co/p/maizena-colada-de-vainilla-con-vitaminas-y-minerales-28g.html/07702047040058 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.271Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-arequipe-con-vitaminas-y-minerales-180g.html/07702047040102",
+      "error": "request to https://www.recepedia.com/co/p/maizena-colada-de-arequipe-con-vitaminas-y-minerales-180g.html/07702047040102 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047040898",
+      "error": "request to https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047040898 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-de-mayonesa-sachet-40gr.html/07702047040904",
+      "error": "request to https://www.recepedia.com/co/p/fruco-original-salsa-de-mayonesa-sachet-40gr.html/07702047040904 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047041253",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047041253 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-doypack-120gr.html/07702047041284",
+      "error": "request to https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-doypack-120gr.html/07702047041284 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-doypack.html/07702047041291",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-doypack.html/07702047041291 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128930",
+      "error": "request to https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128930 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-negra-gourmet-para-cocinar-155ml.html/07702047129913",
+      "error": "request to https://www.recepedia.com/co/p/fruco-salsa-negra-gourmet-para-cocinar-155ml.html/07702047129913 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.343Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-720g.html/07702047140819",
+      "error": "request to https://www.recepedia.com/co/p/maizena-fecula-de-maiz-720g.html/07702047140819 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:56:26.363Z"
+    }
+  ]
 }

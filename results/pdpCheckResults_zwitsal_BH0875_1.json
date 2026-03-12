@@ -1,201 +1,201 @@
 {
-  "generatedAt": "2026-03-12T15:43:27.411Z",
+  "generatedAt": "2026-03-12T15:56:24.786Z",
   "brand": "zwitsal",
   "assortmentCode": "BH0875",
   "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
   "totalUrlsChecked": 45,
-  "problematicPagesFound": 13,
+  "problematicPagesFound": 14,
   "successfulPages": [
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/lotion-billendoekjes-65-stuks.html/08710447314302",
       "gtin": "08710447314302",
-      "checkedAt": "2026-03-12T15:43:19.562Z"
+      "checkedAt": "2026-03-12T15:56:17.783Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/sensitive-billendoekjes-57-stuks.html/08710447314319",
       "gtin": "08710447314319",
-      "checkedAt": "2026-03-12T15:43:24.973Z"
+      "checkedAt": "2026-03-12T15:56:17.990Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/snoetenpoetsers-40-stuks.html/08710908596636",
       "gtin": "08710908596636",
-      "checkedAt": "2026-03-12T15:43:19.808Z"
+      "checkedAt": "2026-03-12T15:56:24.376Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/eau-de-zwitsal-95-ml.html/08711600972285",
       "gtin": "08711600972285",
-      "checkedAt": "2026-03-12T15:43:19.699Z"
+      "checkedAt": "2026-03-12T15:56:24.308Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/vochtige-washandjes-20-stuks.html/08711700508483",
       "gtin": "08711700508483",
-      "checkedAt": "2026-03-12T15:43:19.571Z"
+      "checkedAt": "2026-03-12T15:56:24.594Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/op-%E2%80%99t-wangetje-100-ml.html/08712561632379",
       "gtin": "08712561632379",
-      "checkedAt": "2026-03-12T15:43:19.606Z"
+      "checkedAt": "2026-03-12T15:56:22.331Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/bodymist-pink-blossom-150-ml.html/08720181147401",
       "gtin": "08720181147401",
-      "checkedAt": "2026-03-12T15:43:20.140Z"
+      "checkedAt": "2026-03-12T15:56:24.426Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/bodymist-original-150-ml.html/08720181147418",
       "gtin": "08720181147418",
-      "checkedAt": "2026-03-12T15:43:19.713Z"
+      "checkedAt": "2026-03-12T15:56:24.521Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/douche-mousse-original-200-ml.html/08720181168734",
       "gtin": "08720181168734",
-      "checkedAt": "2026-03-12T15:43:19.739Z"
+      "checkedAt": "2026-03-12T15:56:18.099Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zinkzalf-100-ml.html/08720181172724",
       "gtin": "08720181172724",
-      "checkedAt": "2026-03-12T15:43:19.789Z"
+      "checkedAt": "2026-03-12T15:56:17.912Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/water-&-care-babydoekjes-52-stuks.html/08720181264269",
       "gtin": "08720181264269",
-      "checkedAt": "2026-03-12T15:43:26.904Z"
+      "checkedAt": "2026-03-12T15:56:18.006Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-75-ml.html/08720181647161",
       "gtin": "08720181647161",
-      "checkedAt": "2026-03-12T15:43:19.782Z"
+      "checkedAt": "2026-03-12T15:56:24.257Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-200-ml.html/08720181647192",
       "gtin": "08720181647192",
-      "checkedAt": "2026-03-12T15:43:19.657Z"
+      "checkedAt": "2026-03-12T15:56:24.786Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-400-ml.html/08720181647208",
       "gtin": "08720181647208",
-      "checkedAt": "2026-03-12T15:43:19.745Z"
+      "checkedAt": "2026-03-12T15:56:24.573Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-700-ml.html/08720181647215",
       "gtin": "08720181647215",
-      "checkedAt": "2026-03-12T15:43:19.917Z"
+      "checkedAt": "2026-03-12T15:56:24.559Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zeepvrije-wasgel-navulverpakking-500-ml.html/08720181647277",
       "gtin": "08720181647277",
-      "checkedAt": "2026-03-12T15:43:19.647Z"
+      "checkedAt": "2026-03-12T15:56:17.883Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zeepvrije-wascr%C3%A8me-200-ml.html/08720181647284",
       "gtin": "08720181647284",
-      "checkedAt": "2026-03-12T15:43:19.655Z"
+      "checkedAt": "2026-03-12T15:56:24.559Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/zeepvrije-wascr%C3%A8me-400-ml.html/08720181647291",
       "gtin": "08720181647291",
-      "checkedAt": "2026-03-12T15:43:19.600Z"
+      "checkedAt": "2026-03-12T15:56:24.694Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/shampoo-met-pompje-400-ml.html/08720181648700",
       "gtin": "08720181648700",
-      "checkedAt": "2026-03-12T15:43:19.614Z"
+      "checkedAt": "2026-03-12T15:56:24.472Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/shampoo-75-ml.html/08720181648731",
       "gtin": "08720181648731",
-      "checkedAt": "2026-03-12T15:43:19.791Z"
+      "checkedAt": "2026-03-12T15:56:24.355Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/shampoo-700-ml.html/08720181648755",
       "gtin": "08720181648755",
-      "checkedAt": "2026-03-12T15:43:19.600Z"
+      "checkedAt": "2026-03-12T15:56:24.509Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/anti-klit-shampoo-200-ml.html/08720181648762",
       "gtin": "08720181648762",
-      "checkedAt": "2026-03-12T15:43:19.651Z"
+      "checkedAt": "2026-03-12T15:56:24.492Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/anti-klit-shampoo-met-pompje-400-ml.html/08720181648779",
       "gtin": "08720181648779",
-      "checkedAt": "2026-03-12T15:43:19.647Z"
+      "checkedAt": "2026-03-12T15:56:18.032Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/conditioner-200-ml.html/08720181649196",
       "gtin": "08720181649196",
-      "checkedAt": "2026-03-12T15:43:19.789Z"
+      "checkedAt": "2026-03-12T15:56:24.588Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/haargel-100-ml.html/08720181649202",
       "gtin": "08720181649202",
-      "checkedAt": "2026-03-12T15:43:25.628Z"
+      "checkedAt": "2026-03-12T15:56:17.947Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/haarlotion-200-ml.html/08720181649219",
       "gtin": "08720181649219",
-      "checkedAt": "2026-03-12T15:43:19.656Z"
+      "checkedAt": "2026-03-12T15:56:17.793Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/wasschuim-200-ml.html/08720181649226",
       "gtin": "08720181649226",
-      "checkedAt": "2026-03-12T15:43:19.873Z"
+      "checkedAt": "2026-03-12T15:56:17.781Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/cr%C3%A8me-zeepblok-4x90-g.html/08720181649233",
       "gtin": "08720181649233",
-      "checkedAt": "2026-03-12T15:43:19.840Z"
+      "checkedAt": "2026-03-12T15:56:17.939Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/bodylotion-75-ml.html/08720181649608",
       "gtin": "08720181649608",
-      "checkedAt": "2026-03-12T15:43:19.699Z"
+      "checkedAt": "2026-03-12T15:56:24.492Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/bodylotion-400-ml.html/08720181649622",
       "gtin": "08720181649622",
-      "checkedAt": "2026-03-12T15:43:19.703Z"
+      "checkedAt": "2026-03-12T15:56:24.401Z"
     },
     {
       "type": "successful",
       "url": "https://www.zwitsal.nl/p/badolie-200-ml.html/08720181649684",
       "gtin": "08720181649684",
-      "checkedAt": "2026-03-12T15:43:19.781Z"
+      "checkedAt": "2026-03-12T15:56:18.263Z"
     }
   ],
-  "errors": 1,
-  "duration": "8.18s",
-  "speedMetrics": "5.50 URLs/second",
+  "errors": 0,
+  "duration": "7.78s",
+  "speedMetrics": "5.78 URLs/second",
   "problematicPages": [
     {
       "type": "problematic",
@@ -204,7 +204,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/deodorant-original-100-ml.html/08710847868498",
       "gtin": "08710847868498",
-      "checkedAt": "2026-03-12T15:43:19.761Z"
+      "checkedAt": "2026-03-12T15:56:24.422Z"
     },
     {
       "type": "problematic",
@@ -213,7 +213,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/deodorant-poederzacht-100-ml.html/08710847868504",
       "gtin": "08710847868504",
-      "checkedAt": "2026-03-12T15:43:19.760Z"
+      "checkedAt": "2026-03-12T15:56:17.963Z"
     },
     {
       "type": "problematic",
@@ -222,7 +222,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-400-ml.html/08720181647253",
       "gtin": "08720181647253",
-      "checkedAt": "2026-03-12T15:43:19.687Z"
+      "checkedAt": "2026-03-12T15:56:24.520Z"
     },
     {
       "type": "problematic",
@@ -231,7 +231,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-200-ml.html/08720181647444",
       "gtin": "08720181647444",
-      "checkedAt": "2026-03-12T15:43:19.739Z"
+      "checkedAt": "2026-03-12T15:56:17.656Z"
     },
     {
       "type": "problematic",
@@ -240,7 +240,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-700-ml.html/08720181647482",
       "gtin": "08720181647482",
-      "checkedAt": "2026-03-12T15:43:19.616Z"
+      "checkedAt": "2026-03-12T15:56:24.503Z"
     },
     {
       "type": "problematic",
@@ -249,7 +249,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/shampoo-200-ml.html/08720181648748",
       "gtin": "08720181648748",
-      "checkedAt": "2026-03-12T15:43:20.014Z"
+      "checkedAt": "2026-03-12T15:56:18.241Z"
     },
     {
       "type": "problematic",
@@ -258,7 +258,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/bodylotion-200-ml.html/08720181649615",
       "gtin": "08720181649615",
-      "checkedAt": "2026-03-12T15:43:19.756Z"
+      "checkedAt": "2026-03-12T15:56:24.351Z"
     },
     {
       "type": "problematic",
@@ -267,7 +267,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/zachte-cr%C3%A8me-tube-100-ml.html/08720181649639",
       "gtin": "08720181649639",
-      "checkedAt": "2026-03-12T15:43:19.717Z"
+      "checkedAt": "2026-03-12T15:56:17.779Z"
     },
     {
       "type": "problematic",
@@ -276,7 +276,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/zachte-cr%C3%A8me-pot-200-ml.html/08720181649646",
       "gtin": "08720181649646",
-      "checkedAt": "2026-03-12T15:43:19.647Z"
+      "checkedAt": "2026-03-12T15:56:24.357Z"
     },
     {
       "type": "problematic",
@@ -285,7 +285,16 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/rijke-huidolie-200-ml.html/08720181649677",
       "gtin": "08720181649677",
-      "checkedAt": "2026-03-12T15:43:19.734Z"
+      "checkedAt": "2026-03-12T15:56:17.882Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-mini-set-3x75-ml.html/08720181770500",
+      "gtin": "08720181770500",
+      "checkedAt": "2026-03-12T15:56:24.307Z"
     },
     {
       "type": "problematic",
@@ -294,7 +303,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/baby-&-kids-startersbox.html/08720181773563",
       "gtin": "08720181773563",
-      "checkedAt": "2026-03-12T15:43:19.730Z"
+      "checkedAt": "2026-03-12T15:56:24.409Z"
     },
     {
       "type": "problematic",
@@ -303,7 +312,7 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/baby-&-kids-essentials-geschenkset-3x200-ml.html/08721317709142",
       "gtin": "08721317709142",
-      "checkedAt": "2026-03-12T15:43:19.668Z"
+      "checkedAt": "2026-03-12T15:56:24.527Z"
     },
     {
       "type": "problematic",
@@ -312,15 +321,8 @@
       "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
       "url": "https://www.zwitsal.nl/p/baby-&-kids-bath-care-set-2-x-200-ml.html/08721317738180",
       "gtin": "08721317738180",
-      "checkedAt": "2026-03-12T15:43:19.698Z"
+      "checkedAt": "2026-03-12T15:56:23.174Z"
     }
   ],
-  "errorPages": [
-    {
-      "type": "error",
-      "url": "https://www.zwitsal.nl/p/baby-&-kids-mini-set-3x75-ml.html/08720181770500",
-      "error": "request to https://www.zwitsal.nl/p/baby-&-kids-mini-set-3x75-ml.html/08720181770500 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:27.411Z"
-    }
-  ]
+  "errorPages": []
 }

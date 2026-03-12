@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:15.757Z",
+  "generatedAt": "2026-03-12T15:55:16.917Z",
   "brand": "grom",
   "assortmentCode": "BF2050",
   "feedUrl": "https://www.gromgelato.com/it/it/home.productfeed.json",
@@ -10,427 +10,427 @@
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/crema-di-grom.html/01000000000001",
       "gtin": "01000000000001",
-      "checkedAt": "2026-03-12T15:42:08.247Z"
+      "checkedAt": "2026-03-12T15:55:09.127Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/crema-come-una-volta.html/01000000000002",
       "gtin": "01000000000002",
-      "checkedAt": "2026-03-12T15:42:08.183Z"
+      "checkedAt": "2026-03-12T15:55:09.225Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8.html/01000000000004",
       "gtin": "01000000000004",
-      "checkedAt": "2026-03-12T15:42:08.263Z"
+      "checkedAt": "2026-03-12T15:55:09.159Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/cioccolato-extranoir.html/01000000000005",
       "gtin": "01000000000005",
-      "checkedAt": "2026-03-12T15:42:08.015Z"
+      "checkedAt": "2026-03-12T15:55:09.250Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/gianduia.html/01000000000007",
       "gtin": "01000000000007",
-      "checkedAt": "2026-03-12T15:42:08.140Z"
+      "checkedAt": "2026-03-12T15:55:09.178Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/nocciola.html/01000000000008",
       "gtin": "01000000000008",
-      "checkedAt": "2026-03-12T15:42:08.104Z"
+      "checkedAt": "2026-03-12T15:55:09.117Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/01000000000009",
       "gtin": "01000000000009",
-      "checkedAt": "2026-03-12T15:42:08.290Z"
+      "checkedAt": "2026-03-12T15:55:09.217Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/caramello-al-sale.html/01000000000015",
       "gtin": "01000000000015",
-      "checkedAt": "2026-03-12T15:42:08.224Z"
+      "checkedAt": "2026-03-12T15:55:09.168Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/cassata-siciliana.html/01000000000016",
+      "gtin": "01000000000016",
+      "checkedAt": "2026-03-12T15:55:09.107Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/caramello-e-mandorle.html/01000000000019",
       "gtin": "01000000000019",
-      "checkedAt": "2026-03-12T15:42:08.047Z"
+      "checkedAt": "2026-03-12T15:55:09.150Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/cheesecake-alle-fragole.html/01000000000021",
       "gtin": "01000000000021",
-      "checkedAt": "2026-03-12T15:42:08.075Z"
+      "checkedAt": "2026-03-12T15:55:09.209Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/marron-glac%C3%A9.html/01000000000022",
       "gtin": "01000000000022",
-      "checkedAt": "2026-03-12T15:42:08.094Z"
+      "checkedAt": "2026-03-12T15:55:09.197Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/limone.html/01000000000023",
       "gtin": "01000000000023",
-      "checkedAt": "2026-03-12T15:42:08.210Z"
+      "checkedAt": "2026-03-12T15:55:09.138Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/cheesecake-alle-amarene.html/01000000000121",
       "gtin": "01000000000121",
-      "checkedAt": "2026-03-12T15:42:08.066Z"
+      "checkedAt": "2026-03-12T15:55:09.242Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/ricotta-e-fichi.html/01000000000122",
+      "gtin": "01000000000122",
+      "checkedAt": "2026-03-12T15:55:13.342Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.gromgelato.com/it/it/p/stracciatella-amarena-e-meringhe.html/01000000000124",
+      "gtin": "01000000000124",
+      "checkedAt": "2026-03-12T15:55:13.095Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/yogurt-croccante.html/01000000000132",
       "gtin": "01000000000132",
-      "checkedAt": "2026-03-12T15:42:08.162Z"
+      "checkedAt": "2026-03-12T15:55:09.296Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8-variegato-al-gianduia.html/01000000000134",
       "gtin": "01000000000134",
-      "checkedAt": "2026-03-12T15:42:07.984Z"
+      "checkedAt": "2026-03-12T15:55:09.233Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/cannella-e-noci-pecan.html/01000000000135",
       "gtin": "01000000000135",
-      "checkedAt": "2026-03-12T15:42:08.033Z"
+      "checkedAt": "2026-03-12T15:55:09.416Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/caramello-e-noci-pecan.html/01000000000136",
       "gtin": "01000000000136",
-      "checkedAt": "2026-03-12T15:42:07.960Z"
+      "checkedAt": "2026-03-12T15:55:09.306Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/crema-e-amaretti.html/01000000000138",
       "gtin": "01000000000138",
-      "checkedAt": "2026-03-12T15:42:08.116Z"
+      "checkedAt": "2026-03-12T15:55:09.456Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/cremino.html/01000000000141",
       "gtin": "01000000000141",
-      "checkedAt": "2026-03-12T15:42:07.994Z"
+      "checkedAt": "2026-03-12T15:55:09.354Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/fiordilatte-croccante.html/01000000000142",
       "gtin": "01000000000142",
-      "checkedAt": "2026-03-12T15:42:07.973Z"
+      "checkedAt": "2026-03-12T15:55:09.287Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/fiordilatte-variegato-al-pistacchio.html/01000000000144",
       "gtin": "01000000000144",
-      "checkedAt": "2026-03-12T15:42:08.024Z"
+      "checkedAt": "2026-03-12T15:55:09.188Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/meringata-vaniglia-e-amarene.html/01000000000224",
       "gtin": "01000000000224",
-      "checkedAt": "2026-03-12T15:42:08.922Z"
+      "checkedAt": "2026-03-12T15:55:09.384Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/meringata-al-marron-glac%C3%A9.html/01000000000345",
       "gtin": "01000000000345",
-      "checkedAt": "2026-03-12T15:42:11.896Z"
+      "checkedAt": "2026-03-12T15:55:09.345Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/mango.html/01000000081089",
       "gtin": "01000000081089",
-      "checkedAt": "2026-03-12T15:42:08.056Z"
+      "checkedAt": "2026-03-12T15:55:09.260Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/meringata-cioccolato-e-nocciole.html/01000000081091",
       "gtin": "01000000081091",
-      "checkedAt": "2026-03-12T15:42:08.003Z"
+      "checkedAt": "2026-03-12T15:55:09.268Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/cioccolato-e-fragole.html/01000000081092",
       "gtin": "01000000081092",
-      "checkedAt": "2026-03-12T15:42:08.085Z"
+      "checkedAt": "2026-03-12T15:55:14.034Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/colomba.html/01000000081094",
       "gtin": "01000000081094",
-      "checkedAt": "2026-03-12T15:42:11.876Z"
+      "checkedAt": "2026-03-12T15:55:09.364Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/crema-ai-frutti-di-bosco.html/01000000081095",
       "gtin": "01000000081095",
-      "checkedAt": "2026-03-12T15:42:08.255Z"
+      "checkedAt": "2026-03-12T15:55:09.335Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/pera.html/01000000081534",
       "gtin": "01000000081534",
-      "checkedAt": "2026-03-12T15:42:08.281Z"
+      "checkedAt": "2026-03-12T15:55:09.406Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/pastiera-napoletana.html/01000006781088",
       "gtin": "01000006781088",
-      "checkedAt": "2026-03-12T15:42:08.194Z"
+      "checkedAt": "2026-03-12T15:55:09.278Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/caramello-salato-vivace.html/08711327485259",
       "gtin": "08711327485259",
-      "checkedAt": "2026-03-12T15:42:08.464Z"
+      "checkedAt": "2026-03-12T15:55:09.483Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/08711327512627",
       "gtin": "08711327512627",
-      "checkedAt": "2026-03-12T15:42:08.403Z"
+      "checkedAt": "2026-03-12T15:55:09.443Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8.html/08711327512672",
       "gtin": "08711327512672",
-      "checkedAt": "2026-03-12T15:42:12.266Z"
+      "checkedAt": "2026-03-12T15:55:09.498Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/fragola-succosa.html/08714100083550",
       "gtin": "08714100083550",
-      "checkedAt": "2026-03-12T15:42:08.300Z"
+      "checkedAt": "2026-03-12T15:55:09.458Z"
     },
     {
       "type": "successful",
       "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/08714100658666",
       "gtin": "08714100658666",
-      "checkedAt": "2026-03-12T15:42:08.817Z"
+      "checkedAt": "2026-03-12T15:55:09.457Z"
     }
   ],
-  "errors": 35,
-  "duration": "8.19s",
-  "speedMetrics": "8.55 URLs/second",
+  "errors": 32,
+  "duration": "8.27s",
+  "speedMetrics": "8.46 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/cioccolato.html/01000000000003",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.821Z"
+      "checkedAt": "2026-03-12T15:55:08.815Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/stracciatella.html/01000000000011",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.790Z"
+      "error": "request to https://www.gromgelato.com/it/it/p/stracciatella.html/01000000000011 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:16.814Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/yogurt.html/01000000000013",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:12.156Z"
+      "checkedAt": "2026-03-12T15:55:08.915Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/tiramis%C3%B9.html/01000000000014",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.775Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.gromgelato.com/it/it/p/cassata-siciliana.html/01000000000016",
-      "error": "request to https://www.gromgelato.com/it/it/p/cassata-siciliana.html/01000000000016 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:15.757Z"
+      "checkedAt": "2026-03-12T15:55:08.913Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/vaniglia.html/01000000000017",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:12.572Z"
+      "error": "request to https://www.gromgelato.com/it/it/p/vaniglia.html/01000000000017 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:16.814Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/cocco.html/01000000000018",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.775Z"
+      "checkedAt": "2026-03-12T15:55:08.912Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/lampone.html/01000000000020",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.050Z"
+      "error": "request to https://www.gromgelato.com/it/it/p/lampone.html/01000000000020 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:16.814Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/fragola.html/01000000000024",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.244Z"
+      "error": "request to https://www.gromgelato.com/it/it/p/fragola.html/01000000000024 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:16.814Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/marocchino.html/01000000000049",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.914Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.gromgelato.com/it/it/p/ricotta-e-fichi.html/01000000000122",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.173Z"
+      "checkedAt": "2026-03-12T15:55:08.952Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/malaga.html/01000000000123",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.820Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.gromgelato.com/it/it/p/stracciatella-amarena-e-meringhe.html/01000000000124",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.566Z"
+      "checkedAt": "2026-03-12T15:55:08.882Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/stracciatella-al-cocco.html/01000000000125",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.218Z"
+      "checkedAt": "2026-03-12T15:55:08.994Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/meringata-alla-fragola.html/01000000000126",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.790Z"
+      "checkedAt": "2026-03-12T15:55:08.840Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/pera-e-granella-di-cioccolato.html/01000000000127",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.778Z"
+      "checkedAt": "2026-03-12T15:55:08.890Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/pera-e-rum.html/01000000000128",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.918Z"
+      "checkedAt": "2026-03-12T15:55:08.921Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/variegato-all%E2%80%99amarena-con-granella-di-cioccolato.html/01000000000129",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.231Z"
+      "checkedAt": "2026-03-12T15:55:08.890Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/yogurt-con-fragole-e-nocciole.html/01000000000131",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.769Z"
+      "checkedAt": "2026-03-12T15:55:08.891Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/cioccolato-e-mandorle.html/01000000000137",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.773Z"
+      "checkedAt": "2026-03-12T15:55:09.064Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/fiordilatte-variegato-al-gianduia.html/01000000000143",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.235Z"
+      "checkedAt": "2026-03-12T15:55:09.017Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/pistacchio-variegato-al-gianduia.html/01000000000147",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.779Z"
+      "checkedAt": "2026-03-12T15:55:08.884Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/meringata-al-limone.html/01000000000150",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.240Z"
+      "error": "request to https://www.gromgelato.com/it/it/p/meringata-al-limone.html/01000000000150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:16.881Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/vaniglia-albicocca-e-nocciola-pralinata.html/01000000001125",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.230Z"
+      "checkedAt": "2026-03-12T15:55:08.886Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/panettone.html/01000000081099",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:08.038Z"
+      "checkedAt": "2026-03-12T15:55:08.993Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/torta-sacher.html/01000005281088",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.509Z"
+      "checkedAt": "2026-03-12T15:55:12.001Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/fior-di-panna.html/08711327510388",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.921Z"
+      "checkedAt": "2026-03-12T15:55:09.069Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/08711327510432",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.184Z"
+      "error": "request to https://www.gromgelato.com/it/it/p/pistacchio.html/08711327510432 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:16.916Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/limone.html/08714100618837",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.839Z"
+      "checkedAt": "2026-03-12T15:55:08.927Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/fragola.html/08714100619018",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:08.036Z"
+      "checkedAt": "2026-03-12T15:55:08.928Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/lampone.html/08714100619049",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:08.034Z"
+      "checkedAt": "2026-03-12T15:55:08.929Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/gianduja.html/08714100658635",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:08.005Z"
+      "error": "request to https://www.gromgelato.com/it/it/p/gianduja.html/08714100658635 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:16.916Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/pistacchio-regale.html/08714100719589",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.847Z"
+      "checkedAt": "2026-03-12T15:55:08.967Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/crema-di-grom-avvolgente.html/08714100719602",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:07.860Z"
+      "checkedAt": "2026-03-12T15:55:08.997Z"
     },
     {
       "type": "error",
       "url": "https://www.gromgelato.com/it/it/p/cioccolato-goloso.html/08714100719626",
       "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:11.252Z"
+      "checkedAt": "2026-03-12T15:55:08.963Z"
     }
   ]
 }

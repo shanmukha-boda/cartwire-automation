@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:35.579Z",
+  "generatedAt": "2026-03-12T15:56:32.193Z",
   "brand": "close-up",
   "assortmentCode": "BH0118",
   "feedUrl": "https://www.close-up.com/in/home.productfeed.json",
@@ -10,48 +10,48 @@
       "type": "successful",
       "url": "https://www.close-up.com/in/p/natural-smile-toothpaste.html/08901030676703",
       "gtin": "08901030676703",
-      "checkedAt": "2026-03-12T15:42:35.258Z"
+      "checkedAt": "2026-03-12T15:56:31.927Z"
     },
     {
       "type": "successful",
       "url": "https://www.close-up.com/in/p/nature-boost-mouthwash.html/08901030725456",
       "gtin": "08901030725456",
-      "checkedAt": "2026-03-12T15:42:35.579Z"
+      "checkedAt": "2026-03-12T15:56:31.553Z"
     },
     {
       "type": "successful",
       "url": "https://www.close-up.com/in/p/red-hot-mouthwash.html/08901030725470",
       "gtin": "08901030725470",
-      "checkedAt": "2026-03-12T15:42:35.251Z"
+      "checkedAt": "2026-03-12T15:56:32.193Z"
     },
     {
       "type": "successful",
       "url": "https://www.close-up.com/in/p/natural-glow-toothpaste.html/08901030736261",
       "gtin": "08901030736261",
-      "checkedAt": "2026-03-12T15:42:35.577Z"
+      "checkedAt": "2026-03-12T15:56:31.753Z"
     },
     {
       "type": "successful",
       "url": "https://www.close-up.com/in/p/red-hot-gel-toothpaste.html/08901030788260",
       "gtin": "08901030788260",
-      "checkedAt": "2026-03-12T15:42:35.286Z"
+      "checkedAt": "2026-03-12T15:56:31.548Z"
     },
     {
       "type": "successful",
       "url": "https://www.close-up.com/in/p/whitening-toothpaste.html/08909106027671",
       "gtin": "08909106027671",
-      "checkedAt": "2026-03-12T15:42:35.547Z"
+      "checkedAt": "2026-03-12T15:56:31.547Z"
     },
     {
       "type": "successful",
       "url": "https://www.close-up.com/in/p/whitening-toothpaste.html/08909106027688",
       "gtin": "08909106027688",
-      "checkedAt": "2026-03-12T15:42:35.281Z"
+      "checkedAt": "2026-03-12T15:56:31.549Z"
     }
   ],
   "errors": 0,
-  "duration": "0.52s",
-  "speedMetrics": "13.46 URLs/second",
+  "duration": "1.08s",
+  "speedMetrics": "6.48 URLs/second",
   "problematicPages": [],
   "errorPages": []
 }

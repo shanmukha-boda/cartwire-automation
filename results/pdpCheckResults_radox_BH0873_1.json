@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:42:50.470Z",
+  "generatedAt": "2026-03-12T15:55:44.884Z",
   "brand": "radox",
   "assortmentCode": "BH0873",
   "feedUrl": "https://www.radox.co.uk/home.productfeed.json",
@@ -8,237 +8,236 @@
   "successfulPages": [
     {
       "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-muscle-soak-bath-salts-400g.html/05000231036781",
+      "gtin": "05000231036781",
+      "checkedAt": "2026-03-12T15:55:44.441Z"
+    },
+    {
+      "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-muscle-bath-soak-mood-enhancing-500ml.html/05000231050831",
       "gtin": "05000231050831",
-      "checkedAt": "2026-03-12T15:42:43.026Z"
+      "checkedAt": "2026-03-12T15:55:44.523Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-stress-relief-bath-soak-500ml.html/05000231050855",
+      "gtin": "05000231050855",
+      "checkedAt": "2026-03-12T15:55:44.193Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-muscle-therapy-bath-soak-500ml.html/05000231070112",
+      "gtin": "05000231070112",
+      "checkedAt": "2026-03-12T15:55:44.153Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-detox-bath-500ml.html/08710447260548",
       "gtin": "08710447260548",
-      "checkedAt": "2026-03-12T15:42:43.159Z"
+      "checkedAt": "2026-03-12T15:55:44.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-detoxed-bath-salts-900g.html/08710447459263",
+      "gtin": "08710447459263",
+      "checkedAt": "2026-03-12T15:55:44.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-muscle-relax-bath-salts-900g.html/08710447459270",
+      "gtin": "08710447459270",
+      "checkedAt": "2026-03-12T15:55:44.545Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-relaxed-bath-soak-500ml.html/08710847950223",
+      "gtin": "08710847950223",
+      "checkedAt": "2026-03-12T15:55:44.379Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-heavenly-bath-soak-500ml.html/08710847950247",
       "gtin": "08710847950247",
-      "checkedAt": "2026-03-12T15:42:43.240Z"
+      "checkedAt": "2026-03-12T15:55:44.180Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-pampered-bath-soak-500ml.html/08710847950254",
+      "gtin": "08710847950254",
+      "checkedAt": "2026-03-12T15:55:44.233Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-care-nourish-hard-on-germs-gentle-on-hands-antibacteria.html/08712561737142",
       "gtin": "08712561737142",
-      "checkedAt": "2026-03-12T15:42:43.385Z"
+      "checkedAt": "2026-03-12T15:55:44.249Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-lavender-scent-aromatherapy-bath-salts-900g.html/08717163693308",
       "gtin": "08717163693308",
-      "checkedAt": "2026-03-12T15:42:43.372Z"
+      "checkedAt": "2026-03-12T15:55:44.211Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-relaxed-shower-gel.html/08720181326950",
       "gtin": "08720181326950",
-      "checkedAt": "2026-03-12T15:42:42.984Z"
+      "checkedAt": "2026-03-12T15:55:44.585Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-awake-2-in-1-shower-gel.html/08720181336034",
+      "gtin": "08720181336034",
+      "checkedAt": "2026-03-12T15:55:44.478Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-refreshed-shower-gel.html/08720181336058",
+      "gtin": "08720181336058",
+      "checkedAt": "2026-03-12T15:55:44.399Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-active-shower-gel.html/08720181336096",
+      "gtin": "08720181336096",
+      "checkedAt": "2026-03-12T15:55:44.479Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-uplifted-shower-gel.html/08720181336126",
       "gtin": "08720181336126",
-      "checkedAt": "2026-03-12T15:42:43.343Z"
+      "checkedAt": "2026-03-12T15:55:44.255Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-moisturised-shower-gel.html/08720181336133",
       "gtin": "08720181336133",
-      "checkedAt": "2026-03-12T15:42:43.191Z"
+      "checkedAt": "2026-03-12T15:55:44.244Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-revived-shower-gel.html/08720181336157",
       "gtin": "08720181336157",
-      "checkedAt": "2026-03-12T15:42:43.144Z"
+      "checkedAt": "2026-03-12T15:55:44.237Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-ready-shower-gel.html/08720181336164",
       "gtin": "08720181336164",
-      "checkedAt": "2026-03-12T15:42:43.178Z"
+      "checkedAt": "2026-03-12T15:55:44.489Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-hydrated-shower-gel-225ml.html/08720181465482",
+      "gtin": "08720181465482",
+      "checkedAt": "2026-03-12T15:55:44.307Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-nourished-shower-cream-450-ml-with-coconut-&-pineapple.html/08720181579394",
+      "gtin": "08720181579394",
+      "checkedAt": "2026-03-12T15:55:44.234Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-restored-shower-cream-450-ml-with-mango-&-cocoa-butter.html/08720181579400",
+      "gtin": "08720181579400",
+      "checkedAt": "2026-03-12T15:55:44.633Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-indulged-shower-cream-450-ml-with-passion-fruit-&-shea.html/08720181579417",
+      "gtin": "08720181579417",
+      "checkedAt": "2026-03-12T15:55:44.176Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/feel-invigorated-2-in-1-men's-shower-gel.html/08720181587634",
       "gtin": "08720181587634",
-      "checkedAt": "2026-03-12T15:42:43.574Z"
+      "checkedAt": "2026-03-12T15:55:44.479Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-energised-2-in-1-for-men-450-ml-with-marine-minerals-&-eucalyptus.html/08720181587641",
+      "gtin": "08720181587641",
+      "checkedAt": "2026-03-12T15:55:44.174Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-recovered-2-in-1-for-men-450-ml-with-black-pepper-&-ginger.html/08720181587658",
+      "gtin": "08720181587658",
+      "checkedAt": "2026-03-12T15:55:44.230Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-blissful-bath-soak-500ml.html/08710847950230",
       "gtin": "08710847950230",
-      "checkedAt": "2026-03-12T15:42:43.562Z"
+      "checkedAt": "2026-03-12T15:55:44.148Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-protect-replenish-antibacterial-handwash-250ml.html/08712561736862",
       "gtin": "08712561736862",
-      "checkedAt": "2026-03-12T15:42:43.083Z"
+      "checkedAt": "2026-03-12T15:55:44.510Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-awake-shower-gel-60ml.html/08720181128585",
+      "gtin": "08720181128585",
+      "checkedAt": "2026-03-12T15:55:44.181Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-special-edition-sweet-summer-nights-shower-gel-200ml.html/08720181332531",
+      "gtin": "08720181332531",
+      "checkedAt": "2026-03-12T15:55:44.184Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-special-edition-secret-garden-shower-gel-60ml.html/08720181332548",
+      "gtin": "08720181332548",
+      "checkedAt": "2026-03-12T15:55:44.498Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-special-edition-under-the-stars-shower-gel.html/08720181332555",
       "gtin": "08720181332555",
-      "checkedAt": "2026-03-12T15:42:43.174Z"
+      "checkedAt": "2026-03-12T15:55:44.884Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-radiant-shower-gel.html/08720181336188",
       "gtin": "08720181336188",
-      "checkedAt": "2026-03-12T15:42:43.349Z"
+      "checkedAt": "2026-03-12T15:55:44.703Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-feel-awake-shower-gel-refill.html/08720181347306",
       "gtin": "08720181347306",
-      "checkedAt": "2026-03-12T15:42:43.021Z"
+      "checkedAt": "2026-03-12T15:55:44.560Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/radox-feel-refreshed-shower-gel-refill.html/08720181347313",
+      "gtin": "08720181347313",
+      "checkedAt": "2026-03-12T15:55:44.255Z"
     },
     {
       "type": "successful",
       "url": "https://www.radox.co.uk/p/radox-special-edition-secret-garden-shower-gel-60ml.html/08720181365300",
       "gtin": "08720181365300",
-      "checkedAt": "2026-03-12T15:42:43.435Z"
+      "checkedAt": "2026-03-12T15:55:44.271Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.radox.co.uk/p/feel-revitalised-mineral-bath-soak-500ml.html/08720181586682",
+      "gtin": "08720181586682",
+      "checkedAt": "2026-03-12T15:55:44.188Z"
     }
   ],
-  "errors": 21,
-  "duration": "8.27s",
-  "speedMetrics": "4.59 URLs/second",
+  "errors": 0,
+  "duration": "1.19s",
+  "speedMetrics": "31.93 URLs/second",
   "problematicPages": [],
-  "errorPages": [
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-muscle-soak-bath-salts-400g.html/05000231036781",
-      "error": "request to https://www.radox.co.uk/p/radox-muscle-soak-bath-salts-400g.html/05000231036781 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.449Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-stress-relief-bath-soak-500ml.html/05000231050855",
-      "error": "request to https://www.radox.co.uk/p/radox-stress-relief-bath-soak-500ml.html/05000231050855 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.423Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-muscle-therapy-bath-soak-500ml.html/05000231070112",
-      "error": "request to https://www.radox.co.uk/p/radox-muscle-therapy-bath-soak-500ml.html/05000231070112 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.449Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-detoxed-bath-salts-900g.html/08710447459263",
-      "error": "request to https://www.radox.co.uk/p/radox-detoxed-bath-salts-900g.html/08710447459263 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.423Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-muscle-relax-bath-salts-900g.html/08710447459270",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:45.842Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-relaxed-bath-soak-500ml.html/08710847950223",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:45.809Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-pampered-bath-soak-500ml.html/08710847950254",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:46.519Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-awake-2-in-1-shower-gel.html/08720181336034",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-awake-2-in-1-shower-gel.html/08720181336034 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.423Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-refreshed-shower-gel.html/08720181336058",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-refreshed-shower-gel.html/08720181336058 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.450Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-active-shower-gel.html/08720181336096",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:46.255Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-hydrated-shower-gel-225ml.html/08720181465482",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-hydrated-shower-gel-225ml.html/08720181465482 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.451Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-nourished-shower-cream-450-ml-with-coconut-&-pineapple.html/08720181579394",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-nourished-shower-cream-450-ml-with-coconut-&-pineapple.html/08720181579394 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.449Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-restored-shower-cream-450-ml-with-mango-&-cocoa-butter.html/08720181579400",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-restored-shower-cream-450-ml-with-mango-&-cocoa-butter.html/08720181579400 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.450Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-indulged-shower-cream-450-ml-with-passion-fruit-&-shea.html/08720181579417",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-indulged-shower-cream-450-ml-with-passion-fruit-&-shea.html/08720181579417 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.450Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-energised-2-in-1-for-men-450-ml-with-marine-minerals-&-eucalyptus.html/08720181587641",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-energised-2-in-1-for-men-450-ml-with-marine-minerals-&-eucalyptus.html/08720181587641 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.457Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-recovered-2-in-1-for-men-450-ml-with-black-pepper-&-ginger.html/08720181587658",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-recovered-2-in-1-for-men-450-ml-with-black-pepper-&-ginger.html/08720181587658 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.457Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-awake-shower-gel-60ml.html/08720181128585",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-awake-shower-gel-60ml.html/08720181128585 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.469Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-special-edition-sweet-summer-nights-shower-gel-200ml.html/08720181332531",
-      "error": "request to https://www.radox.co.uk/p/radox-special-edition-sweet-summer-nights-shower-gel-200ml.html/08720181332531 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.469Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-special-edition-secret-garden-shower-gel-60ml.html/08720181332548",
-      "error": "request to https://www.radox.co.uk/p/radox-special-edition-secret-garden-shower-gel-60ml.html/08720181332548 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.469Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/radox-feel-refreshed-shower-gel-refill.html/08720181347313",
-      "error": "request to https://www.radox.co.uk/p/radox-feel-refreshed-shower-gel-refill.html/08720181347313 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:42:50.469Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.radox.co.uk/p/feel-revitalised-mineral-bath-soak-500ml.html/08720181586682",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:45.545Z"
-    }
-  ]
+  "errorPages": []
 }

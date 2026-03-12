@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:41:51.051Z",
+  "generatedAt": "2026-03-12T15:55:28.224Z",
   "brand": "walls",
   "assortmentCode": "BF1023",
   "feedUrl": "https://www.langnese.de/home.productfeed.json",
@@ -10,289 +10,289 @@
       "type": "successful",
       "url": "https://www.langnese.de/p/capri-1-x-55-ml.html/00000040561035",
       "gtin": "00000040561035",
-      "checkedAt": "2026-03-12T15:41:43.415Z"
+      "checkedAt": "2026-03-12T15:55:21.317Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/nogger-1-x-94-ml.html/00000040561219",
       "gtin": "00000040561219",
-      "checkedAt": "2026-03-12T15:41:43.308Z"
+      "checkedAt": "2026-03-12T15:55:21.277Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/capri-9-x-55-ml.html/04056100012135",
       "gtin": "04056100012135",
-      "checkedAt": "2026-03-12T15:41:43.342Z"
+      "checkedAt": "2026-03-12T15:55:20.662Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cornetto-king-cone-vanilla-1-x-260-ml.html/05201028355508",
       "gtin": "05201028355508",
-      "checkedAt": "2026-03-12T15:41:43.486Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/viennetta-vanille-650ml.html/08000920200025",
-      "gtin": "08000920200025",
-      "checkedAt": "2026-03-12T15:41:43.505Z"
+      "checkedAt": "2026-03-12T15:55:20.609Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/super-twister-1-x-110-ml.html/08000920402801",
       "gtin": "08000920402801",
-      "checkedAt": "2026-03-12T15:41:43.443Z"
+      "checkedAt": "2026-03-12T15:55:20.697Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/mini-milk-erdbeer-1-x-35-ml.html/08000920461143",
       "gtin": "08000920461143",
-      "checkedAt": "2026-03-12T15:41:43.296Z"
+      "checkedAt": "2026-03-12T15:55:20.703Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/mini-milk-vanille.html/08000920461150",
       "gtin": "08000920461150",
-      "checkedAt": "2026-03-12T15:41:43.487Z"
+      "checkedAt": "2026-03-12T15:55:21.350Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/calippo-cola-1-x-105-ml.html/08000920461235",
       "gtin": "08000920461235",
-      "checkedAt": "2026-03-12T15:41:43.297Z"
+      "checkedAt": "2026-03-12T15:55:20.761Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/mini-milk-schokolade.html/08000920470008",
       "gtin": "08000920470008",
-      "checkedAt": "2026-03-12T15:41:43.260Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/cornetto-buttermilch-zitrone-1-x-120-ml.html/08711327325012",
-      "gtin": "08711327325012",
-      "checkedAt": "2026-03-12T15:41:43.229Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/langnese-nogger-mix-6-x-90-ml.html/08711327345478",
-      "gtin": "08711327345478",
-      "checkedAt": "2026-03-12T15:41:43.833Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/cornetto-soft-chocolatey-4-x-140-ml.html/08711327489448",
-      "gtin": "08711327489448",
-      "checkedAt": "2026-03-12T15:41:43.461Z"
+      "checkedAt": "2026-03-12T15:55:21.428Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/twister-mini-pineapple-8er-pack-400-ml.html/08711327576810",
       "gtin": "08711327576810",
-      "checkedAt": "2026-03-12T15:41:43.482Z"
+      "checkedAt": "2026-03-12T15:55:21.432Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/flutschfinger-8-x-64-ml.html/08711327578418",
       "gtin": "08711327578418",
-      "checkedAt": "2026-03-12T15:41:43.585Z"
+      "checkedAt": "2026-03-12T15:55:20.629Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/twister-monstaahh-1-x-70-ml.html/08711327580336",
       "gtin": "08711327580336",
-      "checkedAt": "2026-03-12T15:41:43.425Z"
+      "checkedAt": "2026-03-12T15:55:20.425Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cuja-mara-split-5-x-84-ml.html/08711327584686",
       "gtin": "08711327584686",
-      "checkedAt": "2026-03-12T15:41:43.351Z"
+      "checkedAt": "2026-03-12T15:55:21.389Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/flutschfinger-1-x-64-ml.html/08711327587588",
       "gtin": "08711327587588",
-      "checkedAt": "2026-03-12T15:41:43.443Z"
+      "checkedAt": "2026-03-12T15:55:20.694Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/kids-mix-8-er-pack-360-ml.html/08711327592469",
       "gtin": "08711327592469",
-      "checkedAt": "2026-03-12T15:41:43.331Z"
+      "checkedAt": "2026-03-12T15:55:20.718Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/langnese-klassiker-mix-482ml.html/08711327594296",
       "gtin": "08711327594296",
-      "checkedAt": "2026-03-12T15:41:43.205Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/langnese-nogger-5-x-94-ml.html/08711327594883",
-      "gtin": "08711327594883",
-      "checkedAt": "2026-03-12T15:41:43.260Z"
+      "checkedAt": "2026-03-12T15:55:21.386Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cornetto-classico-6er-pack-540-ml.html/08711327616783",
       "gtin": "08711327616783",
-      "checkedAt": "2026-03-12T15:41:43.411Z"
+      "checkedAt": "2026-03-12T15:55:21.428Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cornetto-erdbeer-6er-pack-540-ml.html/08711327617810",
       "gtin": "08711327617810",
-      "checkedAt": "2026-03-12T15:41:43.304Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/cornetto-haselnuss-1-x-125-ml.html/08711327620209",
-      "gtin": "08711327620209",
-      "checkedAt": "2026-03-12T15:41:43.273Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/cornetto-erdbeer-1-x-125-ml.html/08711327620322",
-      "gtin": "08711327620322",
-      "checkedAt": "2026-03-12T15:41:43.314Z"
+      "checkedAt": "2026-03-12T15:55:20.426Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/dracula-1-x-54-ml.html/08711327629790",
       "gtin": "08711327629790",
-      "checkedAt": "2026-03-12T15:41:43.461Z"
+      "checkedAt": "2026-03-12T15:55:20.658Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/family-mix-7er-pack-462-ml.html/08711327635876",
       "gtin": "08711327635876",
-      "checkedAt": "2026-03-12T15:41:43.562Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/twister-mini-mallow-8er-pack-400-ml.html/08711327653245",
-      "gtin": "08711327653245",
-      "checkedAt": "2026-03-12T15:41:43.736Z"
+      "checkedAt": "2026-03-12T15:55:21.198Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/solero-exotic-6er-xl-pack-540-ml.html/08711327653337",
       "gtin": "08711327653337",
-      "checkedAt": "2026-03-12T15:41:43.356Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/haribo-push-up-4er-pack-340-ml.html/08711327666825",
-      "gtin": "08711327666825",
-      "checkedAt": "2026-03-12T15:41:43.628Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/push-up-haribo-1-x-85-ml.html/08711327667525",
-      "gtin": "08711327667525",
-      "checkedAt": "2026-03-12T15:41:43.338Z"
+      "checkedAt": "2026-03-12T15:55:20.582Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cornetto-max-mango-&-vanilla-4er-pack-360-ml.html/08711327680715",
       "gtin": "08711327680715",
-      "checkedAt": "2026-03-12T15:41:43.484Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/dolomiti-6er-pack-428-ml.html/08712100493355",
-      "gtin": "08712100493355",
-      "checkedAt": "2026-03-12T15:41:43.329Z"
+      "checkedAt": "2026-03-12T15:55:21.230Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/solero-exotic-1-x-90-ml.html/08712100889233",
       "gtin": "08712100889233",
-      "checkedAt": "2026-03-12T15:41:43.477Z"
+      "checkedAt": "2026-03-12T15:55:20.558Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cornetto-go-1-x-110-ml.html/08714100641002",
       "gtin": "08714100641002",
-      "checkedAt": "2026-03-12T15:41:43.330Z"
+      "checkedAt": "2026-03-12T15:55:20.562Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/minecraft-1-x-75-ml.html/08721274803136",
       "gtin": "08721274803136",
-      "checkedAt": "2026-03-12T15:41:43.462Z"
+      "checkedAt": "2026-03-12T15:55:21.380Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cornetto-max-pistazie-1-x-115-ml.html/08721274809893",
       "gtin": "08721274809893",
-      "checkedAt": "2026-03-12T15:41:43.443Z"
+      "checkedAt": "2026-03-12T15:55:20.705Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/twister-frrreeze-1-x-70-ml.html/08721274812640",
       "gtin": "08721274812640",
-      "checkedAt": "2026-03-12T15:41:43.496Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/solero-strawberry-twist-1-x-90-ml.html/08721274813623",
-      "gtin": "08721274813623",
-      "checkedAt": "2026-03-12T15:41:43.652Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/solero-strawberry-twist-4-x-90-ml.html/08721274815498",
-      "gtin": "08721274815498",
-      "checkedAt": "2026-03-12T15:41:43.400Z"
+      "checkedAt": "2026-03-12T15:55:20.555Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/solero-bon-bon-exotic-12-x-16-ml.html/08721274817652",
       "gtin": "08721274817652",
-      "checkedAt": "2026-03-12T15:41:43.588Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/cuja-mara-split-1-x-84-ml.html/08722700011156",
-      "gtin": "08722700011156",
-      "checkedAt": "2026-03-12T15:41:43.468Z"
+      "checkedAt": "2026-03-12T15:55:21.277Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/cornetto-king-cone-chocolate.html/08722700020097",
       "gtin": "08722700020097",
-      "checkedAt": "2026-03-12T15:41:43.390Z"
-    },
-    {
-      "type": "successful",
-      "url": "https://www.langnese.de/p/riesenhappen-1-x-140-ml.html/08722700054405",
-      "gtin": "08722700054405",
-      "checkedAt": "2026-03-12T15:41:43.288Z"
+      "checkedAt": "2026-03-12T15:55:20.586Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/konfekt-10-x-10-ml.html/08722700127765",
       "gtin": "08722700127765",
-      "checkedAt": "2026-03-12T15:41:43.651Z"
+      "checkedAt": "2026-03-12T15:55:21.248Z"
     },
     {
       "type": "successful",
       "url": "https://www.langnese.de/p/nogger-choc-1-x-90-ml.html/08722700209973",
       "gtin": "08722700209973",
-      "checkedAt": "2026-03-12T15:41:43.493Z"
+      "checkedAt": "2026-03-12T15:55:21.304Z"
     }
   ],
-  "errors": 1,
-  "duration": "8.28s",
-  "speedMetrics": "5.68 URLs/second",
+  "errors": 16,
+  "duration": "8.20s",
+  "speedMetrics": "5.73 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
+      "url": "https://www.langnese.de/p/viennetta-vanille-650ml.html/08000920200025",
+      "error": "request to https://www.langnese.de/p/viennetta-vanille-650ml.html/08000920200025 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T15:55:28.224Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-buttermilch-zitrone-1-x-120-ml.html/08711327325012",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.385Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/langnese-nogger-mix-6-x-90-ml.html/08711327345478",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.167Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-soft-chocolatey-4-x-140-ml.html/08711327489448",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.741Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/langnese-nogger-5-x-94-ml.html/08711327594883",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-haselnuss-1-x-125-ml.html/08711327620209",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.682Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cornetto-erdbeer-1-x-125-ml.html/08711327620322",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:24.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/twister-mini-mallow-8er-pack-400-ml.html/08711327653245",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:24.315Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/haribo-push-up-4er-pack-340-ml.html/08711327666825",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/push-up-haribo-1-x-85-ml.html/08711327667525",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.514Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/dolomiti-6er-pack-428-ml.html/08712100493355",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.925Z"
+    },
+    {
+      "type": "error",
       "url": "https://www.langnese.de/p/volcanix-1-x-80-ml.html/08721274810011",
       "error": "request to https://www.langnese.de/p/volcanix-1-x-80-ml.html/08721274810011 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:41:51.050Z"
+      "checkedAt": "2026-03-12T15:55:28.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/solero-strawberry-twist-1-x-90-ml.html/08721274813623",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/solero-strawberry-twist-4-x-90-ml.html/08721274815498",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.223Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/cuja-mara-split-1-x-84-ml.html/08722700011156",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.591Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.langnese.de/p/riesenhappen-1-x-140-ml.html/08722700054405",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T15:55:23.399Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:43:04.106Z",
+  "generatedAt": "2026-03-12T15:56:53.481Z",
   "brand": "zest",
   "assortmentCode": "BH1081",
   "feedUrl": "https://www.zest.com.mx/home.productfeed.json",
@@ -10,109 +10,108 @@
       "type": "successful",
       "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-delicate1.html/07506306219281",
       "gtin": "07506306219281",
-      "checkedAt": "2026-03-12T15:42:56.661Z"
+      "checkedAt": "2026-03-12T15:56:46.552Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure1.html/07506306219298",
+      "gtin": "07506306219298",
+      "checkedAt": "2026-03-12T15:56:46.499Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-antb-alcohol-spray-12x300ml.html/07506306222922",
+      "gtin": "07506306222922",
+      "checkedAt": "2026-03-12T15:56:46.522Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-gel-antibacterial-12x400ml.html/07506306222939",
       "gtin": "07506306222939",
-      "checkedAt": "2026-03-12T15:42:56.637Z"
+      "checkedAt": "2026-03-12T15:56:51.012Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-antib-aer-para-manos-12x108g-150ml.html/07506306223004",
       "gtin": "07506306223004",
-      "checkedAt": "2026-03-12T15:42:56.403Z"
+      "checkedAt": "2026-03-12T15:56:46.535Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-jab-vainilla-y-jengibre.html/07506306202955",
       "gtin": "07506306202955",
-      "checkedAt": "2026-03-12T15:42:56.372Z"
+      "checkedAt": "2026-03-12T15:56:46.665Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-jab-toronja-y-albahaca.html/07506306202962",
       "gtin": "07506306202962",
-      "checkedAt": "2026-03-12T15:42:56.309Z"
+      "checkedAt": "2026-03-12T15:56:46.594Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-bw-liquido-agua-de-coco.html/07506306216020",
       "gtin": "07506306216020",
-      "checkedAt": "2026-03-12T15:42:56.642Z"
+      "checkedAt": "2026-03-12T15:56:53.200Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-delicate.html/07506306219250",
       "gtin": "07506306219250",
-      "checkedAt": "2026-03-12T15:42:56.261Z"
+      "checkedAt": "2026-03-12T15:56:46.708Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure.html/07506306219267",
       "gtin": "07506306219267",
-      "checkedAt": "2026-03-12T15:42:56.670Z"
+      "checkedAt": "2026-03-12T15:56:46.575Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-jab-aqua.html/07506306238336",
       "gtin": "07506306238336",
-      "checkedAt": "2026-03-12T15:42:56.317Z"
+      "checkedAt": "2026-03-12T15:56:46.709Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-jab-men.html/07506306238350",
       "gtin": "07506306238350",
-      "checkedAt": "2026-03-12T15:42:56.354Z"
+      "checkedAt": "2026-03-12T15:56:53.480Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-jab-pepino.html/07506306238398",
       "gtin": "07506306238398",
-      "checkedAt": "2026-03-12T15:42:56.807Z"
+      "checkedAt": "2026-03-12T15:56:46.607Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-almendra-y-avena.html/07506306238404",
+      "gtin": "07506306238404",
+      "checkedAt": "2026-03-12T15:56:46.688Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-jab-neutro.html/07506306238428",
       "gtin": "07506306238428",
-      "checkedAt": "2026-03-12T15:42:56.413Z"
+      "checkedAt": "2026-03-12T15:56:46.582Z"
     },
     {
       "type": "successful",
       "url": "https://www.zest.com.mx/p/zest-bw-toronja-y-albahaca.html/08710908851476",
       "gtin": "08710908851476",
-      "checkedAt": "2026-03-12T15:42:56.291Z"
+      "checkedAt": "2026-03-12T15:56:46.531Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-hw-toronja-y-albahaca.html/08710908851704",
+      "gtin": "08710908851704",
+      "checkedAt": "2026-03-12T15:56:46.487Z"
     }
   ],
-  "errors": 4,
-  "duration": "8.14s",
-  "speedMetrics": "2.09 URLs/second",
+  "errors": 0,
+  "duration": "7.43s",
+  "speedMetrics": "2.29 URLs/second",
   "problematicPages": [],
-  "errorPages": [
-    {
-      "type": "error",
-      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure1.html/07506306219298",
-      "error": "request to https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure1.html/07506306219298 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:04.106Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.zest.com.mx/p/zest-antb-alcohol-spray-12x300ml.html/07506306222922",
-      "error": "request to https://www.zest.com.mx/p/zest-antb-alcohol-spray-12x300ml.html/07506306222922 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:04.105Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.zest.com.mx/p/zest-jab-almendra-y-avena.html/07506306238404",
-      "error": "request to https://www.zest.com.mx/p/zest-jab-almendra-y-avena.html/07506306238404 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:04.106Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.zest.com.mx/p/zest-hw-toronja-y-albahaca.html/08710908851704",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:42:59.465Z"
-    }
-  ]
+  "errorPages": []
 }

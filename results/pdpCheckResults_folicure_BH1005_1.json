@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:43:05.891Z",
+  "generatedAt": "2026-03-12T15:56:03.847Z",
   "brand": "folicure",
   "assortmentCode": "BH1005",
   "feedUrl": "https://www.folicure.com.mx/home.productfeed.json",
@@ -10,43 +10,43 @@
       "type": "successful",
       "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caida-original-700-ml.html/07501059334717",
       "gtin": "07501059334717",
-      "checkedAt": "2026-03-12T15:42:58.149Z"
+      "checkedAt": "2026-03-12T15:55:56.208Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-limpieza-renovadora-700-ml.html/07506306213029",
+      "gtin": "07506306213029",
+      "checkedAt": "2026-03-12T15:55:56.074Z"
     },
     {
       "type": "successful",
       "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-men-2en1-700-ml.html/07506306213036",
       "gtin": "07506306213036",
-      "checkedAt": "2026-03-12T15:42:57.993Z"
+      "checkedAt": "2026-03-12T15:55:56.069Z"
     },
     {
       "type": "successful",
       "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-hidratacion-2en1-700-ml.html/07506306213050",
       "gtin": "07506306213050",
-      "checkedAt": "2026-03-12T15:42:58.127Z"
+      "checkedAt": "2026-03-12T15:55:56.207Z"
     },
     {
       "type": "successful",
       "url": "https://www.folicure.com.mx/p/folicure-acondicionador-control-caida-humectacion-profunda-350-m.html/07506306213067",
       "gtin": "07506306213067",
-      "checkedAt": "2026-03-12T15:43:04.044Z"
+      "checkedAt": "2026-03-12T15:55:56.187Z"
     }
   ],
-  "errors": 2,
-  "duration": "8.10s",
-  "speedMetrics": "0.74 URLs/second",
+  "errors": 1,
+  "duration": "8.23s",
+  "speedMetrics": "0.73 URLs/second",
   "problematicPages": [],
   "errorPages": [
     {
       "type": "error",
       "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caida-extra-700-ml.html/07501059338531",
       "error": "request to https://www.folicure.com.mx/p/folicure-shampoo-control-caida-extra-700-ml.html/07501059338531 failed, reason: Socket timeout",
-      "checkedAt": "2026-03-12T15:43:05.891Z"
-    },
-    {
-      "type": "error",
-      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-limpieza-renovadora-700-ml.html/07506306213029",
-      "error": "HTTP Error: 404 Not Found",
-      "checkedAt": "2026-03-12T15:43:02.712Z"
+      "checkedAt": "2026-03-12T15:56:03.847Z"
     }
   ]
 }
