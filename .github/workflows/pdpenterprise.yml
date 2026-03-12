@@ -1,43 +1,67 @@
-name: PDP Parallel Check
+name: PDP Enterprise Scanner
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
 
-  build-matrix:
+# ------------------------------------------------
+# 1️⃣ Build batches from JSON
+# ------------------------------------------------
+
+  build-batches:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.generate.outputs.matrix }}
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Install jq
-        run: sudo apt-get install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Generate matrix (limit 200 to stay under GitHub limit)
+      - name: Generate batches
         id: generate
         run: |
-          matrix=$(jq -c '[.data[] | {brand: .brand, code: .assortmentCode}] | .[:200]' productPageUrls.json)
-          echo "matrix=$matrix" >> $GITHUB_OUTPUT
+
+          echo "Reading JSON..."
+
+          jq '[.data[] | {brand:.brand, code:.assortmentCode}]' productPageUrls.json > brands.json
+
+          echo "Total brands:"
+          jq length brands.json
+
+          BATCH_SIZE=15
+
+          MATRIX=$(jq -c \
+          --argjson size $BATCH_SIZE '
+          [range(0; length; $size) as $i
+            | {batch: .[$i:$i+$size]}]
+          ' brands.json)
+
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
 
 
-  run-check:
-    needs: build-matrix
+# ------------------------------------------------
+# 2️⃣ Run PDP checks in parallel batches
+# ------------------------------------------------
+
+  run-batch:
+    needs: build-batches
     runs-on: ubuntu-latest
 
     strategy:
       fail-fast: false
-      max-parallel: 10
+      max-parallel: 20
       matrix:
-        include: ${{ fromJson(needs.build-matrix.outputs.matrix) }}
+        include: ${{ fromJson(needs.build-batches.outputs.matrix) }}
 
     steps:
 
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -47,43 +71,77 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run PDP check
+      - name: Execute batch
         run: |
-          mkdir output
-          node checkPdpPages.js "${{ matrix.brand }}" "${{ matrix.code }}"
-          mv *.json output/ || true
 
-      - name: Upload results
+          mkdir results
+
+          echo '${{ toJson(matrix.batch) }}' > batch.json
+
+          node <<'NODE'
+
+          const fs = require("fs")
+          const { execSync } = require("child_process")
+
+          const batch = JSON.parse(fs.readFileSync("batch.json","utf8"))
+
+          console.log("Batch size:", batch.length)
+
+          for (const item of batch) {
+
+            console.log("Checking brand:", item.brand, item.code)
+
+            execSync(
+              `node checkPdpPages.js "${item.brand}" "${item.code}"`,
+              { stdio: "inherit" }
+            )
+          }
+
+          NODE
+
+          mv *.json results/ || true
+
+      - name: Upload batch artifact
         uses: actions/upload-artifact@v4
         with:
-          name: results-${{ strategy.job-index }}
-          path: output/
+          name: batch-${{ strategy.job-index }}
+          path: results/
           if-no-files-found: ignore
 
 
+# ------------------------------------------------
+# 3️⃣ Merge results
+# ------------------------------------------------
+
   merge-results:
-    needs: run-check
+    needs: run-batch
+    if: always()
     runs-on: ubuntu-latest
 
     steps:
 
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Download all artifacts
+      - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
           path: artifacts
 
       - name: Merge JSON files
         run: |
-          mkdir -p final
+
+          mkdir final
+
           find artifacts -name "*.json" -exec cp {} final/ \;
 
-      - name: Commit results to repository
+          echo "Total result files:"
+          ls final | wc -l
+
+      - name: Commit results
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+
+          git config user.name github-actions
+          git config user.email github-actions@github.com
 
           mkdir -p results
           cp final/*.json results/ || true
@@ -92,8 +150,8 @@ jobs:
 
           if git diff --cached --quiet
           then
-            echo "No changes"
+            echo "No new changes"
           else
-            git commit -m "Add PDP results"
+            git commit -m "PDP scan results"
             git push
           fi
