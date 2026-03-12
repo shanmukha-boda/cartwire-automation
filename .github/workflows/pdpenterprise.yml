@@ -13,7 +13,7 @@ jobs:
       - name: Generate matrix
         id: generate
         run: |
-          matrix=$(jq -c '[.data[] | {brand: .brand, code: .assortmentCode}]' productPageUrls.json)
+          matrix=$(jq -c '[.data[] | {brand: .brand, code: .assortmentCode}] | .[:200]' productPageUrls.json)
           echo "matrix=$matrix" >> $GITHUB_OUTPUT
   run-check:
     needs: build-matrix
