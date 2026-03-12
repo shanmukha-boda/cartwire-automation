@@ -1,10 +1,7 @@
 name: PDP Parallel Check
-
 on:
   workflow_dispatch:
-
 jobs:
-
   build-matrix:
     runs-on: ubuntu-latest
     outputs:
@@ -18,8 +15,6 @@ jobs:
         run: |
           matrix=$(jq -c '[.data[] | {brand: .brand, code: .assortmentCode}]' productPageUrls.json)
           echo "matrix=$matrix" >> $GITHUB_OUTPUT
-
-
   run-check:
     needs: build-matrix
     runs-on: ubuntu-latest
@@ -55,7 +50,6 @@ jobs:
   merge-results:
     needs: run-check
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
