@@ -267,7 +267,7 @@ async function main() {
       };
  
       const results = [];
-      const batchSize = 200; // You can likely increase this now that Puppeteer is gone
+      const batchSize = 80; // You can likely increase this now that Puppeteer is gone
      
       for (let i = 0; i < brandData.productPageUrls.length; i += batchSize) {
     
