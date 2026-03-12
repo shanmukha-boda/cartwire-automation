@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-03-12T12:48:35.646Z",
+  "brand": "bango",
+  "assortmentCode": "BF0917",
+  "feedUrl": "https://www.bango.co.id/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-520ml.html/08999999100506",
+      "gtin": "08999999100506",
+      "checkedAt": "2026-03-12T12:48:29.393Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-sachet-18ml.html/08999999533496",
+      "gtin": "08999999533496",
+      "checkedAt": "2026-03-12T12:48:28.557Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-hitam-gurih-55g.html/08999999596507",
+      "gtin": "08999999596507",
+      "checkedAt": "2026-03-12T12:48:29.399Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-hitam-gurih-550g.html/08999999596521",
+      "gtin": "08999999596521",
+      "checkedAt": "2026-03-12T12:48:28.467Z"
+    }
+  ],
+  "errors": 3,
+  "duration": "8.67s",
+  "speedMetrics": "0.81 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-botol-620ml.html/08990121011028",
+      "error": "request to https://www.bango.co.id/p/bango-kecap-manis-botol-620ml.html/08990121011028 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:35.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-pedas-210ml.html/08999999026257",
+      "error": "request to https://www.bango.co.id/p/bango-kecap-manis-pedas-210ml.html/08999999026257 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:35.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-less-sugar-520ml.html/08999999541897",
+      "error": "request to https://www.bango.co.id/p/bango-less-sugar-520ml.html/08999999541897 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:35.645Z"
+    }
+  ]
+}

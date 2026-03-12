@@ -1,0 +1,376 @@
+{
+  "generatedAt": "2026-03-12T12:48:40.381Z",
+  "brand": "signal",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal.be/nl/home.productfeed.json",
+  "totalUrlsChecked": 60,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/caries-protection-fluor-&-calcium-100ml.html/03014230002090",
+      "gtin": "03014230002090",
+      "checkedAt": "2026-03-12T12:48:35.662Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-white-now-soft.html/08000630041574",
+      "gtin": "08000630041574",
+      "checkedAt": "2026-03-12T12:48:35.714Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-white-now-detox-coconut-75ml.html/08710604754224",
+      "gtin": "08710604754224",
+      "checkedAt": "2026-03-12T12:48:35.540Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-complete-75ml.html/08720181416316",
+      "gtin": "08720181416316",
+      "checkedAt": "2026-03-12T12:48:35.573Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-white-system-classic-75ml.html/08720181419683",
+      "gtin": "08720181419683",
+      "checkedAt": "2026-03-12T12:48:35.271Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-toothpaste-crystal-gel-75-ml.html/08720181419690",
+      "gtin": "08720181419690",
+      "checkedAt": "2026-03-12T12:48:35.481Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-pure-breath-75-ml.html/08720181242397",
+      "gtin": "08720181242397",
+      "checkedAt": "2026-03-12T12:48:35.706Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-intense-fresh-75ml-24x.html/08720181419126",
+      "gtin": "08720181419126",
+      "checkedAt": "2026-03-12T12:48:34.627Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-junior-1-x-extra-soft.html/08720181502897",
+      "gtin": "08720181502897",
+      "checkedAt": "2026-03-12T12:48:35.523Z"
+    }
+  ],
+  "errors": 51,
+  "duration": "9.58s",
+  "speedMetrics": "6.26 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-classic-fresh-hard.html/00000054024786",
+      "error": "request to https://www.signal.be/nl/p/signal-tandenborstel-classic-fresh-hard.html/00000054024786 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.222Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandpasta-bescherming-tegen-cari%C3%ABs.html/03014230002076",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-classic-fresh-medium.html/08413300264270",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.253Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-elements-tandpasta-herbal.html/08710447328088",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.381Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-elements-tandpasta-kokos.html/08710447328095",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-elements-charcoal-75ml.html/08710522417379",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:38.774Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-white-system-2-pack-1-x-medium.html/08710522712108",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-white-now-detox-charcoal-75ml.html/08710604754231",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:39.247Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-el%C3%A9ments-baking-soda-75ml.html/08710604781879",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-white-system-1-x-medium.html/08718114198903",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.877Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-el%C3%A9ments-chamomile-75ml.html/08720181230585",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-anti-plaque-4-pack-(medium).html/08720181236310",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:38.997Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-pure-breath-75ml.html/08720181242397",
+      "error": "request to https://www.signal.be/nl/p/signal-pure-breath-75ml.html/08720181242397 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.222Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-white-now-original-75ml.html/08720181327148",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.635Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-white-now-gold-75ml.html/08720181327155",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.472Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-interdental-75ml.html/08720181419089",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-deep-clean-75ml.html/08720181419102",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.743Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-white-75ml.html/08720181419119",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:38.717Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-intense-fresh-75ml.html/08720181419126",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.659Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-expert-comfort-1-x-medium.html/08720181426971",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.269Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-kids-tandpasta-multifruit.html/08720181501784",
+      "error": "request to https://www.signal.be/nl/p/signal-kids-tandpasta-multifruit.html/08720181501784 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.222Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-junior-tandpasta-munt.html/08720181501791",
+      "error": "request to https://www.signal.be/nl/p/signal-junior-tandpasta-munt.html/08720181501791 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.223Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-kids-1-x-extra-zacht.html/08720181502880",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.941Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-junior-1-x-extra-zacht.html/08720181502897",
+      "error": "request to https://www.signal.be/nl/p/signal-tandenborstel-junior-1-x-extra-zacht.html/08720181502897 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.223Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-classic-clean-1-x-dure.html/00000054024786",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-protection-contre-les-caries-75-ml.html/03014230002076",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.385Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-toothpaste-protection-against-caries-100-ml-x24.html/03014230002090",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-white-system-1-x-souple.html/08000630041574",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-classic-clean-1-x-moyenne.html/08413300264270",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.742Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-aux-herbes-75-ml.html/08710447328088",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.750Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-%C3%A0-la-noix-de-coco-75-ml.html/08710447328095",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-charcoal-75ml.html/08710522417379",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:33.312Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-white-system-2-packs.html/08710522712108",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-white-now-dentifrice-detox-coconut-75-ml.html/08710604754224",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.712Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-white-now-dentifrice-detox-charcoal-75-ml.html/08710604754231",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.833Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-toothpaste-baking-soda-75ml.html/08710604781879",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.783Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-white-system-1-x-medium.html/08718114198903",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:33.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-camomille-75-ml.html/08720181230585",
+      "error": "request to https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-camomille-75-ml.html/08720181230585 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.223Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-a-plaq-quatro-medium-10x.html/08720181236310",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-now-original-75-ml.html/08720181327148",
+      "error": "request to https://www.signal.be/fr/p/dentifrice-signal-white-now-original-75-ml.html/08720181327148 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.223Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-now-gold-75-ml.html/08720181327155",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.675Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-complete-75ml-24x.html/08720181416316",
+      "error": "request to https://www.signal.be/fr/p/dentifrice-signal-integral-8-complete-75ml-24x.html/08720181416316 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.381Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-interdental-75ml-24x.html/08720181419089",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:39.875Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-deep-clean-75ml-24x.html/08720181419102",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:38.188Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-white-75ml-24x.html/08720181419119",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:38.605Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-system-75ml-24x.html/08720181419683",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:39.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-crystal-gel-75ml-24x.html/08720181419690",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.634Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-expert-comfort-1-x-moyenne.html/08720181426971",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-kids-multifruit-75-ml.html/08720181501784",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.779Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-junior-dentifrice-menthe-75-ml.html/08720181501791",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:33.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-kids-x1-extra-soft.html/08720181502880",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.669Z"
+    }
+  ]
+}

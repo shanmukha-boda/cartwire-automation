@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-03-12T12:48:37.961Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0178",
+  "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-isilti-serumu-90ml.html/08683130095812",
+      "gtin": "08683130095812",
+      "checkedAt": "2026-03-12T12:48:32.153Z"
+    }
+  ]
+}

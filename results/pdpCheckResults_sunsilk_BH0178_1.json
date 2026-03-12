@@ -1,0 +1,290 @@
+{
+  "generatedAt": "2026-03-12T12:48:37.961Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0178",
+  "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+  "totalUrlsChecked": 45,
+  "problematicPagesFound": 1,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-isi-ile-aktiflsen-keratin-bakim.html/08683130059203",
+      "gtin": "08683130059203",
+      "checkedAt": "2026-03-12T12:48:32.997Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/summer-rescue-sac-bakim-sutu.html/08683130083024",
+      "gtin": "08683130083024",
+      "checkedAt": "2026-03-12T12:48:33.109Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/sac-d%C3%B6k%C3%BClmesi-karsiti-sampuan-400ml.html/08683130108826",
+      "gtin": "08683130108826",
+      "checkedAt": "2026-03-12T12:48:32.550Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/saglikli-uzayan-sampuan-400ml.html/08683130108833",
+      "gtin": "08683130108833",
+      "checkedAt": "2026-03-12T12:48:33.131Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/7si1-arada-sac-guzellest%C4%B1r%C4%B1c%C4%B1-krem.html/08690637981265",
+      "gtin": "08690637981265",
+      "checkedAt": "2026-03-12T12:48:33.160Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-avokado-ve-uzum-cekirdegi-yagi-200-ml.html/08683130025727",
+      "gtin": "08683130025727",
+      "checkedAt": "2026-03-12T12:48:32.696Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-sampuani-hindistan-cevizi-yagi-400ml.html/08683130049389",
+      "gtin": "08683130049389",
+      "checkedAt": "2026-03-12T12:48:32.336Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-sampuani-avokado-ve-uzum-cekirdegi-400ml.html/08683130049419",
+      "gtin": "08683130049419",
+      "checkedAt": "2026-03-12T12:48:33.123Z"
+    }
+  ],
+  "errors": 36,
+  "duration": "10.87s",
+  "speedMetrics": "4.14 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-isilti-serumu-90ml.html/08683130095812",
+      "gtin": "08683130095812",
+      "checkedAt": "2026-03-12T12:48:32.153Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/aninda-onarici-sampuan-650ml.html/00123123123123",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=00123123123123 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.734Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-sampuan-650ml.html/00123123123124",
+      "error": "request to https://www.elidor.com.tr/p/guclu-parlak-sampuan-650ml.html/00123123123124 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/aninda-onarici-sampuan-500ml.html/00123123123125",
+      "error": "request to https://www.elidor.com.tr/p/aninda-onarici-sampuan-500ml.html/00123123123125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-sampuan-500ml.html/00123123123126",
+      "error": "request to https://www.elidor.com.tr/p/guclu-parlak-sampuan-500ml.html/00123123123126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/superblend-sivi-sac-bakim-sutu-brezilya-keratin-terapisi.html/08683130059197",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130059197 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/superblend-sivi-sac-bakim-kremi-saglikli-uzayan-saclar-biotin-argan-arjinin.html/08683130060490",
+      "error": "request to https://www.elidor.com.tr/p/superblend-sivi-sac-bakim-kremi-saglikli-uzayan-saclar-biotin-argan-arjinin.html/08683130060490 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/superblend-sivi-sac-bakim-kremi-aninda-onarici-c-vitamini.html/08683130060506",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130060506 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/superblend-sivi-sac-bakim-kremi-guclu-ve-parlak-e-vitamini.html/08683130060513",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130060513 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.734Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/summer-rescue.html/08683130083031",
+      "error": "request to https://www.elidor.com.tr/p/summer-rescue.html/08683130083031 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.273Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-sampuan-400ml.html/08683130095829",
+      "error": "request to https://www.elidor.com.tr/p/ultra-isilti-sampuan-400ml.html/08683130095829 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.273Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-yogun-onarici-maske-220ml.html/08683130095836",
+      "error": "request to https://www.elidor.com.tr/p/ultra-isilti-yogun-onarici-maske-220ml.html/08683130095836 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.274Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-sac-bakim-kremi-350ml.html/08683130095843",
+      "error": "request to https://www.elidor.com.tr/p/ultra-isilti-sac-bakim-kremi-350ml.html/08683130095843 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.274Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/aninda-onarici-sampuan-400ml.html/08683130108543",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130108543 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-2in1-sampuan-400ml.html/08683130108604",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130108604 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.733Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-sampuan-400ml.html/08683130108680",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130108680 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/kepege-karsi-2in1-sampuan-400ml.html/08683130108758",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130108758 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.862Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-sampuan-400ml.html/08683130108772",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130108772 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.861Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/aninda-onarici-sac-bakim-kremi-350ml.html/08683130111925",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130111925 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-sac-bakim-kremi-350ml.html/08683130111949",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130111949 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.862Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/sac-d%C3%B6k%C3%BClmesi-karsiti-sac-bakim-kremi-350ml.html/08683130111963",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130111963 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/saglikli-uzayan-sac-bakim-kremi-350ml.html/08683130111970",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130111970 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-sac-bakim-kremi-350ml.html/08683130111987",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130111987 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-serum-bakim-yagi-hindistan-cevizi-yagi-80-ml.html/08683130015674",
+      "error": "request to https://www.elidor.com.tr/p/doganin-enerjisi-serum-bakim-yagi-hindistan-cevizi-yagi-80-ml.html/08683130015674 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-serum-bakim-yagi-avokado-ve-uzum-cekirdegi-yagi-80-ml.html/08683130015681",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130015681 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.812Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-argan-yagi-ve-hibiskus-ozu-350-ml.html/08683130023822",
+      "error": "request to https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-argan-yagi-ve-hibiskus-ozu-350-ml.html/08683130023822 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-avokado-ve-uzum-cekirdegi-yagi-350-ml.html/08683130024393",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130024393 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-hindistan-cevizi-yagi-350-ml.html/08683130024409",
+      "error": "request to https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-hindistan-cevizi-yagi-350-ml.html/08683130024409 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.617Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-argan-yagi-ve-hibiskus-ozu-200-ml.html/08683130025710",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130025710 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-hindistan-cevizi-yagi-200-ml.html/08683130025734",
+      "error": "request to https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-kremi-hindistan-cevizi-yagi-200-ml.html/08683130025734 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.615Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/belirgin-bukleler-7-24.html/08683130039472",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130039472 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.812Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/onarici-etki-7-24.html/08683130039489",
+      "error": "request to https://www.elidor.com.tr/p/onarici-etki-7-24.html/08683130039489 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/elektriklenme-onleyici-7-24.html/08683130039496",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130039496 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.945Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-sampuani-argan-yagi-hibiskus-400ml.html/08683130053799",
+      "error": "request to https://www.elidor.com.tr/p/doganin-enerjisi-sac-bakim-sampuani-argan-yagi-hibiskus-400ml.html/08683130053799 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/summer-rescue-sos-sampuan.html/08683130082973",
+      "error": "request to https://www.elidor.com.tr/p/summer-rescue-sos-sampuan.html/08683130082973 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-yogun-onarici-220ml.html/08683130090381",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=tr-TR&brand_code=BH0178&gtin=08683130090381 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-sivi-sac-bakim-kremi-200ml.html/08683130095805",
+      "error": "request to https://www.elidor.com.tr/p/ultra-isilti-sivi-sac-bakim-kremi-200ml.html/08683130095805 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.616Z"
+    }
+  ]
+}

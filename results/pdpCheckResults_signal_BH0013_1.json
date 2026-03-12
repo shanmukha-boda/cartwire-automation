@@ -1,0 +1,316 @@
+{
+  "generatedAt": "2026-03-12T12:48:41.281Z",
+  "brand": "signal",
+  "assortmentCode": "BH0013",
+  "feedUrl": "https://www.aim.gr/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-carboncorrect.html/08710908837500",
+      "gtin": "08710908837500",
+      "checkedAt": "2026-03-12T12:48:34.522Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/anti-plaque.html/08711600396357",
+      "gtin": "08711600396357",
+      "checkedAt": "2026-03-12T12:48:35.604Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-ice-mint.html/08712561877695",
+      "gtin": "08712561877695",
+      "checkedAt": "2026-03-12T12:48:34.708Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensitive-expert.html/08718114580005",
+      "gtin": "08718114580005",
+      "checkedAt": "2026-03-12T12:48:34.835Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/ultra-reach.html/08718114584782",
+      "gtin": "08718114584782",
+      "checkedAt": "2026-03-12T12:48:34.144Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/classic-fresh-(2x2)-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%AE.html/08720181534416",
+      "gtin": "08720181534416",
+      "checkedAt": "2026-03-12T12:48:35.310Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/%CE%B1nti-plaque-(2x2)-%CE%BC%CE%AD%CF%84%CF%81%CE%B9%CE%B1.html/08720181534423",
+      "gtin": "08720181534423",
+      "checkedAt": "2026-03-12T12:48:34.916Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system-charcoal-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%AE.html/08720181534430",
+      "gtin": "08720181534430",
+      "checkedAt": "2026-03-12T12:48:34.739Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-hello-glow.html/08720181697739",
+      "gtin": "08720181697739",
+      "checkedAt": "2026-03-12T12:48:34.035Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-fresh-kiss.html/08720181698118",
+      "gtin": "08720181698118",
+      "checkedAt": "2026-03-12T12:48:35.371Z"
+    }
+  ],
+  "errors": 40,
+  "duration": "10.52s",
+  "speedMetrics": "4.75 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system.html/00000052015298",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.140Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system.html/00000052015304",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system.html/05201028118950",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.176Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/crystal-gel.html/05201028124104",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-antibac-%2B-white.html/08710522404805",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:39.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-smile-detox.html/08710522664360",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.150Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/gentle-care.html/08710522681657",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/family-protection-white.html/08710908436758",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/family-protection-anticavity.html/08711600365698",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.588Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/anti-plaque-x2.html/08711700809580",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/vertical-expert.html/08711700968904",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.771Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/vertical-expert.html/08711700968997",
+      "error": "request to https://www.aim.gr/p/vertical-expert.html/08711700968997 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system-enamel.html/08712561360432",
+      "error": "request to https://www.aim.gr/p/white-system-enamel.html/08712561360432 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now.html/08712561877664",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.696Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/family-protection-herbal.html/08717163434062",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system-x2.html/08718114143422",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.666Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-ultra-reach-edition.html/08718114256474",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:39.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/classic-fresh.html/08718114585215",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:33.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-shiny-white.html/08720181125935",
+      "error": "request to https://www.aim.gr/p/white-now-shiny-white.html/08720181125935 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/comfort-plus-x3.html/08720181147500",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensisoft-charcoal.html/08720181268731",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensisoft-clean.html/08720181268748",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensisoft-bamboo-salt.html/08720181268755",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensisoft-sensitive.html/08720181268762",
+      "error": "request to https://www.aim.gr/p/sensisoft-sensitive.html/08720181268762 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-system-charcoal.html/08720181436284",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.489Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-ultra-whitening.html/08720181470233",
+      "error": "request to https://www.aim.gr/p/complete-8-actions-ultra-whitening.html/08720181470233 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-extra-fresh.html/08720181470240",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-complete-protection.html/08720181470257",
+      "error": "request to https://www.aim.gr/p/complete-8-actions-complete-protection.html/08720181470257 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/complete-8-actions-deep-clean.html/08720181470264",
+      "error": "request to https://www.aim.gr/p/complete-8-actions-deep-clean.html/08720181470264 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/kids-0-6.html/08720181501371",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.517Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/junior-6-13.html/08720181501388",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.416Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/junior-6-13.html/08720181502866",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.483Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/kids-0-6.html/08720181502873",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.420Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1.html/08720181697005",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=signal&locale=el-gr&brand_code=BH0013&gtin=08720181697005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:41.281Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-white-boost.html/08720181697050",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-forever-young.html/08720181697722",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:33.249Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-shine-with-care.html/08720181697760",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.572Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/sensisoft-charcoal-x2.html/08720181772221",
+      "error": "request to https://www.aim.gr/p/sensisoft-charcoal-x2.html/08720181772221 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/kids-0-6-x3.html/08720181772238",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.aim.gr/p/gentle-care-x4.html/08720181772245",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.374Z"
+    }
+  ]
+}

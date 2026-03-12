@@ -1,0 +1,640 @@
+{
+  "generatedAt": "2026-03-12T12:48:48.892Z",
+  "brand": "rexona",
+  "assortmentCode": "BH0143",
+  "feedUrl": "https://www.degreedeodorant.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 104,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-shower-clean-74g.html/00055086605656",
+      "gtin": "00055086605656",
+      "checkedAt": "2026-03-12T12:48:33.177Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-sport-antiperspirant-76g.html/00055086605762",
+      "gtin": "00055086605762",
+      "checkedAt": "2026-03-12T12:48:39.615Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-clinical-shower-clean-48g.html/00079400007483",
+      "gtin": "00079400007483",
+      "checkedAt": "2026-03-12T12:48:33.052Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-shower-clean-48g.html/00079400123473",
+      "gtin": "00079400123473",
+      "checkedAt": "2026-03-12T12:48:33.066Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-pure-rain-dry-spray-107g.html/00079400447760",
+      "gtin": "00079400447760",
+      "checkedAt": "2026-03-12T12:48:35.218Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-black-white-fresh-antiperspirant-76g.html/00079400448309",
+      "gtin": "00079400448309",
+      "checkedAt": "2026-03-12T12:48:33.049Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-advanced-72h-nonstop-antiperspirant-deodorant-dry-spray-107g.html/00079400487131",
+      "gtin": "00079400487131",
+      "checkedAt": "2026-03-12T12:48:33.065Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-cool-rush-dry-spray-107g.html/00079400536716",
+      "gtin": "00079400536716",
+      "checkedAt": "2026-03-12T12:48:33.071Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-fraicheur-matin-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400446770",
+      "gtin": "00079400446770",
+      "checkedAt": "2026-03-12T12:48:33.049Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-fleurs-blanches-et-litchi-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400460127",
+      "gtin": "00079400460127",
+      "checkedAt": "2026-03-12T12:48:35.263Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-ultraclear-black-white-72h-antisudorifique-en-baton-pour-femmes-74g.html/00079400470225",
+      "gtin": "00079400470225",
+      "checkedAt": "2026-03-12T12:48:35.258Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-ultraclear-black-white-72h-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400628817",
+      "gtin": "00079400628817",
+      "checkedAt": "2026-03-12T12:48:40.928Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-ultraclear-black-white-72h-antisudorifique-en-baton-pour-hommes-76g.html/00079400640000",
+      "gtin": "00079400640000",
+      "checkedAt": "2026-03-12T12:48:40.964Z"
+    }
+  ],
+  "errors": 91,
+  "duration": "18.04s",
+  "speedMetrics": "5.76 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-pure-rain-48g.html/00045893059483",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.760Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-cool-comfort-antiperspirant-76g.html/00045893060557",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.669Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-sheer-powder-74g.html/00055086605663",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.763Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-clinical-pro-clean-antiperspirant-48g.html/00079400007476",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:33.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-intense-sport-deodorant-85g.html/00079400013422",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.823Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-arctic-edge-deodorant-85g.html/00079400013439",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:34.950Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-adventure-antiperspirant-76g.html/00079400077349",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-men-adventure-antiperspirant-76g.html/00079400077349 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.732Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-everest-antiperspirant-76g.html/00079400123411",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-men-everest-antiperspirant-76g.html/00079400123411 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.732Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-fresh-energy-48g.html/00079400123497",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-sport-defense-antiperspirant-76g.html/00079400148407",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.418Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-anti-perspirant-cool-rush-with-48h-sweat-&-odour-protection,-76g.html/00079400265401",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.764Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-clinical-stress-control-48g.html/00079400367143",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-women-clinical-stress-control-48g.html/00079400367143 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.728Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-shower-clean-dry-spray-107g.html/00079400446770",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:34.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-sheer-powder-dry-spray-107g.html/00079400446794",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-women-sheer-powder-dry-spray-107g.html/00079400446794 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.728Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-adventure-dry-spray-107g.html/00079400447227",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-men-adventure-dry-spray-107g.html/00079400447227 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-ultraclear-black-white-72h-driftwood-antiperspirant-deodorant-dry-spray-107g.html/00079400448514",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.670Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-cool-rush-deodorant-85g.html/00079400451743",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-men-cool-rush-deodorant-85g.html/00079400451743 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-pure-rain-74g.html/00079400467072",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.402Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-fresh-energy-74g.html/00079400467089",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.772Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-ultra-clear-black-white-74g.html/00079400470225",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:34.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-motionsense-shower-clean-74g.html/00079400470232",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:34.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-advanced-72h-workout-series-endure-antiperspirant-deodorant-stick-74g.html/00079400471505",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-advanced-72h-workout-series-endure-antiperspirant-deodorant-stick-76g.html/00079400471512",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.819Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-advanced-72h-workout-series-endure-antiperspirant-deodorant-dry-spray-107g.html/00079400471673",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-women-advanced-72h-workout-series-endure-antiperspirant-deodorant-dry-spray-107g.html/00079400471673 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-advanced-72h-workout-series-endure-antiperspirant-deodorant-dry-spray-107g.html/00079400471680",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:38.142Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-ultraclear-black-white-72h-pure-fresh-antiperspirant-deodorant-dry-spray-107g.html/00079400499837",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-advanced-72h-nonstop-antiperspirant-deodorant-dry-spray-107g.html/00079400500724",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-women-advanced-72h-nonstop-antiperspirant-deodorant-dry-spray-107g.html/00079400500724 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-fresh-citrus-aluminum-free-deodorant-spray-113g.html/00079400522559",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-women-fresh-citrus-aluminum-free-deodorant-spray-113g.html/00079400522559 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-ocean-rush-aluminum-free-deodorant-spray-113g.html/00079400522573",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:34.907Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-black-white-dry-spray-107g.html/00079400627803",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.781Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-dry-spray-107g.html/00079400628817",
+      "error": "request to https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-dry-spray-107g.html/00079400628817 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-48g.html/00079400638809",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.420Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/en/p/degree-men-black-white-antiperspirant-76g.html/00079400640000",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:34.830Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-en-b%C3%A2ton-degree-stay-fresh-agrumes-et-bergamote-48-g.html/00000794005742",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/antisudorifique-en-b%C3%A2ton-degree-stay-fresh-agrumes-et-bergamote-48-g.html/00000794005742 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-en-vaporisateur-%C3%A0-sec-degree-stay-fresh-agrumes-et-bergamote-107-g.html/00007940045745",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.784Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-cascade-pure-antisudorifique-en-baton-pour-femmes-48g.html/00045893059483",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-fraicheur-confort-antisudorifique-en-baton-pour-hommes-76g.html/00045893060557",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-r-fraicheur-confort-antisudorifique-en-baton-pour-hommes-76g.html/00045893060557 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-fraicheur-matin-en-baton-pour-femmes-74g.html/00055086605656",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.042Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-poudre-satinee-antisudorifique-en-baton-pour-femmes-74g.html/00055086605663",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.875Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-sport-antisudorifique-en-baton-pour-hommes-76g.html/00055086605762",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-r-sport-antisudorifique-en-baton-pour-hommes-76g.html/00055086605762 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-clinical-protection-propre-antisudorifique-en-baton-pour-hommes-48g.html/00079400007476",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.255Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-clinical-protetction-fraicheur-matin-antisudorifique-en-baton-pour-femmes-48g.html/00079400007483",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.975Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-men%C2%AE-impact-fra%C3%AEcheur-85g.html/00079400026743",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:38.416Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-men%C2%AE-fronti%C3%A8re-arctique-85g.html/00079400027238",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-men%C2%AE-fronti%C3%A8re-arctique-85g.html/00079400027238 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-men%C2%AE-sport-intense-85g.html/00079400027252",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.273Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-aventure-antisudorifique-en-baton-pour-hommes-76g.html/00079400077349",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-aventure-antisudorifique-en-baton-pour-hommes-76g.html/00079400077349 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-everest-antisudorifique-en-baton-pour-hommes-76g.html/00079400123411",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-everest-antisudorifique-en-baton-pour-hommes-76g.html/00079400123411 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-fraicheur-matin-antisudorifique-en-baton-pour-femmes-48g.html/00079400123473",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-energie-fraiche-antisudorifique-en-baton-pour-femmes-48g.html/00079400123497",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-energie-fraiche-antisudorifique-en-baton-pour-femmes-48g.html/00079400123497 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-defense-sport-antisudorifique-en-baton-pour-hommes-76g.html/00079400148407",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.786Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-clinical-protetction-controle-du-stress-antisudorifique-en-baton-pour-femmes-48g.html/00079400367143",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.854Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree%C2%AE-women-%C3%A9nergie-fra%C3%AEche-107g.html/00079400446787",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree%C2%AE-women-%C3%A9nergie-fra%C3%AEche-107g.html/00079400446787 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-poudre-satinee-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400446794",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-poudre-satinee-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400446794 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-aventure-antisudorifique-vaporisateur-a-sec-pour-hommes-107g.html/00079400447227",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.793Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-defense-sport-antisudorifique-vaporisateur-a-sec-pour-hommes-107g.html/00079400447234",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:33.083Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-fleurs-blanches-et-litchi-antisudorifique-en-baton-pour-femmes-48g.html/00079400460097",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-ultraclear-black-white-72h-cascade-pure-antisudorifique-en-baton-pour-femmes-74g.html/00079400467072",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-ultraclear-black-white-72h-cascade-pure-antisudorifique-en-baton-pour-femmes-74g.html/00079400467072 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.731Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-energie-fraiche-antisudorifique-en-baton-pour-femmes-74-g.html/00079400467089",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.830Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-fraicheur-matin-antisudorifique-en-baton-pour-femmes-74g.html/00079400470232",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.792Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-workout-series-endure-antisudorifique-en-baton-pour-femmes-74g.html/00079400471505",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-workout-series-endure-antisudorifique-en-baton-pour-femmes-74g.html/00079400471505 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.732Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-workout-series-endure-antisudorifique-en-baton-pour-hommes-76g.html/00079400471512",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-workout-series-endure-antisudorifique-en-baton-pour-hommes-76g.html/00079400471512 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.732Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-workout-series-endure-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400471673",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-advanced-72h-workout-series-endure-antisudorifique-vaporisateur-a-sec-pour-hommes-107g.html/00079400471680",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.820Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-sans-aluminium-degree%C2%AE-women-uplifting-citrus-odour-protect-74-g.html/00079400475930",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.794Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-sans-aluminium-degree%C2%AE-women-revitalizing-botanicals-odour-protect-74-g.html/00079400475947",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-sans-aluminium-degree%C2%AE-women-revitalizing-botanicals-odour-protect-74-g.html/00079400475947 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-sans-aluminium-degree%C2%AE-women-calming-lavender-odour-protect-74-g.html/00079400475954",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-sans-aluminium-degree%C2%AE-women-calming-lavender-odour-protect-74-g.html/00079400475954 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-men%C2%AE-active-shield-mc-107g.html/00079400536464",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:33.038Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-advanced-72h-fraicheur-vive-antisudorifique-vaporisateur-a-sec-pour-hommes-107g.html/00079400536716",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:32.822Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree%C2%AE-women-fra%C3%AEche-marguerite-107g.html/00079400536822",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree%C2%AE-women-fra%C3%AEche-marguerite-107g.html/00079400536822 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:40.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-antisudorifique-vaporisateur-a-sec-pour-hommes-107g.html/00079400627803",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:45.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-antisudorifique-en-baton-pour-femmes-48g.html/00079400638809",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:45.612Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-intense-sport-desodorisant-en-baton-pour-hommes-85g.html/00079400013422",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:44.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-arctic-edge-desodorisant-en-baton-pour-hommes-85g.html/00079400013439",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-arctic-edge-desodorisant-en-baton-pour-hommes-85g.html/00079400013439 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-degree-men-fra%C3%AEcheur-vive-76-gr.html/00079400265401",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:43.328Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-frais-antisudorifique-vaporisateur-a-sec-pour-hommes-107g.html/00079400447753",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:43.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-cascade-pure-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400447760",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-cascade-pure-antisudorifique-vaporisateur-a-sec-pour-femmes-107g.html/00079400447760 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-antisudorifique-en-baton-pour-hommes-76g.html/00079400448309",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-antisudorifique-en-baton-pour-hommes-76g.html/00079400448309 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-degree-men-ultraclear-black-white-72h-bois-de-greve-107g.html/00079400448514",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:44.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-fraicheur-vive-desodorisant-en-baton-pour-hommes-85g.html/00079400451743",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:43.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-degree-men-advanced-72h-sans-arret-107-g.html/00079400487131",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:43.206Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-en-b%C3%A2ton-pour-72-h-de-protection-contre-les-odeurs-et-la-transpiration,-degree-ultraclear-black%2Bwhite,-anti-taches-jaunes-et-marques-blanches-74g,-paquet-de-4.html/00079400491732",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:45.408Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-vaporisateur-degree-women-ultraclear107g.html/00079400499837",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:45.201Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-degree-women-advanced-72h-sans-arret-107-g.html/00079400500724",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:45.439Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-pour-tout-corps-degree-rose-%2B-n%C3%A9nuphar-113-gr.html/00079400518798",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:43.205Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-pour-tout-corps-degree-men-actif-et-frais-113-gr.html/00079400518804",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/d%C3%A9sodorisant-pour-tout-corps-degree-men-actif-et-frais-113-gr.html/00079400518804 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-vaporisateur-corps-entier-pour-femmes-agrumes-frais.html/00079400522559",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:43.285Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-vaporisateur-corps-entier-pour-hommes-vagues-oceanes.html/00079400522573",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/degree-vaporisateur-corps-entier-pour-hommes-vagues-oceanes.html/00079400522573 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/nettoyant-corporel,-degree-frais-toute-la-journ%C3%A9e-fra%C3%AEcheur-vive,-nettoyage-en-profondeur-pour-une-peau-hydrat%C3%A9e,-fabriqu%C3%A9-avec-des-nettoyants-%C3%A0-base-de-plantes,-600ml.html/00079400525635",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/nettoyant-corporel,-degree-frais-toute-la-journ%C3%A9e-fra%C3%AEcheur-vive,-nettoyage-en-profondeur-pour-une-peau-hydrat%C3%A9e,-fabriqu%C3%A9-avec-des-nettoyants-%C3%A0-base-de-plantes,-600ml.html/00079400525635 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/nettoyant-corporel,-degree-frais-toute-la-journ%C3%A9e-%C3%A9nergie-fra%C3%AEche,-nettoyage-en-profondeur-pour-une-peau-hydrat%C3%A9e,-fabriqu%C3%A9-avec-des-nettoyants-d'origine-v%C3%A9g%C3%A9tale,-600ml.html/00079400525642",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/nettoyant-corporel,-degree-frais-toute-la-journ%C3%A9e-%C3%A9nergie-fra%C3%AEche,-nettoyage-en-profondeur-pour-une-peau-hydrat%C3%A9e,-fabriqu%C3%A9-avec-des-nettoyants-d%27origine-v%C3%A9g%C3%A9tale,-600ml.html/00079400525642 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/nettoyant-corporel,-degree-frais-toute-la-journ%C3%A9e-agrumes-frais,-nettoyage-en-profondeur-pour-une-peau-hydrat%C3%A9e,-fabriqu%C3%A9-avec-des-nettoyants-d'origine-v%C3%A9g%C3%A9tale,-600ml.html/00079400525659",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:43.918Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/ensemble-cadeau-de-toilette-pour-homme-avec-antisudorifique-degree,-atomiseur-corporel-axe-et-nettoyant-corps-et-visage-dove-men%2Bcare-degree-men-raptors-basketball-bonus-serviette-de-sport-3-pi%C3%A8ces.html/00079400527806",
+      "error": "request to https://www.degreedeodorant.com/ca/fr/p/ensemble-cadeau-de-toilette-pour-homme-avec-antisudorifique-degree,-atomiseur-corporel-axe-et-nettoyant-corps-et-visage-dove-men%2Bcare-degree-men-raptors-basketball-bonus-serviette-de-sport-3-pi%C3%A8ces.html/00079400527806 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:48.891Z"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-03-12T12:48:36.265Z",
+  "brand": "nexxus",
+  "assortmentCode": "BH0990",
+  "feedUrl": "https://www.nexxus.com/mx/home.productfeed.json",
+  "totalUrlsChecked": 12,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.nexxus.com/mx/p/shampoo-keraphix.html/00605592005183",
+      "gtin": "00605592005183",
+      "checkedAt": "2026-03-12T12:48:30.262Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.nexxus.com/mx/p/acondicionador-humectress.html/00605592215537",
+      "gtin": "00605592215537",
+      "checkedAt": "2026-03-12T12:48:29.552Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.nexxus.com/mx/p/nexxus-shampoo-hydra-light.html/07506306217027",
+      "gtin": "07506306217027",
+      "checkedAt": "2026-03-12T12:48:30.955Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.nexxus.com/mx/p/nexxus-tratamiento-vital-8-en-1.html/07506306217942",
+      "gtin": "07506306217942",
+      "checkedAt": "2026-03-12T12:48:30.526Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.nexxus.com/mx/p/nexxus-tratamiento-humectress.html/07506306218888",
+      "gtin": "07506306218888",
+      "checkedAt": "2026-03-12T12:48:30.666Z"
+    }
+  ],
+  "errors": 7,
+  "duration": "8.71s",
+  "speedMetrics": "1.38 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.nexxus.com/mx/p/acondicionador-keraphix.html/00605592005268",
+      "error": "request to https://www.nexxus.com/mx/p/acondicionador-keraphix.html/00605592005268 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.085Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.nexxus.com/mx/p/shampoo-therappe.html/00605592105531",
+      "error": "request to https://www.nexxus.com/mx/p/shampoo-therappe.html/00605592105531 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.085Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.nexxus.com/mx/p/shampoo-emergenc%C3%A9e.html/00605592416170",
+      "error": "request to https://www.nexxus.com/mx/p/shampoo-emergenc%C3%A9e.html/00605592416170 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.085Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.nexxus.com/mx/p/acondicionador-emergenc%C3%A9e.html/00605592416187",
+      "error": "request to https://www.nexxus.com/mx/p/acondicionador-emergenc%C3%A9e.html/00605592416187 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.264Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.nexxus.com/mx/p/nexxus-acondicionador-frizz-defy.html/07506306216853",
+      "error": "request to https://www.nexxus.com/mx/p/nexxus-acondicionador-frizz-defy.html/07506306216853 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.264Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.nexxus.com/mx/p/nexxus-shampoo-frizz-defy.html/07506306216860",
+      "error": "request to https://www.nexxus.com/mx/p/nexxus-shampoo-frizz-defy.html/07506306216860 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.nexxus.com/mx/p/nexxus-acondicionador-hydra-light.html/07506306216877",
+      "error": "request to https://www.nexxus.com/mx/p/nexxus-acondicionador-hydra-light.html/07506306216877 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:36.265Z"
+    }
+  ]
+}

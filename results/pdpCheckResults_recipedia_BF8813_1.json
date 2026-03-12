@@ -1,0 +1,1037 @@
+{
+  "generatedAt": "2026-03-12T12:48:54.532Z",
+  "brand": "recipedia",
+  "assortmentCode": "BF8813",
+  "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+  "totalUrlsChecked": 168,
+  "problematicPagesFound": 4,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-mustar-720g.html/08593838918125",
+      "gtin": "08593838918125",
+      "checkedAt": "2026-03-12T12:48:29.923Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-burger-szosz.html/08712566385188",
+      "gtin": "08712566385188",
+      "checkedAt": "2026-03-12T12:48:30.152Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-bbq-szosz.html/08712566394197",
+      "gtin": "08712566394197",
+      "checkedAt": "2026-03-12T12:48:29.974Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-edes-chili-szosz.html/08720182577986",
+      "gtin": "08720182577986",
+      "checkedAt": "2026-03-12T12:48:30.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-csipos-ketchup.html/08711200405923",
+      "gtin": "08711200405923",
+      "checkedAt": "2026-03-12T12:48:39.032Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-sajtszosz-alap.html/08712566157228",
+      "gtin": "08712566157228",
+      "checkedAt": "2026-03-12T12:48:38.590Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-zoldsegleves-kagylotesztaval.html/08720182003614",
+      "gtin": "08720182003614",
+      "checkedAt": "2026-03-12T12:48:38.650Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-jegvarazs-zoldsegleves.html/08720182428264",
+      "gtin": "08720182428264",
+      "checkedAt": "2026-03-12T12:48:38.832Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/ropogos-panirbunda-fokhagymas-fuszeres.html/08720182781574",
+      "gtin": "08720182781574",
+      "checkedAt": "2026-03-12T12:48:38.963Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-ketchup-light.html/08720182818669",
+      "gtin": "08720182818669",
+      "checkedAt": "2026-03-12T12:48:38.958Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/marry-me-csirkes-teszta.html/08721317776205",
+      "gtin": "08721317776205",
+      "checkedAt": "2026-03-12T12:48:46.629Z"
+    }
+  ],
+  "errors": 153,
+  "duration": "26.79s",
+  "speedMetrics": "6.27 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-tesztaleves-marhas.html/08710522627594",
+      "gtin": "08710522627594",
+      "checkedAt": "2026-03-12T12:48:32.361Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-brokkolikremleves-zsemlekockaval.html/08712100868467",
+      "gtin": "08712100868467",
+      "checkedAt": "2026-03-12T12:48:38.694Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-ketchup-olaszos.html/08720182821409",
+      "gtin": "08720182821409",
+      "checkedAt": "2026-03-12T12:48:38.579Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/alfredo-csirkes-teszta.html/08721317776199",
+      "gtin": "08721317776199",
+      "checkedAt": "2026-03-12T12:48:46.876Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-mustar-440g.html/08593838918163",
+      "error": "request to https://www.receptmuhely.hu/p/globus-mustar-440g.html/08593838918163 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-cheddar-szosz.html/08710522976876",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-cheddar-szosz.html/08710522976876 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-csipos-mexikoi-szosz.html/08710604744393",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-csipos-mexikoi-szosz.html/08710604744393 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-mezes-bbq-szosz.html/08712100390548",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-mezes-bbq-szosz.html/08712100390548 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chilis-szosz.html/08712566388066",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-chilis-szosz.html/08712566388066 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-mustar--szosz.html/08712566388677",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-mustar--szosz.html/08712566388677 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-real-majonez.html/08714100848234",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-real-majonez.html/08714100848234 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-light-majonez.html/08714100848623",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-light-majonez.html/08714100848623 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-original.html/08720182088277",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-majonez-original.html/08720182088277 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08720182197870",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08720182197870 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-avokados-szosz.html/08720182308078",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-avokados-szosz.html/08720182308078 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-uborkas-tartar-szosz.html/08720182515377",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-uborkas-tartar-szosz.html/08720182515377 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-edes-savanyu-szosz.html/08720182589323",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-edes-savanyu-szosz.html/08720182589323 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-tzatziki-jellegu-szosz.html/08720182589699",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-tzatziki-jellegu-szosz.html/08720182589699 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-kinai-stilusu-leves.html/08720182691835",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-kinai-stilusu-leves.html/08720182691835 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-indonez-stilusu-leves.html/08720182694836",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-indonez-stilusu-leves.html/08720182694836 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-currys-azsiai-instant-teszta.html/08720182804891",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-currys-azsiai-instant-teszta.html/08720182804891 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-fokhagymas-szosz.html/08720182817730",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-fokhagymas-szosz.html/08720182817730 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.065Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-extra-chili-szosz.html/08720182822567",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-extra-chili-szosz.html/08720182822567 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.065Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-csipos-csirkes-instant-teszta.html/08720182882325",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-csipos-csirkes-instant-teszta.html/08720182882325 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.065Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-paprikas-csirkes.html/08720182932686",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-paprikas-csirkes.html/08720182932686 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.065Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-vegan-majonez.html/08721201906305",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-vegan-majonez.html/08721201906305 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-eroleves-kocka.html/08721201906732",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-eroleves-kocka.html/08721201906732 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.065Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-brokkolis.html/08721201919855",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-brokkolis.html/08721201919855 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-spenotos.html/08721201919916",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-spenotos.html/08721201919916 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-piritott-teszta-zoldseges.html/08721201920042",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-azsiai-piritott-teszta-zoldseges.html/08721201920042 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-tejszines-zoldseges.html/08721201920295",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-tejszines-zoldseges.html/08721201920295 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-carbonara.html/08721201920417",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-carbonara.html/08721201920417 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-paradicsomos-mozzarellas.html/08721201920561",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-paradicsomos-mozzarellas.html/08721201920561 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-piritott-teszta-csirkes.html/08721201920714",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-azsiai-piritott-teszta-csirkes.html/08721201920714 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-kremes-sajtszoszos.html/08721201921599",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-kremes-sajtszoszos.html/08721201921599 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-csipos-tyukhusleves.html/08721201954337",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-csurigtesztas-csipos-tyukhusleves.html/08721201954337 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-pikans-marhahusleves.html/08721201956454",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-csurigtesztas-pikans-marhahusleves.html/08721201956454 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.551Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-4-sajtos.html/08721201957116",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-teszta-4-sajtos.html/08721201957116 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.544Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-cheddar-szosz.html/08721201959608",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.091Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-kebab-izesitessel.html/08721201974014",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-teszta-kebab-izesitessel.html/08721201974014 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/tejszines-gombas-csirke-alap.html/08721201998430",
+      "error": "request to https://www.receptmuhely.hu/p/tejszines-gombas-csirke-alap.html/08721201998430 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.544Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317715624",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317715624 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317790010",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317790010 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.544Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-meggyleves.html/05996358005666",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-meggyleves.html/05996358005666 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorrgorog-gyumolcsleves.html/05996358005680",
+      "error": "HTTP Error: 503 Service Unavailable",
+      "checkedAt": "2026-03-12T12:48:29.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-75g.html/05996358010554",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-etelizesito-75g.html/05996358010554 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-250g.html/05996358010561",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-etelizesito-250g.html/05996358010561 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-450g.html/05996358010578",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-etelizesito-450g.html/05996358010578 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-1kg.html/05996358010585",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-etelizesito-1kg.html/05996358010585 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014170",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014170 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014187",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014187 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014194",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014194 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014279",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014279 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014286",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014286 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358014309",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=05996358014309 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-zoldsegleveskocka.html/05996358018918",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-zoldsegleveskocka.html/05996358018918 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358018932",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358018932 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-petrezselymes-tyukhusleveskocka.html/05996358019540",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-petrezselymes-tyukhusleveskocka.html/05996358019540 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-lasagne-bolognese.html/05997257351052",
+      "error": "HTTP Error: 503 Service Unavailable",
+      "checkedAt": "2026-03-12T12:48:29.697Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bolognai-spagetti-alap.html/05997257387709",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bolognai-spagetti-alap.html/05997257387709 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-carbonara.html/08584057005352",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-teszta-carbonara.html/08584057005352 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-tesztaleves-csirkes.html/08710522627433",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-azsiai-tesztaleves-csirkes.html/08710522627433 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-fustolthus-izesito-kocka.html/08710522919552",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-fustolthus-izesito-kocka.html/08710522919552 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-burgonyapure.html/08710522919620",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-burgonyapure.html/08710522919620 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-gulyasleves.html/08710522919699",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bogres-gulyasleves.html/08710522919699 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkolt-alap.html/08710522945025",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-porkolt-alap.html/08710522945025 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-rokagomba-kremleves.html/08710522958315",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.028Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-gombakremleves.html/08710522959824",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.077Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleves-cernametelttel.html/08710522960110",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tyukhusleves-cernametelttel.html/08710522960110 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-tyukhusleves-csigatesztaval.html/08710522965245",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-tyukhusleves-csigatesztaval.html/08710522965245 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-marhahusleves-cernametelttel.html/08710522975527",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-marhahusleves-cernametelttel.html/08710522975527 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-mezes-mustaros-szosz.html/08710604746052",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-mezes-mustaros-szosz.html/08710604746052 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tejszines-paprikas-szosz.html/08710604746076",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tejszines-paprikas-szosz.html/08710604746076 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-tejszines-gombas-szosz.html/08710604746199",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-tejszines-gombas-szosz.html/08710604746199 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-carbonara-spagetti-alap.html/08710604753951",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:29.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-carbonara-spagetti-alap-xxl.html/08710604753968",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:29.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-edes-savanyu-szosz.html/08710908934674",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-edes-savanyu-szosz.html/08710908934674 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-teriyaki-szosz.html/08710908934759",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08710908934759 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-chili-con-carne-alap-xxl.html/08710908942631",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.037Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-marhahusleves-kocka.html/08711200318735",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.564Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08711200360772",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08711200360772 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-csemege-ketchup.html/08711200405879",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.580Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-csemege-ketchup.html/08711200405886",
+      "error": "request to https://www.receptmuhely.hu/p/globus-csemege-ketchup.html/08711200405886 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-extra-csipos-ketchup.html/08711200405893",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.599Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-kinai-edes-savanyu-csirke-alap.html/08711200529995",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-kinai-edes-savanyu-csirke-alap.html/08711200529995 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-marhahusleves-cernametelttel.html/08711327406391",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-sajtkremleves-brokkolival.html/08712100328985",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-sajtkremleves-brokkolival.html/08712100328985 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bolognai-spagetti-alap-xxl.html/08712100379482",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bolognai-spagetti-alap-xxl.html/08712100379482 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-sajtos-kremleves-zsemlekockaval.html/08712100866845",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bogres-sajtos-kremleves-zsemlekockaval.html/08712100866845 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-paradicsomleves-tesztaval.html/08712100867057",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bogres-paradicsomleves-tesztaval.html/08712100867057 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-varganyakremleves-zsemlekockaval.html/08712100867446",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bogres-varganyakremleves-zsemlekockaval.html/08712100867446 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-tyukhusleves-tesztaval.html/08712100867507",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bogres-tyukhusleves-tesztaval.html/08712100867507 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-gombakremleves-zsemlekockaval.html/08712100867569",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-csirkekremleves-zsemlekockaval.html/08712100867682",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bogres-csirkekremleves-zsemlekockaval.html/08712100867682 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-sajtkremleves-zsemlekockaval.html/08712100867743",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.632Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-fokhagymakremleves-zsemlekockaval.html/08712100867996",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-szojaszosz.html/08712423034983",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-szojaszosz.html/08712423034983 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08712423038158",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08712423038158 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-brokkolikremleves-karfiollal.html/08712566055050",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-brokkolikremleves-karfiollal.html/08712566055050 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-mexikoi-chillis-bab-alap.html/08712566157754",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-mexikoi-chillis-bab-alap.html/08712566157754 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-milanoi-makaroni-alap.html/08712566157983",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-hazias-marhahus-levesalap.html/08712566205875",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-hazias-marhahus-levesalap.html/08712566205875 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-hazias-zoldseg-levesalap.html/08712566205912",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-hazias-zoldseg-levesalap.html/08712566205912 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-hazias-tyukhus-levesalap.html/08712566205967",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-hazias-tyukhus-levesalap.html/08712566205967 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-600g.html/08712566414710",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-etelizesito-600g.html/08712566414710 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkes-instant-teszta.html/08714100750582",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-csirkes-instant-teszta.html/08714100750582 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-paradicsomos-instant-teszta.html/08714100750612",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-paradicsomos-instant-teszta.html/08714100750612 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-spargakremleves-snidlinggel.html/08714100840641",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.588Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkehusleves-kocka.html/08714100884980",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-csirkehusleves-kocka.html/08714100884980 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-gulyasleves.html/08718114706054",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-gulyasleves.html/08718114706054 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-gyros-alap-fokhagymas-dresszinggel.html/08718114854397",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-gyros-alap-fokhagymas-dresszinggel.html/08718114854397 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-fokhagymakremleves.html/08720182003836",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-fokhagymakremleves.html/08720182003836 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-gulyasleves.html/08720182029195",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-husleves.html/08720182030542",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-csurigtesztas-husleves.html/08720182030542 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-lasagne-alap.html/08720182142047",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-lasagne-alap.html/08720182142047 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-rokagombaleves.html/08720182240231",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-bogres-rokagombaleves.html/08720182240231 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-mac-and-cheese-jalapeno.html/08720182396921",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.683Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-avengers-paradicsomleves.html/08720182422392",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-avengers-paradicsomleves.html/08720182422392 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-zoldborsos-zoldsegleves.html/08720182469212",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-zoldborsos-zoldsegleves.html/08720182469212 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-zoldsegleves-kocka.html/08720182626622",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-zoldsegleves-kocka.html/08720182626622 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-tyukhusleves-kocka.html/08720182626820",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.674Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-konnyed-majonez.html/08720182635068",
+      "error": "request to https://www.receptmuhely.hu/p/globus-konnyed-majonez.html/08720182635068 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-350g.html/08720182681355",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-etelizesito-350g.html/08720182681355 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.432Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-brokkolis-sajtos.html/08720182684035",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-teszta-brokkolis-sajtos.html/08720182684035 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-majonez.html/08720182727244",
+      "error": "request to https://www.receptmuhely.hu/p/globus-majonez.html/08720182727244 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-majonez-csaladi-meret.html/08720182739100",
+      "error": "request to https://www.receptmuhely.hu/p/globus-majonez-csaladi-meret.html/08720182739100 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/ropogos-panirbunda-paprikas-fuszeres.html/08720182781628",
+      "error": "request to https://www.receptmuhely.hu/p/ropogos-panirbunda-paprikas-fuszeres.html/08720182781628 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/szaftos-fasirt-alap.html/08720182783035",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.664Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-mustar-250g.html/08720182792761",
+      "error": "request to https://www.receptmuhely.hu/p/globus-mustar-250g.html/08720182792761 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.432Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/mustar.html/08720182793980",
+      "error": "request to https://www.receptmuhely.hu/p/mustar.html/08720182793980 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkes-azsiai-instant-teszta.html/08720182821584",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-csirkes-azsiai-instant-teszta.html/08720182821584 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-paradicsomos-mozzarellas.html/08720182839626",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-teszta-paradicsomos-mozzarellas.html/08720182839626 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-sajtos-instant-teszta.html/08720182897916",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:39.001Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-francia-hagymaleves.html/08720182907332",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-erdei-gombakremleves.html/08720182933454",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-erdei-gombakremleves.html/08720182933454 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-paradicsomleves-tesztaval.html/08720182955432",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-paradicsomleves-tesztaval.html/08720182955432 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-olaszos-paradicsomleves.html/08720182955999",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-olaszos-paradicsomleves.html/08720182955999 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-nemo-zoldsegleves.html/08720182967152",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-nemo-zoldsegleves.html/08720182967152 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.434Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-grizgaluskaleves.html/08720182975195",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/globus-light-majonez.html/08721201900969",
+      "error": "request to https://www.receptmuhely.hu/p/globus-light-majonez.html/08721201900969 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-csirkes-etelekhez-55g.html/08721201903878",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-marhahusleves-kocka.html/08721201903960",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-csirkes-etelekhez-200g.html/08721201904165",
+      "error": "request to https://www.receptmuhely.hu/p/delikat-etelizesito-csirkes-etelekhez-200g.html/08721201904165 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/macn-cheese-alap.html/08721201908330",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-bolognai-szoszos.html/08721201919732",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-bolognai-szoszos.html/08721201919732 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-ementali-szoszos.html/08721201920363",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-ementali-szoszos.html/08721201920363 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-husgombocleves.html/08721201930843",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-macn-cheese-bacon-alap.html/08721201950056",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-macn-cheese-bacon-alap.html/08721201950056 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-majgombocleves-csigatesztaval.html/08721201966422",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-majgombocleves-csigatesztaval.html/08721201966422 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:46.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/tepsimix-sonkas-sajtos-teszta.html/08721201973796",
+      "error": "HTTP Error: 503 Service Unavailable",
+      "checkedAt": "2026-03-12T12:48:38.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/tepsimix-paradicsomos-csirkes-teszta.html/08721201973871",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:38.632Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/tepsimix-tepsis-burgonya.html/08721201973888",
+      "error": "request to https://www.receptmuhely.hu/p/tepsimix-tepsis-burgonya.html/08721201973888 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:54.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-bbq-szosz.html/08721317701511",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:46.710Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-csirkes-burrito-izesitessel.html/08721317773921",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-teszta-csirkes-burrito-izesitessel.html/08721317773921 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:54.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-edes-savanyu-izesitessel.html/08721317774164",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-snack-teszta-edes-savanyu-izesitessel.html/08721317774164 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:54.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/knorr-koncentralt-alaple-sult-fokhagyma.html/08721317785788",
+      "error": "request to https://www.receptmuhely.hu/p/knorr-koncentralt-alaple-sult-fokhagyma.html/08721317785788 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:54.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08721317797279",
+      "error": "request to https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08721317797279 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:54.531Z"
+    }
+  ]
+}

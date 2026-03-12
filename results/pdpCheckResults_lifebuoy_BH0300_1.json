@@ -1,0 +1,455 @@
+{
+  "generatedAt": "2026-03-12T12:48:38.845Z",
+  "brand": "lifebuoy",
+  "assortmentCode": "BH0300",
+  "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+  "totalUrlsChecked": 70,
+  "problematicPagesFound": 6,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-bottle-anti-bakteri-mild-care.html/08999999001162",
+      "gtin": "08999999001162",
+      "checkedAt": "2026-03-12T12:48:30.851Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-cool-fresh-anti-bakteri-refill-400g.html/08999999001179",
+      "gtin": "08999999001179",
+      "checkedAt": "2026-03-12T12:48:30.853Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-total-10-anti-bakteri-refill-400g.html/08999999001193",
+      "gtin": "08999999001193",
+      "checkedAt": "2026-03-12T12:48:30.862Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-cool-fresh-anti-bakteri-botol-100g.html/08999999001216",
+      "gtin": "08999999001216",
+      "checkedAt": "2026-03-12T12:48:30.833Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-pump-anti-bakteri-mild-care-500g.html/08999999009595",
+      "gtin": "08999999009595",
+      "checkedAt": "2026-03-12T12:48:30.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-kuat-&-berkilau-10ml.html/08999999027032",
+      "gtin": "08999999027032",
+      "checkedAt": "2026-03-12T12:48:30.846Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-perawatan-rambut-rontok-10ml.html/08999999027049",
+      "gtin": "08999999027049",
+      "checkedAt": "2026-03-12T12:48:30.908Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-bottle-anti-bakteri-lemon-fresh.html/08999999027247",
+      "gtin": "08999999027247",
+      "checkedAt": "2026-03-12T12:48:30.846Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-lemon-fresh-anti-bakteri-refill-400g.html/08999999027261",
+      "gtin": "08999999027261",
+      "checkedAt": "2026-03-12T12:48:30.853Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-perawatan-rambut-rontok-70ml.html/08999999033125",
+      "gtin": "08999999033125",
+      "checkedAt": "2026-03-12T12:48:33.091Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-perawatan-rambut-rontok-340ml.html/08999999033149",
+      "gtin": "08999999033149",
+      "checkedAt": "2026-03-12T12:48:30.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-kuat-&-berkilau-70ml.html/08999999033163",
+      "gtin": "08999999033163",
+      "checkedAt": "2026-03-12T12:48:30.832Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-kuat-&-berkilau-340ml.html/08999999033187",
+      "gtin": "08999999033187",
+      "checkedAt": "2026-03-12T12:48:30.817Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-anti-ketombe-70ml.html/08999999033200",
+      "gtin": "08999999033200",
+      "checkedAt": "2026-03-12T12:48:30.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-anti-ketombe-170ml.html/08999999033217",
+      "gtin": "08999999033217",
+      "checkedAt": "2026-03-12T12:48:30.816Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-anti-ketombe-340ml.html/08999999033224",
+      "gtin": "08999999033224",
+      "checkedAt": "2026-03-12T12:48:30.832Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-cool-fresh-anti-bakteri-68g.html/08999999059347",
+      "gtin": "08999999059347",
+      "checkedAt": "2026-03-12T12:48:30.845Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-anti-bakteri-matcha-and-aloe-vera.html/08999999530228",
+      "gtin": "08999999530228",
+      "checkedAt": "2026-03-12T12:48:33.055Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-mandi-cair-greentea-refill-380g.html/08999999530242",
+      "gtin": "08999999530242",
+      "checkedAt": "2026-03-12T12:48:30.833Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/matcha-green-tea-bar-soap-100g.html/08999999530327",
+      "gtin": "08999999530327",
+      "checkedAt": "2026-03-12T12:48:30.833Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cuci-tangan-antiseptik-total-10.html/08999999539368",
+      "gtin": "08999999539368",
+      "checkedAt": "2026-03-12T12:48:30.816Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-mandi-cair-yoghurt-refill-380g.html/08999999559526",
+      "gtin": "08999999559526",
+      "checkedAt": "2026-03-12T12:48:30.855Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-anti-bakteri-lemon-fresh.html/08999999567675",
+      "gtin": "08999999567675",
+      "checkedAt": "2026-03-12T12:48:30.854Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-shiso-&-mineral-clay-body-wash-250ml.html/08999999574932",
+      "gtin": "08999999574932",
+      "checkedAt": "2026-03-12T12:48:30.845Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-anti-bakteri-coconut-fresh-250ml.html/08999999583057",
+      "gtin": "08999999583057",
+      "checkedAt": "2026-03-12T12:48:30.833Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-anti-ketombe-refresh-n-cool.html/08999999585976",
+      "gtin": "08999999585976",
+      "checkedAt": "2026-03-12T12:48:30.816Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-anti-ketombe-refresh-n-cool.html/08999999585990",
+      "gtin": "08999999585990",
+      "checkedAt": "2026-03-12T12:48:30.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-kuat-&-berkilau-900ml.html/08999999588151",
+      "gtin": "08999999588151",
+      "checkedAt": "2026-03-12T12:48:30.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-cuci-piring-refill-235ml.html/08999999588175",
+      "gtin": "08999999588175",
+      "checkedAt": "2026-03-12T12:48:30.854Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-cuci-piring-refill-680ml.html/08999999588182",
+      "gtin": "08999999588182",
+      "checkedAt": "2026-03-12T12:48:30.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-cuci-piring-refill-1500ml.html/08999999588199",
+      "gtin": "08999999588199",
+      "checkedAt": "2026-03-12T12:48:33.216Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-total-10-anti-bakteri-botol-250g.html/08999999593452",
+      "gtin": "08999999593452",
+      "checkedAt": "2026-03-12T12:48:30.845Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-mandi-cair-tin-&-zaitun-refill-380g.html/08999999595760",
+      "gtin": "08999999595760",
+      "checkedAt": "2026-03-12T12:48:30.850Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-anti-bakteri-total-10.html/08999999596774",
+      "gtin": "08999999596774",
+      "checkedAt": "2026-03-12T12:48:34.326Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-rambut-anti-ketombe-menthol-dingin-170ml.html/08999999598563",
+      "gtin": "08999999598563",
+      "checkedAt": "2026-03-12T12:48:30.833Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-rambut-anti-ketombe-menthol-dingin-340ml.html/08999999598570",
+      "gtin": "08999999598570",
+      "checkedAt": "2026-03-12T12:48:30.817Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-rambut-anti-ketombe-menthol-dingin.html/08999999601065",
+      "gtin": "08999999601065",
+      "checkedAt": "2026-03-12T12:48:34.158Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-mandi-cair-greentea-pump-500g.html/08999999612856",
+      "gtin": "08999999612856",
+      "checkedAt": "2026-03-12T12:48:30.854Z"
+    }
+  ],
+  "errors": 26,
+  "duration": "11.65s",
+  "speedMetrics": "6.01 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-anti-bakteri-total-10.html/08999999059309",
+      "gtin": "08999999059309",
+      "checkedAt": "2026-03-12T12:48:30.834Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-lemon-fresh-anti-bakteri-68g.html/08999999059323",
+      "gtin": "08999999059323",
+      "checkedAt": "2026-03-12T12:48:30.832Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-mild-care-anti-bakteri-botol-250g.html/08999999593469",
+      "gtin": "08999999593469",
+      "checkedAt": "2026-03-12T12:48:32.927Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-bar-100gr.html/08999999610098",
+      "gtin": "08999999610098",
+      "checkedAt": "2026-03-12T12:48:30.855Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-pump-500ml.html/08999999610104",
+      "gtin": "08999999610104",
+      "checkedAt": "2026-03-12T12:48:33.951Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-pump-100ml.html/08999999610111",
+      "gtin": "08999999610111",
+      "checkedAt": "2026-03-12T12:48:30.817Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-mild-care-anti-bakteri-refill-400g.html/08999999001209",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999001209 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-total-10-anti-bakteri-pump-500g.html/08999999009601",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999009601 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-anti-ketombe-10ml.html/08999999027056",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999027056 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.703Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sampo-perawatan-rambut-rontok-170ml.html/08999999033132",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999033132 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sampo-perawatan-rambut-rontok-680ml.html/08999999033156",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999033156 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.771Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-kuat-&-berkilau-170ml.html/08999999033170",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999033170 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.412Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-kuat-&-berkilau-680ml.html/08999999033194",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999033194 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-anti-ketombe-680ml.html/08999999033231",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999033231 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-mild-care-anti-bakteri-68g.html/08999999059316",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999059316 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-matcha-green-tea-bar-soap-70g.html/08999999530662",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999530662 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sampo-rambut-anti-ketombe-900ml.html/08999999566807",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999566807 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-total-10-anti-bakteri-60g.html/08999999567651",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999567651 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-anti-bakteri-japanese-shiso-and-mineral-clay.html/08999999574888",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999574888 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-mandi-cair-japanese-shiso-refill-380g.html/08999999574963",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999574963 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-anti-bakteri-japanese-shiso-and-sandalwood.html/08999999574970",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999574970 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-anti-bakteri-coconut-fresh-400ml.html/08999999583064",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999583064 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-anti-ketombe-refresh-n-cool.html/08999999586904",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999586904 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-rambut-kuat-&-berkilau.html/08999999589769",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999589769 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.832Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-lemon-fresh-anti-bakteri-botol-250g.html/08999999593483",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999593483 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.832Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sampo-rambut-anti-ketombe-lemon-dingin-10ml.html/08999999601027",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lifebuoy&locale=id-id&brand_code=BH0300&gtin=08999999601027 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:38.770Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-sabun-mandi-cair-japanese-shiso-pump-500g.html/08999999612863",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:48:29.013Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-japanese-shiso-bar-soap-70g.html/08999999613990",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:48:29.023Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-matcha-green-tea-bar-soap-70g.html/08999999614324",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:48:29.024Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/fifa-limited-edition-lifebuoy-menthol-kick-body-wash-pouch-360g.html/08999999616113",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:48:29.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/fifa-limited-edition-lifebuoy-menthol-kick-body-wash-pump-500g.html/08999999616243",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:48:29.074Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lifebuoy.co.id/p/fifa-limited-edition-lifebuoy-menthol-kick-body-wash-bottle-85g.html/08999999616328",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-12T12:48:29.081Z"
+    }
+  ]
+}

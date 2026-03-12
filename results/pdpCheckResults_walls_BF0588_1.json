@@ -1,0 +1,646 @@
+{
+  "generatedAt": "2026-03-12T12:48:45.735Z",
+  "brand": "walls",
+  "assortmentCode": "BF0588",
+  "feedUrl": "https://www.miko.fr/home.productfeed.json",
+  "totalUrlsChecked": 105,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/double-sunlover-x4.html/08711327581562",
+      "gtin": "08711327581562",
+      "checkedAt": "2026-03-12T12:48:29.994Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/chocolat-blanc-&-cookies-x4.html/08717163690475",
+      "gtin": "08717163690475",
+      "checkedAt": "2026-03-12T12:48:30.155Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/viennetta-dessert-glace-vanille.html/08000920200025",
+      "gtin": "08000920200025",
+      "checkedAt": "2026-03-12T12:48:30.170Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/calippo-cola.html/08000920461235",
+      "gtin": "08000920461235",
+      "checkedAt": "2026-03-12T12:48:29.760Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-half-baked.html/08711327371002",
+      "gtin": "08711327371002",
+      "checkedAt": "2026-03-12T12:48:30.242Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-peanut-butter-cup.html/08711327374515",
+      "gtin": "08711327374515",
+      "checkedAt": "2026-03-12T12:48:29.817Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/magnum-b%C3%A2tonnet-caramel-sal%C3%A9-&-amandes.html/08711327391475",
+      "gtin": "08711327391475",
+      "checkedAt": "2026-03-12T12:48:30.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/cornetto-classico-chocolat.html/08711327406063",
+      "gtin": "08711327406063",
+      "checkedAt": "2026-03-12T12:48:29.776Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/cornetto-classico.html/08711327406070",
+      "gtin": "08711327406070",
+      "checkedAt": "2026-03-12T12:48:29.768Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/viennetta-dessert-glace-chocolat.html/08711327589209",
+      "gtin": "08711327589209",
+      "checkedAt": "2026-03-12T12:48:29.854Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/viennetta-dessert-glace-caramel-sal%C3%A9.html/08711327591011",
+      "gtin": "08711327591011",
+      "checkedAt": "2026-03-12T12:48:29.785Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-cr%C3%A8me-de-vanille.html/08711327615229",
+      "gtin": "08711327615229",
+      "checkedAt": "2026-03-12T12:48:30.302Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/carte-d'or-les-desserts-vanille-p%C3%A9can.html/08711327618428",
+      "gtin": "08711327618428",
+      "checkedAt": "2026-03-12T12:48:29.809Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/twister-minis-tropical.html/08711327626997",
+      "gtin": "08711327626997",
+      "checkedAt": "2026-03-12T12:48:30.597Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/miko-disney-sandwich-glac%C3%A9-en-forme-de-patte-de-lion-roi-lion.html/08711327633353",
+      "gtin": "08711327633353",
+      "checkedAt": "2026-03-12T12:48:30.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/magnum-bonbon-caramel-sal%C3%A9-&-amande.html/08711327640306",
+      "gtin": "08711327640306",
+      "checkedAt": "2026-03-12T12:48:29.835Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/twister-minis-mallow.html/08711327653245",
+      "gtin": "08711327653245",
+      "checkedAt": "2026-03-12T12:48:37.788Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/cornetto-glace-%C3%A0-l'italienne-parfums-mangue-&-chocolat-blanc.html/08711327662308",
+      "gtin": "08711327662308",
+      "checkedAt": "2026-03-12T12:48:37.793Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/magnum-c%C3%B4ne-mangue.html/08711327681248",
+      "gtin": "08711327681248",
+      "checkedAt": "2026-03-12T12:48:37.778Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/haribo-push-up.html/08712566344321",
+      "gtin": "08712566344321",
+      "checkedAt": "2026-03-12T12:48:37.783Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/cornetto-go-sandwich.html/08714100641002",
+      "gtin": "08714100641002",
+      "checkedAt": "2026-03-12T12:48:37.755Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/carte-d'or-dessert-glac%C3%A9-framboise-900-ml.html/08721274824827",
+      "gtin": "08721274824827",
+      "checkedAt": "2026-03-12T12:48:37.965Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.miko.fr/p/carte-d'or-dessert-glac%C3%A9-menthe-chocolat-900-ml.html/08721274825107",
+      "gtin": "08721274825107",
+      "checkedAt": "2026-03-12T12:48:37.959Z"
+    }
+  ],
+  "errors": 82,
+  "duration": "17.32s",
+  "speedMetrics": "6.06 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/pot-double-caramel-sal%C3%A9.html/08711327315365",
+      "error": "request to https://www.miko.fr/p/pot-double-caramel-sal%C3%A9.html/08711327315365 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/pot-chocolat-blanc-&-cookies.html/08711327315600",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/double-noisette-x4.html/08711327477179",
+      "error": "request to https://www.miko.fr/p/double-noisette-x4.html/08711327477179 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/pot-double-gold-caramel-billionaire.html/08711327480438",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:35.456Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/double-gold-caramel-billionaire-x4.html/08711327483729",
+      "error": "request to https://www.miko.fr/p/double-gold-caramel-billionaire-x4.html/08711327483729 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/chocolat-blanc-et-fruits-rouges-remix-x4.html/08711327537392",
+      "error": "request to https://www.miko.fr/p/chocolat-blanc-et-fruits-rouges-remix-x4.html/08711327537392 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/double-starchaser-x4.html/08711327582897",
+      "error": "request to https://www.miko.fr/p/double-starchaser-x4.html/08711327582897 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/pot-double-sunlover.html/08711327585607",
+      "error": "request to https://www.miko.fr/p/pot-double-sunlover.html/08711327585607 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/chocolat-blanc-x4.html/08711327606081",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/double-chocolat-x4.html/08712100845123",
+      "error": "request to https://www.miko.fr/p/double-chocolat-x4.html/08712100845123 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/double-caramel-x4.html/08712100849084",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.772Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/menthe-x4.html/08712100864964",
+      "error": "request to https://www.miko.fr/p/menthe-x4.html/08712100864964 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/amande-x4.html/08712566328208",
+      "error": "request to https://www.miko.fr/p/amande-x4.html/08712566328208 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/pot-amande.html/08714100289983",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/vegan-amande-x3.html/08714100658499",
+      "error": "request to https://www.miko.fr/p/vegan-amande-x3.html/08714100658499 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/dark-intense-x4.html/08714100691496",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.007Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/miko---rocket.html/00871044703228",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/calippo-fraise.html/08000920401248",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.005Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/super-twister.html/08000920402801",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:33.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/magnum-barre-caramel-&-cacahu%C3%A8tes.html/08000920596708",
+      "error": "request to https://www.miko.fr/p/magnum-barre-caramel-&-cacahu%C3%A8tes.html/08000920596708 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/solero-fruits-rouges.html/08711327339996",
+      "error": "request to https://www.miko.fr/p/solero-fruits-rouges.html/08711327339996 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-chocolate-fudge-brownie.html/08711327370708",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-cookie-dough.html/08711327373105",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-pot-cookie-dough.html/08711327373105 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-vanilla-pecan-blondie.html/08711327374256",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-pot-vanilla-pecan-blondie.html/08711327374256 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-caramel-brownie-party.html/08711327374324",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-pot-caramel-brownie-party.html/08711327374324 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-chocolate-chip-cookie-dough-chunks.html/08711327397620",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.725Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-ice-cream-dessert-2400-ml.html/08711327466883",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:29.915Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/cornetto-glace-%C3%A0-l'italienne-vanille-&-sauce-fraise.html/08711327489349",
+      "error": "request to https://www.miko.fr/p/cornetto-glace-%C3%A0-l%27italienne-vanille-&-sauce-fraise.html/08711327489349 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.253Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/cornetto-glace-%C3%A0-l'italienne-cookie-&-chocolat.html/08711327537248",
+      "error": "request to https://www.miko.fr/p/cornetto-glace-%C3%A0-l%27italienne-cookie-&-chocolat.html/08711327537248 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-sundae-cookie-vermont-ster.html/08711327539624",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-pot-sundae-cookie-vermont-ster.html/08711327539624 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.253Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/miko-disney-fus%C3%A9e-p%C3%A9tillante-buzz-l'%C3%A9clair.html/08711327541559",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:35.706Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/disney-c%C3%B4ne-en-forme-de-flocon-de-neige-elsa.html/08711327543751",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.011Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/viennetta-dessert-glace-fa%C3%A7on-cappuccino.html/08711327561653",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-chocolatey-love-a-fair.html/08711327572836",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:29.918Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/twister-minis-pineapple.html/08711327576810",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.122Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/twister-monster.html/08711327580336",
+      "error": "request to https://www.miko.fr/p/twister-monster.html/08711327580336 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/miko-disney-glace-%C3%A0-l'eau-super-hero-avengers.html/08711327588950",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.083Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-sundae-dulce-de-lish.html/08711327589360",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-pot-sundae-dulce-de-lish.html/08711327589360 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/classic-x4.html/08711327606234",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:29.879Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/chocolat-blanc-&-fraise-x4.html/08711327608153",
+      "error": "request to https://www.miko.fr/p/chocolat-blanc-&-fraise-x4.html/08711327608153 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-classiques-menthe.html/08711327614994",
+      "error": "request to https://www.miko.fr/p/carte-d%27or-les-classiques-menthe.html/08711327614994 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-chocolat-noir.html/08711327615045",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:37.040Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-caf%C3%A9.html/08711327615090",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.272Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-caramel-fleur-de-sel.html/08711327615144",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:34.036Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-rhum-raisin.html/08711327615199",
+      "error": "request to https://www.miko.fr/p/carte-d%27or-les-essentiels-rhum-raisin.html/08711327615199 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-citron.html/08711327615274",
+      "error": "request to https://www.miko.fr/p/carte-d%27or-les-essentiels-citron.html/08711327615274 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-vanille-de-madagascar.html/08711327615380",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-fa%C3%A7on-yaourt-smoothie-exotique.html/08711327615991",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.230Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-desserts-inspiration-cookie-et-chocolat.html/08711327617476",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:36.094Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-fa%C3%A7on-yaourt-sauce-fruits-des-bois.html/08711327619579",
+      "error": "request to https://www.miko.fr/p/carte-d%27or-fa%C3%A7on-yaourt-sauce-fruits-des-bois.html/08711327619579 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-desserts-fraise-et-morceaux-de-meringue.html/08711327621275",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/pot-euphoria.html/08711327621978",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.129Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/chill-x3.html/08711327622678",
+      "error": "request to https://www.miko.fr/p/chill-x3.html/08711327622678 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/euphoria-x3.html/08711327623057",
+      "error": "request to https://www.miko.fr/p/euphoria-x3.html/08711327623057 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/cornetto-glace-%C3%A0-l'italienne-stracciatella-&-sauce-caramel.html/08711327624764",
+      "error": "request to https://www.miko.fr/p/cornetto-glace-%C3%A0-l%27italienne-stracciatella-&-sauce-caramel.html/08711327624764 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-vegan-cookies-on-cookie-dough.html/08711327626386",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:35.867Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-sundae-marshmallow-&-s'more.html/08711327626638",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-sundae-marshmallow-&-s%27more.html/08711327626638 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-vegan-chocolate-fudge-brownie.html/08711327627086",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/twister-cosmixx.html/08711327628007",
+      "error": "request to https://www.miko.fr/p/twister-cosmixx.html/08711327628007 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/twister-minis-sweet-&-sour.html/08711327628557",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.260Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-spectacu-love.html/08711327629394",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-pot-spectacu-love.html/08711327629394 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/magnum-bonbon-gold-caramel-billionnaire.html/08711327639942",
+      "error": "request to https://www.miko.fr/p/magnum-bonbon-gold-caramel-billionnaire.html/08711327639942 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-peaces-salted-caramel-brownie.html/08711327647930",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:30.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-peaces-cookie-dough.html/08711327648036",
+      "error": "request to https://www.miko.fr/p/ben-&-jerry%27s-peaces-cookie-dough.html/08711327648036 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:37.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-brookieees-&-cream.html/08711327666481",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.045Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/ben-&-jerry's-pot-sweet-mango-memories.html/08711327666962",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:39.992Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/miko-glace-b%C3%A2tonnet-donut-parfums-chocolat-&-cookies-4x62ml.html/08711327678057",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.152Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/miko-donut-chocolat-&-cookies.html/08711327678293",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/miko-glace-b%C3%A2tonnet-donut-parfums-chocolat-blanc-&-cookies-4x62ml.html/08711327678620",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/magnum-b%C3%A2tonnet-utopia-double-fruits-rouges.html/08711327678804",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.687Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-p%C3%AAche.html/08711327679542",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.129Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-les-essentiels-framboise.html/08711327679597",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:37.929Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/magnum-c%C3%B4ne-noisette.html/08711327681507",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:37.938Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/chocolat-blanc-&-amandes-x4.html/08712100818714",
+      "error": "request to https://www.miko.fr/p/chocolat-blanc-&-amandes-x4.html/08712100818714 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:45.734Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/magnum-cones-glac%C3%A9s-hazelnut-&-chocolate-cone-115-ml.html/08721274814873",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.055Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-dessert-glac%C3%A9-rum-&-raisins-900-ml.html/08721274824834",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-dessert-glac%C3%A9-creme-vanilla-900-ml.html/08721274824926",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:40.751Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-dessert-glac%C3%A9-chocolat-noir-900-ml.html/08721274824971",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:37.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-dessert-glac%C3%A9-vanillla-de-madagascar-900-ml.html/08721274825091",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:37.907Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/carte-d'or-dessert-glac%C3%A9-citron-900-ml.html/08721274825114",
+      "error": "request to https://www.miko.fr/p/carte-d%27or-dessert-glac%C3%A9-citron-900-ml.html/08721274825114 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-12T12:48:45.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/solero-glace-bouch%C3%A9es-bonbon-parfum-fraise-&-citron-vert-12x16ml.html/08721274826500",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T12:48:39.053Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/heart-dessert-glac%C3%A9-coconut-2400-ml.html/08721274827118",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T12:48:37.907Z"
+    }
+  ]
+}
