@@ -310,7 +310,7 @@ async function main() {
         allProblematicPages.push(...problematicPages);
       }
  
-      const outputFileName = `pdpCheckResults_${brand}_${assortmentCode}_${brandIndex+1}.json`;
+      const outputFileName = `pdpCheckResults_${brand}_${assortmentCode}.json`;
       const outputFile = path.join(process.cwd(), outputFileName);
       const output = {
         generatedAt: new Date().toISOString(),
@@ -323,7 +323,7 @@ async function main() {
       console.log(`Results saved to: ${outputFileName}`);
  
       if (problematicPages.length > 0) {
-        const problematicFileName = `pdpCheckResults_PROBLEMATIC_${brand}_${assortmentCode}_${brandIndex+1}.json`;
+        const problematicFileName = `pdpCheckResults_PROBLEMATIC_${brand}_${assortmentCode}.json`;
         const problematicFile = path.join(process.cwd(), problematicFileName);
         const problematicOutput = {
           generatedAt: new Date().toISOString(),
