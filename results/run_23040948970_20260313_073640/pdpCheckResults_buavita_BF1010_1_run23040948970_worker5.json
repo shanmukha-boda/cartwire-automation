@@ -1,0 +1,129 @@
+{
+  "generatedAt": "2026-03-13T07:35:57.312Z",
+  "brand": "buavita",
+  "assortmentCode": "BF1010",
+  "feedUrl": "https://www.buavita.co.id/home.productfeed.json",
+  "totalUrlsChecked": 19,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/jeruk.html/08998009020179",
+      "gtin": "08998009020179",
+      "checkedAt": "2026-03-13T07:35:52.340Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/jambu.html/08998009020186",
+      "gtin": "08998009020186",
+      "checkedAt": "2026-03-13T07:35:52.460Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/mangga.html/08998009020193",
+      "gtin": "08998009020193",
+      "checkedAt": "2026-03-13T07:35:52.734Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/leci.html/08998009020216",
+      "gtin": "08998009020216",
+      "checkedAt": "2026-03-13T07:35:57.311Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/apel.html/08998009020223",
+      "gtin": "08998009020223",
+      "checkedAt": "2026-03-13T07:35:53.564Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-buavita-apple-jus-apel-1000ml-buavita-apple-1000-ml.html/08998009020247",
+      "gtin": "08998009020247",
+      "checkedAt": "2026-03-13T07:35:52.217Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-jus-kemasan-apel-125ml.html/08998009020513",
+      "gtin": "08998009020513",
+      "checkedAt": "2026-03-13T07:35:52.140Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-grape-24x250ml-250ml.html/08999999023171",
+      "gtin": "08999999023171",
+      "checkedAt": "2026-03-13T07:35:55.604Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-royale-mix-berries-24-x-250ml-250ml.html/08999999031510",
+      "gtin": "08999999031510",
+      "checkedAt": "2026-03-13T07:35:56.041Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-royale-mix-berries-12-x-1000ml-1000ml.html/08999999031527",
+      "gtin": "08999999031527",
+      "checkedAt": "2026-03-13T07:35:53.157Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-kelapa-12x1000ml-1000ml.html/08999999037468",
+      "gtin": "08999999037468",
+      "checkedAt": "2026-03-13T07:35:55.511Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-markisa-24x250ml-0.html/08999999037482",
+      "gtin": "08999999037482",
+      "checkedAt": "2026-03-13T07:35:55.316Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-sirsak-24x250ml-250ml.html/08999999038137",
+      "gtin": "08999999038137",
+      "checkedAt": "2026-03-13T07:35:55.135Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-asli-harian-1000-ml.html/08999999055714",
+      "gtin": "08999999055714",
+      "checkedAt": "2026-03-13T07:35:52.031Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-jus-buah-asli-mango-juice-mangga-100%25-vitamin-c-asli-harian-1000ml.html/08999999055721",
+      "gtin": "08999999055721",
+      "checkedAt": "2026-03-13T07:35:55.486Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-jus-kemasan-apel-500ml.html/08999999504052",
+      "gtin": "08999999504052",
+      "checkedAt": "2026-03-13T07:35:56.614Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-harian-500-ml.html/08999999504069",
+      "gtin": "08999999504069",
+      "checkedAt": "2026-03-13T07:35:52.027Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/buavita-jus-kemasan-mangga-500ml.html/08999999528973",
+      "gtin": "08999999528973",
+      "checkedAt": "2026-03-13T07:35:55.798Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.buavita.co.id/p/korean-white-peach.html/08999999587376",
+      "gtin": "08999999587376",
+      "checkedAt": "2026-03-13T07:35:56.275Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "10.03s",
+  "speedMetrics": "1.89 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

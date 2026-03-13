@@ -1,0 +1,315 @@
+{
+  "generatedAt": "2026-03-13T07:35:10.081Z",
+  "brand": "signal",
+  "assortmentCode": "BH0013",
+  "feedUrl": "https://www.aim.gr/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system.html/00000052015298",
+      "gtin": "00000052015298",
+      "checkedAt": "2026-03-13T07:35:10.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system.html/00000052015304",
+      "gtin": "00000052015304",
+      "checkedAt": "2026-03-13T07:35:09.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system.html/05201028118950",
+      "gtin": "05201028118950",
+      "checkedAt": "2026-03-13T07:35:10.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/crystal-gel.html/05201028124104",
+      "gtin": "05201028124104",
+      "checkedAt": "2026-03-13T07:35:09.928Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-antibac-%2B-white.html/08710522404805",
+      "gtin": "08710522404805",
+      "checkedAt": "2026-03-13T07:35:09.988Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-smile-detox.html/08710522664360",
+      "gtin": "08710522664360",
+      "checkedAt": "2026-03-13T07:35:10.019Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/gentle-care.html/08710522681657",
+      "gtin": "08710522681657",
+      "checkedAt": "2026-03-13T07:35:09.958Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/family-protection-white.html/08710908436758",
+      "gtin": "08710908436758",
+      "checkedAt": "2026-03-13T07:35:10.028Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-carboncorrect.html/08710908837500",
+      "gtin": "08710908837500",
+      "checkedAt": "2026-03-13T07:35:10.019Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/family-protection-anticavity.html/08711600365698",
+      "gtin": "08711600365698",
+      "checkedAt": "2026-03-13T07:35:09.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/anti-plaque.html/08711600396357",
+      "gtin": "08711600396357",
+      "checkedAt": "2026-03-13T07:35:09.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/anti-plaque-x2.html/08711700809580",
+      "gtin": "08711700809580",
+      "checkedAt": "2026-03-13T07:35:09.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/vertical-expert.html/08711700968904",
+      "gtin": "08711700968904",
+      "checkedAt": "2026-03-13T07:35:10.008Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/vertical-expert.html/08711700968997",
+      "gtin": "08711700968997",
+      "checkedAt": "2026-03-13T07:35:09.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system-enamel.html/08712561360432",
+      "gtin": "08712561360432",
+      "checkedAt": "2026-03-13T07:35:09.990Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now.html/08712561877664",
+      "gtin": "08712561877664",
+      "checkedAt": "2026-03-13T07:35:10.039Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-ice-mint.html/08712561877695",
+      "gtin": "08712561877695",
+      "checkedAt": "2026-03-13T07:35:10.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/family-protection-herbal.html/08717163434062",
+      "gtin": "08717163434062",
+      "checkedAt": "2026-03-13T07:35:10.037Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system-x2.html/08718114143422",
+      "gtin": "08718114143422",
+      "checkedAt": "2026-03-13T07:35:10.029Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-ultra-reach-edition.html/08718114256474",
+      "gtin": "08718114256474",
+      "checkedAt": "2026-03-13T07:35:10.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensitive-expert.html/08718114580005",
+      "gtin": "08718114580005",
+      "checkedAt": "2026-03-13T07:35:09.957Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/ultra-reach.html/08718114584782",
+      "gtin": "08718114584782",
+      "checkedAt": "2026-03-13T07:35:10.029Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/classic-fresh.html/08718114585215",
+      "gtin": "08718114585215",
+      "checkedAt": "2026-03-13T07:35:10.008Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-shiny-white.html/08720181125935",
+      "gtin": "08720181125935",
+      "checkedAt": "2026-03-13T07:35:09.958Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/comfort-plus-x3.html/08720181147500",
+      "gtin": "08720181147500",
+      "checkedAt": "2026-03-13T07:35:09.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-charcoal.html/08720181268731",
+      "gtin": "08720181268731",
+      "checkedAt": "2026-03-13T07:35:10.019Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-clean.html/08720181268748",
+      "gtin": "08720181268748",
+      "checkedAt": "2026-03-13T07:35:10.080Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-bamboo-salt.html/08720181268755",
+      "gtin": "08720181268755",
+      "checkedAt": "2026-03-13T07:35:10.028Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-sensitive.html/08720181268762",
+      "gtin": "08720181268762",
+      "checkedAt": "2026-03-13T07:35:10.038Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system-charcoal.html/08720181436284",
+      "gtin": "08720181436284",
+      "checkedAt": "2026-03-13T07:35:10.039Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/complete-8-actions-ultra-whitening.html/08720181470233",
+      "gtin": "08720181470233",
+      "checkedAt": "2026-03-13T07:35:10.028Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/complete-8-actions-extra-fresh.html/08720181470240",
+      "gtin": "08720181470240",
+      "checkedAt": "2026-03-13T07:35:10.047Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/complete-8-actions-complete-protection.html/08720181470257",
+      "gtin": "08720181470257",
+      "checkedAt": "2026-03-13T07:35:10.019Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/complete-8-actions-deep-clean.html/08720181470264",
+      "gtin": "08720181470264",
+      "checkedAt": "2026-03-13T07:35:10.069Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/kids-0-6.html/08720181501371",
+      "gtin": "08720181501371",
+      "checkedAt": "2026-03-13T07:35:10.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/junior-6-13.html/08720181501388",
+      "gtin": "08720181501388",
+      "checkedAt": "2026-03-13T07:35:10.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/junior-6-13.html/08720181502866",
+      "gtin": "08720181502866",
+      "checkedAt": "2026-03-13T07:35:10.037Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/kids-0-6.html/08720181502873",
+      "gtin": "08720181502873",
+      "checkedAt": "2026-03-13T07:35:10.047Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/classic-fresh-(2x2)-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%AE.html/08720181534416",
+      "gtin": "08720181534416",
+      "checkedAt": "2026-03-13T07:35:10.037Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/%CE%B1nti-plaque-(2x2)-%CE%BC%CE%AD%CF%84%CF%81%CE%B9%CE%B1.html/08720181534423",
+      "gtin": "08720181534423",
+      "checkedAt": "2026-03-13T07:35:10.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-system-charcoal-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%AE.html/08720181534430",
+      "gtin": "08720181534430",
+      "checkedAt": "2026-03-13T07:35:10.029Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1.html/08720181697005",
+      "gtin": "08720181697005",
+      "checkedAt": "2026-03-13T07:35:10.029Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-white-boost.html/08720181697050",
+      "gtin": "08720181697050",
+      "checkedAt": "2026-03-13T07:35:10.028Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-forever-young.html/08720181697722",
+      "gtin": "08720181697722",
+      "checkedAt": "2026-03-13T07:35:10.067Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-hello-glow.html/08720181697739",
+      "gtin": "08720181697739",
+      "checkedAt": "2026-03-13T07:35:10.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-shine-with-care.html/08720181697760",
+      "gtin": "08720181697760",
+      "checkedAt": "2026-03-13T07:35:10.038Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/white-now-3-%CF%83%CE%B5-1-fresh-kiss.html/08720181698118",
+      "gtin": "08720181698118",
+      "checkedAt": "2026-03-13T07:35:10.039Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/sensisoft-charcoal-x2.html/08720181772221",
+      "gtin": "08720181772221",
+      "checkedAt": "2026-03-13T07:35:10.029Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/kids-0-6-x3.html/08720181772238",
+      "gtin": "08720181772238",
+      "checkedAt": "2026-03-13T07:35:10.038Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.aim.gr/p/gentle-care-x4.html/08720181772245",
+      "gtin": "08720181772245",
+      "checkedAt": "2026-03-13T07:35:10.047Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.86s",
+  "speedMetrics": "58.14 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

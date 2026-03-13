@@ -1,0 +1,3826 @@
+{
+  "generatedAt": "2026-03-13T07:36:44.551Z",
+  "runId": "23040948970",
+  "timestamp": "20260313_073640",
+  "workflowRun": "23040948970",
+  "totalProblematicPages": 213,
+  "totalRawProblematicPages": 356,
+  "duplicatesRemoved": 143,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/rexona-men-sport-defense-roll-on.html/04800888154873",
+      "gtin": "04800888154873",
+      "checkedAt": "2026-03-13T07:36:17.026Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/rexona-men-antibacterial-defense-roll-on.html/04800888192486",
+      "gtin": "04800888192486",
+      "checkedAt": "2026-03-13T07:36:17.016Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-dark-temptation-stick.html/04800888197870",
+      "gtin": "04800888197870",
+      "checkedAt": "2026-03-13T07:36:16.915Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/tresemme-detox-nourish-serum-conditioner.html/04800888200389",
+      "gtin": "04800888200389",
+      "checkedAt": "2026-03-13T07:36:17.358Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/tresemme-detox-and-nourish-shampoo.html/04800888200396",
+      "gtin": "04800888200396",
+      "checkedAt": "2026-03-13T07:36:17.054Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/pond-s-healthy-hydration-aloe-vera-hydrating-jelly-cleanser.html/04800888223104",
+      "gtin": "04800888223104",
+      "checkedAt": "2026-03-13T07:36:18.463Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-radiant-plus-care-serum-bar-50x-niacinamide-plus-vitamin-c-and-e.html/04800888285300",
+      "gtin": "04800888285300",
+      "checkedAt": "2026-03-13T07:36:18.328Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-radiant-plus-care-serum-bar-50x-niacinamide-plus-vegan-collagen.html/04800888285683",
+      "gtin": "04800888285683",
+      "checkedAt": "2026-03-13T07:36:18.621Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-men-plus-care-body-face-and-hair-wash-clean-comfort.html/04800888286062",
+      "gtin": "04800888286062",
+      "checkedAt": "2026-03-13T07:36:18.337Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/rexona-dry-serum-deodorant-berry-glow-40ml.html/04800888287939",
+      "gtin": "04800888287939",
+      "checkedAt": "2026-03-13T07:36:18.341Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-blue-lavender-stick.html/04800888289902",
+      "gtin": "04800888289902",
+      "checkedAt": "2026-03-13T07:36:18.408Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-aqua-bergamot-stick.html/04800888289919",
+      "gtin": "04800888289919",
+      "checkedAt": "2026-03-13T07:36:18.385Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/ponds-new-york-bright-brilliance-essence.html/06902088935165",
+      "gtin": "06902088935165",
+      "checkedAt": "2026-03-13T07:36:18.328Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-beauty-bar-sensitive-skin.html/08000700000227",
+      "gtin": "08000700000227",
+      "checkedAt": "2026-03-13T07:36:18.591Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/tresemme-color-vibrancy-bond-building-shampoo-purple-toning-for-salon-blonde-bleached-hair-220ml.html/08851932400992",
+      "gtin": "08851932400992",
+      "checkedAt": "2026-03-13T07:36:18.337Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-body-spray-black-vanilla.html/08851932483209",
+      "gtin": "08851932483209",
+      "checkedAt": "2026-03-13T07:36:18.408Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-body-spray-cherry-spritz.html/08851932483223",
+      "gtin": "08851932483223",
+      "checkedAt": "2026-03-13T07:36:18.379Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-aqua-bergamot-roll-on.html/08851932485760",
+      "gtin": "08851932485760",
+      "checkedAt": "2026-03-13T07:36:18.403Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/closeup-white-now-detox-cleanse-serum-toothpaste.html/08934839135737",
+      "gtin": "08934839135737",
+      "checkedAt": "2026-03-13T07:36:19.045Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/closeup-white-now-purple-serum-toothpaste.html/08934839135751",
+      "gtin": "08934839135751",
+      "checkedAt": "2026-03-13T07:36:19.026Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-glow-recharge-serum-body-wash.html/08934868196082",
+      "gtin": "08934868196082",
+      "checkedAt": "2026-03-13T07:36:19.034Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-hydration-boost-serum-body-wash.html/08934868196099",
+      "gtin": "08934868196099",
+      "checkedAt": "2026-03-13T07:36:19.041Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-men-deodorant-spray-extra-fresh.html/09300830037872",
+      "gtin": "09300830037872",
+      "checkedAt": "2026-03-13T07:36:19.052Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-bio-keratin-straight-silky-conditioner-500ml.html/18851932471463",
+      "gtin": "18851932471463",
+      "checkedAt": "2026-03-13T07:36:19.004Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-restorative-oil-nourishing-care-shampoo-300ml.html/24800888154372",
+      "gtin": "24800888154372",
+      "checkedAt": "2026-03-13T07:36:19.013Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-biotin-hair-fall-conditioner-170ml.html/24800888206651",
+      "gtin": "24800888206651",
+      "checkedAt": "2026-03-13T07:36:18.999Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-anti-dandruff-scalp-soothing-moisture-shampoo-300ml.html/24800888212102",
+      "gtin": "24800888212102",
+      "checkedAt": "2026-03-13T07:36:18.989Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-anti-dandruff-scalp-hair-fall-recovery-shampoo-300ml.html/24800888225836",
+      "gtin": "24800888225836",
+      "checkedAt": "2026-03-13T07:36:19.015Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-ceramide-intense-repair-protective-nourishing-oil-95ml.html/24800888289289",
+      "gtin": "24800888289289",
+      "checkedAt": "2026-03-13T07:36:19.035Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-bio-keratin-straight-silky-protective-nourishing-oil-95ml.html/24800888289296",
+      "gtin": "24800888289296",
+      "checkedAt": "2026-03-13T07:36:18.956Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-hair-fall-recovery-conditioner-170ml.html/24800888291992",
+      "gtin": "24800888291992",
+      "checkedAt": "2026-03-13T07:36:19.005Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-oil-control-shampoo-185ml.html/24800888292005",
+      "gtin": "24800888292005",
+      "checkedAt": "2026-03-13T07:36:19.034Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-soothing-moisture-3-in-1-serum-45ml.html/24800888292876",
+      "gtin": "24800888292876",
+      "checkedAt": "2026-03-13T07:36:19.050Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-hair-fall-recovery-3-in-1-serum-45ml.html/24800888292883",
+      "gtin": "24800888292883",
+      "checkedAt": "2026-03-13T07:36:18.956Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_allthingsbeauty_PH_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/klei-fris-and-zuiver-conditioner.html/08720181325496",
+      "gtin": "08720181325496",
+      "checkedAt": "2026-03-13T07:35:21.464Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/verrassend-volume-conditioner.html/08720181325601",
+      "gtin": "08720181325601",
+      "checkedAt": "2026-03-13T07:35:20.698Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/kokos-boost-conditioner.html/08720181325618",
+      "gtin": "08720181325618",
+      "checkedAt": "2026-03-13T07:35:21.602Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/levendige-kleur-conditioner.html/08720181325625",
+      "gtin": "08720181325625",
+      "checkedAt": "2026-03-13T07:35:21.308Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/hydratatie-and-volume-conditioner.html/08720181325694",
+      "gtin": "08720181325694",
+      "checkedAt": "2026-03-13T07:35:21.694Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/mild-and-zacht-conditioner.html/08720181325717",
+      "gtin": "08720181325717",
+      "checkedAt": "2026-03-13T07:35:20.730Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/2-in-1-shampoo.html/08720181327711",
+      "gtin": "08720181327711",
+      "checkedAt": "2026-03-13T07:35:21.145Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/kokos-boost-shampoo.html/08720181327759",
+      "gtin": "08720181327759",
+      "checkedAt": "2026-03-13T07:35:21.292Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/levendige-kleur-shampoo.html/08720181479946",
+      "gtin": "08720181479946",
+      "checkedAt": "2026-03-13T07:35:20.434Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/levendig-lang-masker.html/08720181495366",
+      "gtin": "08720181495366",
+      "checkedAt": "2026-03-13T07:35:21.033Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/levendig-lang-shampoo.html/08720182302212",
+      "gtin": "08720182302212",
+      "checkedAt": "2026-03-13T07:35:20.400Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/kokos-boost-droogshampoo.html/08710847951008",
+      "gtin": "08710847951008",
+      "checkedAt": "2026-03-13T07:35:22.032Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/verrassend-volume-droogshampoo.html/08710847951022",
+      "gtin": "08710847951022",
+      "checkedAt": "2026-03-13T07:35:20.981Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/langer-fris-droogshampoo.html/08710847951039",
+      "gtin": "08710847951039",
+      "checkedAt": "2026-03-13T07:35:21.696Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/zomer-blond-droogshampoo.html/08710847951046",
+      "gtin": "08710847951046",
+      "checkedAt": "2026-03-13T07:35:20.692Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-care-serum-oil.html/08717163707845",
+      "gtin": "08717163707845",
+      "checkedAt": "2026-03-13T07:35:22.164Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/iedere-dag-conditioner.html/08720181325410",
+      "gtin": "08720181325410",
+      "checkedAt": "2026-03-13T07:35:22.246Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/aloe-vera-repair-conditioner.html/08720181325557",
+      "gtin": "08720181325557",
+      "checkedAt": "2026-03-13T07:35:21.284Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-curl-special-conditioner.html/08720181325649",
+      "gtin": "08720181325649",
+      "checkedAt": "2026-03-13T07:35:21.814Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/honing-blond-conditioner.html/08720181325724",
+      "gtin": "08720181325724",
+      "checkedAt": "2026-03-13T07:35:21.153Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/iedere-dag-shampoo.html/08720181327704",
+      "gtin": "08720181327704",
+      "checkedAt": "2026-03-13T07:35:20.880Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/anti-roos-shampoo.html/08720181327728",
+      "gtin": "08720181327728",
+      "checkedAt": "2026-03-13T07:35:21.876Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/langer-fris-shampoo.html/08720181327742",
+      "gtin": "08720181327742",
+      "checkedAt": "2026-03-13T07:35:20.962Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/iedere-dag-men-shampoo.html/08720181327780",
+      "gtin": "08720181327780",
+      "checkedAt": "2026-03-13T07:35:21.545Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/honing-blond-shampoo.html/08720181479908",
+      "gtin": "08720181479908",
+      "checkedAt": "2026-03-13T07:35:21.465Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-care-haarmasker.html/08720181495359",
+      "gtin": "08720181495359",
+      "checkedAt": "2026-03-13T07:35:22.310Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-curl-haarcreme.html/08720181513190",
+      "gtin": "08720181513190",
+      "checkedAt": "2026-03-13T07:35:21.430Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/care-and-repair-cr%C3%A8me.html/08720181513213",
+      "gtin": "08720181513213",
+      "checkedAt": "2026-03-13T07:35:22.257Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+      "url": "https://www.andrelon.nl/p/oil-and-care-voedende-creme.html/08720181513220",
+      "gtin": "08720181513220",
+      "checkedAt": "2026-03-13T07:35:22.206Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_andrelon_BH0027_1_run23040948970_worker6.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfurdo-erzekeny-borre-3in1-400-ml.html/08720181637964",
+      "gtin": "08720181637964",
+      "checkedAt": "2026-03-13T07:35:41.756Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_baba_BH0048_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bogyosgyumolcs-illat-750-ml.html/08720181637971",
+      "gtin": "08720181637971",
+      "checkedAt": "2026-03-13T07:35:41.810Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_baba_BH0048_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-500-ml.html/08720181740343",
+      "gtin": "08720181740343",
+      "checkedAt": "2026-03-13T07:35:42.008Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_baba_BH0048_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-antibakterialis-eukaliptusz-250-ml.html/08720181740367",
+      "gtin": "08720181740367",
+      "checkedAt": "2026-03-13T07:35:41.595Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_baba_BH0048_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-750-ml.html/08720181741067",
+      "gtin": "08720181741067",
+      "checkedAt": "2026-03-13T07:35:42.257Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_baba_BH0048_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-slony-karmel-intense.html/08711327334601",
+      "gtin": "08711327334601",
+      "checkedAt": "2026-03-13T07:35:35.921Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-owoce-egotyczne-intense.html/08711327532755",
+      "gtin": "08711327532755",
+      "checkedAt": "2026-03-13T07:35:35.738Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-ciasteczko-intense.html/08711327624306",
+      "gtin": "08711327624306",
+      "checkedAt": "2026-03-13T07:35:35.716Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-truskawki-intense.html/08711327624665",
+      "gtin": "08711327624665",
+      "checkedAt": "2026-03-13T07:35:35.996Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-big-rozek-mango-biala-czekolada.html/08711327662254",
+      "gtin": "08711327662254",
+      "checkedAt": "2026-03-13T07:35:35.789Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-wanilia.html/08711327666894",
+      "gtin": "08711327666894",
+      "checkedAt": "2026-03-13T07:35:40.576Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327667303",
+      "gtin": "08711327667303",
+      "checkedAt": "2026-03-13T07:35:36.418Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327667570",
+      "gtin": "08711327667570",
+      "checkedAt": "2026-03-13T07:35:35.876Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-wafelek.html/08711327669819",
+      "gtin": "08711327669819",
+      "checkedAt": "2026-03-13T07:35:35.917Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-jagoda-%C5%9Bmietanka.html/08711327672949",
+      "gtin": "08711327672949",
+      "checkedAt": "2026-03-13T07:35:35.982Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-king-cone-rozek-waniliowy-z-sosem-czekoladowym.html/08711327677579",
+      "gtin": "08711327677579",
+      "checkedAt": "2026-03-13T07:35:40.444Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-trio-chrup.html/08711327677982",
+      "gtin": "08711327677982",
+      "checkedAt": "2026-03-13T07:35:36.124Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_big-milk_BF2003_1_run23040948970_worker5.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/baileys.html/08711327657267",
+      "gtin": "08711327657267",
+      "checkedAt": "2026-03-13T07:35:42.247Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/haselnuss-vanilla-schokolade.html/08711327668836",
+      "gtin": "08711327668836",
+      "checkedAt": "2026-03-13T07:35:42.243Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/pistazie-vanille.html/08711327671874",
+      "gtin": "08711327671874",
+      "checkedAt": "2026-03-13T07:35:42.335Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/himbeer-spritz.html/08711327677302",
+      "gtin": "08711327677302",
+      "checkedAt": "2026-03-13T07:35:42.278Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/soft-&-crunchy-erdbeere.html/08721274812299",
+      "gtin": "08721274812299",
+      "checkedAt": "2026-03-13T07:35:42.246Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/soft-&-crunchy-schokolade.html/08721274812671",
+      "gtin": "08721274812671",
+      "checkedAt": "2026-03-13T07:35:42.243Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/crema.html/08721274818055",
+      "gtin": "08721274818055",
+      "checkedAt": "2026-03-13T07:35:42.247Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/schokolade-vanilla-erdbeer.html/08721274814804",
+      "gtin": "08721274814804",
+      "checkedAt": "2026-03-13T07:35:42.319Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/walnuss-heidelbeer-butterkeks.html/08721274815191",
+      "gtin": "08721274815191",
+      "checkedAt": "2026-03-13T07:35:45.625Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/tiramisu-genuss.html/08721274817102",
+      "gtin": "08721274817102",
+      "checkedAt": "2026-03-13T07:35:45.344Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_cremissimo_BF0225_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/fr/home.productfeed.json",
+      "url": "https://www.dove.com/fr/p/d%C3%A9odorant-pour-tout-le-corps-framboise-et-rose-creme.html/08720181596506",
+      "gtin": "08720181596506",
+      "checkedAt": "2026-03-13T07:35:06.565Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_dove_BH0162_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-kokos-sheabutter-(cocos-shea-butter).html/08720181400254",
+      "gtin": "08720181400254",
+      "checkedAt": "2026-03-13T07:35:20.634Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_duschdas_BH0874_1_run23040948970_worker1.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-hydra-kick.html/08720181559648",
+      "gtin": "08720181559648",
+      "checkedAt": "2026-03-13T07:35:20.588Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_duschdas_BH0874_1_run23040948970_worker1.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-deep-relax.html/08720181559655",
+      "gtin": "08720181559655",
+      "checkedAt": "2026-03-13T07:35:20.628Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_duschdas_BH0874_1_run23040948970_worker1.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-night-out.html/08720181685880",
+      "gtin": "08720181685880",
+      "checkedAt": "2026-03-13T07:35:20.601Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_duschdas_BH0874_1_run23040948970_worker1.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
+      "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-supreme-230g.html/07891150101548",
+      "gtin": "07891150101548",
+      "checkedAt": "2026-03-13T07:35:11.579Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_hellmanns_BF0380_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-anti-bakteri-total-10.html/08999999059309",
+      "gtin": "08999999059309",
+      "checkedAt": "2026-03-13T07:35:13.248Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-mild-care-anti-bakteri-68g.html/08999999059316",
+      "gtin": "08999999059316",
+      "checkedAt": "2026-03-13T07:35:13.221Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-lemon-fresh-anti-bakteri-68g.html/08999999059323",
+      "gtin": "08999999059323",
+      "checkedAt": "2026-03-13T07:35:13.089Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-total-10-anti-bakteri-60g.html/08999999567651",
+      "gtin": "08999999567651",
+      "checkedAt": "2026-03-13T07:35:13.023Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-mild-care-anti-bakteri-botol-250g.html/08999999593469",
+      "gtin": "08999999593469",
+      "checkedAt": "2026-03-13T07:35:13.144Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-lemon-fresh-anti-bakteri-botol-250g.html/08999999593483",
+      "gtin": "08999999593483",
+      "checkedAt": "2026-03-13T07:35:13.186Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-bar-100gr.html/08999999610098",
+      "gtin": "08999999610098",
+      "checkedAt": "2026-03-13T07:35:13.220Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-pump-500ml.html/08999999610104",
+      "gtin": "08999999610104",
+      "checkedAt": "2026-03-13T07:35:13.164Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-pump-100ml.html/08999999610111",
+      "gtin": "08999999610111",
+      "checkedAt": "2026-03-13T07:35:13.208Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-japanese-shiso-bar-soap-70g.html/08999999613990",
+      "gtin": "08999999613990",
+      "checkedAt": "2026-03-13T07:35:13.236Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-matcha-green-tea-bar-soap-70g.html/08999999614324",
+      "gtin": "08999999614324",
+      "checkedAt": "2026-03-13T07:35:13.099Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/fifa-limited-edition-lifebuoy-menthol-kick-body-wash-pouch-360g.html/08999999616113",
+      "gtin": "08999999616113",
+      "checkedAt": "2026-03-13T07:35:13.193Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/fifa-limited-edition-lifebuoy-menthol-kick-body-wash-pump-500g.html/08999999616243",
+      "gtin": "08999999616243",
+      "checkedAt": "2026-03-13T07:35:12.943Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/fifa-limited-edition-lifebuoy-menthol-kick-body-wash-bottle-85g.html/08999999616328",
+      "gtin": "08999999616328",
+      "checkedAt": "2026-03-13T07:35:13.249Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "neutral",
+      "assortmentCode": "BH0869",
+      "feedUrl": "https://www.neutral.nl/home.productfeed.json",
+      "url": "https://www.neutral.nl/p/neutral-0%25-shower-gel.html/08720181330018",
+      "gtin": "08720181330018",
+      "checkedAt": "2026-03-13T07:35:28.474Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_neutral_BH0869_1_run23040948970_worker18.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "neutral",
+      "assortmentCode": "BH0869",
+      "feedUrl": "https://www.neutral.nl/home.productfeed.json",
+      "url": "https://www.neutral.nl/p/neutral-baby-0%25-2-in-1-bad-wasgel-&-shampoo.html/08720181537851",
+      "gtin": "08720181537851",
+      "checkedAt": "2026-03-13T07:35:28.294Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_neutral_BH0869_1_run23040948970_worker18.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-mustar--szosz.html/08712566388677",
+      "gtin": "08712566388677",
+      "checkedAt": "2026-03-13T07:35:45.707Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-real-majonez.html/08714100848234",
+      "gtin": "08714100848234",
+      "checkedAt": "2026-03-13T07:35:45.670Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-light-majonez.html/08714100848623",
+      "gtin": "08714100848623",
+      "checkedAt": "2026-03-13T07:35:45.670Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08720182197870",
+      "gtin": "08720182197870",
+      "checkedAt": "2026-03-13T07:35:45.707Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-avokados-szosz.html/08720182308078",
+      "gtin": "08720182308078",
+      "checkedAt": "2026-03-13T07:35:45.727Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-tzatziki-jellegu-szosz.html/08720182589699",
+      "gtin": "08720182589699",
+      "checkedAt": "2026-03-13T07:35:45.728Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-fokhagymas-szosz.html/08720182817730",
+      "gtin": "08720182817730",
+      "checkedAt": "2026-03-13T07:35:45.734Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-extra-chili-szosz.html/08720182822567",
+      "gtin": "08720182822567",
+      "checkedAt": "2026-03-13T07:35:45.732Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-vegan-majonez.html/08721201906305",
+      "gtin": "08721201906305",
+      "checkedAt": "2026-03-13T07:35:45.729Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-tejszines-zoldseges.html/08721201920295",
+      "gtin": "08721201920295",
+      "checkedAt": "2026-03-13T07:35:45.706Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-carbonara.html/08721201920417",
+      "gtin": "08721201920417",
+      "checkedAt": "2026-03-13T07:35:45.733Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-kremes-sajtszoszos.html/08721201921599",
+      "gtin": "08721201921599",
+      "checkedAt": "2026-03-13T07:35:45.728Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-kebab-izesitessel.html/08721201974014",
+      "gtin": "08721201974014",
+      "checkedAt": "2026-03-13T07:35:45.729Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317715624",
+      "gtin": "08721317715624",
+      "checkedAt": "2026-03-13T07:35:45.707Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317790010",
+      "gtin": "08721317790010",
+      "checkedAt": "2026-03-13T07:35:45.727Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-75g.html/05996358010554",
+      "gtin": "05996358010554",
+      "checkedAt": "2026-03-13T07:35:45.705Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-250g.html/05996358010561",
+      "gtin": "05996358010561",
+      "checkedAt": "2026-03-13T07:35:45.708Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014286",
+      "gtin": "05996358014286",
+      "checkedAt": "2026-03-13T07:35:45.706Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358014309",
+      "gtin": "05996358014309",
+      "checkedAt": "2026-03-13T07:35:45.707Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358018932",
+      "gtin": "05996358018932",
+      "checkedAt": "2026-03-13T07:35:45.732Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-petrezselymes-tyukhusleveskocka.html/05996358019540",
+      "gtin": "05996358019540",
+      "checkedAt": "2026-03-13T07:35:45.728Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-carbonara.html/08584057005352",
+      "gtin": "08584057005352",
+      "checkedAt": "2026-03-13T07:35:45.732Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-tesztaleves-marhas.html/08710522627594",
+      "gtin": "08710522627594",
+      "checkedAt": "2026-03-13T07:35:45.732Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tejszines-paprikas-szosz.html/08710604746076",
+      "gtin": "08710604746076",
+      "checkedAt": "2026-03-13T07:35:45.708Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tejszines-gombas-szosz.html/08710604746199",
+      "gtin": "08710604746199",
+      "checkedAt": "2026-03-13T07:35:45.732Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-edes-savanyu-szosz.html/08710908934674",
+      "gtin": "08710908934674",
+      "checkedAt": "2026-03-13T07:35:45.729Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-teriyaki-szosz.html/08710908934759",
+      "gtin": "08710908934759",
+      "checkedAt": "2026-03-13T07:35:45.733Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-extra-csipos-ketchup.html/08711200405893",
+      "gtin": "08711200405893",
+      "checkedAt": "2026-03-13T07:35:46.394Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-tyukhusleves-tesztaval.html/08712100867507",
+      "gtin": "08712100867507",
+      "checkedAt": "2026-03-13T07:35:46.539Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-gombakremleves-zsemlekockaval.html/08712100867569",
+      "gtin": "08712100867569",
+      "checkedAt": "2026-03-13T07:35:46.505Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-csirkekremleves-zsemlekockaval.html/08712100867682",
+      "gtin": "08712100867682",
+      "checkedAt": "2026-03-13T07:35:46.538Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-sajtkremleves-zsemlekockaval.html/08712100867743",
+      "gtin": "08712100867743",
+      "checkedAt": "2026-03-13T07:35:46.650Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-brokkolikremleves-zsemlekockaval.html/08712100868467",
+      "gtin": "08712100868467",
+      "checkedAt": "2026-03-13T07:35:46.668Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-szojaszosz.html/08712423034983",
+      "gtin": "08712423034983",
+      "checkedAt": "2026-03-13T07:35:46.394Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08712423038158",
+      "gtin": "08712423038158",
+      "checkedAt": "2026-03-13T07:35:46.506Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-hazias-tyukhus-levesalap.html/08712566205967",
+      "gtin": "08712566205967",
+      "checkedAt": "2026-03-13T07:35:46.600Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkes-instant-teszta.html/08714100750582",
+      "gtin": "08714100750582",
+      "checkedAt": "2026-03-13T07:35:46.600Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-paradicsomos-instant-teszta.html/08714100750612",
+      "gtin": "08714100750612",
+      "checkedAt": "2026-03-13T07:35:46.651Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkehusleves-kocka.html/08714100884980",
+      "gtin": "08714100884980",
+      "checkedAt": "2026-03-13T07:35:46.506Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-mac-and-cheese-jalapeno.html/08720182396921",
+      "gtin": "08720182396921",
+      "checkedAt": "2026-03-13T07:35:46.642Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-350g.html/08720182681355",
+      "gtin": "08720182681355",
+      "checkedAt": "2026-03-13T07:35:46.659Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-majonez-csaladi-meret.html/08720182739100",
+      "gtin": "08720182739100",
+      "checkedAt": "2026-03-13T07:35:46.668Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-mustar-250g.html/08720182792761",
+      "gtin": "08720182792761",
+      "checkedAt": "2026-03-13T07:35:46.538Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/mustar.html/08720182793980",
+      "gtin": "08720182793980",
+      "checkedAt": "2026-03-13T07:35:46.538Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-ketchup-olaszos.html/08720182821409",
+      "gtin": "08720182821409",
+      "checkedAt": "2026-03-13T07:35:46.539Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-sajtos-instant-teszta.html/08720182897916",
+      "gtin": "08720182897916",
+      "checkedAt": "2026-03-13T07:35:46.667Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-grizgaluskaleves.html/08720182975195",
+      "gtin": "08720182975195",
+      "checkedAt": "2026-03-13T07:35:46.676Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-light-majonez.html/08721201900969",
+      "gtin": "08721201900969",
+      "checkedAt": "2026-03-13T07:35:46.689Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-csirkes-etelekhez-200g.html/08721201904165",
+      "gtin": "08721201904165",
+      "checkedAt": "2026-03-13T07:35:46.538Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-bolognai-szoszos.html/08721201919732",
+      "gtin": "08721201919732",
+      "checkedAt": "2026-03-13T07:35:46.601Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-ementali-szoszos.html/08721201920363",
+      "gtin": "08721201920363",
+      "checkedAt": "2026-03-13T07:35:46.506Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-husgombocleves.html/08721201930843",
+      "gtin": "08721201930843",
+      "checkedAt": "2026-03-13T07:35:46.539Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-bbq-szosz.html/08721317701511",
+      "gtin": "08721317701511",
+      "checkedAt": "2026-03-13T07:35:46.787Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-csirkes-burrito-izesitessel.html/08721317773921",
+      "gtin": "08721317773921",
+      "checkedAt": "2026-03-13T07:35:46.764Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-edes-savanyu-izesitessel.html/08721317774164",
+      "gtin": "08721317774164",
+      "checkedAt": "2026-03-13T07:35:46.740Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/alfredo-csirkes-teszta.html/08721317776199",
+      "gtin": "08721317776199",
+      "checkedAt": "2026-03-13T07:35:46.802Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08721317797279",
+      "gtin": "08721317797279",
+      "checkedAt": "2026-03-13T07:35:46.760Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker11.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/aninda-onarici-sampuan-650ml.html/00123123123123",
+      "gtin": "00123123123123",
+      "checkedAt": "2026-03-13T07:35:14.393Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-sampuan-650ml.html/00123123123124",
+      "gtin": "00123123123124",
+      "checkedAt": "2026-03-13T07:35:14.081Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/aninda-onarici-sampuan-500ml.html/00123123123125",
+      "gtin": "00123123123125",
+      "checkedAt": "2026-03-13T07:35:14.951Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-sampuan-500ml.html/00123123123126",
+      "gtin": "00123123123126",
+      "checkedAt": "2026-03-13T07:35:14.105Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-isilti-serumu-90ml.html/08683130095812",
+      "gtin": "08683130095812",
+      "checkedAt": "2026-03-13T07:35:14.392Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-sac-bakim-kremi-350ml.html/08683130095843",
+      "gtin": "08683130095843",
+      "checkedAt": "2026-03-13T07:35:19.492Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-2in1-sampuan-400ml.html/08683130108604",
+      "gtin": "08683130108604",
+      "checkedAt": "2026-03-13T07:35:15.180Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/kepege-karsi-2in1-sampuan-400ml.html/08683130108758",
+      "gtin": "08683130108758",
+      "checkedAt": "2026-03-13T07:35:14.821Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-sampuan-400ml.html/08683130108772",
+      "gtin": "08683130108772",
+      "checkedAt": "2026-03-13T07:35:14.124Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-sac-bakim-kremi-350ml.html/08683130111949",
+      "gtin": "08683130111949",
+      "checkedAt": "2026-03-13T07:35:14.155Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/sac-d%C3%B6k%C3%BClmesi-karsiti-sac-bakim-kremi-350ml.html/08683130111963",
+      "gtin": "08683130111963",
+      "checkedAt": "2026-03-13T07:35:14.907Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/saglikli-uzayan-sac-bakim-kremi-350ml.html/08683130111970",
+      "gtin": "08683130111970",
+      "checkedAt": "2026-03-13T07:35:15.017Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-yogun-onarici-220ml.html/08683130090381",
+      "gtin": "08683130090381",
+      "checkedAt": "2026-03-13T07:35:14.802Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-sivi-sac-bakim-kremi-200ml.html/08683130095805",
+      "gtin": "08683130095805",
+      "checkedAt": "2026-03-13T07:35:14.602Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0178_1_run23040948970_worker17.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-frutas-vermelhas-e-gengibre.html/07891150031746",
+      "gtin": "07891150031746",
+      "checkedAt": "2026-03-13T07:35:20.132Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0432_1_run23040948970_worker12.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060883",
+      "gtin": "07891150060883",
+      "checkedAt": "2026-03-13T07:35:20.163Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0432_1_run23040948970_worker12.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom.html/07891150066694",
+      "gtin": "07891150066694",
+      "checkedAt": "2026-03-13T07:35:20.147Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0432_1_run23040948970_worker12.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespissimos.html/07891150066748",
+      "gtin": "07891150066748",
+      "checkedAt": "2026-03-13T07:35:20.070Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0432_1_run23040948970_worker12.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-des-coloridos.html/07891150066755",
+      "gtin": "07891150066755",
+      "checkedAt": "2026-03-13T07:35:20.151Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0432_1_run23040948970_worker12.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-modelador-antifrizz.html/07891150088368",
+      "gtin": "07891150088368",
+      "checkedAt": "2026-03-13T07:35:22.827Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0432_1_run23040948970_worker12.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088375",
+      "gtin": "07891150088375",
+      "checkedAt": "2026-03-13T07:35:22.558Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_sunsilk_BH0432_1_run23040948970_worker12.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/viennetta-vanilja.html/08000920200025",
+      "gtin": "08000920200025",
+      "checkedAt": "2026-03-13T07:35:06.052Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/cornetto-classico-gluteeniton-&-laktoositon.html/08711327357198",
+      "gtin": "08711327357198",
+      "checkedAt": "2026-03-13T07:35:06.887Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/omenasorbetti-j%C3%A4%C3%A4tel%C3%B6-vegaaninen.html/08711327398030",
+      "gtin": "08711327398030",
+      "checkedAt": "2026-03-13T07:35:13.697Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/cornetto-mansikka-j%C3%A4%C3%A4tel%C3%B6tuutti.html/08711327620322",
+      "gtin": "08711327620322",
+      "checkedAt": "2026-03-13T07:35:13.492Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/twister-mini-mallow-j%C3%A4%C3%A4tel%C3%B6-monipakkaus-8-kpl.html/08711327653245",
+      "gtin": "08711327653245",
+      "checkedAt": "2026-03-13T07:35:13.486Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/twister-mallow-j%C3%A4%C3%A4tel%C3%B6puikko-80ml.html/08711327661509",
+      "gtin": "08711327661509",
+      "checkedAt": "2026-03-13T07:35:13.496Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/haribo-push-up-j%C3%A4%C3%A4tel%C3%B6puikko-85ml.html/08711327667525",
+      "gtin": "08711327667525",
+      "checkedAt": "2026-03-13T07:35:13.479Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/calippo-lime-5mp.html/08722700231981",
+      "gtin": "08722700231981",
+      "checkedAt": "2026-03-13T07:35:13.701Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+      "url": "https://www.ingman.fi/p/calippo-cola-5mp.html/08722700231998",
+      "gtin": "08722700231998",
+      "checkedAt": "2026-03-13T07:35:13.793Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_walls_BF1055_1_run23040948970_worker3.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/deodorant-original-100-ml.html/08710847868498",
+      "gtin": "08710847868498",
+      "checkedAt": "2026-03-13T07:36:00.505Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/deodorant-poederzacht-100-ml.html/08710847868504",
+      "gtin": "08710847868504",
+      "checkedAt": "2026-03-13T07:36:00.523Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-400-ml.html/08720181647253",
+      "gtin": "08720181647253",
+      "checkedAt": "2026-03-13T07:36:00.544Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-200-ml.html/08720181647444",
+      "gtin": "08720181647444",
+      "checkedAt": "2026-03-13T07:36:00.550Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-700-ml.html/08720181647482",
+      "gtin": "08720181647482",
+      "checkedAt": "2026-03-13T07:36:00.505Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/shampoo-200-ml.html/08720181648748",
+      "gtin": "08720181648748",
+      "checkedAt": "2026-03-13T07:36:00.543Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/bodylotion-200-ml.html/08720181649615",
+      "gtin": "08720181649615",
+      "checkedAt": "2026-03-13T07:36:00.523Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zachte-cr%C3%A8me-tube-100-ml.html/08720181649639",
+      "gtin": "08720181649639",
+      "checkedAt": "2026-03-13T07:36:00.544Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zachte-cr%C3%A8me-pot-200-ml.html/08720181649646",
+      "gtin": "08720181649646",
+      "checkedAt": "2026-03-13T07:36:00.547Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/rijke-huidolie-200-ml.html/08720181649677",
+      "gtin": "08720181649677",
+      "checkedAt": "2026-03-13T07:36:00.584Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-mini-set-3x75-ml.html/08720181770500",
+      "gtin": "08720181770500",
+      "checkedAt": "2026-03-13T07:36:00.524Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-startersbox.html/08720181773563",
+      "gtin": "08720181773563",
+      "checkedAt": "2026-03-13T07:36:00.583Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-essentials-geschenkset-3x200-ml.html/08721317709142",
+      "gtin": "08721317709142",
+      "checkedAt": "2026-03-13T07:36:00.548Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/baby-&-kids-bath-care-set-2-x-200-ml.html/08721317738180",
+      "gtin": "08721317738180",
+      "checkedAt": "2026-03-13T07:36:00.559Z",
+      "discoveredInRun": "23040948970",
+      "sourceFile": "pdpCheckResults_zwitsal_BH0875_1_run23040948970_worker10.json"
+    }
+  ],
+  "brandsProcessed": [
+    {
+      "brand": "allthingsbeauty",
+      "assortmentCode": "ID",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "totalProblematicPages": 34
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "totalProblematicPages": 29
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0977",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "totalProblematicPages": 5
+    },
+    {
+      "brand": "bango",
+      "assortmentCode": "BF0917",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "totalProblematicPages": 12
+    },
+    {
+      "brand": "buavita",
+      "assortmentCode": "BF1010",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "calve",
+      "assortmentCode": "BF0153",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "calve",
+      "assortmentCode": "BF0153",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "citra",
+      "assortmentCode": "BH0110",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "citra",
+      "assortmentCode": "BH0110",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "colmans",
+      "assortmentCode": "BF0199",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "cream-silk",
+      "assortmentCode": "BH0128",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "totalProblematicPages": 10
+    },
+    {
+      "brand": "dawn",
+      "assortmentCode": "BH0141",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "totalProblematicPages": 4
+    },
+    {
+      "brand": "ego",
+      "assortmentCode": "BH0173",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "egoco",
+      "assortmentCode": "BH0173",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "fluocaril",
+      "assortmentCode": "BHA122",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "folicure",
+      "assortmentCode": "BH1005",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "grom",
+      "assortmentCode": "BF2050",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalProblematicPages": 1
+    },
+    {
+      "brand": "hertog",
+      "assortmentCode": "BF0384",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "kissan",
+      "assortmentCode": "BF0423",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0204",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0735",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalProblematicPages": 14
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalProblematicPages": 14
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalProblematicPages": 14
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalProblematicPages": 14
+    },
+    {
+      "brand": "lipton",
+      "assortmentCode": "BF0648",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "lipton",
+      "assortmentCode": "BF0648",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "lipton",
+      "assortmentCode": "BF0648",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "liquid",
+      "assortmentCode": "BHA361",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "mae-terra",
+      "assortmentCode": "BF8834",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "marmite",
+      "assortmentCode": "BF0556",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "masakapahariini",
+      "assortmentCode": "BFA335",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "mondamin",
+      "assortmentCode": "BH0604",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "nakmakanapa",
+      "assortmentCode": "BF0870",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "namdong",
+      "assortmentCode": "BFR099",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "neutral",
+      "assortmentCode": "BH0869",
+      "totalProblematicPages": 2
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "parogencyl",
+      "assortmentCode": "BHA123",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "pears",
+      "assortmentCode": "BH0368",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "pears",
+      "assortmentCode": "BH0368",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "potnoodle",
+      "assortmentCode": "BF0688",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "radox",
+      "assortmentCode": "BH0873",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "totalProblematicPages": 57
+    },
+    {
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "totalProblematicPages": 57
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0143",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0143",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0978",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "savile",
+      "assortmentCode": "BH8800",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0013",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0437",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0437",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0880",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0322",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0360",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0437",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0437",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0437",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "totalProblematicPages": 14
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "totalProblematicPages": 7
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0433",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tehsariwangi",
+      "assortmentCode": "BF0755",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "unox",
+      "assortmentCode": "BF0842",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0012",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0012",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0012",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0213",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0387",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0588",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0632",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0678",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0765",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "totalProblematicPages": 9
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BFQ742",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BFQ742",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "whatsfordinner",
+      "assortmentCode": "BF0735",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "whatsfordinner",
+      "assortmentCode": "BFA317",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "zendium-master",
+      "assortmentCode": "BH0871",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "zest",
+      "assortmentCode": "BH1081",
+      "totalProblematicPages": 0
+    },
+    {
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "totalProblematicPages": 14
+    },
+    {
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "totalProblematicPages": 14
+    },
+    {
+      "brand": "zwitsal",
+      "assortmentCode": "BH0884",
+      "totalProblematicPages": 0
+    }
+  ]
+}

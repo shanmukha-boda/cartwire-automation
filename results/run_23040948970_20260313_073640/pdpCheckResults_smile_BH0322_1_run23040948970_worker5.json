@@ -1,0 +1,388 @@
+{
+  "generatedAt": "2026-03-13T07:35:33.306Z",
+  "brand": "smile",
+  "assortmentCode": "BH0322",
+  "feedUrl": "https://www.mentadent.it/home.productfeed.json",
+  "totalUrlsChecked": 62,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protezione-quotidiana.html/08710522411452",
+      "gtin": "08710522411452",
+      "checkedAt": "2026-03-13T07:35:31.326Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-carbon-correct.html/08710908837425/whitenow-pdp",
+      "gtin": "08710908837425",
+      "checkedAt": "2026-03-13T07:35:32.893Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-bianco-quotidiano.html/08717163733653",
+      "gtin": "08717163733653",
+      "checkedAt": "2026-03-13T07:35:32.980Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-dentifricio.html/08717163746684",
+      "gtin": "08717163746684",
+      "checkedAt": "2026-03-13T07:35:25.479Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-m-microgranuli.html/08717163747827",
+      "gtin": "08717163747827",
+      "checkedAt": "2026-03-13T07:35:30.993Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-b-bianchi-e-forti.html/08717163747834",
+      "gtin": "08717163747834",
+      "checkedAt": "2026-03-13T07:35:25.559Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-carbone-attivo.html/08717163753095",
+      "gtin": "08717163753095",
+      "checkedAt": "2026-03-13T07:35:26.500Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-ultra-reach.html/08717644299180/whitenow-pdp",
+      "gtin": "08717644299180",
+      "checkedAt": "2026-03-13T07:35:31.948Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect-denti-fragili.html/08720181297052",
+      "gtin": "08720181297052",
+      "checkedAt": "2026-03-13T07:35:31.421Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect-gengive.html/08720181297076",
+      "gtin": "08720181297076",
+      "checkedAt": "2026-03-13T07:35:33.306Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect-ultra-clean.html/08720181297083",
+      "gtin": "08720181297083",
+      "checkedAt": "2026-03-13T07:35:31.698Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-original.html/08720181311147/whitenow-pdp",
+      "gtin": "08720181311147",
+      "checkedAt": "2026-03-13T07:35:31.962Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-infinite-gold.html/08720181311154/whitenow-pdp",
+      "gtin": "08720181311154",
+      "checkedAt": "2026-03-13T07:35:30.895Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-anti-macchia.html/08720181311161/whitenow-pdp",
+      "gtin": "08720181311161",
+      "checkedAt": "2026-03-13T07:35:31.718Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-instant-correct.html/08720181311178/whitenow-pdp",
+      "gtin": "08720181311178",
+      "checkedAt": "2026-03-13T07:35:31.522Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-revitalize.html/08720181311185/whitenow-pdp",
+      "gtin": "08720181311185",
+      "checkedAt": "2026-03-13T07:35:31.802Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-detox-cocco.html/08720181318849/whitenow-pdp",
+      "gtin": "08720181318849",
+      "checkedAt": "2026-03-13T07:35:26.032Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-3in1-original.html/08720181696992",
+      "gtin": "08720181696992",
+      "checkedAt": "2026-03-13T07:35:25.647Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-3in1-white-boost.html/08720181697043",
+      "gtin": "08720181697043",
+      "checkedAt": "2026-03-13T07:35:31.916Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-3in1-forever-young.html/08720181698095",
+      "gtin": "08720181698095",
+      "checkedAt": "2026-03-13T07:35:26.530Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-professional-gengive-forti-protezione-completa.html/08720181699535",
+      "gtin": "08720181699535",
+      "checkedAt": "2026-03-13T07:35:31.671Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-beauty-booster.html/08720181740329",
+      "gtin": "08720181740329",
+      "checkedAt": "2026-03-13T07:35:31.725Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-spazzolino-junior-6-13-anni.html/09014200243687",
+      "gtin": "09014200243687",
+      "checkedAt": "2026-03-13T07:35:26.615Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-collutorio-p-300ml.html/00000080002734",
+      "gtin": "00000080002734",
+      "checkedAt": "2026-03-13T07:35:25.514Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-interdental-expert.html/00000080466420",
+      "gtin": "00000080466420",
+      "checkedAt": "2026-03-13T07:35:31.580Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-collutorio-p-500ml.html/08000630046203",
+      "gtin": "08000630046203",
+      "checkedAt": "2026-03-13T07:35:25.432Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-collutorio-protezione-attiva-5x-400-ml.html/08710522942857",
+      "gtin": "08710522942857",
+      "checkedAt": "2026-03-13T07:35:32.078Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-professional-x4.html/08711600551725",
+      "gtin": "08711600551725",
+      "checkedAt": "2026-03-13T07:35:31.496Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-vertical-expert.html/08711600969025",
+      "gtin": "08711600969025",
+      "checkedAt": "2026-03-13T07:35:25.529Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia.html/08712561287456",
+      "gtin": "08712561287456",
+      "checkedAt": "2026-03-13T07:35:26.650Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-collutorio-alito-puro-500ml.html/08717163752678",
+      "gtin": "08717163752678",
+      "checkedAt": "2026-03-13T07:35:25.446Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-carbone-setole-con-antibatterico.html/08720181113949",
+      "gtin": "08720181113949",
+      "checkedAt": "2026-03-13T07:35:25.759Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-bicarbonato.html/08720181121012",
+      "gtin": "08720181121012",
+      "checkedAt": "2026-03-13T07:35:32.287Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-detox.html/08720181318856/whitenow-pdp",
+      "gtin": "08720181318856",
+      "checkedAt": "2026-03-13T07:35:31.978Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-dentifricio-kids-0-6-anni.html/08720181501395",
+      "gtin": "08720181501395",
+      "checkedAt": "2026-03-13T07:35:25.663Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.mentadent.it/p/mentadent-tecnic.html/09014200008170",
+      "gtin": "09014200008170",
+      "checkedAt": "2026-03-13T07:35:31.624Z"
+    }
+  ],
+  "errors": 26,
+  "duration": "8.48s",
+  "speedMetrics": "7.31 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-sensibilita.html/08710522411445",
+      "error": "request to https://www.mentadent.it/p/mentadent-professional-sensibilita.html/08710522411445 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-igiene-quotidiana.html/08717163733660",
+      "error": "request to https://www.mentadent.it/p/mentadent-protezione-famiglia-igiene-quotidiana.html/08717163733660 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.116Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-freschezza-quotidiana.html/08717163733677",
+      "error": "request to https://www.mentadent.it/p/mentadent-protezione-famiglia-freschezza-quotidiana.html/08717163733677 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-denti-sani-e-forti.html/08717163733684",
+      "error": "request to https://www.mentadent.it/p/mentadent-protezione-famiglia-denti-sani-e-forti.html/08717163733684 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-crystal-gel.html/08717163746691",
+      "error": "request to https://www.mentadent.it/p/mentadent-white-system-crystal-gel.html/08717163746691 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-c-fresh.html/08717163746714",
+      "error": "request to https://www.mentadent.it/p/mentadent-white-system-c-fresh.html/08717163746714 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-revitalizza-smalto.html/08717163746721",
+      "error": "request to https://www.mentadent.it/p/mentadent-white-system-revitalizza-smalto.html/08717163746721 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.116Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-p-prevenzione-completa-con-antibatterico.html/08717163747803",
+      "error": "request to https://www.mentadent.it/p/mentadent-p-prevenzione-completa-con-antibatterico.html/08717163747803 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-a-alito-puro.html/08717163762516",
+      "error": "request to https://www.mentadent.it/p/mentadent-a-alito-puro.html/08717163762516 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.130Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect-sensibilita.html/08720181297045",
+      "error": "request to https://www.mentadent.it/p/mentadent-professional-protect-sensibilita.html/08720181297045 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.131Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect-carie.html/08720181297069",
+      "error": "request to https://www.mentadent.it/p/mentadent-professional-protect-carie.html/08720181297069 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.131Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-spazzolino-kids-0-6-anni.html/08720181415241",
+      "error": "request to https://www.mentadent.it/p/mentadent-spazzolino-kids-0-6-anni.html/08720181415241 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.194Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect%2B-sensibilit%C3%A0-e-denti-pi%C3%B9-bianchi.html/08720181547768",
+      "error": "request to https://www.mentadent.it/p/mentadent-professional-protect%2B-sensibilit%C3%A0-e-denti-pi%C3%B9-bianchi.html/08720181547768 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-gengive-forti-antiplacca.html/08720181684265",
+      "error": "request to https://www.mentadent.it/p/mentadent-professional-gengive-forti-antiplacca.html/08720181684265 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-gengive-forti-bianco-intenso.html/08720181684272",
+      "error": "request to https://www.mentadent.it/p/mentadent-professional-gengive-forti-bianco-intenso.html/08720181684272 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.194Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-3in1-bye-bye-imperfections.html/08720181698163",
+      "error": "request to https://www.mentadent.it/p/mentadent-white-now-3in1-bye-bye-imperfections.html/08720181698163 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.194Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-spazzolino.html/00000080567080",
+      "error": "request to https://www.mentadent.it/p/mentadent-white-system-spazzolino.html/00000080567080 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-sensitive-expert.html/08000630042397",
+      "error": "request to https://www.mentadent.it/p/mentadent-sensitive-expert.html/08000630042397 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.194Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-p-setole-con-antibatterico.html/08710522590225",
+      "error": "request to https://www.mentadent.it/p/mentadent-p-setole-con-antibatterico.html/08710522590225 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-tecnic-x3.html/08712561493611",
+      "error": "request to https://www.mentadent.it/p/mentadent-tecnic-x3.html/08712561493611 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-vertical-expert-sensitive.html/08712561510011",
+      "error": "request to https://www.mentadent.it/p/mentadent-vertical-expert-sensitive.html/08712561510011 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-x2.html/08717163375327",
+      "error": "request to https://www.mentadent.it/p/mentadent-protezione-famiglia-x2.html/08717163375327 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.192Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional.html/08717163443484",
+      "error": "request to https://www.mentadent.it/p/mentadent-professional.html/08717163443484 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-pocket.html/08717163494332",
+      "error": "request to https://www.mentadent.it/p/mentadent-pocket.html/08717163494332 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-s-sensibilita-e-gengive.html/08717163747810",
+      "error": "request to https://www.mentadent.it/p/mentadent-s-sensibilita-e-gengive.html/08717163747810 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-dentifricio-junior-6-13-anni.html/08720181501401",
+      "error": "request to https://www.mentadent.it/p/mentadent-dentifricio-junior-6-13-anni.html/08720181501401 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:35:33.194Z"
+    }
+  ]
+}

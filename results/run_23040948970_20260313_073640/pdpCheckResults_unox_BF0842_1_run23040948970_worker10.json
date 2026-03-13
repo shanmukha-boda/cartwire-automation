@@ -1,0 +1,687 @@
+{
+  "generatedAt": "2026-03-13T07:36:16.215Z",
+  "brand": "unox",
+  "assortmentCode": "BF0842",
+  "feedUrl": "https://www.unox.nl/home.productfeed.json",
+  "totalUrlsChecked": 112,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-erwtensoep.html/08710522527115",
+      "gtin": "08710522527115",
+      "checkedAt": "2026-03-13T07:36:01.920Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-rund.html/08710522627457",
+      "gtin": "08710522627457",
+      "checkedAt": "2026-03-13T07:36:03.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-groente.html/08710522627570",
+      "gtin": "08710522627570",
+      "checkedAt": "2026-03-13T07:36:01.919Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-tomatensoep-800ml.html/08710522674536",
+      "gtin": "08710522674536",
+      "checkedAt": "2026-03-13T07:36:02.793Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-tomatensoep-1300ml.html/08710522674550",
+      "gtin": "08710522674550",
+      "checkedAt": "2026-03-13T07:36:01.800Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-erwtensoep-1300ml.html/08710522674598",
+      "gtin": "08710522674598",
+      "checkedAt": "2026-03-13T07:36:01.935Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-erwtensoep-300ml.html/08710522674635",
+      "gtin": "08710522674635",
+      "checkedAt": "2026-03-13T07:36:03.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-erwtensoep-800ml.html/08710522674659",
+      "gtin": "08710522674659",
+      "checkedAt": "2026-03-13T07:36:01.974Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-bruine-bonensoep-800ml.html/08710522674789",
+      "gtin": "08710522674789",
+      "checkedAt": "2026-03-13T07:36:02.716Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-goulashsoep-800ml.html/08710522674956",
+      "gtin": "08710522674956",
+      "checkedAt": "2026-03-13T07:36:03.055Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-goulashsoep-300ml.html/08710522674970",
+      "gtin": "08710522674970",
+      "checkedAt": "2026-03-13T07:36:02.009Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-chinese-tomatensoep-800ml.html/08710522674994",
+      "gtin": "08710522674994",
+      "checkedAt": "2026-03-13T07:36:02.926Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-tomaat-groentesoep-800ml.html/08710522675076",
+      "gtin": "08710522675076",
+      "checkedAt": "2026-03-13T07:36:02.193Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-tomatencr%C3%A8mesoep-800ml.html/08710522675090",
+      "gtin": "08710522675090",
+      "checkedAt": "2026-03-13T07:36:02.343Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-champignonsoep-800ml.html/08710522675151",
+      "gtin": "08710522675151",
+      "checkedAt": "2026-03-13T07:36:01.797Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-tomatensoep-300ml.html/08710522675175",
+      "gtin": "08710522675175",
+      "checkedAt": "2026-03-13T07:36:01.901Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-champignonsoep-300ml.html/08710522678893",
+      "gtin": "08710522678893",
+      "checkedAt": "2026-03-13T07:36:02.368Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-tomatencr%C3%A8mesoep-300ml.html/08710522684948",
+      "gtin": "08710522684948",
+      "checkedAt": "2026-03-13T07:36:01.920Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/tomaten-kikkererwtensoep.html/08710522907757",
+      "gtin": "08710522907757",
+      "checkedAt": "2026-03-13T07:36:03.043Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/tomaten-kidneybonensoep.html/08710522907900",
+      "gtin": "08710522907900",
+      "checkedAt": "2026-03-13T07:36:02.298Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/pompoen-rode-linzen-soep.html/08710522908044",
+      "gtin": "08710522908044",
+      "checkedAt": "2026-03-13T07:36:02.332Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/kip-rookworst.html/08710604735001",
+      "gtin": "08710604735001",
+      "checkedAt": "2026-03-13T07:36:03.068Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/chinese-tomatensoep.html/08710604785990",
+      "gtin": "08710604785990",
+      "checkedAt": "2026-03-13T07:36:02.465Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-tomatensoep.html/08710604786010",
+      "gtin": "08710604786010",
+      "checkedAt": "2026-03-13T07:36:02.628Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/tomaat-groentesoep.html/08710604786034",
+      "gtin": "08710604786034",
+      "checkedAt": "2026-03-13T07:36:02.400Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-sat%C3%A9.html/08710604786973",
+      "gtin": "08710604786973",
+      "checkedAt": "2026-03-13T07:36:02.304Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-oosterse-kip.html/08710604786980",
+      "gtin": "08710604786980",
+      "checkedAt": "2026-03-13T07:36:02.727Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-kerrie.html/08710604786997",
+      "gtin": "08710604786997",
+      "checkedAt": "2026-03-13T07:36:02.471Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-kip.html/08710604787017",
+      "gtin": "08710604787017",
+      "checkedAt": "2026-03-13T07:36:02.335Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-groente.html/08710604787024",
+      "gtin": "08710604787024",
+      "checkedAt": "2026-03-13T07:36:01.902Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-rund.html/08710604791038",
+      "gtin": "08710604791038",
+      "checkedAt": "2026-03-13T07:36:02.357Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/proeverij-romige-tomatensoep.html/08710908976353",
+      "gtin": "08710908976353",
+      "checkedAt": "2026-03-13T07:36:02.494Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/proeverij-vergetengroentesoep.html/08710908976551",
+      "gtin": "08710908976551",
+      "checkedAt": "2026-03-13T07:36:02.837Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/originele-groentesoep-800ml.html/08711200355822",
+      "gtin": "08711200355822",
+      "checkedAt": "2026-03-13T07:36:02.701Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/originele-uiensoep-800ml.html/08711200355907",
+      "gtin": "08711200355907",
+      "checkedAt": "2026-03-13T07:36:08.843Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/originele-kippensoep-800ml.html/08711200355914",
+      "gtin": "08711200355914",
+      "checkedAt": "2026-03-13T07:36:02.980Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/originele-kippensoep-300ml.html/08711200358670",
+      "gtin": "08711200358670",
+      "checkedAt": "2026-03-13T07:36:02.417Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/originele-groentesoep-300ml.html/08711200358700",
+      "gtin": "08711200358700",
+      "checkedAt": "2026-03-13T07:36:02.648Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/originele-kippensoep-1300ml.html/08711200361816",
+      "gtin": "08711200361816",
+      "checkedAt": "2026-03-13T07:36:02.285Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-groentesoep.html/08711200373185",
+      "gtin": "08711200373185",
+      "checkedAt": "2026-03-13T07:36:02.631Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/magere-leverpastei.html/08711200387618",
+      "gtin": "08711200387618",
+      "checkedAt": "2026-03-13T07:36:01.952Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/leverpastei.html/08711200387625",
+      "gtin": "08711200387625",
+      "checkedAt": "2026-03-13T07:36:01.760Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/leverpastei-grootverpakking.html/08711200387632",
+      "gtin": "08711200387632",
+      "checkedAt": "2026-03-13T07:36:02.694Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/bruine-bonensoep.html/08711200452705",
+      "gtin": "08711200452705",
+      "checkedAt": "2026-03-13T07:36:02.790Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/champignon-ragout.html/08712100379529",
+      "gtin": "08712100379529",
+      "checkedAt": "2026-03-13T07:36:02.100Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/kip-ragout.html/08712100379536",
+      "gtin": "08712100379536",
+      "checkedAt": "2026-03-13T07:36:02.495Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/pittige-rookworst.html/08712100428715",
+      "gtin": "08712100428715",
+      "checkedAt": "2026-03-13T07:36:08.415Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/gehaktballetjes-in-sat%C3%A9saus.html/08712100500022",
+      "gtin": "08712100500022",
+      "checkedAt": "2026-03-13T07:36:01.959Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/gehaktballetjes-in-tomatensaus.html/08712100546235",
+      "gtin": "08712100546235",
+      "checkedAt": "2026-03-13T07:36:01.936Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-noodles-kip.html/08712100750977",
+      "gtin": "08712100750977",
+      "checkedAt": "2026-03-13T07:36:02.011Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/hollandse-aspergesoep.html/08712423001978",
+      "gtin": "08712423001978",
+      "checkedAt": "2026-03-13T07:36:03.000Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/kruidige-tomatensoep.html/08712423002005",
+      "gtin": "08712423002005",
+      "checkedAt": "2026-03-13T07:36:01.941Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/klassieke-tomatensoep.html/08712423002043",
+      "gtin": "08712423002043",
+      "checkedAt": "2026-03-13T07:36:02.653Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/indiase-currysoep.html/08712423002050",
+      "gtin": "08712423002050",
+      "checkedAt": "2026-03-13T07:36:02.088Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/romige-champignonsoep.html/08712423002081",
+      "gtin": "08712423002081",
+      "checkedAt": "2026-03-13T07:36:02.770Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/romige-kip-champignonsoep.html/08712423010369",
+      "gtin": "08712423010369",
+      "checkedAt": "2026-03-13T07:36:02.704Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/heldere-kippensoep.html/08712423010390",
+      "gtin": "08712423010390",
+      "checkedAt": "2026-03-13T07:36:02.801Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/romige-paddenstoelensoep.html/08712423010406",
+      "gtin": "08712423010406",
+      "checkedAt": "2026-03-13T07:36:02.711Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/hongaarse-goulashsoep.html/08712423010437",
+      "gtin": "08712423010437",
+      "checkedAt": "2026-03-13T07:36:02.334Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/klassieke-ossenstaartsoep.html/08712423010444",
+      "gtin": "08712423010444",
+      "checkedAt": "2026-03-13T07:36:02.606Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/heldere-groentesoep.html/08712423010451",
+      "gtin": "08712423010451",
+      "checkedAt": "2026-03-13T07:36:02.313Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/hollandse-erwtensoep.html/08712423010499",
+      "gtin": "08712423010499",
+      "checkedAt": "2026-03-13T07:36:01.902Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/pittige-erwtensoep.html/08712423010505",
+      "gtin": "08712423010505",
+      "checkedAt": "2026-03-13T07:36:02.512Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-carbonara.html/08712566365166",
+      "gtin": "08712566365166",
+      "checkedAt": "2026-03-13T07:36:01.977Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/hongaarse-goulash.html/08713200822038",
+      "gtin": "08713200822038",
+      "checkedAt": "2026-03-13T07:36:02.811Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/knaks.html/08714100753699",
+      "gtin": "08714100753699",
+      "checkedAt": "2026-03-13T07:36:01.941Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/knaks-3-pak.html/08714100763575",
+      "gtin": "08714100763575",
+      "checkedAt": "2026-03-13T07:36:02.517Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/pittige-knaks.html/08714100772874",
+      "gtin": "08714100772874",
+      "checkedAt": "2026-03-13T07:36:02.012Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/kip-knaks.html/08714100772911",
+      "gtin": "08714100772911",
+      "checkedAt": "2026-03-13T07:36:01.997Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/frankfurters.html/08714100772935",
+      "gtin": "08714100772935",
+      "checkedAt": "2026-03-13T07:36:02.153Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/bockworsten.html/08714100772942",
+      "gtin": "08714100772942",
+      "checkedAt": "2026-03-13T07:36:01.773Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/smac.html/08714100776070",
+      "gtin": "08714100776070",
+      "checkedAt": "2026-03-13T07:36:01.777Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/magere-smac.html/08714100776247",
+      "gtin": "08714100776247",
+      "checkedAt": "2026-03-13T07:36:03.057Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/schouderhammix.html/08714100776360",
+      "gtin": "08714100776360",
+      "checkedAt": "2026-03-13T07:36:01.790Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-bolognese.html/08714100826492",
+      "gtin": "08714100826492",
+      "checkedAt": "2026-03-13T07:36:02.754Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-romige-kaassaus.html/08714100829769",
+      "gtin": "08714100829769",
+      "checkedAt": "2026-03-13T07:36:02.700Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-knaks.html/08717163777862",
+      "gtin": "08717163777862",
+      "checkedAt": "2026-03-13T07:36:01.777Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/romige-tomatensoep.html/08717163821299",
+      "gtin": "08717163821299",
+      "checkedAt": "2026-03-13T07:36:01.902Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/tomaten-pastasoep.html/08717163821305",
+      "gtin": "08717163821305",
+      "checkedAt": "2026-03-13T07:36:02.703Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/romige-pompoensoep.html/08717163850053",
+      "gtin": "08717163850053",
+      "checkedAt": "2026-03-13T07:36:01.902Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/romige-mosterdsoep.html/08717163926758",
+      "gtin": "08717163926758",
+      "checkedAt": "2026-03-13T07:36:08.962Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/geconcentreerde-champignonsoep.html/08718114806037",
+      "gtin": "08718114806037",
+      "checkedAt": "2026-03-13T07:36:09.009Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/geconcentreerde-tomatensoep.html/08718114806129",
+      "gtin": "08718114806129",
+      "checkedAt": "2026-03-13T07:36:16.214Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/geconcentreerde-tomaten-cr%C3%A8mesoep.html/08718114806136",
+      "gtin": "08718114806136",
+      "checkedAt": "2026-03-13T07:36:09.088Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-4-kazen.html/08720182035660",
+      "gtin": "08720182035660",
+      "checkedAt": "2026-03-13T07:36:09.084Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/biologische-tomatensoep.html/08720182100696",
+      "gtin": "08720182100696",
+      "checkedAt": "2026-03-13T07:36:09.398Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-kippensoep.html/08720182108142",
+      "gtin": "08720182108142",
+      "checkedAt": "2026-03-13T07:36:09.387Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/biologische-champignonsoep.html/08720182123206",
+      "gtin": "08720182123206",
+      "checkedAt": "2026-03-13T07:36:09.674Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/biologische-pompoensoep.html/08720182123213",
+      "gtin": "08720182123213",
+      "checkedAt": "2026-03-13T07:36:09.549Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/hotdogs.html/08720182223128",
+      "gtin": "08720182223128",
+      "checkedAt": "2026-03-13T07:36:09.813Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-vegetarische-erwtensoep-800ml.html/08720182258748",
+      "gtin": "08720182258748",
+      "checkedAt": "2026-03-13T07:36:09.736Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-pompoensoep-800ml.html/08720182260802",
+      "gtin": "08720182260802",
+      "checkedAt": "2026-03-13T07:36:16.136Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/stevige-aspergesoep-800ml.html/08720182267443",
+      "gtin": "08720182267443",
+      "checkedAt": "2026-03-13T07:36:09.890Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-tomaat-mozzarella.html/08720182276612",
+      "gtin": "08720182276612",
+      "checkedAt": "2026-03-13T07:36:09.121Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/smac-xxl.html/08720182298096",
+      "gtin": "08720182298096",
+      "checkedAt": "2026-03-13T07:36:09.466Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/kip-party-knaks.html/08720182327918",
+      "gtin": "08720182327918",
+      "checkedAt": "2026-03-13T07:36:09.534Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-rookworst.html/08720182498151",
+      "gtin": "08720182498151",
+      "checkedAt": "2026-03-13T07:36:09.651Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-balletjes-in-sat%C3%A9saus.html/08720182522009",
+      "gtin": "08720182522009",
+      "checkedAt": "2026-03-13T07:36:09.355Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-balletjes-in-tomatensaus.html/08720182522016",
+      "gtin": "08720182522016",
+      "checkedAt": "2026-03-13T07:36:09.511Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/magere-knaks.html/08720182687081",
+      "gtin": "08720182687081",
+      "checkedAt": "2026-03-13T07:36:09.485Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/party-knaks.html/08720182687609",
+      "gtin": "08720182687609",
+      "checkedAt": "2026-03-13T07:36:09.047Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/magere-party-knaks.html/08720182687777",
+      "gtin": "08720182687777",
+      "checkedAt": "2026-03-13T07:36:09.473Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-kaas-jalape%C3%B1o.html/08720182706225",
+      "gtin": "08720182706225",
+      "checkedAt": "2026-03-13T07:36:09.754Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-champignon.html/08720182706232",
+      "gtin": "08720182706232",
+      "checkedAt": "2026-03-13T07:36:09.704Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/good-pasta-pesto-kaas.html/08720182706249",
+      "gtin": "08720182706249",
+      "checkedAt": "2026-03-13T07:36:09.495Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/vegetarische-party-knaks.html/08720182711717",
+      "gtin": "08720182711717",
+      "checkedAt": "2026-03-13T07:36:09.568Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/extra-magere-rookworst-275g.html/08720182717702",
+      "gtin": "08720182717702",
+      "checkedAt": "2026-03-13T07:36:09.570Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/gelderse-rookworst-285g.html/08720182718495",
+      "gtin": "08720182718495",
+      "checkedAt": "2026-03-13T07:36:09.153Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/extra-magere-rookworst-xxl-375g.html/08720182721198",
+      "gtin": "08720182721198",
+      "checkedAt": "2026-03-13T07:36:09.055Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/gelderse-xxl-rookworst-375g.html/08720182721457",
+      "gtin": "08720182721457",
+      "checkedAt": "2026-03-13T07:36:09.716Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/extra-magere-rookworst-magnetron.html/08720182744586",
+      "gtin": "08720182744586",
+      "checkedAt": "2026-03-13T07:36:09.121Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.unox.nl/p/gelderse-rookworst-magnetron-100g.html/08720182744692",
+      "gtin": "08720182744692",
+      "checkedAt": "2026-03-13T07:36:09.855Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "15.17s",
+  "speedMetrics": "7.38 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

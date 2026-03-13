@@ -1,0 +1,208 @@
+{
+  "generatedAt": "2026-03-13T07:35:12.286Z",
+  "brand": "sheamoisture",
+  "assortmentCode": "BH8837",
+  "feedUrl": "https://www.sheamoistureuk.com/home.productfeed.json",
+  "totalUrlsChecked": 32,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-mafura-oil-shampoo.html/07643022208868",
+      "gtin": "07643022208868",
+      "checkedAt": "2026-03-13T07:35:12.250Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-mafura-oil-conditioner.html/07643022208936",
+      "gtin": "07643022208936",
+      "checkedAt": "2026-03-13T07:35:12.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-mafura-oil-masque.html/07643022209094",
+      "gtin": "07643022209094",
+      "checkedAt": "2026-03-13T07:35:12.238Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/virgin-coconut-oil-daily-hydration-shampoo.html/07643022209544",
+      "gtin": "07643022209544",
+      "checkedAt": "2026-03-13T07:35:12.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/virgin-coconut-oil-daily-hydration-conditioner.html/07643022209612",
+      "gtin": "07643022209612",
+      "checkedAt": "2026-03-13T07:35:12.239Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/coconut-hibiscus-curl-shine-shampoo.html/07643022210120",
+      "gtin": "07643022210120",
+      "checkedAt": "2026-03-13T07:35:12.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/coconut-hibiscus-curl-shine-conditioner.html/07643022210298",
+      "gtin": "07643022210298",
+      "checkedAt": "2026-03-13T07:35:12.229Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/coconut-hibiscus-curl-enhancer-smoothie.html/07643022210366",
+      "gtin": "07643022210366",
+      "checkedAt": "2026-03-13T07:35:12.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/coconut-hibiscus-curling-gel-souffl%C3%A9.html/07643022210434",
+      "gtin": "07643022210434",
+      "checkedAt": "2026-03-13T07:35:12.260Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/coconut-hibiscus-curl-styling-milk.html/07643022210502",
+      "gtin": "07643022210502",
+      "checkedAt": "2026-03-13T07:35:12.239Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/jamaican-black-castor-oil-masque.html/07643022213022",
+      "gtin": "07643022213022",
+      "checkedAt": "2026-03-13T07:35:12.268Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/jamaican-black-castor-oil-leave-in-condtioner.html/07643022213190",
+      "gtin": "07643022213190",
+      "checkedAt": "2026-03-13T07:35:12.260Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/jamaican-black-castor-oil-shampoo.html/07643022213336",
+      "gtin": "07643022213336",
+      "checkedAt": "2026-03-13T07:35:12.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/jamaican-black-castor-oil-styling-lotion.html/07643022213886",
+      "gtin": "07643022213886",
+      "checkedAt": "2026-03-13T07:35:12.268Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/jamaican-black-castor-oil-conditioner.html/07643022213954",
+      "gtin": "07643022213954",
+      "checkedAt": "2026-03-13T07:35:12.268Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-mafura-oil-leave-in-conditioner.html/08720181473586",
+      "gtin": "08720181473586",
+      "checkedAt": "2026-03-13T07:35:12.252Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/coconut-hibiscus-defining-styling-gel.html/08720181473609",
+      "gtin": "08720181473609",
+      "checkedAt": "2026-03-13T07:35:12.271Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/jamaican-black-castor-oil-strong-hold-styling-gel.html/08720181473616",
+      "gtin": "08720181473616",
+      "checkedAt": "2026-03-13T07:35:12.268Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/miracle-hair-styler-leave-in-treatment.html/07643022208486",
+      "gtin": "07643022208486",
+      "checkedAt": "2026-03-13T07:35:12.260Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/raw-shea-butter-shampoo.html/07643022211424",
+      "gtin": "07643022211424",
+      "checkedAt": "2026-03-13T07:35:12.268Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/raw-shea-butter-restorative-conditioner.html/07643022211592",
+      "gtin": "07643022211592",
+      "checkedAt": "2026-03-13T07:35:12.268Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/raw-shea-butter-masque.html/07643022211660",
+      "gtin": "07643022211660",
+      "checkedAt": "2026-03-13T07:35:12.268Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/raw-shea-butter-extra-moisture-detangler.html/07643022211738",
+      "gtin": "07643022211738",
+      "checkedAt": "2026-03-13T07:35:12.270Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-yoghurt-protien-repair-treatment.html/07643022219376",
+      "gtin": "07643022219376",
+      "checkedAt": "2026-03-13T07:35:12.285Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-yoghurt-conditioner.html/07643022219512",
+      "gtin": "07643022219512",
+      "checkedAt": "2026-03-13T07:35:12.271Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-yoghurt-shampoo.html/07643022219826",
+      "gtin": "07643022219826",
+      "checkedAt": "2026-03-13T07:35:12.270Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/moringa-avocado-power-greens-shampoo.html/08720182359100",
+      "gtin": "08720182359100",
+      "checkedAt": "2026-03-13T07:35:12.170Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/moringa-avocado-power-greens-conditioner.html/08720182359117",
+      "gtin": "08720182359117",
+      "checkedAt": "2026-03-13T07:35:12.270Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/moringa-avocado-power-greens-curl-cream.html/08720182359131",
+      "gtin": "08720182359131",
+      "checkedAt": "2026-03-13T07:35:12.271Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-yoghurt-protien-repair-treatment.html/08720182539731",
+      "gtin": "08720182539731",
+      "checkedAt": "2026-03-13T07:35:12.270Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sheamoistureuk.com/p/manuka-honey-yoghurt-protien-repair-treatment.html/08720182539748",
+      "gtin": "08720182539748",
+      "checkedAt": "2026-03-13T07:35:12.271Z"
+    }
+  ],
+  "errors": 1,
+  "duration": "0.47s",
+  "speedMetrics": "68.09 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.sheamoistureuk.com/p/moringa-avocado-power-greens-reconstructor.html/08720182359124",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T07:35:11.996Z"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "generatedAt": "2026-03-13T07:35:48.793Z",
+  "brand": "potnoodle",
+  "assortmentCode": "BF0688",
+  "feedUrl": "https://www.potnoodle.com/home.productfeed.json",
+  "totalUrlsChecked": 26,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/originalcurry.html/05000118203480",
+      "gtin": "05000118203480",
+      "checkedAt": "2026-03-13T07:35:43.853Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/beeftomato.html/05000118203497",
+      "gtin": "05000118203497",
+      "checkedAt": "2026-03-13T07:35:43.933Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/chickenmushroom.html/05000118203503",
+      "gtin": "05000118203503",
+      "checkedAt": "2026-03-13T07:35:43.814Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/sweetsour.html/05000118203510",
+      "gtin": "05000118203510",
+      "checkedAt": "2026-03-13T07:35:43.825Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/chowmein.html/05000118203534",
+      "gtin": "05000118203534",
+      "checkedAt": "2026-03-13T07:35:43.782Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/bombaybadboy.html/05000118203541",
+      "gtin": "05000118203541",
+      "checkedAt": "2026-03-13T07:35:43.741Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/kingchickenmushroom.html/05000118203664",
+      "gtin": "05000118203664",
+      "checkedAt": "2026-03-13T07:35:43.749Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/kingoriginalcurry.html/05000118203688",
+      "gtin": "05000118203688",
+      "checkedAt": "2026-03-13T07:35:43.869Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/kingbombaybadboy.html/05000118203695",
+      "gtin": "05000118203695",
+      "checkedAt": "2026-03-13T07:35:43.874Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/packchickenmushroom.html/05000118203718",
+      "gtin": "05000118203718",
+      "checkedAt": "2026-03-13T07:35:48.087Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/packbeeftomato.html/05000118203725",
+      "gtin": "05000118203725",
+      "checkedAt": "2026-03-13T07:35:48.427Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/kingpotpastabolognese.html/08710522806593",
+      "gtin": "08710522806593",
+      "checkedAt": "2026-03-13T07:35:48.727Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/kingpotpastacarbonara.html/08710522806609",
+      "gtin": "08710522806609",
+      "checkedAt": "2026-03-13T07:35:48.793Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/kingstickyrib.html/08714100272947",
+      "gtin": "08714100272947",
+      "checkedAt": "2026-03-13T07:35:47.949Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/stickyrib.html/08718114797977",
+      "gtin": "08718114797977",
+      "checkedAt": "2026-03-13T07:35:43.824Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/piripirichicken.html/08720181138720",
+      "gtin": "08720181138720",
+      "checkedAt": "2026-03-13T07:35:43.879Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/donerkebab.html/08720182443878",
+      "gtin": "08720182443878",
+      "checkedAt": "2026-03-13T07:35:44.021Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/fusionsmalaysiancurry.html/08720182479648",
+      "gtin": "08720182479648",
+      "checkedAt": "2026-03-13T07:35:48.742Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/kingbeeftomato.html/08722700153276",
+      "gtin": "08722700153276",
+      "checkedAt": "2026-03-13T07:35:43.862Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/fusionsthaigreencurry.html/08720182064363",
+      "gtin": "08720182064363",
+      "checkedAt": "2026-03-13T07:35:43.865Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/fusionschillichicken.html/08720182064387",
+      "gtin": "08720182064387",
+      "checkedAt": "2026-03-13T07:35:43.819Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.potnoodle.com/p/fusionskatsucurry.html/08720182064400",
+      "gtin": "08720182064400",
+      "checkedAt": "2026-03-13T07:35:43.967Z"
+    }
+  ],
+  "errors": 4,
+  "duration": "5.67s",
+  "speedMetrics": "4.59 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/pulledpork.html/08714100392355",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T07:35:44.515Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/lostthepotnoodlesmokin-bbq.html/08720182414113",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T07:35:44.829Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/lostthepotnoodlechipshopcurry.html/08720182414120",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T07:35:44.862Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.potnoodle.com/p/lostthepotnoodlechampionchicken.html/08720182414137",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T07:35:44.774Z"
+    }
+  ]
+}

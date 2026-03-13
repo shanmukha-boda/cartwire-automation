@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-03-13T07:35:24.719Z",
+  "brand": "close-up",
+  "assortmentCode": "BH0118",
+  "feedUrl": "https://www.close-up.com/in/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.close-up.com/in/p/natural-smile-toothpaste.html/08901030676703",
+      "gtin": "08901030676703",
+      "checkedAt": "2026-03-13T07:35:24.719Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.close-up.com/in/p/nature-boost-mouthwash.html/08901030725456",
+      "gtin": "08901030725456",
+      "checkedAt": "2026-03-13T07:35:24.696Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.close-up.com/in/p/red-hot-mouthwash.html/08901030725470",
+      "gtin": "08901030725470",
+      "checkedAt": "2026-03-13T07:35:24.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.close-up.com/in/p/natural-glow-toothpaste.html/08901030736261",
+      "gtin": "08901030736261",
+      "checkedAt": "2026-03-13T07:35:24.652Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.close-up.com/in/p/red-hot-gel-toothpaste.html/08901030788260",
+      "gtin": "08901030788260",
+      "checkedAt": "2026-03-13T07:35:24.658Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.close-up.com/in/p/whitening-toothpaste.html/08909106027671",
+      "gtin": "08909106027671",
+      "checkedAt": "2026-03-13T07:35:24.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.close-up.com/in/p/whitening-toothpaste.html/08909106027688",
+      "gtin": "08909106027688",
+      "checkedAt": "2026-03-13T07:35:24.630Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.50s",
+  "speedMetrics": "14.00 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

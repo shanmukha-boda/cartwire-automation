@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-03-13T07:35:19.571Z",
+  "brand": "egoco",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.co/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-ultra-intense.html/07702006207850",
+      "gtin": "07702006207850",
+      "checkedAt": "2026-03-13T07:35:18.951Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-for-men-crema-para-peinar.html/07702006208796",
+      "gtin": "07702006208796",
+      "checkedAt": "2026-03-13T07:35:19.168Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-attraction.html/07702006298940",
+      "gtin": "07702006298940",
+      "checkedAt": "2026-03-13T07:35:19.034Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-extreme-max.html/07702006299923",
+      "gtin": "07702006299923",
+      "checkedAt": "2026-03-13T07:35:19.571Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-black.html/07702006300216",
+      "gtin": "07702006300216",
+      "checkedAt": "2026-03-13T07:35:18.940Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-force.html/07702006300254",
+      "gtin": "07702006300254",
+      "checkedAt": "2026-03-13T07:35:19.086Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-black.html/07702006300285",
+      "gtin": "07702006300285",
+      "checkedAt": "2026-03-13T07:35:19.032Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-for-men-cera-modeladora.html/07702006300063",
+      "gtin": "07702006300063",
+      "checkedAt": "2026-03-13T07:35:19.092Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-cera-para-peinar-look-definido-15ml.html/07702006406352",
+      "gtin": "07702006406352",
+      "checkedAt": "2026-03-13T07:35:19.134Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "1.41s",
+  "speedMetrics": "6.38 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-03-13T07:35:22.847Z",
+  "brand": "citra",
+  "assortmentCode": "BH0110",
+  "feedUrl": "https://www.citrathailand.com/home.productfeed.json",
+  "totalUrlsChecked": 20,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-soap-thanaka-whitening-scrub.html/08851932377508",
+      "gtin": "08851932377508",
+      "checkedAt": "2026-03-13T07:35:22.699Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-soap-papaya-whitening-scrub.html/08851932377522",
+      "gtin": "08851932377522",
+      "checkedAt": "2026-03-13T07:35:22.779Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-soap-pearl-powder-whitening-scrub.html/08851932377546",
+      "gtin": "08851932377546",
+      "checkedAt": "2026-03-13T07:35:22.709Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-soap-tomato-collagen-whitening-scrub.html/08851932390651",
+      "gtin": "08851932390651",
+      "checkedAt": "2026-03-13T07:35:22.764Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-fresh-white-aura-gel.html/08851932390729",
+      "gtin": "08851932390729",
+      "checkedAt": "2026-03-13T07:35:22.756Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-dewy-white-aura-gel.html/08851932390767",
+      "gtin": "08851932390767",
+      "checkedAt": "2026-03-13T07:35:22.729Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-pinkish-white-uv-aura.html/08851932391252",
+      "gtin": "08851932391252",
+      "checkedAt": "2026-03-13T07:35:22.747Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-firming-white-uv-aura.html/08851932391269",
+      "gtin": "08851932391269",
+      "checkedAt": "2026-03-13T07:35:22.834Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-extra-white-uv-aura.html/08851932392532",
+      "gtin": "08851932392532",
+      "checkedAt": "2026-03-13T07:35:22.803Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-pearly-white-uv-aura.html/08851932392556",
+      "gtin": "08851932392556",
+      "checkedAt": "2026-03-13T07:35:22.754Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-nourished-white-uv-aura.html/08851932392594",
+      "gtin": "08851932392594",
+      "checkedAt": "2026-03-13T07:35:22.751Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-peachy-white-aura-gel.html/08851932403399",
+      "gtin": "08851932403399",
+      "checkedAt": "2026-03-13T07:35:22.770Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-glowing-white-aura-gel.html/08851932403405",
+      "gtin": "08851932403405",
+      "checkedAt": "2026-03-13T07:35:22.825Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-natural-white-uv-aura.html/08851932404082",
+      "gtin": "08851932404082",
+      "checkedAt": "2026-03-13T07:35:22.707Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/serum-gel-citra-thai-aura-perfume-deep-sea-algae.html/08851932428064",
+      "gtin": "08851932428064",
+      "checkedAt": "2026-03-13T07:35:22.759Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/serum-gel-citra-thai-aura-perfume-double-delight-rose.html/08851932428071",
+      "gtin": "08851932428071",
+      "checkedAt": "2026-03-13T07:35:22.708Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/serum-gel-citra-thai-aura-perfume-lychee.html/08851932428088",
+      "gtin": "08851932428088",
+      "checkedAt": "2026-03-13T07:35:22.723Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-watermelon-mint.html/08851932455411",
+      "gtin": "08851932455411",
+      "checkedAt": "2026-03-13T07:35:22.779Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-watermelon-mint1.html/08851932455459",
+      "gtin": "08851932455459",
+      "checkedAt": "2026-03-13T07:35:22.699Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.citrathailand.com/p/citra-flower-blossom.html/08851932455473",
+      "gtin": "08851932455473",
+      "checkedAt": "2026-03-13T07:35:22.847Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.41s",
+  "speedMetrics": "48.78 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

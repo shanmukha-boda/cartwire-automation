@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-03-13T07:35:04.003Z",
+  "brand": "clear",
+  "assortmentCode": "BH0117",
+  "feedUrl": "https://www.clearhaircare.com/id/home.productfeed.json",
+  "totalUrlsChecked": 11,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-perawatan-komplit.html/08999999529550",
+      "gtin": "08999999529550",
+      "checkedAt": "2026-03-13T07:35:03.997Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-perawatan-total-active.html/08999999529581",
+      "gtin": "08999999529581",
+      "checkedAt": "2026-03-13T07:35:03.992Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-menthol-segar.html/08999999529673",
+      "gtin": "08999999529673",
+      "checkedAt": "2026-03-13T07:35:03.998Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-menthol-fresh-active.html/08999999529703",
+      "gtin": "08999999529703",
+      "checkedAt": "2026-03-13T07:35:03.993Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-apel-wangi-segar.html/08999999529918",
+      "gtin": "08999999529918",
+      "checkedAt": "2026-03-13T07:35:04.003Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-anti-ketombe-&-rambut-rontok.html/08999999529949",
+      "gtin": "08999999529949",
+      "checkedAt": "2026-03-13T07:35:03.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-lemon-bersih-&-segar.html/08999999537142",
+      "gtin": "08999999537142",
+      "checkedAt": "2026-03-13T07:35:03.984Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-hijab-anti-ketombe-dan-rontok-hijab-pure.html/08999999549138",
+      "gtin": "08999999549138",
+      "checkedAt": "2026-03-13T07:35:03.993Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-hijab-anti-ketombe-dan-lepek-hijab-pure.html/08999999549169",
+      "gtin": "08999999549169",
+      "checkedAt": "2026-03-13T07:35:03.994Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-3-in-1-clean-active.html/08999999555931",
+      "gtin": "08999999555931",
+      "checkedAt": "2026-03-13T07:35:03.995Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.clearhaircare.com/id/p/sampo-clear-coconut-fresh-&-fragrant.html/08999999568108",
+      "gtin": "08999999568108",
+      "checkedAt": "2026-03-13T07:35:03.997Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.41s",
+  "speedMetrics": "26.83 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

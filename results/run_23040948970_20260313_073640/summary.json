@@ -1,0 +1,13 @@
+{
+  "runId": "23040948970",
+  "timestamp": "20260313_073640",
+  "workflowRun": "23040948970",
+  "totalUrlsChecked": 12649,
+  "totalProblematicPages": 213,
+  "totalSuccessfulPages": 11694,
+  "totalErrors": 599,
+  "duplicatesRemoved": 143,
+  "successRate": "92.45%",
+  "errorRate": "4.74%",
+  "problematicRate": "1.68%"
+}

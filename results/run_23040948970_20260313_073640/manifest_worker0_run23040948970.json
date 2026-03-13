@@ -1,0 +1,43 @@
+{
+  "worker": 0,
+  "runId": "23040948970",
+  "timestamp": "23040948970-25-1",
+  "processedBrands": [
+    "magnum",
+    "magnum",
+    "dove",
+    "dove",
+    "walls",
+    "ponds",
+    "tresemme",
+    "knorr",
+    "rexona",
+    "hellmanns",
+    "axe",
+    "lifebuoy",
+    "kissan",
+    "maizena",
+    "colmans",
+    "regenerate"
+  ],
+  "filesProcessed": [
+    "pdpCheckResults_ALL_PROBLEMATIC_run23040948970_worker0.json",
+    "pdpCheckResults_PROBLEMATIC_dove_BH0162_1_run23040948970_worker0.json",
+    "pdpCheckResults_PROBLEMATIC_hellmanns_BF0380_1_run23040948970_worker0.json",
+    "pdpCheckResults_PROBLEMATIC_lifebuoy_BH0300_1_run23040948970_worker0.json",
+    "pdpCheckResults_axe_BH0045_1_run23040948970_worker0.json",
+    "pdpCheckResults_colmans_BF0199_1_run23040948970_worker0.json",
+    "pdpCheckResults_dove_BH0162_1_run23040948970_worker0.json",
+    "pdpCheckResults_hellmanns_BF0380_1_run23040948970_worker0.json",
+    "pdpCheckResults_kissan_BF0423_1_run23040948970_worker0.json",
+    "pdpCheckResults_knorr_BF0426_1_run23040948970_worker0.json",
+    "pdpCheckResults_lifebuoy_BH0300_1_run23040948970_worker0.json",
+    "pdpCheckResults_magnum_BF0543_1_run23040948970_worker0.json",
+    "pdpCheckResults_maizena_BF0547_1_run23040948970_worker0.json",
+    "pdpCheckResults_ponds_BH0381_1_run23040948970_worker0.json",
+    "pdpCheckResults_regenerate_BH1047_1_run23040948970_worker0.json",
+    "pdpCheckResults_rexona_BH0413_1_run23040948970_worker0.json",
+    "pdpCheckResults_tresemme_BH0996_1_run23040948970_worker0.json",
+    "pdpCheckResults_walls_BF1023_1_run23040948970_worker0.json"
+  ]
+}

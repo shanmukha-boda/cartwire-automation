@@ -1,0 +1,42 @@
+{
+  "worker": 13,
+  "runId": "23040948970",
+  "timestamp": "23040948970-25-1",
+  "processedBrands": [
+    "magnum",
+    "clear",
+    "dove",
+    "walls",
+    "luxglobal",
+    "signal",
+    "knorr",
+    "knorr",
+    "rexona",
+    "sheamoisture",
+    "sunsilk",
+    "the-vegetarian-butcher",
+    "calve",
+    "liquid",
+    "recipedia"
+  ],
+  "filesProcessed": [
+    "pdpCheckResults_ALL_PROBLEMATIC_run23040948970_worker13.json",
+    "pdpCheckResults_PROBLEMATIC_dove_BH0162_1_run23040948970_worker13.json",
+    "pdpCheckResults_PROBLEMATIC_recipedia_BF8813_1_run23040948970_worker13.json",
+    "pdpCheckResults_calve_BF0153_1_run23040948970_worker13.json",
+    "pdpCheckResults_clear_BH0117_1_run23040948970_worker13.json",
+    "pdpCheckResults_dove_BH0162_1_run23040948970_worker13.json",
+    "pdpCheckResults_knorr_BF0426_1_run23040948970_worker13.json",
+    "pdpCheckResults_knorr_BF0735_1_run23040948970_worker13.json",
+    "pdpCheckResults_liquid_BHA361_1_run23040948970_worker13.json",
+    "pdpCheckResults_luxglobal_BH0307_1_run23040948970_worker13.json",
+    "pdpCheckResults_magnum_BF0543_1_run23040948970_worker13.json",
+    "pdpCheckResults_recipedia_BF8813_1_run23040948970_worker13.json",
+    "pdpCheckResults_rexona_BH0413_1_run23040948970_worker13.json",
+    "pdpCheckResults_sheamoisture_BH8837_1_run23040948970_worker13.json",
+    "pdpCheckResults_signal_BH0013_1_run23040948970_worker13.json",
+    "pdpCheckResults_sunsilk_BH0468_1_run23040948970_worker13.json",
+    "pdpCheckResults_the-vegetarian-butcher_BFA077_1_run23040948970_worker13.json",
+    "pdpCheckResults_walls_BF0632_1_run23040948970_worker13.json"
+  ]
+}

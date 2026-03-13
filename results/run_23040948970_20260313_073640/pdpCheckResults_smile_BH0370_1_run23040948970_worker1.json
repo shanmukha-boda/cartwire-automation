@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-03-13T07:35:19.752Z",
+  "brand": "smile",
+  "assortmentCode": "BH0370",
+  "feedUrl": "https://www.pepsodent.cl/home.productfeed.json",
+  "totalUrlsChecked": 24,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-kids.html/07311570542504",
+      "gtin": "07311570542504",
+      "checkedAt": "2026-03-13T07:35:19.699Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-kids.html/07805000116408",
+      "gtin": "07805000116408",
+      "checkedAt": "2026-03-13T07:35:19.706Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-triple-plus.html/07805000172497",
+      "gtin": "07805000172497",
+      "checkedAt": "2026-03-13T07:35:19.706Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-xtra-whitening.html/07805000180881",
+      "gtin": "07805000180881",
+      "checkedAt": "2026-03-13T07:35:19.705Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-trident.html/07805000181390",
+      "gtin": "07805000181390",
+      "checkedAt": "2026-03-13T07:35:19.706Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-proteccion-anticaries.html/07805000311360",
+      "gtin": "07805000311360",
+      "checkedAt": "2026-03-13T07:35:19.724Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-mix-3x.html/07805000321819",
+      "gtin": "07805000321819",
+      "checkedAt": "2026-03-13T07:35:19.725Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-mix-2x.html/07805000321826",
+      "gtin": "07805000321826",
+      "checkedAt": "2026-03-13T07:35:19.706Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-triple-defense.html/07805000323165",
+      "gtin": "07805000323165",
+      "checkedAt": "2026-03-13T07:35:19.713Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cd-triple-plus.html/07891150090248",
+      "gtin": "07891150090248",
+      "checkedAt": "2026-03-13T07:35:19.748Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-carbon-y-plata.html/08710447366967",
+      "gtin": "08710447366967",
+      "checkedAt": "2026-03-13T07:35:19.724Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-sal-de-bambu.html/08710522360613",
+      "gtin": "08710522360613",
+      "checkedAt": "2026-03-13T07:35:19.714Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-double-care.html/08710908853319",
+      "gtin": "08710908853319",
+      "checkedAt": "2026-03-13T07:35:19.748Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-white-now-original.html/08711700555135/whitenow-pdp",
+      "gtin": "08711700555135",
+      "checkedAt": "2026-03-13T07:35:19.725Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-white-now-gold.html/08712561056625/whitenow-pdp",
+      "gtin": "08712561056625",
+      "checkedAt": "2026-03-13T07:35:19.724Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-cepillo-white-now.html/08714100190128/whitenow-pdp",
+      "gtin": "08714100190128",
+      "checkedAt": "2026-03-13T07:35:19.713Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-herbal-gum-care.html/08717163648254",
+      "gtin": "08717163648254",
+      "checkedAt": "2026-03-13T07:35:19.740Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-charcoal-white-detox.html/08720181040689",
+      "gtin": "08720181040689",
+      "checkedAt": "2026-03-13T07:35:19.748Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-salud-completa.html/08720181156243",
+      "gtin": "08720181156243",
+      "checkedAt": "2026-03-13T07:35:19.726Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-limpieza-profunda.html/08720181156250",
+      "gtin": "08720181156250",
+      "checkedAt": "2026-03-13T07:35:19.739Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-integral-18-dientes-sensibles.html/08720181156267",
+      "gtin": "08720181156267",
+      "checkedAt": "2026-03-13T07:35:19.714Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-sensitive-expert-fresh-100gr.html/08934839135584",
+      "gtin": "08934839135584",
+      "checkedAt": "2026-03-13T07:35:19.740Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-sensitive-expert-whitening-100gr.html/08934839135591",
+      "gtin": "08934839135591",
+      "checkedAt": "2026-03-13T07:35:19.725Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pepsodent.cl/p/pepsodent-gum-expert-whitening-100gr.html/08934839135614",
+      "gtin": "08934839135614",
+      "checkedAt": "2026-03-13T07:35:19.752Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.50s",
+  "speedMetrics": "48.00 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}
