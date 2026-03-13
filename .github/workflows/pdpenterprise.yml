@@ -6,25 +6,21 @@ on:
 permissions:
   contents: write
 
-jobs:
+env:
+  TIMESTAMP: ${{ github.run_id }}-${{ github.run_number }}-${{ github.run_attempt }}
 
+jobs:
 # -----------------------------------------
 # 20 workers processing brands in parallel
 # -----------------------------------------
-
   scan:
-
     runs-on: ubuntu-latest
-
     strategy:
-
       fail-fast: false
-
       matrix:
         worker: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
 
     steps:
-
       - uses: actions/checkout@v4
 
       - name: Setup Node
@@ -35,15 +31,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Create results directory
+        run: mkdir -p worker-results-${{ env.TIMESTAMP }}
+
       - name: Run worker
         run: |
-
           node <<'NODE'
-
           const fs = require("fs")
           const { execSync } = require("child_process")
+          const path = require("path")
 
           const worker = Number(process.env.WORKER)
+          const timestamp = process.env.TIMESTAMP
 
           const data = JSON.parse(
             fs.readFileSync("productPageUrls.json","utf8")
@@ -52,85 +51,200 @@ jobs:
           const brands = data.data
 
           console.log("Worker:", worker)
+          console.log("Timestamp:", timestamp)
+
+          // Create worker results directory
+          const workerDir = `worker-results-${timestamp}`
+          if (!fs.existsSync(workerDir)) {
+            fs.mkdirSync(workerDir, { recursive: true })
+          }
 
           for (let i = worker; i < brands.length; i += 20) {
-
             const item = brands[i]
-
             console.log("Processing:", item.brand, item.assortmentCode)
 
-            execSync(
-              `node checkPdpPages.js "${item.brand}" "${item.assortmentCode}"`,
-              { stdio: "inherit" }
-            )
+            try {
+              // Run the scanner
+              execSync(
+                `node checkPdpPages.js "${item.brand}" "${item.assortmentCode}"`,
+                { stdio: "inherit" }
+              )
 
+              // Move result files to worker directory with timestamp
+              const resultFiles = fs.readdirSync(".").filter(f => 
+                f.startsWith("pdpCheckResults_") && f.endsWith(".json")
+              )
+
+              resultFiles.forEach(file => {
+                const newFileName = `${path.basename(file, '.json')}_${timestamp}_worker${worker}.json`
+                fs.renameSync(file, path.join(workerDir, newFileName))
+                console.log(`Moved ${file} to ${newFileName}`)
+              })
+
+            } catch (error) {
+              console.error(`Error processing ${item.brand}:`, error.message)
+            }
           }
+
+          // Create a manifest file for this worker
+          const manifest = {
+            worker: worker,
+            timestamp: timestamp,
+            processedBrands: brands.filter((_, idx) => idx % 20 === worker).map(b => b.brand),
+            filesProcessed: fs.readdirSync(workerDir)
+          }
+
+          fs.writeFileSync(
+            path.join(workerDir, `manifest_worker${worker}.json`),
+            JSON.stringify(manifest, null, 2)
+          )
 
           NODE
         env:
           WORKER: ${{ matrix.worker }}
+          TIMESTAMP: ${{ env.TIMESTAMP }}
 
-      - name: Upload results
+      - name: Upload worker results
         uses: actions/upload-artifact@v4
         with:
-          name: worker-${{ matrix.worker }}
-          path: "*.json"
-
+          name: worker-${{ matrix.worker }}-${{ env.TIMESTAMP }}
+          path: worker-results-${{ env.TIMESTAMP }}/
 
 # -----------------------------------------
 # Merge results
 # -----------------------------------------
-
   merge:
-
     needs: scan
     runs-on: ubuntu-latest
-
+    
     steps:
-
       - uses: actions/checkout@v4
 
-      - name: Clean results
+      - name: Create results directory
         run: |
-          rm -rf results
-          mkdir results
+          mkdir -p results
+          mkdir -p archive
 
-      - name: Download artifacts
+      - name: Download all artifacts
         uses: actions/download-artifact@v4
         with:
           path: artifacts
+          merge-multiple: false
 
-      - name: Collect JSON files
+      - name: Prepare results with timestamp
         run: |
-
-          find artifacts -name "*.json" -exec cp {} results/ \;
-
+          TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+          RUN_ID="${{ github.run_id }}"
+          
+          echo "RUN_TIMESTAMP=$TIMESTAMP" >> $GITHUB_ENV
+          echo "RUN_ID=$RUN_ID" >> $GITHUB_ENV
+          
+          # Create run-specific directory
+          mkdir -p "results/run_${RUN_ID}_${TIMESTAMP}"
+          
+          # Copy all JSON files from artifacts to results directory
+          find artifacts -name "*.json" -exec cp {} "results/run_${RUN_ID}_${TIMESTAMP}/" \;
+          
           echo "Total JSON files:"
-          ls results | wc -l
+          ls "results/run_${RUN_ID}_${TIMESTAMP}" | wc -l
 
       - name: Merge problematic files
         run: |
-
+          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
+          RUN_ID=${{ env.RUN_ID }}
+          
+          RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
+          
+          # Merge all problematic files
           jq -s '
           {
             generatedAt: now | todate,
+            runId: $runId,
+            timestamp: $timestamp,
+            workflowRun: $workflowRun,
             problematicPages: map(.problematicPages // []) | add,
-            totalProblematicPages: (map(.problematicPages // []) | add | length)
+            totalProblematicPages: (map(.problematicPages // []) | add | length),
+            brandsProcessed: [
+              .[] | {brand, assortmentCode, totalProblematicPages: .problematicPages // [] | length}
+            ] | unique
           }
-          ' results/*PROBLEMATIC*.json > results/pdpCheckResults_ALL_PROBLEMATIC.json
+          ' --arg runId "$RUN_ID" \
+             --arg timestamp "$TIMESTAMP" \
+             --arg workflowRun "${{ github.run_id }}" \
+             $RESULTS_DIR/*PROBLEMATIC*.json > $RESULTS_DIR/pdpCheckResults_ALL_PROBLEMATIC.json
 
-      - name: Commit results
+          # Also create a combined master report
+          jq -s '
+          {
+            generatedAt: now | todate,
+            runId: $runId,
+            timestamp: $timestamp,
+            workflowRun: $workflowRun,
+            totalFilesProcessed: length,
+            summary: {
+              totalProblematicPages: map(.problematicPages // [] | length) | add,
+              totalSuccessfulPages: map(.successfulPages // [] | length) | add,
+              totalErrors: map(.errors // 0) | add
+            },
+            allResults: .
+          }
+          ' --arg runId "$RUN_ID" \
+             --arg timestamp "$TIMESTAMP" \
+             --arg workflowRun "${{ github.run_id }}" \
+             $RESULTS_DIR/*.json > $RESULTS_DIR/pdpCheckResults_MASTER_REPORT.json
+
+      - name: Update latest symlink
         run: |
+          cd results
+          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
+          RUN_ID=${{ env.RUN_ID }}
+          
+          # Remove old symlink and create new one pointing to latest run
+          rm -f latest
+          ln -s "run_${RUN_ID}_${TIMESTAMP}" latest
+          
+          # Also create a dated symlink for easier reference
+          ln -s "run_${RUN_ID}_${TIMESTAMP}" "run_${TIMESTAMP}"
 
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+      - name: Create summary file
+        run: |
+          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
+          RUN_ID=${{ env.RUN_ID }}
+          
+          cat > results/latest/README.md << EOF
+          # PDP Scan Results - Run ${RUN_ID} - ${TIMESTAMP}
+          
+          ## Overview
+          - **Run ID:** ${RUN_ID}
+          - **Timestamp:** ${TIMESTAMP}
+          - **Workflow Run:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          
+          ## Result Files
+          - [Master Report](pdpCheckResults_MASTER_REPORT.json) - Complete combined results
+          - [All Problematic Pages](pdpCheckResults_ALL_PROBLEMATIC.json) - Just problematic pages
+          
+          ## Navigation
+          - Latest results are always available in the [latest](latest) symlink
+          - Historical runs are stored in timestamped directories
+          EOF
 
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          # Add all results
           git add results/
-
-          if git diff --cached --quiet
-          then
-            echo "No changes"
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
           else
-            git commit -m "PDP scan results"
+            git commit -m "PDP scan results - Run ${{ github.run_id }} - ${{ env.RUN_TIMESTAMP }}"
             git push
           fi
+
+      - name: Upload merged results as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-results-${{ env.RUN_TIMESTAMP }}
+          path: results/latest/
