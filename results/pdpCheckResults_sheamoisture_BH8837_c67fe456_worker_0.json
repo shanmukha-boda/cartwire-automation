@@ -1,0 +1,13 @@
+{
+  "brand": "sheamoisture",
+  "assortmentCode": "BH8837",
+  "feedUrl": "https://www.sheamoisturefr.com/home.productfeed.json",
+  "totalUrlsChecked": 18,
+  "problematicPagesFound": 0,
+  "successfulPages": 18,
+  "errors": 0,
+  "duration": "0.59s",
+  "speed": "30.51 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

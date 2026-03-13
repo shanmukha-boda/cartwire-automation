@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.frisko.dk/home.productfeed.json",
+  "totalUrlsChecked": 123,
+  "problematicPagesFound": 0,
+  "successfulPages": 123,
+  "errors": 0,
+  "duration": "2.05s",
+  "speed": "60.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-03-13T15:42:50.251Z",
+  "brand": "magnum",
+  "assortmentCode": "BF0543",
+  "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+  "totalProblematicPages": 10,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/salted-caramel-w-kubku.html/08721274813487",
+      "gtin": "08721274813487",
+      "checkedAt": "2026-03-13T15:42:50.188Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274813487",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/classic-w-kubku.html/08721274813562",
+      "gtin": "08721274813562",
+      "checkedAt": "2026-03-13T15:42:50.139Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274813562",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/la-peche.html/08721274813593",
+      "gtin": "08721274813593",
+      "checkedAt": "2026-03-13T15:42:50.251Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274813593",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/almond-w-kubku.html/08721274813876",
+      "gtin": "08721274813876",
+      "checkedAt": "2026-03-13T15:42:50.100Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274813876",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/pistachio-w-kubku.html/08721274813999",
+      "gtin": "08721274813999",
+      "checkedAt": "2026-03-13T15:42:50.108Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274813999",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/rozek-pistachio.html/08721274814156",
+      "gtin": "08721274814156",
+      "checkedAt": "2026-03-13T15:42:50.165Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274814156",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/white-chocolate-cookies-w-kubku.html/08721274814453",
+      "gtin": "08721274814453",
+      "checkedAt": "2026-03-13T15:42:50.113Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274814453",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/rozek-hazelnut.html/08721274814873",
+      "gtin": "08721274814873",
+      "checkedAt": "2026-03-13T15:42:50.183Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274814873",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/billionaire-w-kubku.html/08721274816563",
+      "gtin": "08721274816563",
+      "checkedAt": "2026-03-13T15:42:50.138Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274816563",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/pl/p/bonbon-cherry.html/08721274816716",
+      "gtin": "08721274816716",
+      "checkedAt": "2026-03-13T15:42:50.184Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=pl-pl&brand_code=BF0543&gtin=08721274816716",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

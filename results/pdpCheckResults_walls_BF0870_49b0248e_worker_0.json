@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0870",
+  "feedUrl": "https://www.wallsthailand.com/home.productfeed.json",
+  "totalUrlsChecked": 84,
+  "problematicPagesFound": 0,
+  "successfulPages": 84,
+  "errors": 0,
+  "duration": "0.63s",
+  "speed": "133.33 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

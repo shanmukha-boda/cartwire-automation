@@ -1,0 +1,13 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/my/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 38,
+  "errors": 0,
+  "duration": "0.53s",
+  "speed": "71.70 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

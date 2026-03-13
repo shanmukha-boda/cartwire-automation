@@ -1,0 +1,13 @@
+{
+  "brand": "smile",
+  "assortmentCode": "BH0360",
+  "feedUrl": "https://www.psvietnam.vn/home.productfeed.json",
+  "totalUrlsChecked": 45,
+  "problematicPagesFound": 0,
+  "successfulPages": 45,
+  "errors": 0,
+  "duration": "1.07s",
+  "speed": "42.06 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

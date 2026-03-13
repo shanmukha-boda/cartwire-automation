@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0632",
+  "feedUrl": "https://www.ola.co.za/home.productfeed.json",
+  "totalUrlsChecked": 24,
+  "problematicPagesFound": 0,
+  "successfulPages": 24,
+  "errors": 0,
+  "duration": "0.85s",
+  "speed": "28.24 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

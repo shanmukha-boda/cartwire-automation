@@ -1,0 +1,13 @@
+{
+  "brand": "ponds",
+  "assortmentCode": "BH0381",
+  "feedUrl": "https://www.ponds.com/vn/home.productfeed.json",
+  "totalUrlsChecked": 17,
+  "problematicPagesFound": 0,
+  "successfulPages": 17,
+  "errors": 0,
+  "duration": "0.71s",
+  "speed": "23.94 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

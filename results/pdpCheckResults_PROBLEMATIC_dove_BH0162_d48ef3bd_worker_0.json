@@ -1,0 +1,243 @@
+{
+  "generatedAt": "2026-03-13T15:43:16.212Z",
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+  "totalProblematicPages": 18,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/antiperspirant-roll-on-powder-soft.html/00000093576642",
+      "gtin": "00000093576642",
+      "checkedAt": "2026-03-13T15:43:14.915Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=00000093576642",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/antiperspirant-roll-on-classic-fresh.html/00000093576666",
+      "gtin": "00000093576666",
+      "checkedAt": "2026-03-13T15:43:14.433Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=00000093576666",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/women-lavender-and-chamomile-whole-body-deodorant-stick-81g.html/08720181658006",
+      "gtin": "08720181658006",
+      "checkedAt": "2026-03-13T15:43:14.862Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=08720181658006",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/women-lavender-and-chamomile-whole-body-deodorant-aerosol-230ml.html/09300830095261",
+      "gtin": "09300830095261",
+      "checkedAt": "2026-03-13T15:43:14.474Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830095261",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/supple-bounce-body-lotion.html/08901030861239",
+      "gtin": "08901030861239",
+      "checkedAt": "2026-03-13T15:43:14.981Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=08901030861239",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-nourishing-coconut-jasmine.html/09300830087808",
+      "gtin": "09300830087808",
+      "checkedAt": "2026-03-13T15:43:15.047Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087808",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-acai-berry-and-waterlily.html/09300830087815",
+      "gtin": "09300830087815",
+      "checkedAt": "2026-03-13T15:43:14.737Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087815",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-go-fresh-apple-white-tea.html/09300830087822",
+      "gtin": "09300830087822",
+      "checkedAt": "2026-03-13T15:43:15.457Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087822",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-go-fresh-green-tea-cucumber.html/09300830087839",
+      "gtin": "09300830087839",
+      "checkedAt": "2026-03-13T15:43:15.485Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087839",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-classic.html/09300830087853",
+      "gtin": "09300830087853",
+      "checkedAt": "2026-03-13T15:43:15.401Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087853",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-powder.html/09300830087860",
+      "gtin": "09300830087860",
+      "checkedAt": "2026-03-13T15:43:15.465Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087860",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-fresh.html/09300830087877",
+      "gtin": "09300830087877",
+      "checkedAt": "2026-03-13T15:43:15.283Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087877",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-original.html/09300830087969",
+      "gtin": "09300830087969",
+      "checkedAt": "2026-03-13T15:43:15.391Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087969",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-pomegranate.html/09300830087976",
+      "gtin": "09300830087976",
+      "checkedAt": "2026-03-13T15:43:15.402Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087976",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-invisible-dry.html/09300830087983",
+      "gtin": "09300830087983",
+      "checkedAt": "2026-03-13T15:43:16.211Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830087983",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-floral.html/09300830090792",
+      "gtin": "09300830090792",
+      "checkedAt": "2026-03-13T15:43:16.012Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830090792",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/women-deodorant-aerosol-cucumber-zero-%25-aluminium.html/09300830092307",
+      "gtin": "09300830092307",
+      "checkedAt": "2026-03-13T15:43:15.860Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830092307",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+      "url": "https://www.dove.com/nz/p/women-deodorant-aerosol-original-zero-%25-aluminium.html/09300830092321",
+      "gtin": "09300830092321",
+      "checkedAt": "2026-03-13T15:43:15.931Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-nz&brand_code=BH0162&gtin=09300830092321",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

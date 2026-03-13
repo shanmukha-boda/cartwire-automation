@@ -1,0 +1,13 @@
+{
+  "brand": "zest",
+  "assortmentCode": "BH1081",
+  "feedUrl": "https://www.zest.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 17,
+  "problematicPagesFound": 0,
+  "successfulPages": 17,
+  "errors": 0,
+  "duration": "0.20s",
+  "speed": "85.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

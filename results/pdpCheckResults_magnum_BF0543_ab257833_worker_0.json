@@ -1,0 +1,27 @@
+{
+  "brand": "magnum",
+  "assortmentCode": "BF0543",
+  "feedUrl": "https://www.magnumicecream.com/au/home.productfeed.json",
+  "totalUrlsChecked": 18,
+  "problematicPagesFound": 1,
+  "successfulPages": 17,
+  "errors": 0,
+  "duration": "0.13s",
+  "speed": "138.46 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "feedUrl": "https://www.magnumicecream.com/au/home.productfeed.json",
+      "url": "https://www.magnumicecream.com/anz/p/magnum-mini-boysenberry-multipack-x6.html/08721274617023",
+      "gtin": "08721274617023",
+      "checkedAt": "2026-03-13T15:42:49.027Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=en-au&brand_code=BF0543&gtin=08721274617023",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

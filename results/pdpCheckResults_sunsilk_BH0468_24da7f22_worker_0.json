@@ -1,0 +1,13 @@
+{
+  "brand": "sunsilk",
+  "assortmentCode": "BH0468",
+  "feedUrl": "https://www.sunsilk.com/arabia/ar/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 38,
+  "errors": 0,
+  "duration": "0.92s",
+  "speed": "41.30 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

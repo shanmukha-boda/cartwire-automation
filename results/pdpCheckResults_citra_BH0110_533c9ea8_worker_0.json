@@ -1,0 +1,13 @@
+{
+  "brand": "citra",
+  "assortmentCode": "BH0110",
+  "feedUrl": "https://www.citrathailand.com/home.productfeed.json",
+  "totalUrlsChecked": 20,
+  "problematicPagesFound": 0,
+  "successfulPages": 20,
+  "errors": 0,
+  "duration": "1.08s",
+  "speed": "18.52 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

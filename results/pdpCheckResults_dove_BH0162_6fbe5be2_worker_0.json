@@ -1,0 +1,157 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+  "totalUrlsChecked": 113,
+  "problematicPagesFound": 11,
+  "successfulPages": 102,
+  "errors": 0,
+  "duration": "1.96s",
+  "speed": "57.65 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/winterberry-swirl-antitranspirant-roll-on.html/00000059002154",
+      "gtin": "00000059002154",
+      "checkedAt": "2026-03-13T15:43:02.026Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=00000059002154",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-invisible-dry-stick.html/00000059099727",
+      "gtin": "00000059099727",
+      "checkedAt": "2026-03-13T15:43:01.385Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=00000059099727",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-sandalwood-vanilla-duft.html/08720181570056",
+      "gtin": "08720181570056",
+      "checkedAt": "2026-03-13T15:43:02.013Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181570056",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/winterberry-swirl-antitranspirant-spray.html/08720181774317",
+      "gtin": "08720181774317",
+      "checkedAt": "2026-03-13T15:43:01.378Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181774317",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/beauty-aura-antitranspirant-spray.html/08720181786662",
+      "gtin": "08720181786662",
+      "checkedAt": "2026-03-13T15:43:01.405Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181786662",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/mystic-muse-shower-cream.html/08720181797910",
+      "gtin": "08720181797910",
+      "checkedAt": "2026-03-13T15:43:01.668Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181797910",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/winterberry-swirl-shower-cream.html/08720181797934",
+      "gtin": "08720181797934",
+      "checkedAt": "2026-03-13T15:43:01.946Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181797934",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/men-care-clean-comfort-null-prozent-roll-on.html/00000059095927",
+      "gtin": "00000059095927",
+      "checkedAt": "2026-03-13T15:43:02.349Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=00000059095927",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/men-care-null-prozent-spray-extra-fresh.html/08720181455711",
+      "gtin": "08720181455711",
+      "checkedAt": "2026-03-13T15:43:02.697Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181455711",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/bl%C3%BCten-sanft-pflegedusche.html/08720181657498",
+      "gtin": "08720181657498",
+      "checkedAt": "2026-03-13T15:43:02.744Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181657498",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+      "url": "https://www.dove.com/dach/p/glow-up-pflegedusche.html/08720181702242",
+      "gtin": "08720181702242",
+      "checkedAt": "2026-03-13T15:43:02.769Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=de-de&brand_code=BH0162&gtin=08720181702242",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0387",
+  "feedUrl": "https://www.heladosholanda.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 78,
+  "problematicPagesFound": 0,
+  "successfulPages": 78,
+  "errors": 0,
+  "duration": "2.51s",
+  "speed": "31.08 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-03-13T15:44:46.275Z",
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/be/fr/home.productfeed.json",
+  "totalProblematicPages": 4,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/be/fr/home.productfeed.json",
+      "url": "https://www.knorr.com/be/fr/p/sauce-chasseur-3x29-g.html/08721201918056",
+      "gtin": "08721201918056",
+      "checkedAt": "2026-03-13T15:44:45.513Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=fr-be&brand_code=BF0426&gtin=08721201918056",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/be/fr/home.productfeed.json",
+      "url": "https://www.knorr.com/be/fr/p/sauce-jus-de-r%C3%B4ti-3x30-g.html/08721201923470",
+      "gtin": "08721201923470",
+      "checkedAt": "2026-03-13T15:44:44.935Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=fr-be&brand_code=BF0426&gtin=08721201923470",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/be/fr/home.productfeed.json",
+      "url": "https://www.knorr.com/be/nl/p/jachtsaus-3x29-g.html/08721201918056",
+      "gtin": "08721201918056",
+      "checkedAt": "2026-03-13T15:44:46.133Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=fr-be&brand_code=BF0426&gtin=08721201918056",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/be/fr/home.productfeed.json",
+      "url": "https://www.knorr.com/be/nl/p/vleesjus-3x30-g.html/08721201923470",
+      "gtin": "08721201923470",
+      "checkedAt": "2026-03-13T15:44:46.197Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=fr-be&brand_code=BF0426&gtin=08721201923470",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

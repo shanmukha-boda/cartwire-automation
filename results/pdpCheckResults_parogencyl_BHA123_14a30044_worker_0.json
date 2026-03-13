@@ -1,0 +1,13 @@
+{
+  "brand": "parogencyl",
+  "assortmentCode": "BHA123",
+  "feedUrl": "https://www.parogencyl.fr/home.productfeed.json",
+  "totalUrlsChecked": 14,
+  "problematicPagesFound": 0,
+  "successfulPages": 14,
+  "errors": 0,
+  "duration": "0.09s",
+  "speed": "155.56 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

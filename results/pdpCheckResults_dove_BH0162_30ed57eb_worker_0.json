@@ -1,0 +1,92 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+  "totalUrlsChecked": 142,
+  "problematicPagesFound": 6,
+  "successfulPages": 136,
+  "errors": 0,
+  "duration": "2.18s",
+  "speed": "65.14 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+      "url": "https://www.dove.com/pl/p/dove-balsam-do-cia%C5%82a-restoring-400-ml.html/08710908778230",
+      "gtin": "08710908778230",
+      "checkedAt": "2026-03-13T15:43:25.106Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pl-pl&brand_code=BH0162&gtin=08710908778230",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+      "url": "https://www.dove.com/pl/p/dove-krem-body-love-one-cream-light-hydration-krem-250-ml.html/08720181172144",
+      "gtin": "08720181172144",
+      "checkedAt": "2026-03-13T15:43:25.177Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pl-pl&brand_code=BH0162&gtin=08720181172144",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+      "url": "https://www.dove.com/pl/p/dove-balsam-do-cia%C5%82a-night-renew-400-ml.html/08720181405594",
+      "gtin": "08720181405594",
+      "checkedAt": "2026-03-13T15:43:26.249Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pl-pl&brand_code=BH0162&gtin=08720181405594",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-petal-soft.html/08720181471568",
+      "gtin": "08720181471568",
+      "checkedAt": "2026-03-13T15:43:26.079Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pl-pl&brand_code=BH0162&gtin=08720181471568",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+      "url": "https://www.dove.com/pl/p/dove-ro%C5%9Bwietlaj%C4%85cy-balsam-do-cia%C5%82a-radiant-glow-250-ml.html/08720182260437",
+      "gtin": "08720182260437",
+      "checkedAt": "2026-03-13T15:43:26.230Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pl-pl&brand_code=BH0162&gtin=08720182260437",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+      "url": "https://www.dove.com/pl/p/advanced-care-dragonfruit-&-coconut-cream--antyperspirant-w-aerozolu.html/08720181565830",
+      "gtin": "08720181565830",
+      "checkedAt": "2026-03-13T15:43:26.722Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pl-pl&brand_code=BH0162&gtin=08720181565830",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

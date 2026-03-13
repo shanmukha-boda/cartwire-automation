@@ -1,0 +1,53 @@
+{
+  "brand": "nexxus",
+  "assortmentCode": "BH0990",
+  "feedUrl": "https://www.nexxus.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 49,
+  "problematicPagesFound": 3,
+  "successfulPages": 46,
+  "errors": 0,
+  "duration": "0.69s",
+  "speed": "71.01 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "feedUrl": "https://www.nexxus.com/ca/en/home.productfeed.json",
+      "url": "https://www.nexxus.com/ca/fr/p/traitement-revitalisant-sans-rin%C3%A7age-curl-define-pour-cheveux-boucl%C3%A9s.html/00605592007255",
+      "gtin": "00605592007255",
+      "checkedAt": "2026-03-13T15:42:50.896Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=nexxus&locale=en-CA&brand_code=BH0990&gtin=00605592007255",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "feedUrl": "https://www.nexxus.com/ca/en/home.productfeed.json",
+      "url": "https://www.nexxus.com/ca/fr/p/shampooing-curl-define-pour-cheveux-boucl%C3%A9s.html/00605592007293",
+      "gtin": "00605592007293",
+      "checkedAt": "2026-03-13T15:42:51.294Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=nexxus&locale=en-CA&brand_code=BH0990&gtin=00605592007293",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "feedUrl": "https://www.nexxus.com/ca/en/home.productfeed.json",
+      "url": "https://www.nexxus.com/ca/fr/p/revitalisant-curl-define-pour-cheveux-boucl%C3%A9s.html/00605592007309",
+      "gtin": "00605592007309",
+      "checkedAt": "2026-03-13T15:42:50.837Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=nexxus&locale=en-CA&brand_code=BH0990&gtin=00605592007309",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

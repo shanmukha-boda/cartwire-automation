@@ -1,0 +1,13 @@
+{
+  "brand": "axe",
+  "assortmentCode": "BH0045",
+  "feedUrl": "https://www.axe.com/in/en/home.productfeed.json",
+  "totalUrlsChecked": 47,
+  "problematicPagesFound": 0,
+  "successfulPages": 47,
+  "errors": 0,
+  "duration": "0.86s",
+  "speed": "54.65 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-03-13T15:43:12.460Z",
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+  "totalProblematicPages": 12,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pore-beauty-cleansing-balm-sensitive.html/04902111769561",
+      "gtin": "04902111769561",
+      "checkedAt": "2026-03-13T15:43:11.373Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111769561",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/purely-pampering-rice-ferment-with-osmanthus-body-wash.html/04902111775296",
+      "gtin": "04902111775296",
+      "checkedAt": "2026-03-13T15:43:11.615Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111775296",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/rich-creamy-oil-scrub.html/04902111781457",
+      "gtin": "04902111781457",
+      "checkedAt": "2026-03-13T15:43:11.804Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111781457",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pearlshine-facewash-translucent.html/04902111782652",
+      "gtin": "04902111782652",
+      "checkedAt": "2026-03-13T15:43:11.706Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782652",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pearlshine-facewash-moisture.html/04902111782669",
+      "gtin": "04902111782669",
+      "checkedAt": "2026-03-13T15:43:11.381Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782669",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pearlshine-facewash-porecare.html/04902111782676",
+      "gtin": "04902111782676",
+      "checkedAt": "2026-03-13T15:43:11.721Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782676",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pearlshine-selfform-sensitive.html/04902111782683",
+      "gtin": "04902111782683",
+      "checkedAt": "2026-03-13T15:43:11.732Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782683",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pearlshine-oil-translucent.html/04902111782706",
+      "gtin": "04902111782706",
+      "checkedAt": "2026-03-13T15:43:12.062Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782706",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pearlshine-oil-porecare.html/04902111782713",
+      "gtin": "04902111782713",
+      "checkedAt": "2026-03-13T15:43:11.596Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782713",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/pearlshine-selfform-acnecare.html/04902111782751",
+      "gtin": "04902111782751",
+      "checkedAt": "2026-03-13T15:43:11.393Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782751",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/fuwatoro-body-wash-cherry.html/04902111783857",
+      "gtin": "04902111783857",
+      "checkedAt": "2026-03-13T15:43:11.686Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111783857",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-tube-cherry.html/04902111784014",
+      "gtin": "04902111784014",
+      "checkedAt": "2026-03-13T15:43:11.688Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111784014",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

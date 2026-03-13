@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BFQ742",
+  "feedUrl": "https://www.wallsicecream.com/uk/home.productfeed.json",
+  "totalUrlsChecked": 62,
+  "problematicPagesFound": 0,
+  "successfulPages": 62,
+  "errors": 0,
+  "duration": "0.76s",
+  "speed": "81.58 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

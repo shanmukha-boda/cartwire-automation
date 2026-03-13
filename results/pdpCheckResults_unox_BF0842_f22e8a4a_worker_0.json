@@ -1,0 +1,13 @@
+{
+  "brand": "unox",
+  "assortmentCode": "BF0842",
+  "feedUrl": "https://www.unox.nl/home.productfeed.json",
+  "totalUrlsChecked": 112,
+  "problematicPagesFound": 0,
+  "successfulPages": 112,
+  "errors": 0,
+  "duration": "1.35s",
+  "speed": "82.96 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

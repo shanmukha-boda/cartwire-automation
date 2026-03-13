@@ -1,0 +1,13 @@
+{
+  "brand": "signal",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal.be/nl/home.productfeed.json",
+  "totalUrlsChecked": 60,
+  "problematicPagesFound": 0,
+  "successfulPages": 60,
+  "errors": 0,
+  "duration": "0.77s",
+  "speed": "77.92 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

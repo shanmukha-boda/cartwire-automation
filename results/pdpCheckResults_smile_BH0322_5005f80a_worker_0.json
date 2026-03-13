@@ -1,0 +1,13 @@
+{
+  "brand": "smile",
+  "assortmentCode": "BH0322",
+  "feedUrl": "https://www.mentadent.it/home.productfeed.json",
+  "totalUrlsChecked": 62,
+  "problematicPagesFound": 0,
+  "successfulPages": 62,
+  "errors": 0,
+  "duration": "0.98s",
+  "speed": "63.27 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

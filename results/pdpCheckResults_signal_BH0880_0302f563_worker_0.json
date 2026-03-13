@@ -1,0 +1,13 @@
+{
+  "brand": "signal",
+  "assortmentCode": "BH0880",
+  "feedUrl": "https://www.prodent.nl/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": 15,
+  "errors": 0,
+  "duration": "0.80s",
+  "speed": "18.75 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

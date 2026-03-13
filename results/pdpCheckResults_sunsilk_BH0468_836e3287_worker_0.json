@@ -1,0 +1,13 @@
+{
+  "brand": "sunsilk",
+  "assortmentCode": "BH0468",
+  "feedUrl": "https://www.sunsilkthailand.com/home.productfeed.json",
+  "totalUrlsChecked": 37,
+  "problematicPagesFound": 0,
+  "successfulPages": 37,
+  "errors": 0,
+  "duration": "0.88s",
+  "speed": "42.05 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

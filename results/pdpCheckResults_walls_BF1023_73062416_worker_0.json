@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.algida.hu/home.productfeed.json",
+  "totalUrlsChecked": 182,
+  "problematicPagesFound": 0,
+  "successfulPages": 182,
+  "errors": 0,
+  "duration": "4.58s",
+  "speed": "39.74 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

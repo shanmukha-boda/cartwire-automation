@@ -1,0 +1,13 @@
+{
+  "brand": "clear",
+  "assortmentCode": "BH0117",
+  "feedUrl": "https://www.clearhaircare.com/tr/home.productfeed.json",
+  "totalUrlsChecked": 21,
+  "problematicPagesFound": 0,
+  "successfulPages": 21,
+  "errors": 0,
+  "duration": "0.15s",
+  "speed": "140.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,152 @@
+{
+  "generatedAt": "2026-03-13T15:43:28.833Z",
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+  "totalProblematicPages": 11,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/roll-on-clean-comfort.html/00000059092582",
+      "gtin": "00000059092582",
+      "checkedAt": "2026-03-13T15:43:27.362Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092582",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/roll-on-sport-fresh.html/00000059092636",
+      "gtin": "00000059092636",
+      "checkedAt": "2026-03-13T15:43:27.056Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092636",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/roll-on-classic.html/00000059092643",
+      "gtin": "00000059092643",
+      "checkedAt": "2026-03-13T15:43:27.374Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092643",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/roll-on-fresh.html/00000059092650",
+      "gtin": "00000059092650",
+      "checkedAt": "2026-03-13T15:43:27.291Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092650",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/spray-cucumber.html/08720181174070",
+      "gtin": "08720181174070",
+      "checkedAt": "2026-03-13T15:43:27.049Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181174070",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/spray-pomegranate.html/08720181174568",
+      "gtin": "08720181174568",
+      "checkedAt": "2026-03-13T15:43:27.443Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181174568",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/spray-original.html/08720181175145",
+      "gtin": "08720181175145",
+      "checkedAt": "2026-03-13T15:43:27.151Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181175145",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/spray-invisible-dry.html/08720181284380",
+      "gtin": "08720181284380",
+      "checkedAt": "2026-03-13T15:43:27.314Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181284380",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/spray-extra-fresh-advanced.html/08720181284410",
+      "gtin": "08720181284410",
+      "checkedAt": "2026-03-13T15:43:27.040Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181284410",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/spray-eucalyptus-mint.html/08720181433580",
+      "gtin": "08720181433580",
+      "checkedAt": "2026-03-13T15:43:28.404Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181433580",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+      "url": "https://www.dove.com/se/p/advanced-care-hydrating-care-duschkraem.html/08720181462979",
+      "gtin": "08720181462979",
+      "checkedAt": "2026-03-13T15:43:28.382Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181462979",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}
