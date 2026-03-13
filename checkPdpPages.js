@@ -11,37 +11,6 @@ function shortHash(str) {
   return createHash("sha256").update(str).digest("hex").slice(0, 8);
 }
 
-async function fetchWidgetData(url) {
-  try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 10000);
-    const res = await fetch(url, {
-      agent: httpsAgent,
-      signal: controller.signal,
-      headers: {
-        "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept": "text/html,application/xhtml+xml",
-        "Connection": "keep-alive"
-      }
-    });
-    if (!res.ok) throw new Error(`HTTP Error: ${res.status} ${res.statusText}`);
-    const html = await res.text();
-    clearTimeout(timeout);
-    const widgetMatch = html.match(/<[^>]*data-ref="cartwire-bin-widget"[^>]*>/);
-    if (!widgetMatch) return null;
-    const tag = widgetMatch[0];
-    return {
-      gtin: tag.match(/data-gtin="([^"]+)"/)?.[1],
-      brandCode: tag.match(/data-brand-code="([^"]+)"/)?.[1],
-      locale: tag.match(/data-locale="([^"]+)"/)?.[1],
-      brandName: tag.match(/data-nltx-brand-name="([^"]+)"/)?.[1]
-    };
-  } catch (err) {
-    throw err;
-  }
-}
-
 function extractGtinFromUrl(url) {
   const patterns = [
     /[/-](\d{12,14})[/-]/,
@@ -57,7 +26,7 @@ function extractGtinFromUrl(url) {
 }
 
 async function checkBinForError(widgetData, pageUrl, gtinFromUrl) {
-  const gtin = widgetData?.gtin || gtinFromUrl;
+  const gtin = gtinFromUrl; // we rely on URL-extracted GTIN only
   if (!gtin) return { found: false, reason: "No GTIN available" };
   if (!widgetData || !widgetData.brandName || !widgetData.locale || !widgetData.brandCode) {
     return { found: false, reason: "Insufficient widget data to construct bin URL" };
@@ -100,6 +69,27 @@ async function main() {
   }
   const productData = JSON.parse(fs.readFileSync(productUrlsFile, "utf8"));
 
+  // Load precomputed widget data from brand-widget-data.json
+  const widgetDataFile = path.join(process.cwd(), "brand-widget-data.json");
+  if (!fs.existsSync(widgetDataFile)) {
+    throw new Error(`Widget data file not found: ${widgetDataFile}`);
+  }
+  const widgetEntries = JSON.parse(fs.readFileSync(widgetDataFile, "utf8"));
+  // Create a map keyed by feedUrl to quickly lookup widget data
+  const widgetMap = new Map();
+  for (const entry of widgetEntries) {
+    if (entry.success) {
+      widgetMap.set(entry.feedUrl, {
+        brandCode: entry.brandCode,
+        locale: entry.locale,
+        brandName: entry.brandName
+      });
+    } else {
+      // Store a placeholder indicating failure
+      widgetMap.set(entry.feedUrl, { error: entry.error || "Widget fetch failed" });
+    }
+  }
+
   if (args.length === 0) {
     console.log("\nAvailable brands and assortment codes:");
     productData.data.forEach((entry, index) => {
@@ -135,6 +125,17 @@ async function main() {
     const uniqueId = shortHash(feedUrl); // unique per feed URL
     console.log(`\nProcessing: ${brand} (${assortmentCode}) – ${productPageUrls.length} URLs [worker ${worker}, id ${uniqueId}]`);
 
+    // Get widget data for this feedUrl from map
+    const widgetData = widgetMap.get(feedUrl);
+    if (!widgetData) {
+      console.error(`No widget data found for feedUrl: ${feedUrl}. Skipping this brand.`);
+      continue;
+    }
+    if (widgetData.error) {
+      console.error(`Widget data for ${feedUrl} has error: ${widgetData.error}. Skipping.`);
+      // Still process? Could record all as errors.
+    }
+
     const startTime = Date.now();
     const results = [];
     const batchSize = 80;
@@ -145,8 +146,16 @@ async function main() {
         const globalIndex = i + idx + 1;
         process.stdout.write(`\r[${globalIndex}/${productPageUrls.length}] Checking...`);
         try {
-          const widgetData = await fetchWidgetData(url);
           const gtinFromUrl = extractGtinFromUrl(url);
+          // If we have widget data error, we cannot construct bin URL
+          if (!widgetData || widgetData.error) {
+            return {
+              type: "error",
+              url,
+              error: "No valid widget data available for this feed",
+              checkedAt: new Date().toISOString(),
+            };
+          }
           const binCheck = await checkBinForError(widgetData, url, gtinFromUrl);
           if (binCheck.found) {
             return {
