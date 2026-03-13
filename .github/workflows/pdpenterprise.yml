@@ -6,13 +6,7 @@ on:
 permissions:
   contents: write
 
-env:
-  TIMESTAMP: ${{ github.run_id }}-${{ github.run_number }}-${{ github.run_attempt }}
-
 jobs:
-# -----------------------------------------
-# 20 workers processing brands in parallel
-# -----------------------------------------
   scan:
     runs-on: ubuntu-latest
     strategy:
@@ -31,434 +25,71 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Create results directory
-        run: mkdir -p worker-results-${{ env.TIMESTAMP }}
-
       - name: Run worker
         run: |
           node <<'NODE'
-          import fs from 'fs';
-          import { execSync } from 'child_process';
-          import path from 'path';
-          import { fileURLToPath } from 'url';
-
-          const __filename = fileURLToPath(import.meta.url);
-          const __dirname = path.dirname(__filename);
-
-          const worker = Number(process.env.WORKER);
-          const timestamp = process.env.TIMESTAMP;
-          const runId = process.env.GITHUB_RUN_ID;
-
+          const fs = require("fs")
+          const { execSync } = require("child_process")
+          const worker = Number(process.env.WORKER)
           const data = JSON.parse(
             fs.readFileSync("productPageUrls.json","utf8")
-          );
-
-          const brands = data.data;
-
-          console.log("Worker:", worker);
-          console.log("Timestamp:", timestamp);
-          console.log("Run ID:", runId);
-
-          // Create worker results directory
-          const workerDir = `worker-results-${timestamp}`;
-          if (!fs.existsSync(workerDir)) {
-            fs.mkdirSync(workerDir, { recursive: true });
-          }
-
+          )
+          const brands = data.data
+          console.log("Worker:", worker)
           for (let i = worker; i < brands.length; i += 20) {
-            const item = brands[i];
-            console.log("Processing:", item.brand, item.assortmentCode);
-
-            try {
-              // Run the scanner
-              execSync(
-                `node checkPdpPages.js "${item.brand}" "${item.assortmentCode}"`,
-                { stdio: "inherit" }
-              );
-
-              // Move result files to worker directory with timestamp and runId
-              const resultFiles = fs.readdirSync(".").filter(f => 
-                f.startsWith("pdpCheckResults_") && f.endsWith(".json")
-              );
-
-              resultFiles.forEach(file => {
-                // Add runId and worker to filename to ensure uniqueness
-                const newFileName = file.replace('.json', `_run${runId}_worker${worker}.json`);
-                fs.renameSync(file, path.join(workerDir, newFileName));
-                console.log(`Moved ${file} to ${newFileName}`);
-              });
-
-            } catch (error) {
-              console.error(`Error processing ${item.brand}:`, error.message);
-            }
+            const item = brands[i]
+            console.log("Processing:", item.brand, item.assortmentCode)
+            execSync(
+              `node checkPdpPages.js "${item.brand}" "${item.assortmentCode}" ${worker}`,
+              { stdio: "inherit" }
+            )
           }
-
-          // Create a manifest file for this worker
-          const manifest = {
-            worker: worker,
-            runId: runId,
-            timestamp: timestamp,
-            processedBrands: brands.filter((_, idx) => idx % 20 === worker).map(b => b.brand),
-            filesProcessed: fs.readdirSync(workerDir)
-          };
-
-          fs.writeFileSync(
-            path.join(workerDir, `manifest_worker${worker}_run${runId}.json`),
-            JSON.stringify(manifest, null, 2)
-          );
-
           NODE
         env:
           WORKER: ${{ matrix.worker }}
-          TIMESTAMP: ${{ env.TIMESTAMP }}
-          GITHUB_RUN_ID: ${{ github.run_id }}
 
-      - name: Upload worker results
+      - name: Upload results
         uses: actions/upload-artifact@v4
         with:
-          name: worker-${{ matrix.worker }}-${{ env.TIMESTAMP }}
-          path: worker-results-${{ env.TIMESTAMP }}/
+          name: worker-${{ matrix.worker }}
+          path: "*.json"
 
-# -----------------------------------------
-# Merge results with deduplication
-# -----------------------------------------
   merge:
     needs: scan
     runs-on: ubuntu-latest
-    
     steps:
       - uses: actions/checkout@v4
-
-      - name: Create results directory
+      - name: Clean results
         run: |
-          mkdir -p results
-          mkdir -p archive
-
-      - name: Download all artifacts
+          rm -rf results
+          mkdir results
+      - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
           path: artifacts
-          merge-multiple: false
-
-      - name: Prepare results with timestamp
+      - name: Collect JSON files
         run: |
-          TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
-          RUN_ID="${{ github.run_id }}"
-          
-          echo "RUN_TIMESTAMP=$TIMESTAMP" >> $GITHUB_ENV
-          echo "RUN_ID=$RUN_ID" >> $GITHUB_ENV
-          
-          # Create run-specific directory
-          mkdir -p "results/run_${RUN_ID}_${TIMESTAMP}"
-          
-          # Copy all JSON files from artifacts to results directory
-          find artifacts -name "*.json" -exec cp {} "results/run_${RUN_ID}_${TIMESTAMP}/" \;
-          
-          echo "Total JSON files copied:"
-          ls "results/run_${RUN_ID}_${TIMESTAMP}" | wc -l
-
-      - name: Extract and deduplicate problematic pages
+          find artifacts -name "*.json" -exec cp {} results/ \;
+          echo "Total JSON files:"
+          ls results | wc -l
+      - name: Merge problematic files
         run: |
-          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
-          RUN_ID=${{ env.RUN_ID }}
-          
-          RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
-          
-          # Create a Node.js script with .mjs extension for ES modules
-          cat > $RESULTS_DIR/deduplicate.mjs << 'EOF'
-          import fs from 'fs';
-          import path from 'path';
-          import { fileURLToPath } from 'url';
-
-          const __filename = fileURLToPath(import.meta.url);
-          const __dirname = path.dirname(__filename);
-
-          const resultsDir = process.argv[2];
-          const runId = process.argv[3];
-          const timestamp = process.argv[4];
-
-          // Read all JSON files
-          const files = fs.readdirSync(resultsDir)
-            .filter(f => f.endsWith('.json') && !f.includes('PROBLEMATIC') && !f.includes('MASTER') && !f.includes('deduplicate'));
-
-          console.log(`Processing ${files.length} JSON files for deduplication...`);
-
-          // Collect all problematic pages
-          let allProblematicPages = [];
-          let allBrandResults = [];
-          let fileStats = [];
-
-          files.forEach(file => {
-            try {
-              const filePath = path.join(resultsDir, file);
-              const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-              
-              // Track file stats
-              fileStats.push({
-                file: file,
-                hasProblematicPages: content.problematicPages ? content.problematicPages.length : 0,
-                hasSuccessfulPages: content.successfulPages ? content.successfulPages.length : 0,
-                hasErrors: content.errors ? content.errors : 0
-              });
-
-              // Collect problematic pages
-              if (content.problematicPages && Array.isArray(content.problematicPages)) {
-                // Add runId to each problematic page for tracking
-                const pagesWithRunId = content.problematicPages.map(page => ({
-                  ...page,
-                  discoveredInRun: runId,
-                  sourceFile: file
-                }));
-                allProblematicPages = [...allProblematicPages, ...pagesWithRunId];
-              }
-
-              // Collect brand results
-              if (content.brand && content.assortmentCode) {
-                allBrandResults.push({
-                  brand: content.brand,
-                  assortmentCode: content.assortmentCode,
-                  feedUrl: content.feedUrl,
-                  totalUrlsChecked: content.totalUrlsChecked || 0,
-                  problematicPagesFound: content.problematicPagesFound || 0,
-                  successfulPages: content.successfulPages ? content.successfulPages.length : 0,
-                  errors: content.errors || 0,
-                  duration: content.duration,
-                  speedMetrics: content.speedMetrics,
-                  sourceFile: file
-                });
-              }
-            } catch (err) {
-              console.error(`Error processing ${file}:`, err.message);
-            }
-          });
-
-          // Deduplicate problematic pages by URL and GTIN
-          const uniqueProblematicPages = [];
-          const seen = new Set();
-
-          allProblematicPages.forEach(page => {
-            // Create a unique key based on URL and GTIN
-            const key = `${page.url}|${page.gtin}`;
-            
-            if (!seen.has(key)) {
-              seen.add(key);
-              uniqueProblematicPages.push(page);
-            } else {
-              console.log(`Duplicate found and removed: ${page.url} (GTIN: ${page.gtin})`);
-            }
-          });
-
-          console.log(`\nDeduplication Summary:`);
-          console.log(`- Total raw problematic pages: ${allProblematicPages.length}`);
-          console.log(`- Unique problematic pages: ${uniqueProblematicPages.length}`);
-          console.log(`- Duplicates removed: ${allProblematicPages.length - uniqueProblematicPages.length}`);
-
-          // Calculate totals
-          const totalUrlsChecked = fileStats.reduce((sum, stat) => sum + (stat.hasProblematicPages + stat.hasSuccessfulPages + stat.hasErrors), 0);
-          const totalProblematic = uniqueProblematicPages.length;
-          const totalSuccessful = fileStats.reduce((sum, stat) => sum + stat.hasSuccessfulPages, 0);
-          const totalErrors = fileStats.reduce((sum, stat) => sum + stat.hasErrors, 0);
-
-          // Create problematic pages report
-          const problematicReport = {
-            generatedAt: new Date().toISOString(),
-            runId: runId,
-            timestamp: timestamp,
-            workflowRun: process.env.GITHUB_RUN_ID || runId,
-            totalProblematicPages: totalProblematic,
-            totalRawProblematicPages: allProblematicPages.length,
-            duplicatesRemoved: allProblematicPages.length - uniqueProblematicPages.length,
-            problematicPages: uniqueProblematicPages,
-            brandsProcessed: allBrandResults.map(b => ({
-              brand: b.brand,
-              assortmentCode: b.assortmentCode,
-              totalProblematicPages: b.problematicPagesFound
-            }))
-          };
-
-          fs.writeFileSync(
-            path.join(resultsDir, 'pdpCheckResults_ALL_PROBLEMATIC.json'),
-            JSON.stringify(problematicReport, null, 2)
-          );
-
-          // Create master report
-          const masterReport = {
-            generatedAt: new Date().toISOString(),
-            runId: runId,
-            timestamp: timestamp,
-            workflowRun: process.env.GITHUB_RUN_ID || runId,
-            totalFilesProcessed: files.length,
-            summary: {
-              totalUrlsChecked: totalUrlsChecked,
-              totalProblematicPages: totalProblematic,
-              totalSuccessfulPages: totalSuccessful,
-              totalErrors: totalErrors,
-              duplicatesRemoved: allProblematicPages.length - uniqueProblematicPages.length
-            },
-            fileStats: fileStats,
-            brandResults: allBrandResults
-          };
-
-          fs.writeFileSync(
-            path.join(resultsDir, 'pdpCheckResults_MASTER_REPORT.json'),
-            JSON.stringify(masterReport, null, 2)
-          );
-
-          // Create summary
-          const summary = {
-            runId: runId,
-            timestamp: timestamp,
-            workflowRun: process.env.GITHUB_RUN_ID || runId,
-            totalUrlsChecked: totalUrlsChecked,
-            totalProblematicPages: totalProblematic,
-            totalSuccessfulPages: totalSuccessful,
-            totalErrors: totalErrors,
-            duplicatesRemoved: allProblematicPages.length - uniqueProblematicPages.length,
-            successRate: totalUrlsChecked > 0 ? ((totalSuccessful / totalUrlsChecked) * 100).toFixed(2) + '%' : '0%',
-            errorRate: totalUrlsChecked > 0 ? ((totalErrors / totalUrlsChecked) * 100).toFixed(2) + '%' : '0%',
-            problematicRate: totalUrlsChecked > 0 ? ((totalProblematic / totalUrlsChecked) * 100).toFixed(2) + '%' : '0%'
-          };
-
-          fs.writeFileSync(
-            path.join(resultsDir, 'summary.json'),
-            JSON.stringify(summary, null, 2)
-          );
-
-          console.log('\nFinal Summary:');
-          console.log(JSON.stringify(summary, null, 2));
-          EOF
-
-          # Run the deduplication script with .mjs extension
-          node $RESULTS_DIR/deduplicate.mjs "$RESULTS_DIR" "$RUN_ID" "$TIMESTAMP"
-
-      - name: Update latest symlink
+          jq -s '
+          {
+            generatedAt: now | todate,
+            problematicPages: map(.problematicPages // []) | add,
+            totalProblematicPages: (map(.problematicPages // []) | add | length)
+          }
+          ' results/*PROBLEMATIC*.json > results/pdpCheckResults_ALL_PROBLEMATIC.json
+      - name: Commit results
         run: |
-          cd results
-          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
-          RUN_ID=${{ env.RUN_ID }}
-          
-          # Remove old symlink and create new one pointing to latest run
-          rm -f latest
-          ln -s "run_${RUN_ID}_${TIMESTAMP}" latest
-          
-          # Also create a dated symlink for easier reference
-          ln -s "run_${RUN_ID}_${TIMESTAMP}" "run_${TIMESTAMP}"
-
-      - name: Create README
-        run: |
-          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
-          RUN_ID=${{ env.RUN_ID }}
-          
-          RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
-          
-          # Extract summary data
-          if [ -f "$RESULTS_DIR/summary.json" ]; then
-            TOTAL_URLS=$(jq -r '.totalUrlsChecked // 0' $RESULTS_DIR/summary.json)
-            TOTAL_PROBLEMATIC=$(jq -r '.totalProblematicPages // 0' $RESULTS_DIR/summary.json)
-            TOTAL_SUCCESS=$(jq -r '.totalSuccessfulPages // 0' $RESULTS_DIR/summary.json)
-            TOTAL_ERRORS=$(jq -r '.totalErrors // 0' $RESULTS_DIR/summary.json)
-            DUPLICATES=$(jq -r '.duplicatesRemoved // 0' $RESULTS_DIR/summary.json)
-            SUCCESS_RATE=$(jq -r '.successRate // "0%"' $RESULTS_DIR/summary.json)
-            PROBLEMATIC_RATE=$(jq -r '.problematicRate // "0%"' $RESULTS_DIR/summary.json)
-            ERROR_RATE=$(jq -r '.errorRate // "0%"' $RESULTS_DIR/summary.json)
-          else
-            TOTAL_URLS=0
-            TOTAL_PROBLEMATIC=0
-            TOTAL_SUCCESS=0
-            TOTAL_ERRORS=0
-            DUPLICATES=0
-            SUCCESS_RATE="0%"
-            PROBLEMATIC_RATE="0%"
-            ERROR_RATE="0%"
-          fi
-          
-          cat > $RESULTS_DIR/README.md << EOF
-          # PDP Scan Results - Run ${RUN_ID} - ${TIMESTAMP}
-          
-          ## Overview
-          - **Run ID:** ${RUN_ID}
-          - **Timestamp:** ${TIMESTAMP}
-          - **Workflow Run:** [${{ github.run_id }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
-          
-          ## Summary Statistics
-          | Metric | Count | Percentage |
-          |--------|-------|------------|
-          | Total URLs Checked | ${TOTAL_URLS} | 100% |
-          | Successful Pages | ${TOTAL_SUCCESS} | ${SUCCESS_RATE} |
-          | Problematic Pages | ${TOTAL_PROBLEMATIC} | ${PROBLEMATIC_RATE} |
-          | Errors | ${TOTAL_ERRORS} | ${ERROR_RATE} |
-          | Duplicates Removed | ${DUPLICATES} | - |
-          
-          ## Result Files
-          - [Master Report](pdpCheckResults_MASTER_REPORT.json) - Complete combined results with all brand details
-          - [Problematic Pages](pdpCheckResults_ALL_PROBLEMATIC.json) - Deduplicated problematic pages
-          - [Summary Statistics](summary.json) - Quick overview of the run
-          
-          ## Navigation
-          - Latest results are always available in the [latest](../latest) symlink
-          - Historical runs are stored in timestamped directories
-          
-          ---
-          *Generated by GitHub Actions on $(date)*
-          EOF
-
-      - name: Commit and push results
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          
-          # Add all results
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add results/
-          
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
+          if git diff --cached --quiet
+          then
+            echo "No changes"
           else
-            git commit -m "PDP scan results - Run ${{ github.run_id }} - ${{ env.RUN_TIMESTAMP }}"
+            git commit -m "PDP scan results"
             git push
-          fi
-
-      - name: Upload merged results as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: merged-results-${{ env.RUN_TIMESTAMP }}
-          path: results/latest/
-
-# -----------------------------------------
-# Clean up old runs (keep last 10)
-# -----------------------------------------
-  cleanup:
-    needs: merge
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    
-    steps:
-      - uses: actions/checkout@v4
-      
-      - name: Clean up old results
-        run: |
-          cd results
-          
-          # List all run directories sorted by name (oldest first)
-          RUNS=$(ls -d run_* 2>/dev/null | sort || true)
-          RUN_COUNT=$(echo "$RUNS" | wc -l)
-          
-          # Keep only the last 10 runs
-          KEEP=10
-          REMOVE=$((RUN_COUNT - KEEP))
-          
-          if [ $REMOVE -gt 0 ]; then
-            echo "Removing $REMOVE old runs, keeping last $KEEP"
-            echo "$RUNS" | head -n $REMOVE | while read dir; do
-              echo "Removing $dir"
-              rm -rf "$dir"
-            done
-            
-            # Update git
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git add .
-            git commit -m "Cleanup: Removed old PDP scan results" || true
-            git push || true
-          else
-            echo "No cleanup needed, have $RUN_COUNT runs (keeping $KEEP)"
           fi
