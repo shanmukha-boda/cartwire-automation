@@ -72,15 +72,16 @@ jobs:
           find artifacts -name "*.json" -exec cp {} results/ \;
           echo "Total JSON files:"
           ls results | wc -l
+      
       - name: Merge problematic files
         run: |
-          jq -s '
-          {
-            generatedAt: now | todate,
-            problematicPages: map(.problematicPages // []) | add,
-            totalProblematicPages: (map(.problematicPages // []) | add | length)
-          }
-          ' results/*PROBLEMATIC*.json > results/pdpCheckResults_ALL_PROBLEMATIC.json
+            jq -s '
+            {
+              generatedAt: now | todate,
+              problematicPages: map(.problematicPages // []) | add,
+              totalProblematicPages: (map(.problematicPages // []) | add | length)
+            }
+            ' results/*ALL_PROBLEMATIC_worker_*.json > results/pdpCheckResults_ALL_PROBLEMATIC.json
       - name: Commit results
         run: |
           git config user.name github-actions
