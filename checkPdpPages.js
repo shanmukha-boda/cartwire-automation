@@ -198,6 +198,7 @@ async function main() {
       duration: `${duration}s`,
       speed: `${(results.length / duration).toFixed(2)} URLs/s`,
       problematicPages: problematic,
+      errorPages: errors,
     };
     allResults.push(brandResult);
     allProblematicPages.push(...problematic);
