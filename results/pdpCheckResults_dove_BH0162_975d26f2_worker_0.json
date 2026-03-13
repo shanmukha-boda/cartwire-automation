@@ -1,0 +1,242 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/my/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 38,
+  "duration": "0.14s",
+  "speed": "271.43 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hair-fall-rescue-serum-conditioner.html/04800888206657",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.029Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/intense-repair-serum-conditioner.html/04800888206664",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.018Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/intense-repair-shampoo.html/08851932231015",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.028Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/straight-silky-shampoo.html/08851932231091",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.035Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/dandruff-care-shampoo.html/08851932231374",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hair-fall-rescue-shampoo.html/08851932291323",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.028Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/intense-repair-conditioner.html/08851932335874",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.022Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/straight-silky-conditioner.html/08851932335881",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.025Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hair-fall-rescue-conditioner.html/08851932335904",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/detox-nourishment-shampoo.html/08851932412988",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.036Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/detox-nourishment-conditioner.html/08851932413053",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.021Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hair-boost-nourishment-shampoo.html/08851932429184",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hair-boost-nourishment-conditioner.html/08851932430197",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/go-fresh-relaxing-hydration-body-wash.html/04710094111143",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.035Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/go-fresh-sakura-body-wash.html/04710094111174",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.052Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/go-fresh-white-peach-white-tea-body-wash.html/04892218144081",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.034Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/go-fresh-japanese-yuzu-glacier-body-wash.html/04892218144104",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.037Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/shower-exfoliating-body-wash.html/06902088309416",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/beauty-nourishing-body-wash.html/06902088309485",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.084Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/deep-moisture-cloud-foam-body-wash.html/06902088422825",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.031Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/sakura-cloud-foam-body-wash.html/06902088422870",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.045Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/peach-cloud-foam-body-wash.html/06902088436808",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.055Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hya-peptide-repair-treatment-mask.html/06902088965544",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.033Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/white-beauty-bar.html/08717644190494",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.027Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/go-fresh-fresh-moisture-beauty-cream-bar.html/08717644190555",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.028Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/volume-nourishment-shampoo.html/08851932351171",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.044Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/volume-nourishment-conditional.html/08851932351232",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.029Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/fresh-nourishment-shampoo.html/08851932443586",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.029Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hya-keratin-shine-serum-oil.html/08851932467971",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/peptide-intense-repair-serum-oil.html/08851932472784",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.024Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/elastin-long-thick-serum-oil.html/08851932472791",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.079Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/go-fresh-revive-body-wash.html/08999999031053",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/sensitive-skin-body-wash.html/08999999518370",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.026Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/care-protect-body-wash.html/08999999574116",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.030Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/dove-intense-repair-vitamin.html/09556126668453",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.034Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/fresh-nourishment-conditioner.html/09556126671170",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.028Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hya-keratin-shine-shampoo.html/09556126673587",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.035Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/my/p/hya-keratin-shine-conditioner.html/09556126673594",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.054Z"
+    }
+  ]
+}

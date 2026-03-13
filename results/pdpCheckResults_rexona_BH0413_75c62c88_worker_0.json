@@ -1,0 +1,13 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0413",
+  "feedUrl": "https://www.rexona.com/sk/home.productfeed.json",
+  "totalUrlsChecked": 77,
+  "problematicPagesFound": 0,
+  "successfulPages": 77,
+  "errors": 0,
+  "duration": "6.46s",
+  "speed": "11.92 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

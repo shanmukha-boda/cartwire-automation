@@ -1,0 +1,98 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/cl/home.productfeed.json",
+  "totalUrlsChecked": 18,
+  "problematicPagesFound": 0,
+  "successfulPages": 4,
+  "errors": 14,
+  "duration": "8.03s",
+  "speed": "2.24 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-supreme-cl%C3%A1sica-frasco.html/07805000321567",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-supreme-cl%C3%A1sica-frasco.html/07805000321567 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.502Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-supreme-light-frasco.html/07805000321574",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-supreme-light-frasco.html/07805000321574 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.502Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-light-doypack.html/07805000322465",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-light-doypack.html/07805000322465 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-doypack.html/07805000322472",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-doypack.html/07805000322472 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-supreme-deli-doypack.html/07805000322755",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-supreme-deli-doypack.html/07805000322755 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-supreme-artesana-squeeze.html/07794000004955",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-supreme-artesana-squeeze.html/07794000004955 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/ketchup-regular-squeeze.html/07794000005464",
+      "error": "request to https://www.hellmanns.com/cl/p/ketchup-regular-squeeze.html/07794000005464 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/ketchup-light-doypack.html/07805000316778",
+      "error": "request to https://www.hellmanns.com/cl/p/ketchup-light-doypack.html/07805000316778 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-vegana-doypack.html/07805000318758",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-vegana-doypack.html/07805000318758 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-con-aceite-de-palta-doypack.html/07805000320515",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-con-aceite-de-palta-doypack.html/07805000320515 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-supreme-artesana-frasco.html/07805000321550",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-supreme-artesana-frasco.html/07805000321550 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-supreme-artesana-frasco.html/07805000321581",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-supreme-artesana-frasco.html/07805000321581 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-ajo-squeeze.html/07891150106147",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-ajo-squeeze.html/07891150106147 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/cl/p/mayonesa-bacon-squeeze.html/07891150106154",
+      "error": "request to https://www.hellmanns.com/cl/p/mayonesa-bacon-squeeze.html/07891150106154 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:16.522Z"
+    }
+  ]
+}

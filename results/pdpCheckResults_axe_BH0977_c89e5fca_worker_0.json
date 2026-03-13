@@ -1,0 +1,13 @@
+{
+  "brand": "axe",
+  "assortmentCode": "BH0977",
+  "feedUrl": "https://www.lynxformen.com/uk/home.productfeed.json",
+  "totalUrlsChecked": 64,
+  "problematicPagesFound": 0,
+  "successfulPages": 64,
+  "errors": 0,
+  "duration": "1.07s",
+  "speed": "59.81 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

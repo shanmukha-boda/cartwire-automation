@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-03-13T13:16:23.035Z",
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+  "totalProblematicPages": 3,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+      "url": "https://www.dove.com/ca/en/p/curls-mousse.html/00079400209856",
+      "gtin": "00079400209856",
+      "checkedAt": "2026-03-13T13:15:18.158Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-ca&brand_code=BH0162&gtin=00079400209856",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+      "url": "https://www.dove.com/ca/en/p/gloss-control-non-aerosol-hairspray.html/00079400513250",
+      "gtin": "00079400513250",
+      "checkedAt": "2026-03-13T13:15:26.276Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-ca&brand_code=BH0162&gtin=00079400513250",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+      "url": "https://www.dove.com/ca/en/p/dove-intensive-repair-bi-phase-serum-oil.html/00079400529626",
+      "gtin": "00079400529626",
+      "checkedAt": "2026-03-13T13:15:34.680Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-ca&brand_code=BH0162&gtin=00079400529626",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

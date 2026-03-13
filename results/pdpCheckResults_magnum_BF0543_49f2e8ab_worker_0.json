@@ -1,0 +1,110 @@
+{
+  "brand": "magnum",
+  "assortmentCode": "BF0543",
+  "feedUrl": "https://www.magnumicecream.com/ie/home.productfeed.json",
+  "totalUrlsChecked": 44,
+  "problematicPagesFound": 0,
+  "successfulPages": 28,
+  "errors": 16,
+  "duration": "4.38s",
+  "speed": "10.05 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-vegan-sea-salt-caramel-ice-cream-3-x-90ml.html/08711327434981",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.723Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-collection-pistachio-ice-cream-3-x-100ml.html/08711327437845",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.960Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-double-gold-caramel-billionaire-tub-440ml.html/08711327480438",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.870Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-classic-almond-white-ice-cream-bites-140ml.html/08711327497030",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.724Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-mini-mix-vegan-classic-almond-6-x-55ml.html/08711327535268",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.605Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-double-starchaser-tub-440ml.html/08711327585324",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.906Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-double-sunlover-tub-440ml.html/08711327585607",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.917Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-wonder-golden-toffee.html/08711327622708",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.975Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-vegan-classic-3-x-90ml.html/08711327660915",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.850Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-vegan-ice-cream-sticks-almond-3x-90-ml.html/08711327664500",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.369Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-double-caramel-ice-cream-3-x-88ml.html/08712100856327",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.721Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-double-raspberry-ice-cream-3-x-88ml.html/08714100684764",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.259Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-signature-peach-ice-cream-sticks-3x-90-ml.html/08721274813036",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-signature-pistachio-ice-cream-sticks-3x-90-ml.html/08721274814286",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:23.087Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-vegan-ice-cream-sticks-blueberry.html/08711327663640",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.170Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/ie/p/magnum-bonbon-chocolate-&-cherry-12-x-17ml.html/08721274816716",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:13:22.615Z"
+    }
+  ]
+}

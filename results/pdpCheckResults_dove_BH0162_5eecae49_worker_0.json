@@ -1,0 +1,914 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
+  "totalUrlsChecked": 150,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 150,
+  "duration": "0.32s",
+  "speed": "468.75 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-rosas.html/00000075062811",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/barra-antitranspirante-dermoaclarant.html/00000075062828",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-original.html/00000075062835",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-invisible-dry.html/00000075062842",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-clear-tone.html/00000075062859",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-roll-on-rosas.html/00000075076436",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-men-care-comfort.html/00000075076696",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-invisible-dry.html/00000075076719",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-antitranspirante-en-barra-tono-uniforme-orquidea.html/00000075077334",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-antitranspirante-roll-on-tono-uniforme-orquidea.html/00000075077341",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-dove-clinical-58g.html/00000075079437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barral-dove-mencare-clinical-expert-proteccion-y-cuidado.html/00000075079444",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-clinicaltonouniforme-en-roll-on.html/00000075081638",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.346Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-clinicaltonouniforme-en-aerosol.html/00000075081645",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-eneryboost-en-stick.html/00000075081782",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-original-en-roll-on.html/00000078924468",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-roll-on-clear-tone.html/00000078924482",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-rollon-invisible-dry.html/00000078924529",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-roll-on-calendula.html/00000078928503",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-invisibledry-en-roll-on.html/00000078933354",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/desodorante-raspberry-rose-en-stick.html/00079400509048",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/desodorante-peach-shea-en-stick.html/00079400509055",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.346Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/desodorante-coconut-shea-en-stick.html/00079400509062",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-dove-clinical-expert-original-clean-150ml.html/07506306220089",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-dove-mencare-clinical-expert-proteccion-y-cuidado.html/07506306220096-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-dermoaclarante.html/07506306241152",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-invisible-dry.html/07506306241176",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-original-spray.html/07506306241183",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-clear-tone.html/07506306241190",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-rosas.html/07506306241206",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.346Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-antitranspirante-en-aerosol-tono-uniforme-orquidea.html/07506306249714",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-clinicaltonouniforme-en-stick.html/07506306254374",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-eneryboost-en-aerosol.html/07506306254459",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-invisibledry-en-aerosol.html/07506306254466",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.378Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-extrafresh-en-stick.html/07506306254596",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-argan-oil-225.html/07506306255012",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.377Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-argan-oil-400.html/07506306255081",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-derma-care-caspa-control-400ml.html/07506306256019",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-derma-care-hydra-alivio-capilar-400ml.html/07506306256026",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.383Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-care-derma-fuerza-anti-ca%C3%ADda-400ml.html/07506306256033",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-derma-care-caspa-control-675ml.html/07506306256040",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-derma-care-balance-capilar-675ml.html/07506306256057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.383Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-derma-hydra-alivio-capilar-675ml.html/07506306256064",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-derma-care-fuerza-anti-ca%C3%ADda-675ml.html/07506306256071",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-go-fresh-granada-y-verbena.html/07791293033266",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-para-bebe-hidratacion-enriquecida.html/07891150025929-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/toallitas-humedas-humectacion-sensible.html/07891150035539-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/toallitas-humedas-humectacion-enriquecida.html/07891150035546-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/serum-capilar-dove-derma-care-caspa-control-50ml.html/07891150102187",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/serum-capilar-dove-derma-care-fuerza-anti-ca%C3%ADda-50ml.html/07891150102194",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/mascarilla-capilar-dove-derma-care-hydra-alivio-270g.html/07891150102200",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.389Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/mascarilla-capilar-dove-derma-care-fuerza-anti-ca%C3%ADda-270g.html/07891150102217",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-dove-tono-uniforme-raspberry-45g.html/00000075083113",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-roll-on-dove-tono-uniforme-raspberry-50ml.html/00000075083120",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-mencare-bw-cleancomf-400.html/00011111575004-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.380Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-barra-de-belleza-original.html/00067238891190",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/barra-de-belleza-pink.html/07501056349288",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/barra-de-belleza-exfoliacion-suave.html/07501056371159",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-barra-de-belleza-go-fresh-fresh-touch.html/07501056371821",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-hw-original220.html/07506306211933",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-reconstrucci%C3%B3n-completa-12x1150ml.html/07506306213357",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-original-14pack.html/07506306216112",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-pink-14pack.html/07506306216129",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.355Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-ritual-de-reparaci%C3%B3n-15x1150ml.html/07506306216815",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.376Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-hidrataci%C3%B3n-anti-nudos-12x180ml.html/07506306220157",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-nutrici%C3%B3n-anti-frizz-12x180ml.html/07506306220164",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-reconstrucci%C3%B3n-completa-12x180ml.html/07506306220171",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.380Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-cuidado-micelar-12x350ml.html/07506306220195",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-hidrataci%C3%B3n-anti-nudos-12x350ml.html/07506306220201",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-nutrici%C3%B3n-anti-frizz-12x350ml.html/07506306220218",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-reconstrucci%C3%B3n-completa-12x350ml.html/07506306220225",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-crecimiento-regenerador-12x350ml.html/07506306220232",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-cuidado-micelar-12x675ml.html/07506306220249",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-hidrataci%C3%B3n-anti-nudos-12x675ml.html/07506306220256",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-nutrici%C3%B3n-anti-frizz-12x675ml.html/07506306220263",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-shampoo-reconstrucci%C3%B3n-completa-12x675ml.html/07506306220270",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-creciemiento-regenerador-12x675ml.html/07506306220287",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-reconstrucci%C3%B3n-completa-12x24x10ml.html/07506306222557",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.377Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-hidratante-dove-micelar-12x120ml.html/07506306222571",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-hidratante-dove-hidrataci%C3%B3n-12x120ml.html/07506306222588",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-hidratante-dove-nutrici%C3%B3n-12x120ml.html/07506306222595",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-hw-original532.html/07506306223653",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.510Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-hw-original450.html/07506306225350",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.502Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-original-14pack1.html/07506306229372",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/barra-de-belleza-purely-pampering-karite.html/07506306230507",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-lavanda-pack.html/07506306245570",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-original-90.html/07506306246683",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.497Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-pepino-hidrapack.html/07506306246768",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-leche-coco-pack.html/07506306246775",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-reviving-granadapack.html/07506306246799",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-sheabutter-pack.html/07506306246805",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-original-pack.html/07506306246812",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-pink-2pack.html/07506306248793",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-original-2pack.html/07506306248809",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-pepino-2pack.html/07506306248816",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-hidratante-dove-nutrici%C3%B3n-anti-frizz-12x700ml.html/07506306248885",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-hidratante-dove-hidrataci%C3%B3n-antinudos-12x700ml.html/07506306248892",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-hidratante-dove-cuidado-micelar-12x700ml.html/07506306248939",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-nutrici%C3%B3n-anti-frizz-12x1100ml.html/07506306250178",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-micelar-12x350ml.html/07506306250222",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-reconstrucci%C3%B3n-completa-12x675ml.html/07506306250246",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-crecimiento-regenerador-12x675ml.html/07506306250253",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-men-fresh-clean-288x1x950g.html/07506306251724",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-extraseca-acidhialuronico200.html/07506306252806",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.498Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-seca-ceramidas200.html/07506306252813",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-firme-retinol200.html/07506306252820",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-tonounif-niaci200.html/07506306252837",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-extraspera-pantenol400.html/07506306252844",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-extraseca-acidhialuronico400.html/07506306252851",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-seca-ceramidas400.html/07506306252868",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-tonounif-niaci400.html/07506306252875",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-firme-retinol400.html/07506306252882",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-extraseca-acidhialuronico1000.html/07506306253001",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.497Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-seca-ceramidas1000.html/07506306253018",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.491Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-neutro-sense-hypo-905.html/07506306253056",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-serum-conc-corp-100.html/07506306253070",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.517Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-balsamo-corporal-talones-grietas90.html/07506306253162",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/acondicionador-dove-nutrici%C3%B3n-anti-frizz-12x1000ml.html/07506306253681",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-nutrici%C3%B3n-anti-frizz-12x1000ml.html/07506306253704",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/shampoo-dove-reconstrucci%C3%B3n-completa-12x1000ml.html/07506306253711",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-gentlescrub-400.html/07506306254411",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.511Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-sense-hypo-400.html/07506306254428",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-gentlescrub-225.html/07506306254435",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-deepno-4pack600.html/07506306254558",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-dove-tono-uniforme-raspberry-150ml.html/07506306255449",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.497Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-men-care-extra-fresh.html/07791293012063-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-men-care-clean-comfort.html/07791293012087-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.520Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-invisible-dry.html/07791293022819-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/desodorante-corporal-en-aerosol-dove-all-body-deo-lavender-&-camomile-150ml.html/07791293051659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/desodorante-corporal-en-aerosol-dove-all-body-deo-raspberry-&-rose-150ml.html/07791293051666",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.511Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/jabon-liquido-corporal-humectacion-sensible.html/07891150025967-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/jabon-liquido-corporal-humectacion-enriquecida.html/07891150025981-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.510Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/jabon-de-tocador-humectacion-sensible.html/07891150025998-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.544Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-corporal-humectacion-enriquecida.html/07891150026001-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/jabon-de-tocador-humectacion-enriquecida.html/07891150026025-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/colonia-humectacion-enriquecida.html/07891150026049-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.504Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-protectora-humectacion-enriquecida.html/07891150040458-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-leche-coco.html/07891150044630",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/baby-dove.html/07891150069091",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/desodorante-corporal-en-crema-dove-all-body-deo-lavender-&-camomile-75g.html/07891150102811",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.497Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/desodorante-corporal-en-crema-dove-all-body-deo-raspberry-&-rose-75g.html/07891150102828",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.526Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/crema-corporal-humectacion-enriquecida.html/08710447362945",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/jabon-liquido-corporal-humectacion-enriquecida.html/08710908657467",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.504Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/jabon-liquido-corporal-humectacion-sensible.html/08710908657535",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.511Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/body-lotion-baby-dove-fragance-free-sensitive-200ml.html/08710908658006",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/body-night-lotion-baby-dove-calming-moisture-400ml.html/08717163858219",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/body-night-wash-baby-dove-calming-moisture-400ml.html/08717163858226",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.517Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-beautybar-neutro-sense-pack.html/08720181400513",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-deepno-400.html/08720181497438",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/mx/p/dove-bw-deepno-225.html/08720181497445",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.504Z"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/pk/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 9,
+  "duration": "0.06s",
+  "speed": "150.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/original-beauty-cream-bar.html/00067238891190",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/pink-beauty-bar.html/07501056349288",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/moisture-beauty-bar.html/08690637670411",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.129Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/intense-repair-shampoo.html/08961014007190",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/intense-repair-conditioner.html/08961014007237",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.122Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/dryness-care-shampoo.html/08961014007312",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.124Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/nourishing-oil-care-shampoo.html/08961014007343",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.129Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/hair-fall-rescue-shampoo.html/08961014007374",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pk/p/hair-fall-rescue-conditioner.html/08961014007404",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.121Z"
+    }
+  ]
+}

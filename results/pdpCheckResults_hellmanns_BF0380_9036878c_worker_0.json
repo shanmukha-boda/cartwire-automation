@@ -1,0 +1,86 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/uk/home.productfeed.json",
+  "totalUrlsChecked": 24,
+  "problematicPagesFound": 0,
+  "successfulPages": 12,
+  "errors": 12,
+  "duration": "8.09s",
+  "speed": "2.97 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/garlic-and-herb-sauce.html/08712100891908",
+      "error": "request to https://www.hellmanns.com/uk/p/garlic-and-herb-sauce.html/08712100891908 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.334Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/garlic-mayonnaise.html/08712566065714",
+      "error": "request to https://www.hellmanns.com/uk/p/garlic-mayonnaise.html/08712566065714 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/spicy-ranch-250ml.html/08721201971952",
+      "error": "request to https://www.hellmanns.com/uk/p/spicy-ranch-250ml.html/08721201971952 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/creamy-ranch-250ml.html/08721201972294",
+      "error": "request to https://www.hellmanns.com/uk/p/creamy-ranch-250ml.html/08721201972294 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/vegan-garlic-mayo.html/08710522893821",
+      "error": "request to https://www.hellmanns.com/uk/p/vegan-garlic-mayo.html/08710522893821 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.403Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/vegan-squeezy-mayonnaise-430ml.html/08710604794862",
+      "error": "request to https://www.hellmanns.com/uk/p/vegan-squeezy-mayonnaise-430ml.html/08710604794862 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.403Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/chunky-burger-sauce.html/08712100891779",
+      "error": "request to https://www.hellmanns.com/uk/p/chunky-burger-sauce.html/08712100891779 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.404Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/hellmann's-light-mayo-6x750ml.html/08718114724430",
+      "error": "request to https://www.hellmanns.com/uk/p/hellmann%27s-light-mayo-6x750ml.html/08718114724430 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.411Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/hellmann's-real-mayo-6x750ml.html/08718114724485",
+      "error": "request to https://www.hellmanns.com/uk/p/hellmann%27s-real-mayo-6x750ml.html/08718114724485 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.410Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/real-thousand-island-dressing-dip-250-ml.html/08720182302960",
+      "error": "request to https://www.hellmanns.com/uk/p/real-thousand-island-dressing-dip-250-ml.html/08720182302960 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.409Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/real-garlic-herb-dressing-dip-250-ml.html/08720182303752",
+      "error": "request to https://www.hellmanns.com/uk/p/real-garlic-herb-dressing-dip-250-ml.html/08720182303752 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.411Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uk/p/chilli-charger-mayonnaise-250ml.html/08720182373755",
+      "error": "request to https://www.hellmanns.com/uk/p/chilli-charger-mayonnaise-250ml.html/08720182373755 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:56.411Z"
+    }
+  ]
+}

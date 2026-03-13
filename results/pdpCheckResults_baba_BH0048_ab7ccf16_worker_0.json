@@ -1,0 +1,253 @@
+{
+  "brand": "baba",
+  "assortmentCode": "BH0048",
+  "feedUrl": "https://www.baba.hu/home.productfeed.json",
+  "totalUrlsChecked": 62,
+  "problematicPagesFound": 4,
+  "successfulPages": 27,
+  "errors": 31,
+  "duration": "2.71s",
+  "speed": "22.88 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bogyosgyumolcs-illat-750-ml.html/08720181637971",
+      "gtin": "08720181637971",
+      "checkedAt": "2026-03-13T13:34:01.648Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181637971",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-500-ml.html/08720181740343",
+      "gtin": "08720181740343",
+      "checkedAt": "2026-03-13T13:34:01.751Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181740343",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-antibakterialis-eukaliptusz-250-ml.html/08720181740367",
+      "gtin": "08720181740367",
+      "checkedAt": "2026-03-13T13:34:01.581Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181740367",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "feedUrl": "https://www.baba.hu/home.productfeed.json",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-750-ml.html/08720181741067",
+      "gtin": "08720181741067",
+      "checkedAt": "2026-03-13T13:34:01.696Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181741067",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-nyugtato-tusfuerd-levendula-es-vanilia-illat-400-ml.html/08720181464171",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.279Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-nyugtato-tusfuerd-levendula-es-vanilia-illat-750-ml.html/08720181464188",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.295Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-vadszeder-es-gyoember-illat-2in1-750-ml.html/08720181464195",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-malna-es-rozsafa-illat-750-ml.html/08720181464201",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.277Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfurdo-erzekeny-borre-3in1-400-ml.html/08720181637964",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.279Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-konnymentes-gyereksampon-400-ml.html/08710447462744",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:34:03.467Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-sampon-avokadoolajjal-400-ml.html/08710447462768",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.298Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-sampon-zoeldtea-kivonattal-400-ml.html/08710447462775",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.298Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-sampon-gyogynovenyekkel-400-ml.html/08710447462782",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.296Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bodza-es-rozsaviz-illat-400-ml.html/08710847953798",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.277Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-folyekony-szappan-kamilla-250-ml.html/08710908194528",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-cseresznye-illat-400-ml.html/08710908324079",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kenyezteto-tusfurdo-tej-es-gyumolcs-illat-400-ml.html/08710908324147",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.307Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kenyezteto-tusfurdo-magnolia-illat-750-ml.html/08710908828577",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.296Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-aloe-veras-frissito-testapolo-400-ml.html/08712561672511",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kakaovajas-kenyeztet-testapolo-400-ml.html/08712561672535",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.284Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-melyhidratalo-testapolo-400ml.html/08712561684521",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kamillas-nyugtato-testapolo-400-ml.html/08712561704489",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.307Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-intenziv-testapolo-400ml.html/08712561704502",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-gorogdinnye-illat-400-ml.html/08717163761182",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:34:03.837Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-lanolin-750-ml.html/08717644119938",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kremhabfuerd-kamilla-es-mez-750-ml.html/08717644120224",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.323Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-lanolin-750-ml.html/08717644192917",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.314Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-frissit-menta-2in1-400-ml.html/08717644485910",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.301Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-ferfi-tusfuerd-tengeri-asvany-2in1-400-ml.html/08717644966594",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.300Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kremtusfurdo-antibakterialis-osszetevovel-gyomber-400-ml.html/08720181074059",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kenyeztet_-tusfuerd-malna-es-rozsafa-400-ml.html/08720181209550",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.304Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kenyeztet_-tusfuerd-malna-es-rozsafa-750-ml.html/08720181209567",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.304Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-kenyezteto-tusfurdo-edesmandula-illat-400-ml.html/08720181338182",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:34:03.718Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-szappan-jazmin-90-g.html/08720181392450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.313Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.baba.hu/p/baba-szappan-lanolin-4x90-g.html/08720181392474",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:01.319Z"
+    }
+  ]
+}

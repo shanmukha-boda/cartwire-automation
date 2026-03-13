@@ -1,0 +1,13 @@
+{
+  "brand": "signal",
+  "assortmentCode": "BH0013",
+  "feedUrl": "https://www.aim.gr/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": 50,
+  "errors": 0,
+  "duration": "1.39s",
+  "speed": "35.97 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

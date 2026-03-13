@@ -1,0 +1,320 @@
+{
+  "brand": "allthingshair",
+  "assortmentCode": "BH8386",
+  "feedUrl": "https://www.allthingshair.com/za/home.productfeed.json",
+  "totalUrlsChecked": 365,
+  "problematicPagesFound": 0,
+  "successfulPages": 314,
+  "errors": 51,
+  "duration": "39.47s",
+  "speed": "9.25 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/cleanse-and-replenishconditioner.html/05012254056714",
+      "error": "request to https://www.allthingshair.com/za/p/cleanse-and-replenishconditioner.html/05012254056714 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-50ml.html/00000060014399",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-50ml.html/00000060014399 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.598Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-cocoa-butter-moisturizing-petroleum-jelly-100ml.html/00000060018960",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-blue-seal-cocoa-butter-moisturizing-petroleum-jelly-100ml.html/00000060018960 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.598Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-men-blue-seal-fresh-moisturizing-petroleum-jelly-100ml.html/00000060022127",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-men-blue-seal-fresh-moisturizing-petroleum-jelly-100ml.html/00000060022127 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-firming-serum-face-sheet-mask-21ml.html/04800888207128",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-firming-serum-face-sheet-mask-21ml.html/04800888207128 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-100ml.html/06001085120946",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-100ml.html/06001085120946 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-original-antiperspirant-deodorant-body-spray-150ml.html/06001085127334",
+      "error": "request to https://www.allthingshair.com/za/p/dove-advanced-care-original-antiperspirant-deodorant-body-spray-150ml.html/06001085127334 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-sensitive-antiperspirant-deodorant-body-spray-150ml.html/06001085127372",
+      "error": "request to https://www.allthingshair.com/za/p/dove-advanced-care-sensitive-antiperspirant-deodorant-body-spray-150ml.html/06001085127372 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:31.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-cucumber-and-green-tea-antiperspirant-deodorant-body-spray-150ml.html/06001087003315",
+      "error": "request to https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-cucumber-and-green-tea-antiperspirant-deodorant-body-spray-150ml.html/06001087003315 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.725Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-250ml.html/06001087005661",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-250ml.html/06001087005661 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.725Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-vitamin-e-moisturizing-petroleum-jelly-250ml.html/06001087006835",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-blue-seal-vitamin-e-moisturizing-petroleum-jelly-250ml.html/06001087006835 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.725Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-even-tone-moisturizing-body-lotion-for-all-skin-types-400ml.html/06001087008488",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-intensive-care-even-tone-moisturizing-body-lotion-for-all-skin-types-400ml.html/06001087008488 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-beauty-finish-antiperspirant-deodorant-body-spray-150ml.html/06001087009775",
+      "error": "request to https://www.allthingshair.com/za/p/dove-advanced-care-beauty-finish-antiperspirant-deodorant-body-spray-150ml.html/06001087009775 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-450ml.html/06001087010788",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-450ml.html/06001087010788 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-cleansing-facial-toner-150ml.html/06001087015332",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-perfect-colour-complex-anti-blemish-cleansing-facial-toner-150ml.html/06001087015332 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-aloe-soothing-body-lotion-for-dry-skin-400ml.html/06001087357050",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-intensive-care-aloe-soothing-body-lotion-for-dry-skin-400ml.html/06001087357050 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-lotion-for-dry-skin-400ml.html/06001087357067",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-lotion-for-dry-skin-400ml.html/06001087357067 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-dry-skin-repair-moisturizing-body-lotion-200ml.html/06001087357258",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-intensive-care-dry-skin-repair-moisturizing-body-lotion-200ml.html/06001087357258 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-soap-bar-175g.html/06001087358613",
+      "error": "request to https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-soap-bar-175g.html/06001087358613 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-soap-bar-175g.html/06001087358637",
+      "error": "request to https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-soap-bar-175g.html/06001087358637 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-moisture-plus-hygiene-soap-bar-175g.html/06001087358668",
+      "error": "request to https://www.allthingshair.com/za/p/lifebuoy-moisture-plus-hygiene-soap-bar-175g.html/06001087358668 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-dry-antiperspirant-deodorant-body-spray-150ml.html/06001087359276",
+      "error": "request to https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-dry-antiperspirant-deodorant-body-spray-150ml.html/06001087359276 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-musk-aerosol-deodorant-body-spray-200ml.html/06001087364775",
+      "error": "request to https://www.allthingshair.com/za/p/axe-musk-aerosol-deodorant-body-spray-200ml.html/06001087364775 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-combination-skin-40ml.html/06001087366205",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-combination-skin-40ml.html/06001087366205 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-dry-skin-40ml.html/06001087366229",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-dry-skin-40ml.html/06001087366229 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-cleansing-serum-face-wash-100ml.html/06001087366236",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-perfect-colour-complex-anti-blemish-cleansing-serum-face-wash-100ml.html/06001087366236 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.781Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-anti-blemish-hydrating-day-gel-moisturizer-50ml.html/06001087368193",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-flawless-radiance-anti-blemish-hydrating-day-gel-moisturizer-50ml.html/06001087368193 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-anti-blemish-day-face-cream-moisturizer-50ml.html/06001087368216",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-flawless-radiance-anti-blemish-day-face-cream-moisturizer-50ml.html/06001087368216 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-advanced-dry-skin-repair-fragrance-free-body-cream-400ml.html/06001087370165",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-intensive-care-advanced-dry-skin-repair-fragrance-free-body-cream-400ml.html/06001087370165 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.781Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-cream-for-dry-skin-400ml.html/06001087370196",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-cream-for-dry-skin-400ml.html/06001087370196 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-body-wash-750ml.html/06001087372824",
+      "error": "request to https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-body-wash-750ml.html/06001087372824 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-body-wash-400ml.html/06001087372961",
+      "error": "request to https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-body-wash-400ml.html/06001087372961 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-antiperspirant-deodorant-body-spray-150ml.html/06001087375108",
+      "error": "request to https://www.allthingshair.com/za/p/axe-gold-antiperspirant-deodorant-body-spray-150ml.html/06001087375108 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-aerosol-deodorant-body-spray-200ml.html/06001087375191",
+      "error": "request to https://www.allthingshair.com/za/p/axe-gold-aerosol-deodorant-body-spray-200ml.html/06001087375191 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:39.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-aging-skin-rescue-moisturizing-body-cream-400ml.html/06001087381475",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-clinical-care-aging-skin-rescue-moisturizing-body-cream-400ml.html/06001087381475 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.869Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-deep-clean-activated-charcoal-and-mint-hygiene-soap-175g.html/06001087381819",
+      "error": "request to https://www.allthingshair.com/za/p/lifebuoy-deep-clean-activated-charcoal-and-mint-hygiene-soap-175g.html/06001087381819 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.869Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-fragrance-free-body-lotion-625ml.html/06001087383288",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-fragrance-free-body-lotion-625ml.html/06001087383288 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.870Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-moisturizing-hand-cream-75ml.html/06001087383431",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-moisturizing-hand-cream-75ml.html/06001087383431 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.870Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-argan-oil-nourishing-body-lotion-400ml.html/06001087384780",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-intensive-care-argan-oil-nourishing-body-lotion-400ml.html/06001087384780 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.870Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-cleanse-and-replenish-clarifying-shampoo-for-all-hair-types-400ml.html/06001087386159",
+      "error": "request to https://www.allthingshair.com/za/p/tresemm%C3%A9-cleanse-and-replenish-clarifying-shampoo-for-all-hair-types-400ml.html/06001087386159 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-combination-skin-20ml.html/06001087391351",
+      "error": "request to https://www.allthingshair.com/za/p/pond%27s-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-combination-skin-20ml.html/06001087391351 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-advanced-care-hydrating-face,-hand-and-body-cream-400ml.html/06001087394666",
+      "error": "request to https://www.allthingshair.com/za/p/dove-men%2Bcare-advanced-care-hydrating-face,-hand-and-body-cream-400ml.html/06001087394666 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-rich-care-moisturizing-body-cream-400ml.html/06001087394673",
+      "error": "request to https://www.allthingshair.com/za/p/dove-rich-care-moisturizing-body-cream-400ml.html/06001087394673 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-even-glow-moisturizing-body-cream-400ml.html/06001087394680",
+      "error": "request to https://www.allthingshair.com/za/p/dove-even-glow-moisturizing-body-cream-400ml.html/06001087394680 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.946Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-lime-&-sage-antiperspirant-deodorant-body-spray-150ml.html/06001087397490",
+      "error": "request to https://www.allthingshair.com/za/p/dove-men%2Bcare-lime-&-sage-antiperspirant-deodorant-body-spray-150ml.html/06001087397490 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.946Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-firming-&-moisture-body-lotion-625ml.html/06001087398893",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-firming-&-moisture-body-lotion-625ml.html/06001087398893 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-even-tone-&-moisture-body-cream-400ml.html/06001087398947",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-even-tone-&-moisture-body-cream-400ml.html/06001087398947 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-even-tone-&-moisture-body-lotion-400ml.html/06001087399012",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-even-tone-&-moisture-body-lotion-400ml.html/06001087399012 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.946Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-body-gel-oil-200ml.html/06001087399302",
+      "error": "request to https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-body-gel-oil-200ml.html/06001087399302 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:47.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-daily-hair-moisture-2in1-shampoo-and-conditioner-for-dry-hair-400ml.html/08712561384704",
+      "error": "request to https://www.allthingshair.com/za/p/dove-daily-hair-moisture-2in1-shampoo-and-conditioner-for-dry-hair-400ml.html/08712561384704 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:55.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-hair-series-shine-revived-with-botanic-oils-and-collagen-gentle-cleansing-shampoo-for-dry-hair-250ml.html/08712561493031",
+      "error": "request to https://www.allthingshair.com/za/p/dove-advanced-hair-series-shine-revived-with-botanic-oils-and-collagen-gentle-cleansing-shampoo-for-dry-hair-250ml.html/08712561493031 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:35:55.999Z"
+    }
+  ]
+}

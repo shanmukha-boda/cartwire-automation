@@ -1,0 +1,188 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/hk/home.productfeed.json",
+  "totalUrlsChecked": 29,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 29,
+  "duration": "0.04s",
+  "speed": "725.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/liquid-seasoning.html/00000048930079",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/mushroom-powder.html/04710254508981",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chicken-dense-soup-treasure.html/04892218029135",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/pork-bone-dense-soup-treasure.html/04892218029142",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/fish-dense-soup-treasure.html/04892218029159",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chicken-cube.html/04892218030995",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/beef-dense-soup-treasure.html/04892218033781",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chilli-liquid-seasoning.html/04892218041823",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/clear-chicken-dense-soup-treasure.html/04892218044589",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.537Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chicken-liquid-concentrate.html/04892218046460",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/no-msg-added-chicken-powder.html/04892218047689",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/mala-liquid-seasoning.html/04892218062880",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.535Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/400g-macaroni.html/04892218074555",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/no-msg-added-chicken-liquid-concentrate.html/04892218076191",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/400g-spaghetti.html/04892218081607",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/mushroom-dense-soup-treasure.html/04892218083007",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chicken-liquid-broth-250.html/04892218086428",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chicken-liquid-broth.html/04892218086602",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chicken-powder.html/04898828011058",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/cornstarch.html/04898828031025",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/chicken-macaroni.html/04898828051016",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/wonton-macaroni.html/04898828051115",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/beef-macaroni.html/04898828051214",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/shrimp-macaroni.html/04898828051313",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/mushroom-macaroni.html/04898828051412",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/tung-choi-macaroni.html/04898828051511",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/bbq-macaroni.html/04898828052594",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/pork-bone-macaroni.html/04898828052648",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/hk/p/abalone-chicken-macaroni.html/04898828052815",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.530Z"
+    }
+  ]
+}

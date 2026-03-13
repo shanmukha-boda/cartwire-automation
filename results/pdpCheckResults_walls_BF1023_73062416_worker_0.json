@@ -1,0 +1,26 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.algida.hu/home.productfeed.json",
+  "totalUrlsChecked": 182,
+  "problematicPagesFound": 0,
+  "successfulPages": 180,
+  "errors": 2,
+  "duration": "21.74s",
+  "speed": "8.37 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.algida.hu/p/sos-karamell-mandula-bonbon.html/08711327640306",
+      "error": "request to https://www.algida.hu/p/sos-karamell-mandula-bonbon.html/08711327640306 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:53.291Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.algida.hu/p/puncs.html/08714100644973",
+      "error": "request to https://www.algida.hu/p/puncs.html/08714100644973 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:53.310Z"
+    }
+  ]
+}

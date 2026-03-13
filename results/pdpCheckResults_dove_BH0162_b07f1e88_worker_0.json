@@ -1,0 +1,188 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/vn/home.productfeed.json",
+  "totalUrlsChecked": 29,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 29,
+  "duration": "0.10s",
+  "speed": "290.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/lan-khu-mui-dove-go-fresh-huong-dua-leo-tra-xanh-tuoi-mat.html/04800888150585",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/lan-khu-mui-dove-original-light-smooth-huong-diu-nhe.html/04800888161215",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/lan-khu-mui-dove-powder-soft-huong-phan-thom-ngot-ngao.html/04800888193766",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/kem-xa-dove-1-phut-sieu-duong.html/08851932389761",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/kem-xa-dove-ngan-gay-rung-toc.html/08934868155607",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/kem-xa-dove-phuc-hoi-hu-ton.html/08934868155621",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/kem-xa-dove-duong-toc-bong-benh.html/08934868155683",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.526Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/dau-goi-dove-ngan-gay-rung-toc.html/08934868155706",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/dau-goi-dove-phuc-hoi-hu-ton.html/08934868155744",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.563Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/dau-goi-dove-ong-mem-tu-nhien.html/08934868155782",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/dau-goi-dove-duong-toc-bong-benh.html/08934868155836",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/kem-xa-dove-ong-mem-tu-nhien.html/08934868159070",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/kem-xa-dove-vao-nep-tu-nhien.html/08934868159087",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/dau-goi-dove-vao-nep-tu-nhien.html/08934868159100",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/kem-xa-dove-matcha-va-hoa-anh-dao.html/08934868161011",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.547Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/dau-goi-dove-matcha-va-hoa-anh-dao.html/08934868161035",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-dove-duong-am-chuyen-sau.html/08934868168065",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.558Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-dove-da-min-thom-mat.html/08934868168089",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.568Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-dove-da-min-huong-hoa.html/08934868168119",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-serum-dove-cai-thien-lan-da-kho.html/08934868188599",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.535Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-serum-dove-diu-nhe-da-nhay-cam.html/08934868188605",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.547Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-serum-dove-tuoi-mat-da-sang-khoai.html/08934868188612",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.543Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-serum-dove-sang-da-rang-ro.html/08934868188643",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/sua-tam-serum-dove-da-dan-hoi-va-mong-nuoc.html/08934868188674",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/xit-khu-mui-dove-cucumber.html/09300663454099",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/xit-khu-mui-dove-original.html/09300830007394",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/xit-khu-mui-dove-powder-soft-huong-phan-thom-ngot-ngao.html/09300830037803",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/xit-khu-mui-dove-original-light-smooth-huong-diu-nhe.html/09300830037810",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.553Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/vn/p/xit-khu-mui-dove-go-fresh-huong-dua-leo-tra-xanh-tuoi-mat.html/09300830037834",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.525Z"
+    }
+  ]
+}

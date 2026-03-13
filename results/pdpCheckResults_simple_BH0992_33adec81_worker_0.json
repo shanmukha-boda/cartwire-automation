@@ -1,0 +1,44 @@
+{
+  "brand": "simple",
+  "assortmentCode": "BH0992",
+  "feedUrl": "https://www.simpleskincare.com/vn/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": 2,
+  "errors": 5,
+  "duration": "0.30s",
+  "speed": "23.33 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-moisturising-face-wash.html/05011451103870",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.214Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-smoothing-facial-scrub.html/05011451103894",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-replenishing-rich-moisturiser.html/05011451103948",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.219Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-cleansing-facial-wipes.html/05011451103979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-micellar-cleansing-water.html/08712561669825",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.215Z"
+    }
+  ]
+}

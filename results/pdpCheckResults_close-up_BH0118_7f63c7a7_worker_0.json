@@ -1,0 +1,13 @@
+{
+  "brand": "close-up",
+  "assortmentCode": "BH0118",
+  "feedUrl": "https://www.close-up.com/br/home.productfeed.json",
+  "totalUrlsChecked": 22,
+  "problematicPagesFound": 0,
+  "successfulPages": 22,
+  "errors": 0,
+  "duration": "5.41s",
+  "speed": "4.07 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

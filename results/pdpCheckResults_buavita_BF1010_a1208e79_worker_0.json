@@ -1,0 +1,80 @@
+{
+  "brand": "buavita",
+  "assortmentCode": "BF1010",
+  "feedUrl": "https://www.buavita.co.id/home.productfeed.json",
+  "totalUrlsChecked": 19,
+  "problematicPagesFound": 0,
+  "successfulPages": 8,
+  "errors": 11,
+  "duration": "0.39s",
+  "speed": "48.72 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/mangga.html/08998009020193",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:20.001Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/leci.html/08998009020216",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.988Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/apel.html/08998009020223",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.995Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-jus-kemasan-apel-125ml.html/08998009020513",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.949Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-grape-24x250ml-250ml.html/08999999023171",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-royale-mix-berries-24-x-250ml-250ml.html/08999999031510",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-royale-mix-berries-12-x-1000ml-1000ml.html/08999999031527",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.929Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-fruit-juices-buavita-sirsak-24x250ml-250ml.html/08999999038137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.964Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-asli-harian-1000-ml.html/08999999055714",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-jus-kemasan-apel-500ml.html/08999999504052",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.945Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.buavita.co.id/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-harian-500-ml.html/08999999504069",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:36:19.994Z"
+    }
+  ]
+}

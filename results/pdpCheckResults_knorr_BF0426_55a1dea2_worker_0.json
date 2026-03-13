@@ -1,0 +1,284 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/ar/home.productfeed.json",
+  "totalUrlsChecked": 74,
+  "problematicPagesFound": 0,
+  "successfulPages": 29,
+  "errors": 45,
+  "duration": "8.06s",
+  "speed": "9.18 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/caldo-de-verdura.html/07794000005723",
+      "error": "request to https://www.knorr.com/ar/p/caldo-de-verdura.html/07794000005723 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.316Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/caldo-sabor-carne.html/07794000006683",
+      "error": "request to https://www.knorr.com/ar/p/caldo-sabor-carne.html/07794000006683 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-guisos-y-arroces.html/07794000008038",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-guisos-y-arroces.html/07794000008038 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-pomodoro.html/07794000008045",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-pomodoro.html/07794000008045 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-pizza.html/07794000003699",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-pizza.html/07794000003699 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-pomarola.html/07794000003705",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-pomarola.html/07794000003705 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-filetto.html/07794000003712",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-filetto.html/07794000003712 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-pizza.html/07794000003767",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-pizza.html/07794000003767 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pure-de-papas.html/07794000004139",
+      "error": "request to https://www.knorr.com/ar/p/pure-de-papas.html/07794000004139 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/bolsa-para-horno-lim%C3%B3n-y-or%C3%A9gano.html/07794000004887",
+      "error": "request to https://www.knorr.com/ar/p/bolsa-para-horno-lim%C3%B3n-y-or%C3%A9gano.html/07794000004887 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/bolsa-para-horno-romero-y-tomillo.html/07794000004894",
+      "error": "request to https://www.knorr.com/ar/p/bolsa-para-horno-romero-y-tomillo.html/07794000004894 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/bolsa-para-horno-hierbas-y-especias.html/07794000004900",
+      "error": "request to https://www.knorr.com/ar/p/bolsa-para-horno-hierbas-y-especias.html/07794000004900 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/bolsa-para-horno-ajo-y-cebolla.html/07794000004917",
+      "error": "request to https://www.knorr.com/ar/p/bolsa-para-horno-ajo-y-cebolla.html/07794000004917 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/bolsa-para-horno-tipo-criollo.html/07794000004924",
+      "error": "request to https://www.knorr.com/ar/p/bolsa-para-horno-tipo-criollo.html/07794000004924 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/sopa-de-letras.html/07794000005839",
+      "error": "request to https://www.knorr.com/ar/p/sopa-de-letras.html/07794000005839 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/sopa-crema-de-zapallo-con-nuez-moscada.html/07794000005884",
+      "error": "request to https://www.knorr.com/ar/p/sopa-crema-de-zapallo-con-nuez-moscada.html/07794000005884 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/sopa-crema-de-arvejas-con-chile-chipotle.html/07794000005891",
+      "error": "request to https://www.knorr.com/ar/p/sopa-crema-de-arvejas-con-chile-chipotle.html/07794000005891 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/cebolla-deshidratada.html/07794000006119",
+      "error": "request to https://www.knorr.com/ar/p/cebolla-deshidratada.html/07794000006119 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/zanahoria-deshidratada.html/07794000006126",
+      "error": "request to https://www.knorr.com/ar/p/zanahoria-deshidratada.html/07794000006126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/espinaca-deshidratada.html/07794000006140",
+      "error": "request to https://www.knorr.com/ar/p/espinaca-deshidratada.html/07794000006140 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pure-de-papas-y-zapallo.html/07794000006355",
+      "error": "request to https://www.knorr.com/ar/p/pure-de-papas-y-zapallo.html/07794000006355 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/caldo-balance-de-gallina-x12-cubos.html/07794000006829",
+      "error": "request to https://www.knorr.com/ar/p/caldo-balance-de-gallina-x12-cubos.html/07794000006829 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/caldo-balance-de-verduras-x12-cubos.html/07794000006836",
+      "error": "request to https://www.knorr.com/ar/p/caldo-balance-de-verduras-x12-cubos.html/07794000006836 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/sopa-quick-de-vegetales-balance.html/07794000006881",
+      "error": "request to https://www.knorr.com/ar/p/sopa-quick-de-vegetales-balance.html/07794000006881 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/sopa-quick-de-zapallo-balance.html/07794000006898",
+      "error": "request to https://www.knorr.com/ar/p/sopa-quick-de-zapallo-balance.html/07794000006898 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-pizza.html/07794000007994",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-pizza.html/07794000007994 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-balance-pomarola.html/07794000008014",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-balance-pomarola.html/07794000008014 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/salsa-lista-filetto.html/07794000008052",
+      "error": "request to https://www.knorr.com/ar/p/salsa-lista-filetto.html/07794000008052 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/mix-de-sabores-carne.html/07794000009134",
+      "error": "request to https://www.knorr.com/ar/p/mix-de-sabores-carne.html/07794000009134 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/mix-de-sabores-mediterr%C3%A1neo.html/07794000009141",
+      "error": "request to https://www.knorr.com/ar/p/mix-de-sabores-mediterr%C3%A1neo.html/07794000009141 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/mix-de-sabores-verdura-cero-sodio.html/07794000009165",
+      "error": "request to https://www.knorr.com/ar/p/mix-de-sabores-verdura-cero-sodio.html/07794000009165 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-tirabuz%C3%B3n.html/07798031154115",
+      "error": "request to https://www.knorr.com/ar/p/pastas-tirabuz%C3%B3n.html/07798031154115 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-rigatti.html/07798031154122",
+      "error": "request to https://www.knorr.com/ar/p/pastas-rigatti.html/07798031154122 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.331Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-coditos.html/07798031154139",
+      "error": "request to https://www.knorr.com/ar/p/pastas-coditos.html/07798031154139 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.331Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-spaghetti.html/07798031154153",
+      "error": "request to https://www.knorr.com/ar/p/pastas-spaghetti.html/07798031154153 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-tallarines.html/07798031154160",
+      "error": "request to https://www.knorr.com/ar/p/pastas-tallarines.html/07798031154160 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.334Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-foratti.html/07798031154177",
+      "error": "request to https://www.knorr.com/ar/p/pastas-foratti.html/07798031154177 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-letras.html/07798031154184",
+      "error": "request to https://www.knorr.com/ar/p/pastas-letras.html/07798031154184 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.336Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-dedalitos.html/07798031154191",
+      "error": "request to https://www.knorr.com/ar/p/pastas-dedalitos.html/07798031154191 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-ave-maria.html/07798031154214",
+      "error": "request to https://www.knorr.com/ar/p/pastas-ave-maria.html/07798031154214 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-mostachol.html/07798031154221",
+      "error": "request to https://www.knorr.com/ar/p/pastas-mostachol.html/07798031154221 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-tirabuz%C3%B3n-mix-de-sabores.html/07798031154245",
+      "error": "request to https://www.knorr.com/ar/p/pastas-tirabuz%C3%B3n-mix-de-sabores.html/07798031154245 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-spaghettini.html/07798031154429",
+      "error": "request to https://www.knorr.com/ar/p/pastas-spaghettini.html/07798031154429 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-spaghetti-integrales.html/07798031155020",
+      "error": "request to https://www.knorr.com/ar/p/pastas-spaghetti-integrales.html/07798031155020 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ar/p/pastas-mostachol-integrales.html/07798031155723",
+      "error": "request to https://www.knorr.com/ar/p/pastas-mostachol-integrales.html/07798031155723 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:12.337Z"
+    }
+  ]
+}

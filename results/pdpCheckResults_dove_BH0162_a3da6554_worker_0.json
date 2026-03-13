@@ -1,0 +1,638 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/nl/home.productfeed.json",
+  "totalUrlsChecked": 104,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 104,
+  "duration": "0.28s",
+  "speed": "371.43 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/go-fresh-cucumber-roller.html/00000050096381",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/go-fresh-acai-roller.html/00000059085645",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/anti-transpirant-deodorant-spray-original-compressed.html/00000059096092",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/beauty-finish-roller.html/00000096007075",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/light-hydro-care-bodylotion.html/04000388563902",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.812Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/anti-transpirant-deodorant-spray-original-base-range---48h.html/08000630040843",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.799Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/shower-mousse-argan-oil.html/08710447280003",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/shower-mousse-rose-oil.html/08710447280065",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.800Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/shower-mousse-coconut-oil.html/08710447280072",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/pro-age-body-butter.html/08710522415719",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/essential-care-handcream.html/08710847963476",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.810Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/oxygen-hydration-conditioner.html/08712561495363",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.799Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/rich-nourishment-body-cream.html/08717163476789",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/shower-mousse-cotton-oil.html/08717163747193",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/care-radiant-glow-body-lotion.html/08720181158872",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/one-cream-nourishing-care.html/08720181172120",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/one-cream-light-hydration.html/08720181172144",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.820Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/deodorant-spray-invisible-care-0-.html/08720181277801",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.803Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/go-fresh-acai-berry-waterlily-advanced-care-anti-transpirant-de.html/08720181291395",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/beauty-finish-advanced-care-anti-transpirant-deodorant-spray.html/08720181291432",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-calming-blossom.html/08720181291456",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/nourishing-secrets-coconut-jasmine-flower-advanced-care-anti-tr.html/08720181291487",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/invisible-dry-clean-touch-advanced-care-deodorant-anti-transpira.html/08720181291609",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.800Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-original.html/08720181291685",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/go-fresh-pomegranate-lemon-verbena-advanced-care-deodorant-anti.html/08720181291791",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.800Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-soft-feel.html/08720181291838",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.853Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-talco.html/08720181291876",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-cucumber-green-t.html/08720181292064",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-invisible-dry.html/08720181292071",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-invisible-dry0.html/08720181292088",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-original-200ml.html/08720181292095",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-pear-aloe-vera.html/08720181292118",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.834Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/invisible-dry-advanced-care-deodorant-anti-transpirant-spray-com.html/08720181299896",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.817Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/original-advanced-care-anti-transpirant-deodorant-spray-compress.html/08720181299902",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-beauty-finish-com.html/08720181299933",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/go-fresh-0-deodorant-spray-cucumber-and-green-tea.html/08720181302206",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.859Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/deodorant-spray-original-0-150ml.html/08720181302213",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.838Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/bath-therapy-douche-scheerschuim-renew.html/08720181321726",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/bath-therapy-douche-scheerschuim-glow.html/08720181321733",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/bath-therapy-bodyscrub-renew.html/08720181323478",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.825Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/bath-therapy-bodyscrub-glow.html/08720181323485",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.832Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-clean-touch.html/08720181339899",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/go-fresh-cucumber-green-tea-advanced-care-anti-transpirant-deo.html/08720181339912",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.830Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/anti-transpirant-deodorant-spray-original-base-range-48h.html/08720181347245",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/eucalyptus-mint-douchegel.html/08720181444630",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/dermaspa-goodness3-bodycreme.html/00000040133218",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/dermaspa-cashmere-comfort-bodycreme.html/00000040133249",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/derma-spa-beauty-sleep.html/00000059079736",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/clean-comfort-roller.html/00000059092582",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.815Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/extra-fresh-roller.html/00000059092605",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.810Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/invisible-dry-roller.html/00000059092629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/sport-fresh-roller.html/00000059092636",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/classic-roller.html/00000059092643",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.852Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/fresh-roller.html/00000059092650",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.817Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/clean-comfort-0-roller.html/00000059095927",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.800Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/intensive-repair-conditioner.html/03014230560125",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/original-beauty-cream-handzeep.html/04000388177000",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.807Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/essential-body-lotion.html/04000388563209",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/body-scrub-pomegranate-shea-butter.html/08710447257265",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/sport-activefresh-douchegel.html/08710522394823",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.803Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/derma-spa-beauty-sleep.html/08710522409022",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/derma-spa-beauty-sleep.html/08710522409053",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/cool-fresh-douchegel.html/08710908317361-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/glowing-care-bodylotion.html/08710908777004",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/restoring-care-bodylotion.html/08710908778322",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.863Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/nourishing-oil-care-conditioner.html/08711600451650",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/intensive-body-lotion.html/08711700807258",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/pure-care-sublime-dry-oil-shampoo.html/08712561493031",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/oxygen-hydration-shampoo.html/08712561495295",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.807Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/nourishing-oil-care-shampoo.html/08712561888387",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.848Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/dermaspa-summer-revived-body-lotion-lichte-tot-medium-huid.html/08712561982450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/dermaspa-summer-revived-body-lotion-medium-tot-donkere-huid.html/08712561982849",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/glowing-shampoo.html/08714100511152",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/glowing-conditioner.html/08714100511541",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.871Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/restoring-shampoo.html/08714100511725",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.824Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/restoring-conditioner.html/08714100511749",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/strengthening-shampoo.html/08714100512029",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.877Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/strengthening-conditioner.html/08714100512043",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/thickening-conditioner.html/08714100512449",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.857Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/indulging-cream-caring-badcreme.html/08717163429884",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.820Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/intensive-repair-shampoo.html/08718114613994",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/care-protect-vloeibare-handzeep.html/08720181049293",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.951Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/sportcare-endurance-douchegel.html/08720181049538",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/care-protect-handcreme.html/08720181055249",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/sensitive-douchegel.html/08720181210808",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/invisible-dry-spray.html/08720181284342",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.944Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/extra-fresh-spray.html/08720181284397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.945Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/sport-fresh-spray.html/08720181284434",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/cool-fresh-spray.html/08720181284885",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/invisible-fresh-spray.html/08720181284915",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/clean-comfort-0-spray.html/08720181296635",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.960Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/extra-fresh-douchegel.html/08720181313431",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/eucalyptus-mint-spray.html/08720181433597",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.965Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/advanced-care-anti-transpirant-deodorant-spray-peach.html/08720181443572",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.933Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/deeply-nourishing-douchegel.html/08720181457432",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/nourishing-silk-douchegel.html/08720181457487",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.949Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/anti-stress-douchegel.html/08720181459962",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/nourishing-care-douchegel.html/08720181460050",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/reviving-douchegel.html/08720181460128",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.945Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/relaxing-douchegel.html/08720181462825",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.951Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/hydrating-douchegel.html/08720181462979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.956Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/glowing-douchegel.html/08720181465918",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.936Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/restoring-douchegel.html/08720181465932",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.945Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nl/p/gentle-scrub-douchegel.html/08720181479342",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.952Z"
+    }
+  ]
+}

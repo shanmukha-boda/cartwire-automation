@@ -1,0 +1,446 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/ph/home.productfeed.json",
+  "totalUrlsChecked": 72,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 72,
+  "duration": "0.15s",
+  "speed": "480.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/pink-beauty-bar.html/00067238891183",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.425Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-strengthening-shampoo.html/04800888190307-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-refreshing-clean-shampoo.html/04800888190338-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-anti-dandruff-shampoo.html/04800888190352-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.422Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/ultimate-repair-antiperspirant-stick-fresh-lily.html/04800888205117",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.425Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/ultimate-repair-antiperspirant-roll-on-fresh-lily.html/04800888205124",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.416Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/dermacare-scalp-soothing-moisture-conditioner.html/04800888207883",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/dermacare-scalp-soothing-moisture-shampoo.html/04800888207890",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.416Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/sensitive-beauty-bar.html/08000700000227",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.418Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/baby-bar-rich-moisture.html/08710908657092-baby-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.423Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/nourishing-baby-lotion-sensitive-moisture.html/08710908658006-baby-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/baby-shampoo-rich-moisture.html/08710908747137-baby-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.442Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/nourishing-baby-lotion-rich-moisture.html/08710908748806-baby-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.424Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/baby-care-wipes-rich-moisture.html/08714100196014-baby-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.416Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/white-beauty-bar.html/08717644190494",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.423Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/gentle-exfoliating-beauty-bar.html/08717644190524",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.432Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/fresh-moisture-beauty-bar.html/08717644190555",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.424Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/ultimate-repair-antiperspirant-deodorant-spray-fresh-lily.html/09300830047086",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.417Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/go-fresh-cucumber-and-green-tea-antiperspirant-stick.html/04800888150547",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/restorative-oil-nourishing-care-shampoo.html/04800888154330",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/ceramide-intense-repair-shampoo.html/04800888154385",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/biokeratin-straight-and-silky-shampoo.html/04800888154392",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.418Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-extra-fresh-body-bar.html/04800888157492-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.445Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-deep-clean-body-bar.html/04800888157508-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.420Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-extra-fresh-body-wash.html/04800888157515-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.419Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-deep-clean-body-wash.html/04800888157539-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.426Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/unscented-antiperspirant-roll-on.html/04800888161222",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.418Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-clean-comfort-antiperspirant-roll-on.html/04800888164421-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.454Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-extra-fresh-antiperspirant-roll-on.html/04800888164438-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.451Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-clean-comfort-antiperspirant-stick.html/04800888164469-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-extra-fresh-antiperspirant-stick.html/04800888164476-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/original-nourished-and-smooth-antiperspirant-deodorant-stick.html/04800888166791",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/unscented-antiperspirant-stick.html/04800888166807",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.431Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/biotin-hairfall-rescue-shampoo.html/04800888179616",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-invisible-dry-antiperspirant-roll-on.html/04800888191441-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/sensitive-antiperspirant-deodorant-roll-on.html/04800888193797",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.442Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/sensitive-antiperspirant-stick.html/04800888193834",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-clean-comfort-antiperspirant-deodorant-stick.html/04800888195708-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-clean-comfort-antiperspirant-deodorant-stick.html/04800888195715-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.424Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/ceramide-intense-repair-conditioner.html/04800888206640",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/biotin-hairfall-rescue-conditioner.html/04800888206657",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.425Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/restorative-oil-nourishing-care-conditioner.html/04800888206893",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/original-nourished-and-smooth-antiperspirant-deodorant-rollon.html/04800888207449",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.426Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/ultimate-repair-dark-marks-corrector-soothing-jasmine-deodorant-roll-on.html/04800888207463",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/hair-to-toe-baby-wash-rich-moisture.html/04800888217905-baby-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/hair-to-toe-baby-wash-sensitive-moisture.html/04800888217936-baby-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.445Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/biokeratin-straight-and-silky-conditioner.html/04800888218254",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.420Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/aluminum-free-cucumber-&-green-tea-spray.html/04800888223807",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/aluminum-free-cucumber-&-green-tea-roll-on.html/04800888223814",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/radiant-care-serum-bar-with-niacinamide-vitamin-c-and-e.html/04800888285300",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.431Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/radiant-care-serum-bar-with-niacinamide-omega-6.html/04800888285317",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/radiant-care-serum-bar-with-niacinamide-vegan-collagen.html/04800888285683",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.420Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/go-fresh-nourishment-lotion.html/08711600457614",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/essential-nourishment-lotion.html/08717163558799",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/botanical-silicone-free-shampoo-for-damaged-hair-restore.html/08851932412568",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.422Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/dove-botanical-hair-conditioner-for-damaged-hair-restore-450ml.html/08851932412582",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/botanical-anti-hair-fall-shampoo-silicone-free-primrose.html/08851932412605",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.445Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/botanical-selection-anti-hair-fall-hair-conditioner-primrose.html/08851932412629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.424Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/botanical-silicone-free-shampoo-for-fresh-hair-clarify.html/08851932412643",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.426Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/botanical-selection-hair-conditioner-for-fresh-hair-clarify.html/08851932412667",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.437Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/deeply-nourishing-body-wash.html/08934868080015",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.429Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/gentle-exfoliating-body-wash.html/08934868080039",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/relaxing-ritual-body-wash.html/08999999540562",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-extra-fresh-antiperspirant-aerosol.html/09300663462889-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.431Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-clean-comfort-antiperspirant-aerosol.html/09300663462896-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.439Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-invisible-dry-antiperspirant-aerosol.html/09300830022045-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.442Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/powder-soft-antiperspirant-aerosol.html/09300830023691",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.423Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/ultimate-repair-dark-marks-corrector-soothing-jasmine-deodorant-spray.html/09300830025442",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.426Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/powder-soft-antiperspirant-deodorant-spray.html/09300830037803",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.456Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-clean-comfort-antiperspirant-deodorant-spray.html/09300830037865-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/men-care-extra-fresh-antiperspirant-deodorant-spray.html/09300830037872-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ph/p/healthy-glow-antiperspirant-spray.html/09300830049646",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.447Z"
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+  "totalUrlsChecked": 142,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 142,
+  "duration": "0.32s",
+  "speed": "443.75 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-krem-do-cia%C5%82a-silky-300-ml.html/00000040883007",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.106Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-sztyfcie-clean-comfort.html/00000050220021-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.123Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-sztyfcie-woman-invisible-dry.html/00000050287062",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-invisible-dy-antyperspirant-w-kulce.html/00000059083856",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-kulce-advanced-care-clean-comfort.html/00000059092575-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-kulce-advanced-care-invisible-dry.html/00000059092629-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-kulce-advanced-care-sport-fresh.html/00000059092636-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.116Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-kulce-classic.html/00000059092643-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-kulce-fresh.html/00000059092650-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-go-fresh-acai-berry-waterlily-antyperspirant-w-kulce.html/00000059092674",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.121Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-coconut-jasmine-antyperspirant-w-kulce.html/00000059092681",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-go-fresh-pomegrante-lemon-verbena-antyperspirant-w-kulce.html/00000059095316",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-kulce-classic.html/00000059095354",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.108Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-kulce-fresh.html/00000059095385",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-kulce-powder.html/00000059095408",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-original-antyperspirant-w-kulce.html/00000059095859",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-krem-do-cia%C5%82a-silky-petals-300-ml.html/00000059095897",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.130Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-sztyfcie-woman-original.html/00000080466437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-sztyfcie-invisible-care.html/00000087342765",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.135Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-sztyfcie-cool-fresh.html/00000096125595-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-go-fresh-cucumber-scent.html/05000228023411",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-original.html/08000630040843",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/balsam-do-cia%C5%82a-z-samoopalaczem-dove-care-%2B-visible-glow-250-ml.html/08710447212936",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.147Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/balsam-do-cia%C5%82a-z-samoopalaczem-dove-care-%2B-visible-glow-250ml.html/08710447212943",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.141Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-krem-do-r%C4%85k-invigorating-75-ml.html/08710447275306",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.108Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-krem-do-r%C4%85k-restoring-75-ml.html/08710447275313",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.114Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-balsam-do-cia%C5%82a-light-care-400-ml.html/08710447292136",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.133Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/emulsja-do-mycia-ciala-i-wlosow-egzema.html/08710847952876-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.121Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pianka-samoopalaj%C4%85ca-dove-summer-revived-150-ml.html/08710847962769",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.113Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pianka-samoopalaj%C4%85ca-dove-summer-revived-150-ml.html/08710847962783",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.108Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-krem-do-r%C4%85k-essential-care-75-ml.html/08710847963469",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-zel-pod-prysznic-do-mycia-twarzy-i-ciala-cool-fresh.html/08710908317361-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.112Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men%2Bcare-fresh-clean-szampon%2Bod%C5%BCywka-2w1.html/08710908381195",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men%2Bcare-szampon-do-w%C5%82os%C3%B3w-os%C5%82abionych.html/08710908381218",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.111Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/emulsja-do-mycia-ciala-i-wlosow-rich-moisture.html/08710908665714-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/emulsja-do-mycia-ciala-i-wlosow-sensitive-moisture.html/08710908665844-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.106Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-balsam-do-cia%C5%82a-glowing-400-ml.html/08710908777950",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-balsam-do-cia%C5%82a-restoring-400-ml.html/08710908778230",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.122Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-go-fresh-granat.html/08711600786226",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.155Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/nutritive-solutions-daily-moisture-szampon-i-odzywka-2w1.html/08712561384704",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/nutritive-anti-frizz-szampon-do-w%C5%82os%C3%B3w-suchych-i-pusz%C4%85cych-si%C4%99.html/08712561386326",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/nutritive-solutions-intensive-repair-szampon-do-wlosow-zniszczonych.html/08712561488280",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-ultra-care-colour-care-szampon-do-w%C5%82os%C3%B3w-farbowanych-400-ml.html/08712561488297",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.126Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/od%C5%BCywka-do-w%C5%82os%C3%B3w-zniszczonych-dove-ultra-care-intensive-repair-350ml.html/08712561571333",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.141Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-powder-soft.html/08712561820493",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-zel-pod-prysznic-do-mycia-twarzy-i-ciala-active-sport-fresh.html/08717163634615-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.121Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-clean-comfort.html/08717644579107",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.133Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-krem-body-love-one-cream-light-nourishing-care-krem-250-ml.html/08720181172120",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.114Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-krem-body-love-one-cream-light-hydration-krem-250-ml.html/08720181172144",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.115Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-passionfruit-scent.html/08720181202469",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.139Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/balsam-do-cia%C5%82a-z-samoopalaczem-dove-summer-revived.html/08720181260506",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.106Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/balsam-do-cia%C5%82a-z-samoopalaczem-dove-summer-revived.html/08720181260544",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.138Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-advanced-care-clean-comfort.html/08720181284328-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-advanced-care-invisible-dry.html/08720181284359-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.112Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-advanced-care-extra-fresh.html/08720181284427-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.123Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-advanced-care-invisible-fresh.html/08720181284922-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.147Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-advanced-care-cool-fresh.html/08720181284991-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.125Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-classic.html/08720181287831",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-fresh.html/08720181287855",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.138Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-powder.html/08720181287879",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.114Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-acai-berry-waterlily-antyperspirant-w-aerozolu.html/08720181291401",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.125Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-beauty-finish-antyperspirant-w-aerozolu.html/08720181291432",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-calming-blossom-antyperspirant-w-aerozolu.html/08720181291449",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.167Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-coconut-jasmine-flower-antyperspirant-w-aerozolu.html/08720181291494",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-invisible-dry-antyperspirant-w-aerozolu.html/08720181291630",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-original-antyperspirant-w-aerozolu.html/08720181291692",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-go-fresh-pear-aloe-vera-antyperspirant-w-aerozolu.html/08720181291753",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-pomegrante-lemon-verbena-antyperspirant-w-aerozolu.html/08720181291807",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-soft-feel-antyperspirant-w-aerozolu.html/08720181291845",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.141Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-fresh.html/08720181295577-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.111Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-classic.html/08720181295584-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.113Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/sol-do-kapieli-glow.html/08720181296420",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.112Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/plyn-do-kapieli-renew.html/08720181296437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.123Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/sol-do-kapieli-renew.html/08720181305061",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/plyn-do-kapieli-glow.html/08720181305078",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.124Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-zel-pod-prysznic-extra-fresh.html/08720181313424-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.144Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-zel-pod-prysznic-clean-comfort.html/08720181313448-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-intensywna-od%C5%BCywka-intensive-repair-170-ml.html/08720181316579",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.113Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-aerozolu-floral.html/08720181323942",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-invisible-care-antyperspirant-w-aerozolu.html/08720181339882",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.168Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-clean-touch-antyperspirant-w-aerozolu.html/08720181339905",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.259Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-go-fresh-cucumber-green-tea-antyperspirant-w-aerozolu.html/08720181339912",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-antyperspirant-w-aerozolu-extra-fresh.html/08720181340567-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.275Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/samoopalaj%C4%85cy-krem-do-twarzy-i-cia%C5%82a-dove-summer-revived-75ml.html/08720181385995",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.259Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/samoopalaj%C4%85cy-krem-do-twarzy-i-cia%C5%82a-dove-summer-revived-75ml.html/08720181386008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-ultra-care-long-&-radiant-szampon-400ml.html/08720181402326",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.276Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-ultra-care-long-&-radiant-od%C5%BCywka-350ml.html/08720181402333",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.259Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-aloe-vera-&-roses-water-szampon-400ml.html/08720181402340",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.277Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-aloe-vera-&-roses-water-od%C5%BCywka-350ml.html/08720181402357",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-balsam-do-cia%C5%82a-night-renew-400-ml.html/08720181405594",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.278Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-nourishing-silk.html/08720181457463",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.295Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-deeply-nourishing.html/08720181457494",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.259Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-anti-stress.html/08720181459948",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.276Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-reviving.html/08720181460098",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.259Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-glowing.html/08720181465857",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-hydrate.html/08720181466489",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.258Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-fruity-nourish.html/08720181468414",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.275Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-silky-velvet.html/08720181468513",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.276Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-gentle-pamper.html/08720181471551",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-petal-soft.html/08720181471568",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.263Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-fresh-care.html/08720181471759",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-nourishing-care.html/08720181477560",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.293Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-gentle-scrub.html/08720181479311",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.276Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/kremowa-kostka-myjaca--relaxing.html/08720182258137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.265Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/kremowa-kostka-myjaca-nourishing.html/08720182258397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.260Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/kremowa-kostka-myjaca-refreshing.html/08720182259332",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.260Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/kremowa-kostka-myjaca-gentle-exfoliating.html/08720182259813",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.266Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-ro%C5%9Bwietlaj%C4%85cy-balsam-do-cia%C5%82a-radiant-glow-250-ml.html/08720182260437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/kremowa-kostka-myjaca-pampering-skin.html/08720182262417",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.277Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/kremowa-kostka-myjaca.html/08720182264664",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.263Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-dragonfruit-&-coconut-cream--antyperspirant-w-rolce.html/00000059099499",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.306Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/antyperspirant-w-sztyfcie-go-fresh-gruszka-aloesem.html/00000096137161",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.274Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pielegnujace-mydlo-w-plynie.html/04000388177000",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pielegnujace-mydlo-w-plynie-zapas.html/04000388179004",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.294Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/dove-men-care-zel-pod-prysznic-charcoal-clay.html/08710447205273-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/glowing-ritual-zapas-mydla-w-plynie.html/08710447482179",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.277Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/restoring-ritual-zapas-mydla-w-plynie.html/08710447482186",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/glowing-ritual-mydlo-w-plynie.html/08710447482704",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.267Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/restoring-ritual-mydlo-w-plynie.html/08710447482711",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.276Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-fresh-clean-szampon-odzywka-2w1.html/08710908352188-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.275Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/krem-przeciw-odparzeniom-rich-moisture.html/08710908666247-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.258Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/rich-moisture-szampon.html/08710908666391-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/balsam-sensitive-moisture.html/08710908666469-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.278Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/balsam-rich-moisture.html/08710908666537-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.264Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/rich-moisture-chusteczki-pielegnacyjne.html/08710908859854-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.301Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/sensitive-moisture-chusteczki-pielegnacyjne.html/08710908860843-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/maslo-shea-z-wanilia-zapas-mydla-w-plynie.html/08712561023566",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/men-care-szampon-do-wlosow-oslabionych.html/08712561032155-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.275Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/odzwczy-balsam-do-ciala-z-kremem-pistacjowym-i-magnolia.html/08712561387002",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zestaw-podarunkowy-rich-moisture.html/08714100493083-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.279Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zestaw-podarunkowy-sensitive-moisture.html/08714100493090-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.311Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pielegnujace-mydlo-w-plynie-ogorek-i-zielona-herbata.html/08717163023839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.301Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/refreshing-care-zapas-mydla-w-plynie.html/08717163097700",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.274Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/nourishing-silk-zapas-mydla-w-plynie.html/08717163573792",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.277Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pielegnujace-mydlo-w-plynie-nourishing-silk.html/08717163605776",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.275Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/intensywnie-nawilzajacy-krem-do-calego-ciala.html/08717163972717",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.276Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pielegnujace-mydlo-w-plynie-care-protect.html/08720181049361",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.264Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/care-protect-zapas-mydla-w-plynie.html/08720181054242",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.275Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/pielegnujace-mydlo-w-plynie-renewing-care.html/08720181195426",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.280Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/renewing-care-zapas-mydla-w-plynie.html/08720181209062",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.299Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/advanced-care-dragonfruit-&-coconut-cream--antyperspirant-w-aerozolu.html/08720181565830",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/pl/p/zel-pod-prysznic-dove-advanced-care-dragonfruit-&-coconut-cream.html/08720181608315",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.265Z"
+    }
+  ]
+}

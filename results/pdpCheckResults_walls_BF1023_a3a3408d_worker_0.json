@@ -1,0 +1,332 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.ola.nl/home.productfeed.json",
+  "totalUrlsChecked": 53,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 53,
+  "duration": "0.29s",
+  "speed": "182.76 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-king-cone-vanilla.html/05201028355508",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.298Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/hertog-roomijs-speciaalbeker.html/05410148351608",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.307Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/viennetta-vanille.html/08000920200025",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.332Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/schatkist.html/08000920400289",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/super-twister.html/08000920402801",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/calippo-cola.html/08000920461235",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.327Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/split.html/08000920703397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/raket.html/08710447032282",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.327Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/festini-peer.html/08710447032718",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.326Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/festini-aardbei-12-stuks.html/08710447032732",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/festini-peer-12-stuks.html/08710447032756",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.301Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/viennetta-mini-vanille.html/08711200510689",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.301Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-strawberry.html/08711327320109",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/solero-berry-blisss-framboos-3-stuks.html/08711327326750",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-x-pop-50ml.html/08711327485846",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-liuk-8-stuks.html/08711327538481",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-mini-twister-pineapple-6-stuks.html/08711327576957",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.324Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-twister-peek-a-blue-4-stuks.html/08711327577787",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/calippo-mini-orange-lemon-lime-5-stuks.html/08711327580244",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-solero-blueberry-coconut.html/08711327588165",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.291Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/viennetta-salted-caramel.html/08711327591011",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.294Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-kids-mix-8-stuks.html/08711327592469",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.326Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-classico-6-stuks.html/08711327616783",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-aardbei-6-stuks.html/08711327617810",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-aardbei.html/08711327620322",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.324Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-twister-mini-tropical-6-stuks.html/08711327626942",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.324Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-soft-stracciatella.html/08711327627697",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.327Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-dracula.html/08711327629790",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.326Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-guuud-ijs-greek-style-yoghurt-raspberry-3-stuks.html/08711327635104",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.313Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-guuud-ijs-greek-style-yoghurt-salted-caramel-3-stuks.html/08711327635159",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.324Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-twister-framboos-marshmellow-&-druif.html/08711327661509",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-soft-mango-&-white-chocolate-4-stuks.html/08711327664340",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.369Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-donut-cocoa-&-cookies-4-stuks.html/08711327678057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-donut-cocoa-&-cookie.html/08711327678293",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.380Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-donut-white-chocolate-&-cookies-4-stuks.html/08711327678620",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-max-gianduja-&-chocolate.html/08711327681125",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/raket-12-stuks.html/08712100340666",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.331Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-classico-mini-6-stuks.html/08712100501074",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/solero-exotic.html/08712100889233",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.328Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/calippo-supermix.html/08712566108626",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.328Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-go-sandwich.html/08714100641002",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-classico.html/08714100870686",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-vegan-4-stuks.html/08714100873885",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.340Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/raket-9-stuks.html/08718114766850",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-fruuji-sorbetijs-mango-passievrucht-4-stuks.html/08721274800227",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.336Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-fruuji-sorbetijs-framboos-4-stuks.html/08721274800272",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.336Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-fruuji-sorbetijs-mango-passievrucht-pint.html/08721274800364",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-fruuji-sorbetijs-framboos-pint.html/08721274800470",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.336Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/amsterdam-raket.html/08721274802764",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.332Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-minecraft.html/08721274803181",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.334Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/cornetto-king-cone-chocolate.html/08722700020097",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/ola-dracula-6-stuks.html/08722700444664",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.338Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ola.nl/p/split-9-stuks.html/08722700627821",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:17:36.329Z"
+    }
+  ]
+}

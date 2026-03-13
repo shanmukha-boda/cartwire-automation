@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-03-13T13:30:00.750Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0432",
+  "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+  "totalProblematicPages": 5,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-frutas-vermelhas-e-gengibre.html/07891150031746",
+      "gtin": "07891150031746",
+      "checkedAt": "2026-03-13T13:29:58.910Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150031746",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060883",
+      "gtin": "07891150060883",
+      "checkedAt": "2026-03-13T13:29:59.160Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150060883",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-des-coloridos.html/07891150066755",
+      "gtin": "07891150066755",
+      "checkedAt": "2026-03-13T13:29:59.360Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066755",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-modelador-antifrizz.html/07891150088368",
+      "gtin": "07891150088368",
+      "checkedAt": "2026-03-13T13:30:00.328Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088368",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088375",
+      "gtin": "07891150088375",
+      "checkedAt": "2026-03-13T13:30:00.131Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088375",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

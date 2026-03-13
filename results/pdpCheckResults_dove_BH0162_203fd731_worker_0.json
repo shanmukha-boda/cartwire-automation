@@ -1,0 +1,2022 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 658,
+  "problematicPagesFound": 3,
+  "successfulPages": 327,
+  "errors": 328,
+  "duration": "73.59s",
+  "speed": "8.94 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+      "url": "https://www.dove.com/ca/en/p/curls-mousse.html/00079400209856",
+      "gtin": "00079400209856",
+      "checkedAt": "2026-03-13T13:15:18.158Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-ca&brand_code=BH0162&gtin=00079400209856",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+      "url": "https://www.dove.com/ca/en/p/gloss-control-non-aerosol-hairspray.html/00079400513250",
+      "gtin": "00079400513250",
+      "checkedAt": "2026-03-13T13:15:26.276Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-ca&brand_code=BH0162&gtin=00079400513250",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+      "url": "https://www.dove.com/ca/en/p/dove-intensive-repair-bi-phase-serum-oil.html/00079400529626",
+      "gtin": "00079400529626",
+      "checkedAt": "2026-03-13T13:15:34.680Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=en-ca&brand_code=BH0162&gtin=00079400529626",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/relaxing-lavender-beauty-bar.html/00011111010673",
+      "error": "request to https://www.dove.com/ca/en/p/relaxing-lavender-beauty-bar.html/00011111010673 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/body-wash-mousse-with-coconut-oil.html/00011111012196",
+      "error": "request to https://www.dove.com/ca/en/p/body-wash-mousse-with-coconut-oil.html/00011111012196 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/relaxing-care-lavender-chamomile-bubble-bath.html/00011111018969",
+      "error": "request to https://www.dove.com/ca/en/p/relaxing-care-lavender-chamomile-bubble-bath.html/00011111018969 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/relaxing-care-lavender-and-chamomile-scent-bath-salts.html/00011111019003",
+      "error": "request to https://www.dove.com/ca/en/p/relaxing-care-lavender-and-chamomile-scent-bath-salts.html/00011111019003 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/glowing-ritual-mango-and-almond-scent-bath-bombs.html/00011111019133",
+      "error": "request to https://www.dove.com/ca/en/p/glowing-ritual-mango-and-almond-scent-bath-bombs.html/00011111019133 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/pampering-care-coconut-and-cocoa-scent-bath-salts.html/00011111023338",
+      "error": "request to https://www.dove.com/ca/en/p/pampering-care-coconut-and-cocoa-scent-bath-salts.html/00011111023338 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/pampering-caring-coconut-cocoa-bubble-bath.html/00011111023345",
+      "error": "request to https://www.dove.com/ca/en/p/pampering-caring-coconut-cocoa-bubble-bath.html/00011111023345 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/glowing-care-mango-almond-after-bath-body-whip.html/00011111025578",
+      "error": "request to https://www.dove.com/ca/en/p/glowing-care-mango-almond-after-bath-body-whip.html/00011111025578 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/shea-butter-warm-vanilla-hand-wash.html/00011111026025",
+      "error": "request to https://www.dove.com/ca/en/p/shea-butter-warm-vanilla-hand-wash.html/00011111026025 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/warm-vanilla-sugar-care-nourishing-foaming-hand-wash.html/00011111026124",
+      "error": "request to https://www.dove.com/ca/en/p/warm-vanilla-sugar-care-nourishing-foaming-hand-wash.html/00011111026124 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dryness-relief-beauty-bar.html/00011111027473",
+      "error": "request to https://www.dove.com/ca/en/p/dryness-relief-beauty-bar.html/00011111027473 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/lotion-sensitive.html/00011111030596",
+      "error": "request to https://www.dove.com/ca/en/p/lotion-sensitive.html/00011111030596 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/sensitive-skin-hand-wash.html/00011111031906",
+      "error": "request to https://www.dove.com/ca/en/p/sensitive-skin-hand-wash.html/00011111031906 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-coconut-guava-body-wash.html/00011111063037",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-coconut-guava-body-wash.html/00011111063037 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-blackcurrant-cedarwood-body-wash.html/00011111064522",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-blackcurrant-cedarwood-body-wash.html/00011111064522 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/advanced-care-dry-spray-antiperspirant-apple-and-white-tea-scent.html/00079400461667",
+      "error": "request to https://www.dove.com/ca/en/p/advanced-care-dry-spray-antiperspirant-apple-and-white-tea-scent.html/00079400461667 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-purifying-charcoal-48h-antiperspirant-stick.html/00079400480446-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-purifying-charcoal-48h-antiperspirant-stick.html/00079400480446-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-amino-curl-repair-10-in-1-cream-mask.html/00079400522832",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-amino-curl-repair-10-in-1-cream-mask.html/00079400522832 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/baby-dove-eczema-care-soothing-cream.html/00011111017337",
+      "error": "request to https://www.dove.com/ca/en/p/baby-dove-eczema-care-soothing-cream.html/00011111017337 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-clean-comfort-body-and-face-bar.html/00011111017801-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-clean-comfort-body-and-face-bar.html/00011111017801-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-lavender-wildflower-tea-body-wash.html/00011111045040",
+      "error": "request to https://www.dove.com/ca/en/p/dove-lavender-wildflower-tea-body-wash.html/00011111045040 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-mango-golden-citrus-body-wash.html/00011111045057",
+      "error": "request to https://www.dove.com/ca/en/p/dove-mango-golden-citrus-body-wash.html/00011111045057 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/anti-stress-body-wash.html/00011111045101",
+      "error": "request to https://www.dove.com/ca/en/p/anti-stress-body-wash.html/00011111045101 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-peach-rebalancing-beauty-bar.html/00011111049314",
+      "error": "request to https://www.dove.com/ca/en/p/dove-peach-rebalancing-beauty-bar.html/00011111049314 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-sandalwood-cardamom-oil-restore-cleansing-bar.html/00011111049802",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-sandalwood-cardamom-oil-restore-cleansing-bar.html/00011111049802 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-cherry-chia-milk-body-wash.html/00011111050495",
+      "error": "request to https://www.dove.com/ca/en/p/dove-cherry-chia-milk-body-wash.html/00011111050495 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:17.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/pro-retinol-firming.html/00011111052482",
+      "error": "request to https://www.dove.com/ca/en/p/pro-retinol-firming.html/00011111052482 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/hyaluronic-hydration.html/00011111052505",
+      "error": "request to https://www.dove.com/ca/en/p/hyaluronic-hydration.html/00011111052505 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/pro-ceramide-repair.html/00011111052512",
+      "error": "request to https://www.dove.com/ca/en/p/pro-ceramide-repair.html/00011111052512 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.708Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dragon-fruit-coconut-body-scrub.html/00011111054455",
+      "error": "request to https://www.dove.com/ca/en/p/dragon-fruit-coconut-body-scrub.html/00011111054455 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/white-peach-body-scrub.html/00011111054691",
+      "error": "request to https://www.dove.com/ca/en/p/white-peach-body-scrub.html/00011111054691 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.775Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dragon-fruit-beauty-bar.html/00011111054929",
+      "error": "request to https://www.dove.com/ca/en/p/dragon-fruit-beauty-bar.html/00011111054929 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-sakura-blossom-yuzu-body-wash.html/00011111056183",
+      "error": "request to https://www.dove.com/ca/en/p/dove-sakura-blossom-yuzu-body-wash.html/00011111056183 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/turmeric-milk-lemon-drop-plant-milk-body-wash.html/00011111056299",
+      "error": "request to https://www.dove.com/ca/en/p/turmeric-milk-lemon-drop-plant-milk-body-wash.html/00011111056299 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-hydrating-clean-comfort-body-face-wash.html/00011111056657",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-hydrating-clean-comfort-body-face-wash.html/00011111056657 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-blue-eucalyptus-birch-body-and-face-wash.html/00011111056664",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-blue-eucalyptus-birch-body-and-face-wash.html/00011111056664 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-sea-salt-citrus-exfoliating-body-face-wash.html/00011111056763",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-sea-salt-citrus-exfoliating-body-face-wash.html/00011111056763 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-3n1-power-renew-body-face-hair-wash.html/00011111056794",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-3n1-power-renew-body-face-hair-wash.html/00011111056794 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.775Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/rice-milk-velvet-acai-plant-milk-body-wash.html/00011111061651",
+      "error": "request to https://www.dove.com/ca/en/p/rice-milk-velvet-acai-plant-milk-body-wash.html/00011111061651 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.775Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/limited-edition-fifa-amberwood-sage-oil-beauty-bar.html/00011111062092",
+      "error": "request to https://www.dove.com/ca/en/p/limited-edition-fifa-amberwood-sage-oil-beauty-bar.html/00011111062092 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/oat-milk-berry-brulee-plant-milk-sugar-scrub.html/00011111062702",
+      "error": "request to https://www.dove.com/ca/en/p/oat-milk-berry-brulee-plant-milk-sugar-scrub.html/00011111062702 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/rice-milk-velvet-acai-plant-milk-sugar-scrub.html/00011111062740",
+      "error": "request to https://www.dove.com/ca/en/p/rice-milk-velvet-acai-plant-milk-sugar-scrub.html/00011111062740 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-pomegranate-acai-body-wash.html/00011111074705",
+      "error": "request to https://www.dove.com/ca/en/p/dove-pomegranate-acai-body-wash.html/00011111074705 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-dual-sided-shower-tool.html/00011111084704-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-dual-sided-shower-tool.html/00011111084704-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/go-fresh-revive-pomegranate-lemon-verbena-beauty-bar.html/00011111223738",
+      "error": "request to https://www.dove.com/ca/en/p/go-fresh-revive-pomegranate-lemon-verbena-beauty-bar.html/00011111223738 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/rich-moisture-tip-to-toe-wash.html/00011111638037-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/rich-moisture-tip-to-toe-wash.html/00011111638037-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/rich-moisture-baby-lotion.html/00011111638631-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/rich-moisture-baby-lotion.html/00011111638631-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.807Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/sensitive-moisture-baby-lotion.html/00011111638648-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/sensitive-moisture-baby-lotion.html/00011111638648-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.807Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/shower-foam-sensitive-skin-foaming-body-wash.html/00011111698642",
+      "error": "request to https://www.dove.com/ca/en/p/shower-foam-sensitive-skin-foaming-body-wash.html/00011111698642 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/cool-essentials-invisible-solid-antiperspirant.html/00045893060526",
+      "error": "request to https://www.dove.com/ca/en/p/cool-essentials-invisible-solid-antiperspirant.html/00045893060526 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/original-invisible-solid-antiperspirant.html/00055086602464",
+      "error": "request to https://www.dove.com/ca/en/p/original-invisible-solid-antiperspirant.html/00055086602464 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/powder-invisible-solid-antiperspirant.html/00055086602679",
+      "error": "request to https://www.dove.com/ca/en/p/powder-invisible-solid-antiperspirant.html/00055086602679 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/uv-repair-&-glow-bi-phase-serum-%2B-oil.html/00055451003506",
+      "error": "request to https://www.dove.com/ca/en/p/uv-repair-&-glow-bi-phase-serum-%2B-oil.html/00055451003506 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/uv-repair-&-glow-hair-mask.html/00055451003537",
+      "error": "request to https://www.dove.com/ca/en/p/uv-repair-&-glow-hair-mask.html/00055451003537 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/advanced-care-antiperspirant-stick-revive.html/00079400074867",
+      "error": "request to https://www.dove.com/ca/en/p/advanced-care-antiperspirant-stick-revive.html/00079400074867 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-clean-comfort-antiperspirant-stick.html/00079400122636-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-clean-comfort-antiperspirant-stick.html/00079400122636-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/style-care-unscented-hairspray.html/00079400209870",
+      "error": "request to https://www.dove.com/ca/en/p/style-care-unscented-hairspray.html/00079400209870 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:25.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-cool-silver-deodorant-stick.html/00079400270894-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-cool-silver-deodorant-stick.html/00079400270894-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-extra-fresh-dry-spray-antiperspirant.html/00079400447128-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-extra-fresh-dry-spray-antiperspirant.html/00079400447128-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/advanced-care-invisible-sheer-cool-antiperspirant-spray.html/00079400447807",
+      "error": "request to https://www.dove.com/ca/en/p/advanced-care-invisible-sheer-cool-antiperspirant-spray.html/00079400447807 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/thickening-ritual-conditioner.html/00079400451538",
+      "error": "request to https://www.dove.com/ca/en/p/thickening-ritual-conditioner.html/00079400451538 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.989Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-stain-defense-fresh-antiperspirant.html/00079400454096-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-stain-defense-fresh-antiperspirant.html/00079400454096-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/care-between-washes-fresh-coconut-dry-shampoo.html/00079400461797",
+      "error": "request to https://www.dove.com/ca/en/p/care-between-washes-fresh-coconut-dry-shampoo.html/00079400461797 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.989Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/nourishing-secrets-dry-spray-antiperspirant-soothing-ritual-lave.html/00079400469472",
+      "error": "request to https://www.dove.com/ca/en/p/nourishing-secrets-dry-spray-antiperspirant-soothing-ritual-lave.html/00079400469472 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/nourishing-secrets-dry-spray-antiperspirant-calming-ritual-.html/00079400469496",
+      "error": "request to https://www.dove.com/ca/en/p/nourishing-secrets-dry-spray-antiperspirant-calming-ritual-.html/00079400469496 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/nourishing-secrets-antiperspirant-stick-glowing-ritual-lotus-flo.html/00079400469519",
+      "error": "request to https://www.dove.com/ca/en/p/nourishing-secrets-antiperspirant-stick-glowing-ritual-lotus-flo.html/00079400469519 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-refreshing-eucalyptus-birch-antiperspirant-dry-sp.html/00079400480415-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-refreshing-eucalyptus-birch-antiperspirant-dry-sp.html/00079400480415-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/advanced-care-dry-spray-antiperspirant-acai-berry-lotus-flower.html/00079400486318",
+      "error": "request to https://www.dove.com/ca/en/p/advanced-care-dry-spray-antiperspirant-acai-berry-lotus-flower.html/00079400486318 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.992Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-stick-deodorant-refills-0-aluminum-feel-fresh-refi.html/00079400490650-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-stick-deodorant-refills-0-aluminum-feel-fresh-refi.html/00079400490650-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-morning-fresco-deodorant-stick.html/00079400496959-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-morning-fresco-deodorant-stick.html/00079400496959-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-midnight-classico-deodorant-stick.html/00079400496980-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-midnight-classico-deodorant-stick.html/00079400496980-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-paradiso-sunrise-deodorant-stick.html/00079400496997-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-paradiso-sunrise-deodorant-stick.html/00079400496997-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/advanced-care-dry-spray-antiperspirant-coconut-water-sweet-lime-scent.html/00079400505293",
+      "error": "request to https://www.dove.com/ca/en/p/advanced-care-dry-spray-antiperspirant-coconut-water-sweet-lime-scent.html/00079400505293 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-sandalwood-cardamom-oil-thick-full-2-in-1-shampoo-conditioner.html/00079400506016",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-sandalwood-cardamom-oil-thick-full-2-in-1-shampoo-conditioner.html/00079400506016 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.018Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-avocado-tea-tree-oil-strengthening-2-in-1-shampoo-conditioner.html/00079400506030",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-avocado-tea-tree-oil-strengthening-2-in-1-shampoo-conditioner.html/00079400506030 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/vitamin-care-raspberry-rose-scent-deodorant-stick.html/00079400509048",
+      "error": "request to https://www.dove.com/ca/en/p/vitamin-care-raspberry-rose-scent-deodorant-stick.html/00079400509048 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/vitamin-care-cucumber-melon-scent-deodorant-stick.html/00079400509079",
+      "error": "request to https://www.dove.com/ca/en/p/vitamin-care-cucumber-melon-scent-deodorant-stick.html/00079400509079 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.992Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/vitamin-care-lavender-chamomile-scent-deodorant-stick.html/00079400509093",
+      "error": "request to https://www.dove.com/ca/en/p/vitamin-care-lavender-chamomile-scent-deodorant-stick.html/00079400509093 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-deodorant-stick-tropical-costa.html/00079400510839",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-deodorant-stick-tropical-costa.html/00079400510839 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.992Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/whole-body-deodorant-coconut-vanilla-scent.html/00079400512505",
+      "error": "request to https://www.dove.com/ca/en/p/whole-body-deodorant-coconut-vanilla-scent.html/00079400512505 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/whole-body-deodorant-unscented.html/00079400512512",
+      "error": "request to https://www.dove.com/ca/en/p/whole-body-deodorant-unscented.html/00079400512512 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dragonfruit-and-coconut-cream-antiperspirant-stick.html/00079400513922",
+      "error": "request to https://www.dove.com/ca/en/p/dragonfruit-and-coconut-cream-antiperspirant-stick.html/00079400513922 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/aluminium-free-deodorant-stick-dragon-fruit-coconut-cream-scent.html/00079400514103",
+      "error": "request to https://www.dove.com/ca/en/p/aluminium-free-deodorant-stick-dragon-fruit-coconut-cream-scent.html/00079400514103 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.991Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-endless-waves-conditioner.html/00079400516152",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-endless-waves-conditioner.html/00079400516152 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:33.992Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-endless-waves-shampoo.html/00079400516169",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-endless-waves-shampoo.html/00079400516169 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:34.019Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/aluminium-free-deodorant-dry-spray-dragon-fruit-coconut-cream-scent.html/00079400517043",
+      "error": "request to https://www.dove.com/ca/en/p/aluminium-free-deodorant-dry-spray-dragon-fruit-coconut-cream-scent.html/00079400517043 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/whole-body-deodorant-cooling-dry-spray-raspberry-rose-scent.html/00079400517524",
+      "error": "request to https://www.dove.com/ca/en/p/whole-body-deodorant-cooling-dry-spray-raspberry-rose-scent.html/00079400517524 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/whole-body-anti-friction-stick-raspberry-rose-scent.html/00079400517906",
+      "error": "request to https://www.dove.com/ca/en/p/whole-body-anti-friction-stick-raspberry-rose-scent.html/00079400517906 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-shea-butter-cedar-whole-body-deodorant-stick.html/00079400520067",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-shea-butter-cedar-whole-body-deodorant-stick.html/00079400520067 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-lavender-volume-conditioner.html/00079400520524",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-lavender-volume-conditioner.html/00079400520524 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-volume-fullness-conditioner.html/00079400520531",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-volume-fullness-conditioner.html/00079400520531 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-cucumber-moisture-conditioner.html/00079400520548",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-cucumber-moisture-conditioner.html/00079400520548 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-colour-protect-conditioner.html/00079400520579",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-colour-protect-conditioner.html/00079400520579 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.185Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-coconut-restore-conditioner.html/00079400520623",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-coconut-restore-conditioner.html/00079400520623 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-anti-frizz-smooth-shampoo.html/00079400521125",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-anti-frizz-smooth-shampoo.html/00079400521125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-volume-fullness-shampoo.html/00079400521163",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-volume-fullness-shampoo.html/00079400521163 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/damage-therapy-intensive-repair-shampoo.html/00079400521170",
+      "error": "request to https://www.dove.com/ca/en/p/damage-therapy-intensive-repair-shampoo.html/00079400521170 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/whole-body-deodorant-spray-peach-white-tea.html/00079400525932",
+      "error": "request to https://www.dove.com/ca/en/p/whole-body-deodorant-spray-peach-white-tea.html/00079400525932 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/raspberry-rose-anti-chafe-whole-body-deodorant-stick.html/00079400526731",
+      "error": "request to https://www.dove.com/ca/en/p/raspberry-rose-anti-chafe-whole-body-deodorant-stick.html/00079400526731 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/coconut-vanilla-anti-chafe-whole-body-deodorant-stick.html/00079400526748",
+      "error": "request to https://www.dove.com/ca/en/p/coconut-vanilla-anti-chafe-whole-body-deodorant-stick.html/00079400526748 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/derma-scalp-dandruff-relief-shampoo.html/00079400528100",
+      "error": "request to https://www.dove.com/ca/en/p/derma-scalp-dandruff-relief-shampoo.html/00079400528100 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.185Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/derma-scalp-density-boost-conditioner.html/00079400528117",
+      "error": "request to https://www.dove.com/ca/en/p/derma-scalp-density-boost-conditioner.html/00079400528117 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/derma-scalp-dryness-&-itch-relief-conditioner.html/00079400528216",
+      "error": "request to https://www.dove.com/ca/en/p/derma-scalp-dryness-&-itch-relief-conditioner.html/00079400528216 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/derma-scalp-resilience-boost-conditioner.html/00079400528520",
+      "error": "request to https://www.dove.com/ca/en/p/derma-scalp-resilience-boost-conditioner.html/00079400528520 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.185Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/derma-scalp-oil-control-shampoo.html/00079400528704",
+      "error": "request to https://www.dove.com/ca/en/p/derma-scalp-oil-control-shampoo.html/00079400528704 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/derma-scalp-%2B-barrier-repair-scalp-moisture-serum.html/00079400528865",
+      "error": "request to https://www.dove.com/ca/en/p/derma-scalp-%2B-barrier-repair-scalp-moisture-serum.html/00079400528865 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-men-care-hydration-fuel-2-in-1-shampoo-and-conditioner.html/00079400529022",
+      "error": "request to https://www.dove.com/ca/en/p/dove-men-care-hydration-fuel-2-in-1-shampoo-and-conditioner.html/00079400529022 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/raspberry-rose-alcohol-free-whole-body-deodorant-spray.html/00079400529244",
+      "error": "request to https://www.dove.com/ca/en/p/raspberry-rose-alcohol-free-whole-body-deodorant-spray.html/00079400529244 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/gardenia-breeze-alcohol-free-whole-body-deodorant-spray.html/00079400529268",
+      "error": "request to https://www.dove.com/ca/en/p/gardenia-breeze-alcohol-free-whole-body-deodorant-spray.html/00079400529268 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.210Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-sparkling-vanilla.html/00079400529954",
+      "error": "request to https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-sparkling-vanilla.html/00079400529954 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.185Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-rose-mist.html/00079400529961",
+      "error": "request to https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-rose-mist.html/00079400529961 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/advanced-care-vanilla-souffle-antiperspirant-deodorant.html/00079400530615",
+      "error": "request to https://www.dove.com/ca/en/p/advanced-care-vanilla-souffle-antiperspirant-deodorant.html/00079400530615 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.185Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-men-care-fortifying-anti-dandrufff-2-in-1-shampoo-conditioner.html/00079400530745",
+      "error": "request to https://www.dove.com/ca/en/p/dove-men-care-fortifying-anti-dandrufff-2-in-1-shampoo-conditioner.html/00079400530745 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-men-care-charcoal-clay-shampoo.html/00079400530820",
+      "error": "request to https://www.dove.com/ca/en/p/dove-men-care-charcoal-clay-shampoo.html/00079400530820 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/dove-men-care-thick-strong-2-in-1-shampoo-conditioner.html/00079400530851",
+      "error": "request to https://www.dove.com/ca/en/p/dove-men-care-thick-strong-2-in-1-shampoo-conditioner.html/00079400530851 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-vanilla-bean-sandalwood-deodorant-stick.html/00079400531339",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-vanilla-bean-sandalwood-deodorant-stick.html/00079400531339 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-breeze-palm-leaves-fig-deodorant-stick.html/00079400531346",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-breeze-palm-leaves-fig-deodorant-stick.html/00079400531346 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-trail-sandwalwood-amber-deodorant-stick.html/00079400531827",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-trail-sandwalwood-amber-deodorant-stick.html/00079400531827 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.184Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-mist-lime-sage-deodorant-stick.html/00079400531834",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-mist-lime-sage-deodorant-stick.html/00079400531834 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-dragon-fruit.html/00079400532176",
+      "error": "request to https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-dragon-fruit.html/00079400532176 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.210Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-coconut-and-pink-jasmine.html/00079400532183",
+      "error": "request to https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-coconut-and-pink-jasmine.html/00079400532183 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.210Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-cucumber-and-green-tea.html/00079400532190",
+      "error": "request to https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-cucumber-and-green-tea.html/00079400532190 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:42.185Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-cool-fresh-dry-spray-antiperspirant.html/00079400545695-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-cool-fresh-dry-spray-antiperspirant.html/00079400545695-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.270Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-stain-defense-clean-dry-spray-antiperspirant.html/00079400599551-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-stain-defense-clean-dry-spray-antiperspirant.html/00079400599551-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/men-care-stain-defense-clean-antiperspirant-stick.html/00079400605054",
+      "error": "request to https://www.dove.com/ca/en/p/men-care-stain-defense-clean-antiperspirant-stick.html/00079400605054 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/en/p/advanced-care-invisible-sheer-fresh-antiperspirant-dry-spray.html/00079400634290",
+      "error": "request to https://www.dove.com/ca/en/p/advanced-care-invisible-sheer-fresh-antiperspirant-dry-spray.html/00079400634290 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-micellaire-anti-stress.html/00011111005617",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-micellaire-anti-stress.html/00011111005617 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-pur-bien-etre-lavande-relaxante.html/00011111010406",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-pur-bien-etre-lavande-relaxante.html/00011111010406 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-de-beauterose.html/00011111012073",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-de-beauterose.html/00011111012073 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-moussant-a-lhuile-de-noix-de-coco.html/00011111012196",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-moussant-a-lhuile-de-noix-de-coco.html/00011111012196 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-moussant-a-lhuile-dargan.html/00011111012219",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-moussant-a-lhuile-dargan.html/00011111012219 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-nettoyant-pour-le-corps-et-le-visage-mencare-fraicheur-ultr.html/00011111017795-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-nettoyant-pour-le-corps-et-le-visage-mencare-fraicheur-ultr.html/00011111017795-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-nettoyant-pour-le-corps-et-le-visage-mencare-le-propre-du-c.html/00011111017801-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-nettoyant-pour-le-corps-et-le-visage-mencare-le-propre-du-c.html/00011111017801-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.321Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-nettoyant-corps-visage-mencare-proprete-intense-avec-grain.html/00011111017849-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-nettoyant-corps-visage-mencare-proprete-intense-avec-grain.html/00011111017849-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/bain-moussant-glowing-care-mango-almond.html/00011111018983",
+      "error": "request to https://www.dove.com/ca/fr/p/bain-moussant-glowing-care-mango-almond.html/00011111018983 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/sels-de-bain-relaxing-care-parfum-de-lavande-et-camomille.html/00011111019003",
+      "error": "request to https://www.dove.com/ca/fr/p/sels-de-bain-relaxing-care-parfum-de-lavande-et-camomille.html/00011111019003 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.321Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/sels-de-bain-renewing-care-parfum-de-pivoine-et-rose.html/00011111019034",
+      "error": "request to https://www.dove.com/ca/fr/p/sels-de-bain-renewing-care-parfum-de-pivoine-et-rose.html/00011111019034 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.321Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/sels-de-bain-glowing-care-parfum-de-mangue-et-damande.html/00011111019041",
+      "error": "request to https://www.dove.com/ca/fr/p/sels-de-bain-glowing-care-parfum-de-mangue-et-damande.html/00011111019041 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.321Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/bombes-pour-le-bain-renewing-ritual-parfum-de-pivoine-et-de-rose.html/00011111019126",
+      "error": "request to https://www.dove.com/ca/fr/p/bombes-pour-le-bain-renewing-ritual-parfum-de-pivoine-et-de-rose.html/00011111019126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.321Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/bombes-pour-le-bain-glowing-ritual-parfum-de-mangue-et-damande.html/00011111019133",
+      "error": "request to https://www.dove.com/ca/fr/p/bombes-pour-le-bain-glowing-ritual-parfum-de-mangue-et-damande.html/00011111019133 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.321Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/lingettes-de-fibres-100-vegetales-babypeau-sensible.html/00011111021617-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/lingettes-de-fibres-100-vegetales-babypeau-sensible.html/00011111021617-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.321Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corps-visage-mencare-relaxing-eucalyptus-oils-cedar.html/00011111024786-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corps-visage-mencare-relaxing-eucalyptus-oils-cedar.html/00011111024786-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/creme-fouettee-corporelle-apres-le-bain-glowing-care-mango-almo.html/00011111025578",
+      "error": "request to https://www.dove.com/ca/fr/p/creme-fouettee-corporelle-apres-le-bain-glowing-care-mango-almo.html/00011111025578 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-les-mains-shea-butter-warm-vanilla.html/00011111026025",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-les-mains-shea-butter-warm-vanilla.html/00011111026025 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-moussant-pour-les-mains-nourrissant-lavender-yogurt.html/00011111026070",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-moussant-pour-les-mains-nourrissant-lavender-yogurt.html/00011111026070 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.346Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-moussant-pour-les-mains-nourrissant-aloe-eucalyptus.html/00011111026094",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-moussant-pour-les-mains-nourrissant-aloe-eucalyptus.html/00011111026094 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-moussant-pour-les-mains-nourrissant-warm-vanilla-suga.html/00011111026124",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-moussant-pour-les-mains-nourrissant-warm-vanilla-suga.html/00011111026124 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-les-mains-antibacterien-care-protect.html/00011111027435",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-les-mains-antibacterien-care-protect.html/00011111027435 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/dove-lotion-sensitive.html/00011111030596",
+      "error": "request to https://www.dove.com/ca/fr/p/dove-lotion-sensitive.html/00011111030596 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/dove-lotion-restoring.html/00011111030954",
+      "error": "request to https://www.dove.com/ca/fr/p/dove-lotion-restoring.html/00011111030954 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/dove-lotion-glowing.html/00011111031340",
+      "error": "request to https://www.dove.com/ca/fr/p/dove-lotion-glowing.html/00011111031340 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-anti-stress.html/00011111033443",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-anti-stress.html/00011111033443 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corps-visage-men-care-classique-de-minuit.html/00011111062641",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corps-visage-men-care-classique-de-minuit.html/00011111062641 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-parfum-de-po.html/00079400461667",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-parfum-de-po.html/00079400461667 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-invisible-fini-clair.html/00079400464446",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-invisible-fini-clair.html/00079400464446 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-0-aluminum-48h-eucalyptus-birch.html/00079400478887-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/desodorisant-0-aluminum-48h-eucalyptus-birch.html/00079400478887-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/super-serum-10-en-1-liaisons-fortes-therapie-dommages.html/00079400510068",
+      "error": "request to https://www.dove.com/ca/fr/p/super-serum-10-en-1-liaisons-fortes-therapie-dommages.html/00079400510068 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/masque-serum-10-en-1-liaisons-fortes-therapie-dommages.html/00079400511294",
+      "error": "request to https://www.dove.com/ca/fr/p/masque-serum-10-en-1-liaisons-fortes-therapie-dommages.html/00079400511294 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.391Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-ondulations-infinies-therapie-dommages.html/00079400516152",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-ondulations-infinies-therapie-dommages.html/00079400516152 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-ondulations-infinies-therapie-dommages.html/00079400516169",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-ondulations-infinies-therapie-dommages.html/00079400516169 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.391Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/whole-body-deodorant-cooling-dry-spray-raspberry-rose-scent.html/00079400517524",
+      "error": "request to https://www.dove.com/ca/fr/p/whole-body-deodorant-cooling-dry-spray-raspberry-rose-scent.html/00079400517524 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/serum-10-en-1-reparation-intensive-therapie-dommages.html/00079400519757",
+      "error": "request to https://www.dove.com/ca/fr/p/serum-10-en-1-reparation-intensive-therapie-dommages.html/00079400519757 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-mangue-et-douceur-therapie-dommages.html/00079400520517",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-mangue-et-douceur-therapie-dommages.html/00079400520517 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.393Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-volume-et-ampleur-therapie-dommages.html/00079400520531",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-volume-et-ampleur-therapie-dommages.html/00079400520531 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.393Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-concombre-et-hydratation-therapie-dommages.html/00079400520548",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-concombre-et-hydratation-therapie-dommages.html/00079400520548 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-hydratation-quotidienne-therapie-dommages.html/00079400520562",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-hydratation-quotidienne-therapie-dommages.html/00079400520562 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-anti-frisottis-et-lissage-therapie-dommages.html/00079400520586",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-anti-frisottis-et-lissage-therapie-dommages.html/00079400520586 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:50.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-reparation-intensive-therapie-dommages.html/00079400520616",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-reparation-intensive-therapie-dommages.html/00079400520616 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-noix-de-coco-et-restauration-therapie-dommages.html/00079400520623",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-noix-de-coco-et-restauration-therapie-dommages.html/00079400520623 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-liaisons-fortes-therapie-dommages.html/00079400521026",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-liaisons-fortes-therapie-dommages.html/00079400521026 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-lavande-et-volume-therapie-dommages.html/00079400521033",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-lavande-et-volume-therapie-dommages.html/00079400521033 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-noix-de-coco-et-restauration-therapie-dommages-dove.html/00079400521040",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-noix-de-coco-et-restauration-therapie-dommages-dove.html/00079400521040 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-protection-anti-chute-therapie-dommages.html/00079400521088",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-protection-anti-chute-therapie-dommages.html/00079400521088 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampoing-mangue-et-douceur-therapie-dommages.html/00079400521149",
+      "error": "request to https://www.dove.com/ca/fr/p/shampoing-mangue-et-douceur-therapie-dommages.html/00079400521149 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampoing-volume-et-ampleur-therapie-dommages.html/00079400521163",
+      "error": "request to https://www.dove.com/ca/fr/p/shampoing-volume-et-ampleur-therapie-dommages.html/00079400521163 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-reparation-intensive-therapie-dommages.html/00079400521170",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-reparation-intensive-therapie-dommages.html/00079400521170 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-repare-boucles-aux-acides-amines-therapie-dommages.html/00079400522597",
+      "error": "request to https://www.dove.com/ca/fr/p/revitalisant-repare-boucles-aux-acides-amines-therapie-dommages.html/00079400522597 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-repare-boucles-aux-acides-amines-therapie-dommages.html/00079400522610",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-repare-boucles-aux-acides-amines-therapie-dommages.html/00079400522610 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/masque-creme-10-en-1-repare-boucles-aux-acides-amines-therapie-dommages.html/00079400522832",
+      "error": "request to https://www.dove.com/ca/fr/p/masque-creme-10-en-1-repare-boucles-aux-acides-amines-therapie-dommages.html/00079400522832 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/creme-pour-boucles-douces-au-toucher-et-definies-aux-acides-amines-therapie-dommages.html/00079400522894",
+      "error": "request to https://www.dove.com/ca/fr/p/creme-pour-boucles-douces-au-toucher-et-definies-aux-acides-amines-therapie-dommages.html/00079400522894 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-pour-tout-le-corps-men-care-aloes-bambou.html/00079400525833",
+      "error": "request to https://www.dove.com/ca/fr/p/desodorisant-pour-tout-le-corps-men-care-aloes-bambou.html/00079400525833 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-pour-tout-le-corps-peche-et-the-blanc.html/00079400525932",
+      "error": "request to https://www.dove.com/ca/fr/p/desodorisant-pour-tout-le-corps-peche-et-the-blanc.html/00079400525932 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/gommage-exfoliant-pour-le-corps-graines-de-kiwi-et-aloes-rafraic.html/00011111002012",
+      "error": "request to https://www.dove.com/ca/fr/p/gommage-exfoliant-pour-le-corps-graines-de-kiwi-et-aloes-rafraic.html/00011111002012 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/ensemble-cadeau-n%C2%B0-2.html/00011111002975-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/ensemble-cadeau-n%C2%B0-2.html/00011111002975-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/kids-care-bain-moussant-biscuit-a-la-noix-de-coco.html/00011111027695",
+      "error": "request to https://www.dove.com/ca/fr/p/kids-care-bain-moussant-biscuit-a-la-noix-de-coco.html/00011111027695 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-men-care-bois-de-santal-huile-de-cardamome.html/00011111033689",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-men-care-bois-de-santal-huile-de-cardamome.html/00011111033689 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-dryness-relief-a-l-avoine-et-au-lait-de-riz.html/00011111043176",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-dryness-relief-a-l-avoine-et-au-lait-de-riz.html/00011111043176 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-de-beaute-rebalancing.html/00011111048980",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-de-beaute-rebalancing.html/00011111048980 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/glow-recharge-body-wash.html/00011111049406",
+      "error": "request to https://www.dove.com/ca/fr/p/glow-recharge-body-wash.html/00011111049406 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/dryness-repair-body-wash.html/00011111049420",
+      "error": "request to https://www.dove.com/ca/fr/p/dryness-repair-body-wash.html/00011111049420 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-nettoyant-bois-de-santal-huile-de-cardamome.html/00011111049802",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-nettoyant-bois-de-santal-huile-de-cardamome.html/00011111049802 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-dove-revitalizing-cerise-et-lait-de-chia.html/00011111050495",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-dove-revitalizing-cerise-et-lait-de-chia.html/00011111050495 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/serum-cible.html/00011111052468",
+      "error": "request to https://www.dove.com/ca/fr/p/serum-cible.html/00011111052468 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/niacinamide-teint-uniforme.html/00011111052475",
+      "error": "request to https://www.dove.com/ca/fr/p/niacinamide-teint-uniforme.html/00011111052475 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/prebiotique-protection.html/00011111052499",
+      "error": "request to https://www.dove.com/ca/fr/p/prebiotique-protection.html/00011111052499 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/hyaluronique-hydratation.html/00011111052505",
+      "error": "request to https://www.dove.com/ca/fr/p/hyaluronique-hydratation.html/00011111052505 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pro-ceramide-reparateur.html/00011111052512",
+      "error": "request to https://www.dove.com/ca/fr/p/pro-ceramide-reparateur.html/00011111052512 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/gommage-exfoliant-pour-le-corps-graines-de-genade-et-beurre-de-k.html/00011111054677",
+      "error": "request to https://www.dove.com/ca/fr/p/gommage-exfoliant-pour-le-corps-graines-de-genade-et-beurre-de-k.html/00011111054677 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-lait-vegetal-lait-d-amande-pomme-verte.html/00011111056282",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-lait-vegetal-lait-d-amande-pomme-verte.html/00011111056282 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.572Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-lait-vegetal-lait-de-curcuma-bonbon-au-citron.html/00011111056299",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-lait-vegetal-lait-de-curcuma-bonbon-au-citron.html/00011111056299 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-corporel-lait-vegetal-lait-d-avoine-baies-brulees.html/00011111056312",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-corporel-lait-vegetal-lait-d-avoine-baies-brulees.html/00011111056312 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-renewing-aqua-impact-body-face-wash.html/00011111056640",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-renewing-aqua-impact-body-face-wash.html/00011111056640 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-hydrating-clean-comfort-body-face-wash.html/00011111056657",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-hydrating-clean-comfort-body-face-wash.html/00011111056657 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-refreshing-extra-fresh-body-face-wash.html/00011111056671",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-refreshing-extra-fresh-body-face-wash.html/00011111056671 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-moisturizing-hydration-balance-body-face-wash.html/00011111056695",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-moisturizing-hydration-balance-body-face-wash.html/00011111056695 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-sea-salt-citrus-exfoliating-body-face-wash.html/00011111056763",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-sea-salt-citrus-exfoliating-body-face-wash.html/00011111056763 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-3n1-revive-detox-body-wash.html/00011111056787",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-3n1-revive-detox-body-wash.html/00011111056787 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-3n1-active-fresh-body-wash.html/00011111056978",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-3n1-active-fresh-body-wash.html/00011111056978 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.572Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-sensitive-skin-body-wash.html/00011111057005",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-sensitive-skin-body-wash.html/00011111057005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-de-beaute-edition-limitee-fifa-bois-d-ambre-et-huile-de-sauge.html/00011111062092",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-de-beaute-edition-limitee-fifa-bois-d-ambre-et-huile-de-sauge.html/00011111062092 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-restoring-au-beurre-de-noix-de-coco-et-de-cacao.html/00011111079731",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-restoring-au-beurre-de-noix-de-coco-et-de-cacao.html/00011111079731 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/outil-double-face-pour-la-douche-mencare.html/00011111084704-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/outil-double-face-pour-la-douche-mencare.html/00011111084704-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.576Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-de-beaute-blanc.html/00011111179400",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-de-beaute-blanc.html/00011111179400 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.572Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-winter-care.html/00011111192942",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-winter-care.html/00011111192942 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/soin-nettoyant-restaurateur-pour-le-corps-go-fresh-parfum-de-fig.html/00011111263017",
+      "error": "request to https://www.dove.com/ca/fr/p/soin-nettoyant-restaurateur-pour-le-corps-go-fresh-parfum-de-fig.html/00011111263017 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-de-beaute-go-fresh-restaurateur.html/00011111267275",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-de-beaute-go-fresh-restaurateur.html/00011111267275 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/soin-nettoyant-pour-le-corps-revigorant-go-fresh-parfum-de-manda.html/00011111416277",
+      "error": "request to https://www.dove.com/ca/fr/p/soin-nettoyant-pour-le-corps-revigorant-go-fresh-parfum-de-manda.html/00011111416277 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:15:58.574Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-de-beaute-go-fresh-mandarine-et-fleur-de-tiare.html/00011111432918",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-de-beaute-go-fresh-mandarine-et-fleur-de-tiare.html/00011111432918 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.702Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-pur-bien-etre-creme-douce-et-pivoine.html/00011111528642",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-pur-bien-etre-creme-douce-et-pivoine.html/00011111528642 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-invigorating-a-l-aloes-et-a-l-huile-d-eucalyptus.html/00011111631540",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-pour-le-corps-dove-invigorating-a-l-aloes-et-a-l-huile-d-eucalyptus.html/00011111631540 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.699Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-tete-aux-pieds-hydratation-riche.html/00011111638037-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-tete-aux-pieds-hydratation-riche.html/00011111638037-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/nettoyant-tete-aux-pieds-hydratation-peau-sensible.html/00011111638044-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/nettoyant-tete-aux-pieds-hydratation-peau-sensible.html/00011111638044-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-hydratation-riche.html/00011111638051-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-hydratation-riche.html/00011111638051-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/lotion-hydratation-riche.html/00011111638631-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/lotion-hydratation-riche.html/00011111638631-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/lotion-hydratation-peau-sensible.html/00011111638648-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/lotion-hydratation-peau-sensible.html/00011111638648-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.699Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/soin-nettoyant-moussant-pour-le-corps-mousse-de-douchepeau.html/00011111698642",
+      "error": "request to https://www.dove.com/ca/fr/p/soin-nettoyant-moussant-pour-le-corps-mousse-de-douchepeau.html/00011111698642 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/ensemble-cadeau-n%C2%B0-1.html/00011111720831-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/ensemble-cadeau-n%C2%B0-1.html/00011111720831-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.702Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/s%C3%A9rum-biphase-%2B-huile-r%C3%A9paration-uv-et-%C3%A9clat.html/00055451003506",
+      "error": "request to https://www.dove.com/ca/fr/p/s%C3%A9rum-biphase-%2B-huile-r%C3%A9paration-uv-et-%C3%A9clat.html/00055451003506 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.699Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/masque-capillaire-10-en-1-r%C3%A9cup%C3%A9ration-radicale-r%C3%A9paration-uv-et-%C3%A9clat.html/00055451003537",
+      "error": "request to https://www.dove.com/ca/fr/p/masque-capillaire-10-en-1-r%C3%A9cup%C3%A9ration-radicale-r%C3%A9paration-uv-et-%C3%A9clat.html/00055451003537 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.699Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pain-de-beaute-go-fresh-soins-fraicheur.html/00067238851477",
+      "error": "request to https://www.dove.com/ca/fr/p/pain-de-beaute-go-fresh-soins-fraicheur.html/00067238851477 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.754Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-essentiels-fraicheur-protection-clinique.html/00079400047366",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-essentiels-fraicheur-protection-clinique.html/00079400047366 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-extra-fresh-deodorant-stick.html/00079400072177-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-extra-fresh-deodorant-stick.html/00079400072177-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.754Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-revivifiant.html/00079400074867",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-revivifiant.html/00079400074867 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-extra-fresh-antiperspirant-stick.html/00079400122643-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-extra-fresh-antiperspirant-stick.html/00079400122643-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-mencare-clinical-protection-clean-comfort.html/00079400123329-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-mencare-clinical-protection-clean-comfort.html/00079400123329-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.754Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-revitalisant-fortifiant-2-en-1-mencare-fraicheur-et.html/00079400141484-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-revitalisant-fortifiant-2-en-1-mencare-fraicheur-et.html/00079400141484-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.754Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-et-revitalisant-2-en-1-antipelliculaire-mencare.html/00079400141491-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-et-revitalisant-2-en-1-antipelliculaire-mencare.html/00079400141491-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.699Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/fixatif-tenue-extra-cheveux-forts-brillants-stylecare.html/00079400209832",
+      "error": "request to https://www.dove.com/ca/fr/p/fixatif-tenue-extra-cheveux-forts-brillants-stylecare.html/00079400209832 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/mousse-amplifiante.html/00079400209863",
+      "error": "request to https://www.dove.com/ca/fr/p/mousse-amplifiante.html/00079400209863 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/gel-volumisant-stylecare.html/00079400210036",
+      "error": "request to https://www.dove.com/ca/fr/p/gel-volumisant-stylecare.html/00079400210036 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-a-sec-revigorant.html/00079400210074",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-a-sec-revigorant.html/00079400210074 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-invisible-frais.html/00079400220660",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-invisible-frais.html/00079400220660 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/gel-coiffant-sans-alcool-mencare.html/00079400263766-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/gel-coiffant-sans-alcool-mencare.html/00079400263766-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pate-sculptante-mencare.html/00079400263919-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/pate-sculptante-mencare.html/00079400263919-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-cool-silver-deodorant-stick.html/00079400270894-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-cool-silver-deodorant-stick.html/00079400270894-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.702Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-revitalisant-2-en-1-mencare-regain-doxygene.html/00079400441317-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-revitalisant-2-en-1-mencare-regain-doxygene.html/00079400441317-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-original.html/00079400446060",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-original.html/00079400446060 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-essentiels-f.html/00079400446077",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-essentiels-f.html/00079400446077 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-dry-spray-antiperspirant-clean-comfort.html/00079400446190-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-dry-spray-antiperspirant-clean-comfort.html/00079400446190-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-extra-fresh-dry-spray-antiperspirant.html/00079400447128-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-extra-fresh-dry-spray-antiperspirant.html/00079400447128-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-invisible-fraicheur-satin.html/00079400448262",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-invisible-fraicheur-satin.html/00079400448262 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-essentiels-fraicheur.html/00079400448958",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-essentiels-fraicheur.html/00079400448958 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-purifiant-mencare-charcoal-clay.html/00079400451866-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-purifiant-mencare-charcoal-clay.html/00079400451866-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/mastic-modelable-mencare-thick-full.html/00079400452528-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/mastic-modelable-mencare-thick-full.html/00079400452528-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-stain-defence-fresh-antiperspirant-stick.html/00079400454096-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-stain-defence-fresh-antiperspirant-stick.html/00079400454096-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-poudre-douce.html/00079400454249",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-poudre-douce.html/00079400454249 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.702Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-revitalisant-2-en-1mencare-dermacare-scalp-cuir.html/00079400454485-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-revitalisant-2-en-1mencare-dermacare-scalp-cuir.html/00079400454485-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-beurre-de-karite.html/00079400459947",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-beurre-de-karite.html/00079400459947 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.702Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-parfum-de-pomme-et-the-blanc.html/00079400460196",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-advanced-care-parfum-de-pomme-et-the-blanc.html/00079400460196 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.702Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-a-sec-noix-de-coco-dove.html/00079400461797",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-a-sec-noix-de-coco-dove.html/00079400461797 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-a-sec-invisible-dove.html/00079400461803",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-a-sec-invisible-dove.html/00079400461803 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-0-aluminium-parfum-de-concombre-et-the-vert.html/00079400462213",
+      "error": "request to https://www.dove.com/ca/fr/p/desodorisant-0-aluminium-parfum-de-concombre-et-the-vert.html/00079400462213 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-0-aluminium-parfum-de-noix-de-coco-et-jasmin.html/00079400462237",
+      "error": "request to https://www.dove.com/ca/fr/p/desodorisant-0-aluminium-parfum-de-noix-de-coco-et-jasmin.html/00079400462237 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-hydration-fuel-2-en-1.html/00079400469267-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-hydration-fuel-2-en-1.html/00079400469267-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-secnourishing-secrets-pa.html/00079400469489",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-secnourishing-secrets-pa.html/00079400469489 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-secnourishing-secrets-ri.html/00079400469496",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-secnourishing-secrets-ri.html/00079400469496 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.757Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-baton-nourishing-secrets-rituel-apaisant-parf.html/00079400469502",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-baton-nourishing-secrets-rituel-apaisant-parf.html/00079400469502 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifiquenourishing-secrets-parfum-de-fleur-de-lotus.html/00079400469519",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifiquenourishing-secrets-parfum-de-fleur-de-lotus.html/00079400469519 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-0-aluminium-parfum-de-lavande-et-vanille.html/00079400469748",
+      "error": "request to https://www.dove.com/ca/fr/p/desodorisant-0-aluminium-parfum-de-lavande-et-vanille.html/00079400469748 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:06.755Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-eucalyptus-revitalizing-2-in-1-shampoo-conditioner.html/00079400475510-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-eucalyptus-revitalizing-2-in-1-shampoo-conditioner.html/00079400475510-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.871Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-sandalwood-amber-0-aluminum-deodorant-stick.html/00079400478894",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-rafraichissantmencar.html/00079400480415-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-rafraichissantmencar.html/00079400480415-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.903Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-en-vaporisateur-a-sec0-aluminium-noix-de-coc.html/00079400482327",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-baie-dacai-et-fleur-de-lot.html/00079400486318",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.989Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/recharges-de-desodorisant-en-baton0-daluminium-clean-tou.html/00079400490636-men-product-detail-page",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/recharges-de-desodorisant-en-batonmencare-0-daluminium-fe.html/00079400490650-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/recharges-de-desodorisant-en-batonmencare-0-daluminium-fe.html/00079400490650-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.902Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-morning-fresco-deodorant-stick.html/00079400496959-men-product-detail-page",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.986Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-midnight-classico-deodorant-stick.html/00079400496980-men-product-detail-page",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:11.812Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-paradiso-sunrise-deodorant-stick.html/00079400496997-men-product-detail-page",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.138Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-midnight-classico-dry-spray-antiperspirant.html/00079400497192-men-product-detail-page",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.933Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-antisudorifique-advanced-care-parfum-eau-de-coco-limette.html/00079400505255",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-vaporisateur-sec-advanced-care-parfum-eau-de-coco-limette.html/00079400505293",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:08.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-vaporisateur-sec-0-aluminium-parfum-lait-davoine-vanille.html/00079400505415",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.278Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-revitalisant-gingembre-et-noix-de-coco.html/00079400506009",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:11.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-revitalisant-cardamome-et-bois-de-santal.html/00079400506016",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-revitalisant-orange-et-sauge.html/00079400506023",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:14.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-desodorisant-vitamincare-framboise-et-rose.html/00079400509048",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.828Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-vitamincare-noix-de-coco-et-karite.html/00079400509062",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.855Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-desodorisant-vitamincare-concombre-et-melon.html/00079400509079",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.587Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-vaporisateur-sec-men-care-fraicheur-matinale.html/00079400510396",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-vaporisateur-sec-men-care-oasis-lunaire.html/00079400510440",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.555Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-desodorisant-men-care-cote-tropicale.html/00079400510839",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.401Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-antisudorifique-men-care-fraicheur-cool.html/00079400511065",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.422Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-pour-tout-le-corps-parfum-de-noix-de-coco-et-vanille.html/00079400512505",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.563Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/fixatif-non-aerosol-eclat-et-controle.html/00079400513250",
+      "error": "request to https://www.dove.com/ca/fr/p/fixatif-non-aerosol-eclat-et-controle.html/00079400513250 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-en-baton-sans-aluminium-parfum-de-fruit-du-dragon-creme-de-noix-de-coco.html/00079400514103",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.850Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-vaporisateur-sec-sans-aluminium-parfum-fruit-dragon-creme-noix-coco.html/00079400517043",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:14.632Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-en-baton-pour-tout-le-corps-men-care-beurre-de-karite-cedre.html/00079400520067",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.597Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-en-vaporisateur-pour-tout-le-corps-men-care-beurre-de-karite-cedre.html/00079400520074",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:14.736Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-en-vaporisateur-pour-tout-le-corps-men-care-marine-cypres-bleu.html/00079400520081",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.237Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-anti-frottement-framboise-et-rose.html/00079400526731",
+      "error": "request to https://www.dove.com/ca/fr/p/baton-anti-frottement-framboise-et-rose.html/00079400526731 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-antipelliculaire-derma-cuir-chevelu.html/00079400528100",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-antipelliculaire-derma-cuir-chevelu.html/00079400528100 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.978Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-derma-cuir-chevelu-s%C3%A9cheresse-et-d%C3%A9mangeaison.html/00079400528193",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:08.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-derma-cuir-chevelu-fortifiant-densit%C3%A9.html/00079400528230",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.914Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/revitalisant-derma-cuir-chevelu-stimulateur-de-r%C3%A9silience.html/00079400528520",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.516Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-s%C3%A9bo-correcteur-derma-cuir-chevelu.html/00079400528704",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.545Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/s%C3%A9rum-derma-cuir-chevelu-r%C3%A9paration-barri%C3%A8re.html/00079400528865",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.745Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-en-vaporisateur-corps-peche-et-the-blanc.html/00079400529213",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.563Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-vaporisateur-corps-noix-de-coco-vanille.html/00079400529237",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.142Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-en-vaporisateur-corporel-framboise-rose.html/00079400529244",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.416Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/s%C3%A9rum-%2B-huile-biphase-r%C3%A9paration-intensive-dove.html/00079400529626",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:11.768Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-desodorisant-sans-aluminium-touche-agrumes.html/00079400529930",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-desodorisant-sans-aluminium-bruine-a-la-rose.html/00079400529961",
+      "error": "request to https://www.dove.com/ca/fr/p/baton-desodorisant-sans-aluminium-bruine-a-la-rose.html/00079400529961 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.978Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-desodorisant-sans-aluminium-spritz-aux-baies.html/00079400529978",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.822Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/desodorisant-antisu-soin-avance-souffle-a-la-vanille.html/00079400530615",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.279Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-vapo-sec-beurre-de-karite-soin-avance.html/00079400531025",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:14.615Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-deodorant-en-baton-summit-bois-de-pecher-mandarine.html/00079400531322",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-deodorant-en-baton-horizon-gousse-de-vanille-bois-de-santal.html/00079400531339",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-deodorant-en-baton-horizon-gousse-de-vanille-bois-de-santal.html/00079400531339 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:14.978Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-deodorant-en-baton-breeze-feuilles-de-palmier-figue.html/00079400531346",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:13.785Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-deodorant-en-baton-coast-eucalyptus-bouleau.html/00079400531858",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:16:12.962Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-deodorant-en-baton-paradise-eau-de-coco-ananas.html/00079400531889",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-deodorant-en-baton-paradise-eau-de-coco-ananas.html/00079400531889 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.033Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/baton-desodorisant-sans-alum-noix-de-coco-jasmin-rose.html/00079400532183",
+      "error": "request to https://www.dove.com/ca/fr/p/baton-desodorisant-sans-alum-noix-de-coco-jasmin-rose.html/00079400532183 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.012Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-cool-fresh-dry-spray-antiperspirant.html/00079400545695-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-cool-fresh-dry-spray-antiperspirant.html/00079400545695-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.033Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/pate-modelante-a-tenue-moyenne-mencare.html/00079400550347-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/pate-modelante-a-tenue-moyenne-mencare.html/00079400550347-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.021Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-revitalisant-2-en-1-mencare-soin-complet.html/00079400553799-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-revitalisant-2-en-1-mencare-soin-complet.html/00079400553799-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.021Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/men-care-stain-defense-clean-dry-spray.html/00079400599551-men-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/men-care-stain-defense-clean-dry-spray.html/00079400599551-men-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.033Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-invisible-fi.html/00079400599568",
+      "error": "request to https://www.dove.com/ca/fr/p/antisudorifique-en-vaporisateur-a-sec-advanced-care-invisible-fi.html/00079400599568 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.033Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/ca/fr/p/shampooing-hydratation-riche.html/00079400639011-baby-dove-product-detail-page",
+      "error": "request to https://www.dove.com/ca/fr/p/shampooing-hydratation-riche.html/00079400639011-baby-dove-product-detail-page failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:16:23.021Z"
+    }
+  ]
+}

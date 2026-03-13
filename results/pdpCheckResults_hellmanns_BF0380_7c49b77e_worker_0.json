@@ -1,0 +1,62 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com.au/home.productfeed.json",
+  "totalUrlsChecked": 8,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 8,
+  "duration": "0.23s",
+  "speed": "34.78 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/real-mayonnaise-jar.html/05000184321064",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.898Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/truffle-mayonnaise-squeeze.html/08720182753465",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.910Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/plant-based-mayonnaise-jar.html/08720182839428",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.897Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/real-mayonnaise-squeeze.html/08722700479475",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.903Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/light-mayonnaise-squeeze.html/08720182343819",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.903Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/pub-style-garlic-aioli.html/08720182344267",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.915Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/light-mayonnaise-jar.html/08720182344656",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.898Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.au/p/peri-peri-mayonnaise-squeeze.html/08720182591401",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:28:19.907Z"
+    }
+  ]
+}

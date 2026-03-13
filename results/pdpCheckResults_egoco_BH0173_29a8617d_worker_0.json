@@ -1,0 +1,13 @@
+{
+  "brand": "egoco",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.co/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": 9,
+  "errors": 0,
+  "duration": "0.61s",
+  "speed": "14.75 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "sunsilk",
+  "assortmentCode": "BH0433",
+  "feedUrl": "https://www.sedal.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": 50,
+  "errors": 0,
+  "duration": "0.82s",
+  "speed": "60.98 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

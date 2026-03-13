@@ -1,0 +1,92 @@
+{
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.devegetarischeslager.nl/home.productfeed.json",
+  "totalUrlsChecked": 44,
+  "problematicPagesFound": 0,
+  "successfulPages": 31,
+  "errors": 13,
+  "duration": "0.69s",
+  "speed": "63.77 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kipnuggets.html/08718692783232",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.472Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/boterhamworst.html/08718692783430",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.473Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/petit-pate.html/08718692784727",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.472Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/nohotdog.html/08718692787254/ufs",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.468Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/geroockte-speckjes.html/08720182070272",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/auf-wieder-schnitzel.html/08720182194077",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.473Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/little-willies.html/08720182594235",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.452Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/sat%C3%A9-kipstuckjes.html/08720182594501",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.452Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kipstuckjes-voordeelverpakking.html/08720182612588",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.453Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kip-krockant.html/08720182617057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.453Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/leckerbekje.html/08720182814401",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.480Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/let-it-beef.html/08721201925283",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.500Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/zweedsche-gehacktballetjes.html/00720000257936",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:04.484Z"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/no/home.productfeed.json",
+  "totalUrlsChecked": 43,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 43,
+  "duration": "0.12s",
+  "speed": "358.33 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/silky-pampering-body-cream.html/00000040883007",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/go-fresh-cucumber-green-tea-antiperspirant-stick.html/00000050285662",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/men-care-advanced-clean-comfort-roll-on.html/00000059092582",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/men-care-advanced-sport-fresh-roll-on.html/00000059092636",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-acai-water-lily-roll-on.html/00000059092667",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.642Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-cucumber-roll-on.html/00000059092704",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.661Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-pomegranate-roll-on.html/00000059095316",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.643Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/classic-roll-on.html/00000059095354",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.661Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/fresh-roll-on.html/00000059095385",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.642Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-original-roll-on.html/00000059095842",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.642Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/original-stick.html/00000080466437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.659Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/men-care-clean-stick.html/00000096081754",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.675Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/caring-handsape.html/04000388177000",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/original-fast-sape.html/08000700000005",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.640Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/nourishing-secrets-glowing-ritual-handsape.html/08710447482704",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.677Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/colour-care-conditioner.html/08710522568163",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.643Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/refreshing-dusjsape.html/08710847936531",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/men-care-mineral-sage-dusjsape.html/08710908689871-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/glowing-ritual-body-lotion.html/08710908777004",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.665Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/daily-moisture-shampoo.html/08712561384841",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.641Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/intensive-repair-shampoo.html/08712561488280",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/colour-care-shampoo.html/08712561488297",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.666Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/intensive-repair-conditioner.html/08712561571333",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.644Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/daily-moisture-conditioner.html/08712561571388",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/go-fresh-cucumber-green-tea-handsape.html/08717163023839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/deeply-nourishing-body-wash-450-ml.html/08717163742815",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.658Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/deeply-nourishing-body-wash-225-ml.html/08717163742839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.683Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/reviving-dusjsape.html/08717163762028",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/men-care-clean-comfort-dusjsape.html/08717163766330-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.650Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/care-protect-handsape.html/08720181049361",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.651Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/cucumber-spray.html/08720181174070",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.670Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/pomegranate-spray.html/08720181174568",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/renewing-care-handsape.html/08720181195426",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.667Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/summer-revived-lys-til-medium.html/08720181260506",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.650Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/summer-revived-medium-til-mork.html/08720181260544",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-acai-water-lily-spray.html/08720181291418",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.665Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-original-spray.html/08720181291708",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-pomegranate-spray.html/08720181291814",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.650Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-cucumber-spray.html/08720181339936",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.659Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-care-reviving-dusjkrem.html/08720181460128",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.659Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-care-hydrating-care-dusjkrem.html/08720181462979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.681Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/advanced-care-glowing-care-dusjkrem.html/08720181465918",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/no/p/beauty-bar-refreshing-cucumber-and-green-tea.html/08720182259332",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.647Z"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "brand": "folicure",
+  "assortmentCode": "BH1005",
+  "feedUrl": "https://www.folicure.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 6,
+  "problematicPagesFound": 0,
+  "successfulPages": 2,
+  "errors": 4,
+  "duration": "0.53s",
+  "speed": "11.32 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caida-original-700-ml.html/07501059334717",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:56.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-limpieza-renovadora-700-ml.html/07506306213029",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:56.147Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-hidratacion-2en1-700-ml.html/07506306213050",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:56.152Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.folicure.com.mx/p/folicure-acondicionador-control-caida-humectacion-profunda-350-m.html/07506306213067",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:56.164Z"
+    }
+  ]
+}

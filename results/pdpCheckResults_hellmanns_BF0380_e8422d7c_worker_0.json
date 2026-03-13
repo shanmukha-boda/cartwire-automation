@@ -1,0 +1,26 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/ca/fr/home.productfeed.json",
+  "totalUrlsChecked": 26,
+  "problematicPagesFound": 0,
+  "successfulPages": 24,
+  "errors": 2,
+  "duration": "8.06s",
+  "speed": "3.23 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/ca/en/p/made-with-avocado-oil.html/00068400000525",
+      "error": "request to https://www.hellmanns.com/ca/en/p/made-with-avocado-oil.html/00068400000525 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:28:12.628Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/ca/fr/p/avec-huile-dolive-legere.html/00068400158066",
+      "error": "request to https://www.hellmanns.com/ca/fr/p/avec-huile-dolive-legere.html/00068400158066 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:28:12.628Z"
+    }
+  ]
+}

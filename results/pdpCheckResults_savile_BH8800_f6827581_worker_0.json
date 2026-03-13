@@ -1,0 +1,164 @@
+{
+  "brand": "savile",
+  "assortmentCode": "BH8800",
+  "feedUrl": "https://www.savilemexico.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": 25,
+  "errors": 25,
+  "duration": "4.26s",
+  "speed": "11.74 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/antitranspirante-en-barra-stick-savile-bicarbonato-y-limon.html/00000075068639",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.472Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/acondicionador-savile-linaza-y-sabila.html/07506192500968",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/acondicionador-savile-keratina-y-sabila.html/07506192500975",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savile-aguacate-y-sabila.html/07506192501019",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savile-2-en-1-miel-y-sabila.html/07506192501026",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savile-keratina-y-sabila.html/07506192501040",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.437Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savile-chile-y-sabila.html/07506192501057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/acondicionador-savile-aceite-de-argan-y-sabila.html/07506192504430",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.451Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savile-biotina-y-sabila.html/07506192505499",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.466Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/crema-para-peinar-savile-rizo-biotina.html/07506192505543",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savile-colageno-y-sabila.html/07506192506106",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savil%C3%A9-menta-y-eucalipto.html/07506192506564",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/acondicionador-savile-leche-de-coco-y-sabila.html/07506306215443",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.446Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/acondicionador-savil%C3%A9-leche-de-almendras.html/07506306215450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/antitranspirante-en-aerosol-savile-bicarbonato-y-limon.html/07506306215528",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savil%C3%A9-nopal-2-en-1.html/07506306221383",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.441Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/shampoo-savil%C3%A9-c%C3%A9lulas-madre-y-s%C3%A1bila.html/07506306251953",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.480Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/antitranspirante-en-roll-on-savil%C3%A9-bicarbonato-y-lim%C3%B3n.html/00000075068622",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/crema-para-peinar-savil%C3%A9-anti-esponjado-biotina.html/07506192505956",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.487Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/crema-para-peinar-savile-anti-esponjado-colageno.html/07506192506175",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/crema-para-peinar-savil%C3%A9-anti-esponjado-almendra.html/07506306213524",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/antitranspirante-en-aerosol-savil%C3%A9-concha-nacar.html/07506306215511",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.451Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/savil%C3%A9-tratamiento-capilar-fusi%C3%B3n-s%C3%A1bila-%2B15.html/07506306252431",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.434Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/savil%C3%A9-tratamiento-capilar-fusi%C3%B3n-s%C3%A1bila-%2B15-celulas-madre.html/07506306254497",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.savilemexico.com.mx/p/savil%C3%A9-tratamiento-capilar-fusi%C3%B3n-s%C3%A1bila-%2B15.html/27506306250592",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.466Z"
+    }
+  ]
+}

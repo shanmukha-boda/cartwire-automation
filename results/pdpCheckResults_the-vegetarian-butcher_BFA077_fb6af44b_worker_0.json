@@ -1,0 +1,98 @@
+{
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.devegetarischeslager.be/home.productfeed.json",
+  "totalUrlsChecked": 34,
+  "problematicPagesFound": 0,
+  "successfulPages": 20,
+  "errors": 14,
+  "duration": "5.45s",
+  "speed": "6.24 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.lebouchervegetarien.be/p/le-gehackt-super-h%C3%A2ch%C3%A9-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08718692788824",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.140Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lebouchervegetarien.be/p/braad-saucisse-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08718692789920",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.146Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lebouchervegetarien.be/p/le-schnitz-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08720182194114",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.141Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lebouchervegetarien.be/p/saucissekes-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08720182598059",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.146Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lebouchervegetarien.be/p/le-filet-croquant-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08720182666437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.142Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lebouchervegetarien.be/p/no-misteak-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08721201924033",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lebouchervegetarien.be/p/poulettekes-xl-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08721201902246",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.151Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.be/p/le-burger-very-chick.html/08718692789937",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.142Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.be/p/crispy-chic-burger.html/08720182095183",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.be/p/le-schnitz.html/08720182194114",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.141Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.be/p/saucissekes.html/08720182598059",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.156Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.be/p/le-filet-croquant.html/08720182666437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.146Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.be/p/golden-bleu.html/08720182705044",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.be/p/braad-saucisse.html/08720182806475",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:22.147Z"
+    }
+  ]
+}

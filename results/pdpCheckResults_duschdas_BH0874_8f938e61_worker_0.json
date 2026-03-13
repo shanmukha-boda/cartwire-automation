@@ -1,0 +1,94 @@
+{
+  "brand": "duschdas",
+  "assortmentCode": "BH0874",
+  "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+  "totalUrlsChecked": 20,
+  "problematicPagesFound": 1,
+  "successfulPages": 8,
+  "errors": 11,
+  "duration": "0.73s",
+  "speed": "27.40 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-night-out.html/08720181685880",
+      "gtin": "08720181685880",
+      "checkedAt": "2026-03-13T13:33:55.913Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=duschdas&locale=de-de&brand_code=BH0874&gtin=08720181685880",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-noire-3in1.html/08720181325380",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.526Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-ice-kick-2in1.html/08720181333996",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-acai-berry.html/08720181334016",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.525Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-zitrone-rosmarin.html/08720181334122",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.512Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-shampoo-for-men-3in1.html/08720181334580",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-sport-3in1.html/08720181334597",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.514Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-mandel-jojoba-(almond-jojoba).html/08720181400247",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.518Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-kokos-sheabutter-(cocos-shea-butter).html/08720181400254",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-hydra-kick.html/08720181559648",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.514Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-deep-relax.html/08720181559655",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.duschdas.de/p/duschgel-dfb-fan-edition-450ml.html/08720181798481",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:55.520Z"
+    }
+  ]
+}

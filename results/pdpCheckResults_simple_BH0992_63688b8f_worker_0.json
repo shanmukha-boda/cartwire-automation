@@ -1,0 +1,38 @@
+{
+  "brand": "simple",
+  "assortmentCode": "BH0992",
+  "feedUrl": "https://www.simpleskincare.com/th/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": 5,
+  "errors": 4,
+  "duration": "3.90s",
+  "speed": "2.31 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/th/p/kind-to-skin-replenishing-moisturiser.html/05011451103948",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:32.911Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/th/p/kind-to-skin-cleansing-facial-wipes.html/05011451103979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:32.912Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/th/p/kind-to-skin-soothing-facial-toner.html/08710447469378",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:32.911Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/th/p/kind-to-skin-micellar-facial-wipes.html/08712561909778",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:32.909Z"
+    }
+  ]
+}

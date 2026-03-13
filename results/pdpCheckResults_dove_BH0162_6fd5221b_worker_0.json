@@ -1,0 +1,434 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/uy/home.productfeed.json",
+  "totalUrlsChecked": 70,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 70,
+  "duration": "0.15s",
+  "speed": "466.67 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/men-care-antitranspirante-en-roll-on-men-care-clean-comfort.html/00000078927254-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-roll-on-go-fresh-granada-y-verbena.html/00000078935068",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-extra-fresh-men-care.html/07791293012063-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.335Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-invisible-dry-men-care.html/07791293022819-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.338Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/men-care-shampoo-sports.html/07791293034850-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/men-care-antitranspirante-sports.html/07791293037752-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-regeneracion.html/07791293038773",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.331Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-liquido-antibacterial-para-manos.html/07791293040325",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-invisible-care.html/07791293048529",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.332Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/men-care-jabon-cuerpo-barba-sports.html/07891150006072-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.336Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-liquido-para-el-cuerpo-leche-de-coco.html/07891150029309",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-en-barra-leche-de-coco.html/07891150034075",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.332Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-en-barra-agua-micelar.html/07891150057470",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.343Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-tocador-antibacterial.html/07891150075382",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.336Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-uv-repair-&-glow.html/07891150103474",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/tratamiento-de-rescate-capilar-uv-repair-&-glow.html/07891150103481",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.338Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/%C3%B3leo-bif%C3%A1sico-uv-repair-&-glow.html/07891150103504",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-uv-repair-&-glow-200ml.html/07891150104822",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-uv-repair-&-glow-400ml.html/07891150104839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.381Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-barra-original.html/00000075027513",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-roll-on-original.html/00000078924468",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.340Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-invisible-dry-roll-on.html/00000078924529",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-barra-original-clinical.html/00079400103147",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-original.html/07506306241183",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.334Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/s%C3%A9rum-corporal-pantenol.html/07506306252844",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/s%C3%A9rum-corporal-hialur%C3%B3nico.html/07506306252851",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/s%C3%A9rum-corporal-pro-ceramidas.html/07506306252868",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.334Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/s%C3%A9rum-corporal-niacinamida.html/07506306252875",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/s%C3%A9rum-corporal-pro-retinol.html/07506306252882",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/s%C3%A9rum-concentrado-corporal.html/07506306253070",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/b%C3%A1lsamo-concentrado.html/07506306253162",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.331Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-reconstruccion.html/07791293004976",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.355Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-reconstruccion.html/07791293005010",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.332Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-fresh-care-granada-y-verbena.html/07791293033266",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-sensitive-care.html/07791293033273",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/desodorante-dove-clinical-aerosol.html/07791293037882",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-regeneracion.html/07791293038759",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-original.html/07791293040011",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-reconstruccion.html/07791293042312",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.369Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-oleo-nutricion.html/07791293042329",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/men-care-antitranspirante-en-aerosol-protecion-total.html/07791293043210-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-fresh-care-pepino-y-te-verde.html/07791293048475",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-fresh-care-pomelo-y-limon.html/07791293048482",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-go-fresh-granada-y-verbena.html/07791293048499",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/antitranspirante-en-aerosol-fresh-care-pera-y-a-aloe-vera.html/07791293048505",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-bond-intense-repair-200ml.html/07791293051024",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.376Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/men-care-jabon-en-barra-cuidado-total.html/07891150006058-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-oleo-nutricion.html/07891150017368",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-liquido-original-para-manos.html/07891150017849",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-en-barra-karite-y-vainilla.html/07891150019560",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.343Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/men%2Bcare-shampoo-2-en-1-fuerza-extrema.html/07891150023505-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-humectacion-enriquecida.html/07891150025929-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.381Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-liquido-humectacion-enriquecida.html/07891150025981-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-en-barra-humectacion-enriquecida.html/07891150026025-baby-dove-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-en-barra-granada-y-verbena.html/07891150043923",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-hidratacion.html/07891150050464",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-hidratacion.html/07891150050501",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/jabon-liquido-nutricion-profunda.html/07891150063105",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/shampoo-hidratacion.html/07891150082656",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/mascara-de-tratamiento-fusion-oleos-nutricion.html/07891150094895",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.340Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/mascara-de-tratamiento-reconstruccion.html/07891150094918",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.343Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/mascara-de-tratamiento-hidratacion-liviana.html/07891150094949",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/serum-fluido-hidrtaci%C3%B3n-%2B-vitaminas-a-&-e.html/07891150095984",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/%C3%B3leo-bif%C3%A1sico-bond-intense-repair.html/07891150097124",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/tratamiento-de-rescate-capilar-bond-intense-repair.html/07891150097131",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/acondicionador-bond-intense-repair.html/07891150097148",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/%C3%B3leo-s%C3%A9rum-corporal-reafirmante.html/07891150104846",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/%C3%B3leo-s%C3%A9rum-corporal-hidratante.html/07891150104853",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/barra-de-belleza-original.html/07898422746759",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/uy/p/barra-de-belleza-exfoliante.html/07898422746827",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.338Z"
+    }
+  ]
+}

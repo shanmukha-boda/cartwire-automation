@@ -1,0 +1,44 @@
+{
+  "brand": "marmite",
+  "assortmentCode": "BF0556",
+  "feedUrl": "https://www.marmite.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 10,
+  "problematicPagesFound": 0,
+  "successfulPages": 5,
+  "errors": 5,
+  "duration": "0.94s",
+  "speed": "10.64 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.marmite.co.uk/p/marmite-personalised-classic-jar.html/00000003050002",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:55.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.marmite.co.uk/p/marmite-personalised-halloween-jar-treat.html/00000003050004",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:55.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.marmite.co.uk/p/marmite-personalised-halloween-jar-trick.html/00000003050005",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:55.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.marmite.co.uk/p/marmite-mug.html/00000003050008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:55.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.marmite.co.uk/p/marmite-spread-yeast-extract-70g.html/08712100782114",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:55.551Z"
+    }
+  ]
+}

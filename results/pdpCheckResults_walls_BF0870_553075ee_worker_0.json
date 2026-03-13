@@ -1,0 +1,260 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0870",
+  "feedUrl": "https://www.iubesteinghetata.ro/home.productfeed.json",
+  "totalUrlsChecked": 86,
+  "problematicPagesFound": 0,
+  "successfulPages": 45,
+  "errors": 41,
+  "duration": "14.07s",
+  "speed": "6.11 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/cornetto-king-cone-vanilla-260ml.html/05201028355508",
+      "error": "request to https://www.iubesteinghetata.ro/p/cornetto-king-cone-vanilla-260ml.html/05201028355508 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.588Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/viennetta-vanilla-650ml.html/08000920200025",
+      "error": "request to https://www.iubesteinghetata.ro/p/viennetta-vanilla-650ml.html/08000920200025 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/calippo-cola-105-ml.html/08000920461235",
+      "error": "request to https://www.iubesteinghetata.ro/p/calippo-cola-105-ml.html/08000920461235 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.588Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/ben&jerry%E2%80%99s-chocolate-fudge-brownie-100ml.html/08711200562718",
+      "error": "request to https://www.iubesteinghetata.ro/p/ben&jerry%E2%80%99s-chocolate-fudge-brownie-100ml.html/08711200562718 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.588Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/ben&jerry%E2%80%99s-strawberry-cheesecake-100ml.html/08711200859306",
+      "error": "request to https://www.iubesteinghetata.ro/p/ben&jerry%E2%80%99s-strawberry-cheesecake-100ml.html/08711200859306 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.588Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/ben&jerry's-cookie-dough-465ml.html/08711327373105",
+      "error": "request to https://www.iubesteinghetata.ro/p/ben&jerry%27s-cookie-dough-465ml.html/08711327373105 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/ben&jerry%E2%80%99s-strawberry-cheesecake-465ml.html/08711327374126",
+      "error": "request to https://www.iubesteinghetata.ro/p/ben&jerry%E2%80%99s-strawberry-cheesecake-465ml.html/08711327374126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/ben&jerry's-netflix-&-chill'd-465ml.html/08711327386334",
+      "error": "request to https://www.iubesteinghetata.ro/p/ben&jerry%27s-netflix-&-chill%27d-465ml.html/08711327386334 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/napoca-cornet-cacao-130ml.html/08711327436701",
+      "error": "request to https://www.iubesteinghetata.ro/p/napoca-cornet-cacao-130ml.html/08711327436701 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-pint-double-gold-caramel-billionaire-440ml.html/08711327480438",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-pint-double-gold-caramel-billionaire-440ml.html/08711327480438 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-double-gold-caramel-billionaire-85ml.html/08711327480537",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-double-gold-caramel-billionaire-85ml.html/08711327480537 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.588Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-mini-double-gold-caramel-billionaire-6x55ml.html/08711327485082",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-mini-double-gold-caramel-billionaire-6x55ml.html/08711327485082 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/max-x-pop-50ml.html/08711327485846",
+      "error": "request to https://www.iubesteinghetata.ro/p/max-x-pop-50ml.html/08711327485846 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.587Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/twister-green-80ml.html/08711327575646",
+      "error": "request to https://www.iubesteinghetata.ro/p/twister-green-80ml.html/08711327575646 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/twister-mini-8x50ml.html/08711327576810",
+      "error": "request to https://www.iubesteinghetata.ro/p/twister-mini-8x50ml.html/08711327576810 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-mini-double-sunlover-6x55ml.html/08711327580343",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-mini-double-sunlover-6x55ml.html/08711327580343 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.589Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-double-raspberry-85ml.html/08711327582996",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-double-raspberry-85ml.html/08711327582996 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/viennetta-chocolate-650ml.html/08711327589209",
+      "error": "request to https://www.iubesteinghetata.ro/p/viennetta-chocolate-650ml.html/08711327589209 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/ben&jerry's-sundae-dulce-de-lish-100ml.html/08711327593657",
+      "error": "request to https://www.iubesteinghetata.ro/p/ben&jerry%27s-sundae-dulce-de-lish-100ml.html/08711327593657 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-mini-classic-almond-white-chocolate-8x-55ml.html/08711327609419",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-mini-classic-almond-white-chocolate-8x-55ml.html/08711327609419 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-mini-yoghurt-&-raspberry-6x55ml.html/08711327611092",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-mini-yoghurt-&-raspberry-6x55ml.html/08711327611092 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.617Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-pint-classic-440ml.html/08711327611931",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-pint-classic-440ml.html/08711327611931 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.615Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-classic-110ml.html/08711327612372",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-classic-110ml.html/08711327612372 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-white-110ml.html/08711327612945",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-white-110ml.html/08711327612945 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/napoca-premium-biscui%C8%9Bi-cu-unt-900ml.html/08711327624818",
+      "error": "request to https://www.iubesteinghetata.ro/p/napoca-premium-biscui%C8%9Bi-cu-unt-900ml.html/08711327624818 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/napoca-premium-caramel-s%C4%83rat-900ml.html/08711327624849",
+      "error": "request to https://www.iubesteinghetata.ro/p/napoca-premium-caramel-s%C4%83rat-900ml.html/08711327624849 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/napoca-premium-ciocolat%C4%83-900ml.html/08711327625150",
+      "error": "request to https://www.iubesteinghetata.ro/p/napoca-premium-ciocolat%C4%83-900ml.html/08711327625150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/dracula-54-ml.html/08711327629790",
+      "error": "request to https://www.iubesteinghetata.ro/p/dracula-54-ml.html/08711327629790 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-bon-bon-white-chocolate-&-cookies-12-x-17ml.html/08711327639942",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-bon-bon-white-chocolate-&-cookies-12-x-17ml.html/08711327639942 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-bon-bon-double-gold-caramel-billionaire-12-x-17ml.html/08711327640306",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-bon-bon-double-gold-caramel-billionaire-12-x-17ml.html/08711327640306 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-bon-bon-salted-caramel-&-almonds-12-x-17ml.html/08711327640450",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-bon-bon-salted-caramel-&-almonds-12-x-17ml.html/08711327640450 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/everyday-c%C4%83p%C8%99une-900ml.html/08711327657045",
+      "error": "request to https://www.iubesteinghetata.ro/p/everyday-c%C4%83p%C8%99une-900ml.html/08711327657045 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-mini-double-hazelnut-6x55ml.html/08711327662773",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-mini-double-hazelnut-6x55ml.html/08711327662773 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-double-cherry-85ml.html/08711327663961",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-double-cherry-85ml.html/08711327663961 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-vegan-almond-3x90ml.html/08711327664500",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-vegan-almond-3x90ml.html/08711327664500 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/ben&jerry's-non-dairy-bohemian-raspberry-465ml.html/08711327667020",
+      "error": "request to https://www.iubesteinghetata.ro/p/ben&jerry%27s-non-dairy-bohemian-raspberry-465ml.html/08711327667020 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/magnum-double-hazelnut-85ml.html/08711327667174",
+      "error": "request to https://www.iubesteinghetata.ro/p/magnum-double-hazelnut-85ml.html/08711327667174 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.658Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/haribo-push-up-85ml.html/08711327667525",
+      "error": "request to https://www.iubesteinghetata.ro/p/haribo-push-up-85ml.html/08711327667525 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/napoca-premium-ciocolat%C4%83-alb%C4%83-&-migdale-110ml.html/08711327680012",
+      "error": "request to https://www.iubesteinghetata.ro/p/napoca-premium-ciocolat%C4%83-alb%C4%83-&-migdale-110ml.html/08711327680012 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.664Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/cornetto-max-chocolate-&-hazelnut-115ml.html/08711327681125",
+      "error": "request to https://www.iubesteinghetata.ro/p/cornetto-max-chocolate-&-hazelnut-115ml.html/08711327681125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.665Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.iubesteinghetata.ro/p/cornetto-max-tropical-115ml.html/08711327681293",
+      "error": "request to https://www.iubesteinghetata.ro/p/cornetto-max-tropical-115ml.html/08711327681293 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:09.664Z"
+    }
+  ]
+}

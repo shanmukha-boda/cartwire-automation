@@ -1,0 +1,122 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
+  "totalUrlsChecked": 36,
+  "problematicPagesFound": 0,
+  "successfulPages": 18,
+  "errors": 18,
+  "duration": "0.48s",
+  "speed": "75.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/mostarda-amarela.html/07891150027794",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/3-em-1.html/07891150027824",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.477Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-doypack-400g.html/07891150056916",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/molho-para-salada-rose-210ml.html/07891150070882",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/barbecue-sabor-shoyu-e-cebola-caramelizada-400g.html/07891150071230",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/barbecue-sabor-whisky-400g.html/07891150071247",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-tradicional-600g.html/07891150072053",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.477Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-vegana-squeeze-335g.html/07891150078185",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.486Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-doypack-800g.html/07891150078611",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.490Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-verde-squeeze-335g.html/07891150079892",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.482Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-squeeze-750g.html/07891150081208",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-churrasco-squeeze-335g.html/07891150090835",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-alho-squeeze-335g.html/07891150096462",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.483Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/ketchup-supreme-390g.html/07891150097940",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.479Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-doypack-200g.html/07894000030470",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.483Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-regular-250g.html/07894000050027",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.489Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-light-500g.html/07894000050720",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-supreme-230g.html/07891150101548",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:27:00.512Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0588",
+  "feedUrl": "https://www.miko.fr/home.productfeed.json",
+  "totalUrlsChecked": 105,
+  "problematicPagesFound": 0,
+  "successfulPages": 103,
+  "errors": 2,
+  "duration": "8.88s",
+  "speed": "11.82 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/magnum-cones-glac%C3%A9s-hazelnut-&-chocolate-cone-115-ml.html/08721274814873",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:19:37.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.miko.fr/p/solero-glace-bouch%C3%A9es-bonbon-parfum-fraise-&-citron-vert-12x16ml.html/08721274826500",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:19:37.804Z"
+    }
+  ]
+}

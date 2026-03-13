@@ -1,0 +1,242 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 38,
+  "duration": "0.11s",
+  "speed": "345.45 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/complete-care-menutrisi-melembutkan-antiperspirant-deodorant-ro.html/08999999005580",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.905Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/ultimate-repair-antiperspirant-deodorant-roll-on.html/08999999027865",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.921Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/dove-1-minute-super-conditioner-intensive-damage-treatment.html/08851932396707",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.910Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/dove-1-minute-super-conditioner-intensive-hair-fall-treatment.html/08851932396738",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.907Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/advanced-serum-body-wash-acne-control.html/08934868198871",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.912Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/advanced-serum-glow-recharge-body-wash.html/08934868198888",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.909Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/advanced-serum-body-wash-even-tone-radiance.html/08934868198895",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.922Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/advanced-serum-body-wash-vitality-renewal.html/08934868198901",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.906Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/white-beauty-bar.html/08999999026370",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.914Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/go-fresh-revive-body-wash.html/08999999028459",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/moisture-renew.html/08999999030575",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.904Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/go-fresh-touch-body-wash.html/08999999030629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.932Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/perawatan-rambut-rontok-serum-conditioner.html/08999999037154",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.910Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/kondisioner-untuk-perawatan-rambut-rusak.html/08999999037192",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.917Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/go-fresh-cucumber-green-tea-antiperspirant-deodorant-roll-on.html/08999999519865",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.909Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/go-fresh-deodorant-roll-on-pomegrante-and-lemon-verbena.html/08999999519872",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.915Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/dove-creambath-hair-growth-ritual.html/08999999536008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.916Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/deodorant-dry-serum-3%25-niacinamide-%2B-10x-collagen.html/08999999548612",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/deodorant-dry-serum-3%25-niacinamide-%2B-10x-omega-6.html/08999999548629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.921Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/3-in-1-super-shampoo-dengan-serum-atasi-rambut-rontok-anti-ketom.html/08999999560423",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.905Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/sampo-untuk-perawatan-rambut-berkilau.html/08999999573058",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.906Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/sampo-untuk-perawatan-rambut-anti-lepek.html/08999999573065",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.913Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/sampo-untuk-perawatan-anti-ketombe.html/08999999573102",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.919Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/sampo-untuk-perawatan-rambut-rusak.html/08999999573133",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.913Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/sampo-serum-perawatan-rambut-rontok.html/08999999573157",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.909Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/hair-boost-nourishment.html/08999999584214",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/tonik-rambut-untuk-perawatan-rambut-rontok.html/08999999595357",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.919Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/deodorant-serum-roll-on-3%25-niacinamide-%2B-10x-collagen.html/08999999601430",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.912Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/deodorant-serum-roll-on-3%25-niacinamide-%2B-10x-omega-6.html/08999999601447",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.909Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/deodorant-serum-roll-on-3%25-niacinamide-%2B-10x-vitamin-c%25e.html/08999999601454",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/deodorant-dry-serum-3%25-niacinamide-%2B-10x-vitamin-c&e.html/08999999604332",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.941Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/sensitive-relief.html/08999999606824",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/pampering-care.html/08999999606831",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.912Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-pomegranate.html/08999999617202",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.931Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-sugar-&-coconut.html/08999999617219",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.912Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-sakura.html/08999999617226",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.918Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/powder-soft-antiperspirant-deodorant-spray.html/09300830037803",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/id/p/original-nourished-and-smooth-antiperspirant-deodorant-spray.html/09300830037810",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.924Z"
+    }
+  ]
+}

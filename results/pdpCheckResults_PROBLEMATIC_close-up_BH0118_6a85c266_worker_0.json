@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-03-13T13:31:00.156Z",
+  "brand": "close-up",
+  "assortmentCode": "BH0118",
+  "feedUrl": "https://www.close-up.com/id/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "feedUrl": "https://www.close-up.com/id/home.productfeed.json",
+      "url": "https://www.close-up.com/id/p/closeup-x-wicked-limited-edition.html/08999999614881",
+      "gtin": "08999999614881",
+      "checkedAt": "2026-03-13T13:30:55.242Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=closeup&locale=id-id&brand_code=BH0118&gtin=08999999614881",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

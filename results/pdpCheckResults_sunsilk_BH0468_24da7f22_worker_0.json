@@ -1,0 +1,122 @@
+{
+  "brand": "sunsilk",
+  "assortmentCode": "BH0468",
+  "feedUrl": "https://www.sunsilk.com/arabia/ar/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 20,
+  "errors": 18,
+  "duration": "4.55s",
+  "speed": "8.35 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/black-shine-shampoo.html/06281006424562",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/black-shine-conditioner.html/06281006443914",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.457Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/hair-fall-solution-conditioner.html/06281006443952",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.469Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/soft-smooth-conditioner.html/06281006444096",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.472Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/thick-long-conditioner.html/06281006520868",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.474Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/thick-long-hair-oil.html/06281006545724",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.466Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/honey-anti-breakage.html/06281006425002",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.475Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/coconut-moisture.html/06281006425125",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.467Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/honey-anti-breakage.html/06281006444157",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.477Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/coconut-moisture.html/06281006444218",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.468Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/goodbye-hair-fall-(castor-&-almond-oil).html/06281006453142",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.469Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/curls-moisture.html/06281006534179",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.477Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/strength-&-shine.html/06281006547322",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.482Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/soft-&-smooth.html/06281006547353",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.478Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/frizz-proof-(coconut-oil).html/06281006547407",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.499Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/out-with-damage.html/06281006612938",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/moisture-bomb.html/06281006617070",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.509Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sunsilk.com/arabia/ar/p/strength-&-shine.html/06281006618145",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:30:10.493Z"
+    }
+  ]
+}

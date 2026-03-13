@@ -1,0 +1,188 @@
+{
+  "brand": "lipton",
+  "assortmentCode": "BF0648",
+  "feedUrl": "https://www.liptonicetea.pt/home.productfeed.json",
+  "totalUrlsChecked": 37,
+  "problematicPagesFound": 0,
+  "successfulPages": 8,
+  "errors": 29,
+  "duration": "8.13s",
+  "speed": "4.55 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ch%C3%A1-verde-p%C3%AAssego-branco-1l.html/08710604795333",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ch%C3%A1-verde-p%C3%AAssego-branco-1l.html/08710604795333 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-zero-a%C3%A7%C3%BAcar-2l.html/08711327407121",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-zero-a%C3%A7%C3%BAcar-2l.html/08711327407121 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-zero-a%C3%A7%C3%BAcar-1l.html/08711327488052",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-zero-a%C3%A7%C3%BAcar-1l.html/08711327488052 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.285Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ie-tea-p%C3%AAssego-zero-a%C3%A7%C3%BAcar-1l.html/08711327488069",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ie-tea-p%C3%AAssego-zero-a%C3%A7%C3%BAcar-1l.html/08711327488069 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-melancia-e-hortel%C3%A3-2l.html/08711327509474",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-melancia-e-hortel%C3%A3-2l.html/08711327509474 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ch%C3%A1-verde-citrus-1l.html/08711327530126",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ch%C3%A1-verde-citrus-1l.html/08711327530126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-25cl.html/08711327580909",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-25cl.html/08711327580909 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-25cl.html/08711327580916",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-25cl.html/08711327580916 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.285Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-150cl.html/08711327580961",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-150cl.html/08711327580961 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.254Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-150cl.html/08711327580978",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-150cl.html/08711327580978 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-50cl.html/08711327580985",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-50cl.html/08711327580985 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-50cl.html/08711327580992",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-50cl.html/08711327580992 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-1l.html/08711327583122",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-1l.html/08711327583122 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-3x20cl.html/08711327583139",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-3x20cl.html/08711327583139 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-3x20cl.html/08711327583146",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-3x20cl.html/08711327583146 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-2l.html/08711327587199",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-2l.html/08711327587199 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-zero-a%C3%A7%C3%BAcar-2l.html/08711327587632",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-zero-a%C3%A7%C3%BAcar-2l.html/08711327587632 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-2x2l.html/08711327587809",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-lim%C3%A3o-2x2l.html/08711327587809 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-2x2l.html/08711327587816",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-p%C3%AAssego-2x2l.html/08711327587816 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.254Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-2x2l.html/08711327628984",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-2x2l.html/08711327628984 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.286Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-2l.html/08711327629028",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-2l.html/08711327629028 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-3x20cl.html/08711327631373",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-3x20cl.html/08711327631373 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.254Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-50cl.html/08711327631557",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-50cl.html/08711327631557 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.254Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-25cl.html/08711327631861",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-25cl.html/08711327631861 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.254Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-1l.html/08711327631984",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-1l.html/08711327631984 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-ice-tea-manga-150cl.html/08711327632035",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-ice-tea-manga-150cl.html/08711327632035 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.254Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-kombucha-morango-hortel%C3%A3-33cl.html/08711327636828",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-kombucha-morango-hortel%C3%A3-33cl.html/08711327636828 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-kombucha-framboesa-33cl.html/08711327637047",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-kombucha-framboesa-33cl.html/08711327637047 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.pt/p/lipton-iced-tea-ch%C3%A1-verde-morango-2l.html/08711327637955",
+      "error": "request to https://www.liptonicetea.pt/p/lipton-iced-tea-ch%C3%A1-verde-morango-2l.html/08711327637955 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:07.287Z"
+    }
+  ]
+}

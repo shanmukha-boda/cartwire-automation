@@ -1,0 +1,164 @@
+{
+  "brand": "big-milk",
+  "assortmentCode": "BF2003",
+  "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+  "totalUrlsChecked": 34,
+  "problematicPagesFound": 5,
+  "successfulPages": 15,
+  "errors": 14,
+  "duration": "0.86s",
+  "speed": "39.53 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-owoce-egotyczne-intense.html/08711327532755",
+      "gtin": "08711327532755",
+      "checkedAt": "2026-03-13T13:33:13.487Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327532755",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-truskawki-intense.html/08711327624665",
+      "gtin": "08711327624665",
+      "checkedAt": "2026-03-13T13:33:13.752Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327624665",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-wanilia.html/08711327666894",
+      "gtin": "08711327666894",
+      "checkedAt": "2026-03-13T13:33:13.712Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327666894",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327667303",
+      "gtin": "08711327667303",
+      "checkedAt": "2026-03-13T13:33:13.643Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327667303",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327667570",
+      "gtin": "08711327667570",
+      "checkedAt": "2026-03-13T13:33:13.485Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327667570",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-slony-karmel-intense.html/08711327334601",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-trio-crunchy.html/08711327590229",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-sandwich.html/08711327622494",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-sandwich.html/08711327622623",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-ciasteczko-intense.html/08711327624306",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-karmel.html/08711327624429",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327624962",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-straciatella-karmel.html/08711327629349",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-big-rozek-mango-biala-czekolada.html/08711327662254",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-wafelek.html/08711327669819",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-jagoda-%C5%9Bmietanka.html/08711327672949",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-king-cone-rozek-waniliowy-z-sosem-czekoladowym.html/08711327677579",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-trio-chrup.html/08711327677982",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bigmilk.pl/p/big-milk-smietanka-intense.html/08711327683310",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:13.356Z"
+    }
+  ]
+}

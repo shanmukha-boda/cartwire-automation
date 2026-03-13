@@ -1,0 +1,152 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/ph/home.productfeed.json",
+  "totalUrlsChecked": 23,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 23,
+  "duration": "0.08s",
+  "speed": "287.50 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/liquid-seasoning-chili.html/04800888218889",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.220Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/shrimp-bisque-soup.html/04800888221537",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/cream-of-pumpkin-soup.html/04800888221544",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/liquid-seasoning-original-sachet.html/04800888225245",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.213Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/sinigang-na-may-miso.html/04800888600219",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/sinigang-sa-sampalok-original.html/04800888600790",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.211Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/beef-cube.html/04800888601001",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/chicken-cube.html/04800888601032",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.211Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/pork-cube.html/04800888601087",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.204Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/shrimp-cube.html/04800888601100",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.227Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/sinigang-na-isda.html/04800888603180",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.204Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/chicken-and-corn-soup.html/04808680210759",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.214Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/nido-oriental-soup.html/04808680210902",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.210Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/crab-and-corn-soup.html/04808680211251",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.226Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/cream-of-corn-soup.html/04808680221151",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/cream-of-mushroom-soup.html/04808680221250",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/chicken-noodle-soup.html/04808680221359",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.221Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/liquid-seasoning.html/04808680230764",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.210Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/sinigang-na-may-gabi.html/04808680652146",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/hot-meals-instant-arroz-caldo.html/08850144224235",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/hot-meals-instant-pork-congee.html/08850144224242",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.218Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/hot-meals-instant-beef-goto.html/08850144226727",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ph/p/ginataang-gulay-recipe-mix.html/04800888603364",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.218Z"
+    }
+  ]
+}

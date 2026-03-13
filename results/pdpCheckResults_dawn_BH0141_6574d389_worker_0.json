@@ -1,0 +1,86 @@
+{
+  "brand": "dawn",
+  "assortmentCode": "BH0141",
+  "feedUrl": "https://www.dawn.co.za/home.productfeed.json",
+  "totalUrlsChecked": 30,
+  "problematicPagesFound": 0,
+  "successfulPages": 18,
+  "errors": 12,
+  "duration": "0.56s",
+  "speed": "53.57 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-lotion.html/06001087009928",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-aloe-vera-and-avocado-oil-body-lotion.html/06001087012331",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.839Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-rich-lanolin-and-rose-water-body-lotion.html/06001087012362",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-tropical-cream-and-papaya-oil-body-lotion.html/06001087012386",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.852Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-vitamin-e-and-argan-oil-body-lotion.html/06001087012393",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.862Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-vitamin-e-and-argan-oil-body-cream.html/06001087370875",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.857Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-special-musk-and-jojoba-oil-body-cream.html/06001087371032",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.867Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-black-white-antiperspirant-roll-on.html/00000060028297",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.822Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-cool-musk-antiperspirant-roll-on.html/00000060028310",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-gentle-aloe-antiperspirant-roll-on.html/00000060028334",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-black-white-antiperspirant-roll-on.html/00000060028341",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.867Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-cream.html/06001087371278",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:10.836Z"
+    }
+  ]
+}

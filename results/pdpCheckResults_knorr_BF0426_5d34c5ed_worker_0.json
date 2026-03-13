@@ -1,0 +1,476 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/gr/home.productfeed.json",
+  "totalUrlsChecked": 77,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 77,
+  "duration": "0.13s",
+  "speed": "592.31 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/bio-kivos-kotas.html/05201080102089",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.619Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/aromat-migma-lahanikon-kai-myrodikon.html/05201080102294",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/extra-geusi-zomos-lahanikon.html/05201080102454",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.620Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-lahanikon.html/05201080102706",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.619Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-lahanikon.html/05201080102713",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.622Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-lahanikon.html/05201080102720",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.634Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/poures-patatas-250g.html/05201080117229",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.619Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/poures-patatas-me-gala.html/05201080117441",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kivos-manitariwn.html/08000830001194",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.620Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kotosoupa.html/08710447921272",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/xxl-pasta-snack-pot-carbonara.html/08710522617960",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-gia-vodino.html/08710522692165",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.619Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/potato-pot.html/08710522729755",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/tomatosoupa-me-krouton.html/08710522820445",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.620Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kivos-lahanikon-horis-alati.html/08710522941355",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.619Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/etoimi-saltsa-gia-zymarika-meli-moustarda.html/08710604746052",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/etoimi-saltsa-gia-zymarika-tomata-piperia.html/08710604746076",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/etoimi-saltsa-gia-zymarika-manitari.html/08710604746199",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.642Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/etoimi-saltsa-gia-zymarika-milaneze.html/08710604746212",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.619Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/saltsa-sweet-sour.html/08710908934674",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/saltsa-teriyaki.html/08710908934759",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.620Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-kotas.html/08711200400393",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-kotas.html/08711200403899",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-kotas.html/08711200404988",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.620Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-gia-vodino.html/08711200468782",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-gia-vodino.html/08711200468799",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/klasikos-kivos-gia-vodino.html/08711200468812",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/pasta-snack-pot-mushroom.html/08711327416321",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/pasta-snack-pot-bolognese.html/08711327418356",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/pasta-snack-pot-carbonara.html/08711327420618",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/mix-for-salads-anithos-kremmydi.html/08712100518096",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/egg-noodles.html/08712100864742",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/saltsa-soyas.html/08712423034983",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/chips-garidas-me-piperi-kayen.html/08712423052864",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/chips-garidas-me-mpaharika.html/08712423052888",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.644Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/poures-patatas-95g.html/08712566087822",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/extra-geusi-gia-kreas.html/08712566373789",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.640Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/soupa-lahanikon-me-krouton.html/08714100263112",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/manitarosoupa.html/08714100263969",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/bio-kivos-lahanikon.html/08714100915349",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.650Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-bio-lahanikon.html/08717163881347",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/pasta-snack-pot-mac-cheese.html/08717163899915",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.641Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/saltsa-gia-zymarika-bolognese.html/08718114812908",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.644Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/saltsa-gia-zymarika-carbonara.html/08718114813028",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.667Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/saltsa-gia-zymarika-4-tyria.html/08718114813134",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/saltsa-gia-zymarika-napolitaine.html/08718114813394",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.644Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-gia-vodino.html/08718114871318",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.675Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-lahanikon.html/08718114871370",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-kotas.html/08718114871530",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kotosoupa-fide.html/08720181140846",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/snack-pot-asia-noodles.html/08720182010872",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/soupa-lahanikon-abc.html/08720182011589",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.663Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/manitarosoupa.html/08720182065971",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/tomatosoupa-me-motsarela.html/08720182066275",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.665Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kivos-gia-ospria.html/08720182292339",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kivos-gia-zimarika.html/08720182293220",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/pasta-snack-pot-pesto.html/08720182335746",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.658Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/chips-garidas-klasiki.html/08720182517289",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.681Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/special-noodles-teryiaki.html/08720182673251",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.672Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/special-noodles-korea-bbq.html/08720182675330",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.651Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/pasta-snack-pot-broccoli-&-cheese.html/08720182684042",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/noodles-curry.html/08720182804891",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.642Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/noodles-kotopoulo.html/08720182821584",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.662Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/noodles-laxanikwn.html/08720182821591",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.670Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/snack-pot-asia-noodles.html/08720182848734",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.659Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/snack-pot-asia-noodles.html/08720182867933",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/snack-pot-asia-noodles.html/08720182868053",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.676Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/noodles-spicy-chicken.html/08720182882325",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kivos-kotas-me-ligotero-alati.html/08720182983381",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.650Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kivos-laxanikwn-me-ligotero-alati.html/08720182983404",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.642Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/kivos-bodino-me-ligotero-alati.html/08720182983411",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.669Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/extra-geusi-kotas.html/08721201910463",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.644Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/noodles-teriyaki-chicken.html/08721201927102",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-lahanikon.html/08721201964008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.643Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-lahanikon.html/08721201964015",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.651Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-kotas.html/08722700472704",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.662Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/gr/p/spitikos-zomos-lahanikon.html/08722700473022",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.647Z"
+    }
+  ]
+}

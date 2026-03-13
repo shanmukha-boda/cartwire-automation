@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0012",
+  "feedUrl": "https://www.sharehappy.it/home.productfeed.json",
+  "totalUrlsChecked": 129,
+  "problematicPagesFound": 0,
+  "successfulPages": 129,
+  "errors": 0,
+  "duration": "13.81s",
+  "speed": "9.34 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

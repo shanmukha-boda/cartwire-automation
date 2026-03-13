@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-03-13T13:25:22.570Z",
+  "brand": "rexona",
+  "assortmentCode": "BH0413",
+  "feedUrl": "https://www.rexona.com/nl/home.productfeed.json",
+  "totalProblematicPages": 3,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/nl/home.productfeed.json",
+      "url": "https://www.rexona.com/nl/p/invisible-b&w-stick-anti-transpirant-voor-vrouwen.html/00000059097921",
+      "gtin": "00000059097921",
+      "checkedAt": "2026-03-13T13:25:21.484Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=nl-nl&brand_code=BH0413&gtin=00000059097921",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/nl/home.productfeed.json",
+      "url": "https://www.rexona.com/nl/p/bright-bouquet-anti-transpirant-voor-vrouwen.html/08720181446160",
+      "gtin": "08720181446160",
+      "checkedAt": "2026-03-13T13:25:20.728Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=nl-nl&brand_code=BH0413&gtin=08720181446160",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/nl/home.productfeed.json",
+      "url": "https://www.rexona.com/nl/p/sport-cool-anti-transpirant-voor-mannen.html/08720181446207",
+      "gtin": "08720181446207",
+      "checkedAt": "2026-03-13T13:25:20.776Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=nl-nl&brand_code=BH0413&gtin=08720181446207",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

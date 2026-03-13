@@ -1,0 +1,20 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.in/home.productfeed.json",
+  "totalUrlsChecked": 24,
+  "problematicPagesFound": 0,
+  "successfulPages": 23,
+  "errors": 1,
+  "duration": "8.10s",
+  "speed": "2.96 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.in/p/sweet-corn-chicken-soup.html/08901030516573",
+      "error": "request to https://www.knorr.in/p/sweet-corn-chicken-soup.html/08901030516573 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:24:33.511Z"
+    }
+  ]
+}

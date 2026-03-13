@@ -1,0 +1,206 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/th/home.productfeed.json",
+  "totalUrlsChecked": 32,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 32,
+  "duration": "0.12s",
+  "speed": "266.67 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/tomyam-cube-72g.html/08850144058236",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.983Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/corn-flour-200g.html/08850144074014",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.987Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/frying-flour-120g.html/08850144200550",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.963Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/pork-seasoning-powder-400g.html/08850144201793",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/chicken-seasoning-powder-400g.html/08850144201809",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.978Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/beef-cube-20g.html/08850144206415",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.974Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/shitake-cube-60g.html/08850144206538",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.968Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/chicken-cube-80g.html/08850144206552",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/pork-cube-80g.html/08850144206576",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.963Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/pork-jok-cup-32g.html/08850144207894",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.004Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/chicken-jok-sachet-32g.html/08850144208099",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.013Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/pork-and-seaweed-jok-sachet-32g.html/08850144213963",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.962Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/meal-maker-laab-namtok-30g.html/08850144215141",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.980Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/fish-jok-sachet-32g.html/08850144215745",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.967Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/natural-pork-cube-80g.html/08850144224105",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.979Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/natural-pork-seasoning-powder-70g.html/08850144224150",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.979Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/pork-aroysure-150g.html/08850144224792",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.963Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/chicken-aroysure-400g.html/08850144224822",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.008Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/shitake-aroysure-powder-150g.html/08850144228530",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.974Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/chicken-garlic-jok-sachet-32g.html/08850144229841",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.962Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/lime-powder-22g.html/08850144231875",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.978Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/ham-egg-jok-sachet-35g.html/08851932438827",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.982Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/chicken-jok-cup-32g.html/08850144207870",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.970Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/pork-jok-sachet-32g.html/08850144208112",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.973Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/shrimp-jok-cup-32g.html/08850144208792",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.981Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/shrimp-jok-sachet-32g.html/08850144208822",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/pork-seaweed-jok-cup-32g.html/08850144213949",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.979Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/fish-jok-cup-32g.html/08850144215783",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.964Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/suki-cube-72g.html/08850144225645",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/chicken-garlic-jok-cup-32g.html/08850144229827",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.968Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/cheesy-egg-jok-cup-28g.html/08850144231387",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.008Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/th/p/ham-egg-jok-cup-35g.html/08850144231547",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.983Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0143",
+  "feedUrl": "https://www.degreedeodorant.com/ca/fr/home.productfeed.json",
+  "totalUrlsChecked": 104,
+  "problematicPagesFound": 0,
+  "successfulPages": 103,
+  "errors": 1,
+  "duration": "0.58s",
+  "speed": "179.31 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.degreedeodorant.com/ca/fr/p/degree-r-ultraclear-black-white-72h-antisudorifique-en-baton-pour-femmes-48g.html/00079400638809",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:26:20.126Z"
+    }
+  ]
+}

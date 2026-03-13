@@ -1,0 +1,62 @@
+{
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.thevegetarianbutcher.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 16,
+  "problematicPagesFound": 0,
+  "successfulPages": 8,
+  "errors": 8,
+  "duration": "5.95s",
+  "speed": "2.69 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/little-willies.html/08718692784659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.249Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/nobeef-burger.html/08718692786554",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.229Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/nohotdog.html/08718692787254",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.232Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/nomince.html/08718692786639",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.229Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/what-the-cluck.html/08718692786820",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.233Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/frozen-unbelievaballs.html/08720182185983",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.233Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/frozen-little-peckers.html/08720182186003",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.241Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.co.uk/p/impeckable-chicken-breast.html/08720182355560",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:05.237Z"
+    }
+  ]
+}

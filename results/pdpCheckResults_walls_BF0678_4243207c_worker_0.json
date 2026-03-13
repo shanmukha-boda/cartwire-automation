@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0678",
+  "feedUrl": "https://www.heladospinguino.com.ec/home.productfeed.json",
+  "totalUrlsChecked": 49,
+  "problematicPagesFound": 0,
+  "successfulPages": 49,
+  "errors": 0,
+  "duration": "5.73s",
+  "speed": "8.55 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

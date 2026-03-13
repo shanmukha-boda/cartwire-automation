@@ -1,0 +1,206 @@
+{
+  "brand": "smile",
+  "assortmentCode": "BH0322",
+  "feedUrl": "https://www.mentadent.it/home.productfeed.json",
+  "totalUrlsChecked": 62,
+  "problematicPagesFound": 0,
+  "successfulPages": 30,
+  "errors": 32,
+  "duration": "0.81s",
+  "speed": "76.54 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-bianco-quotidiano.html/08717163733653",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.774Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-freschezza-quotidiana.html/08717163733677",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.793Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-dentifricio.html/08717163746684",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.745Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-crystal-gel.html/08717163746691",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.748Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-c-fresh.html/08717163746714",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.791Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-p-prevenzione-completa-con-antibatterico.html/08717163747803",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.792Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-m-microgranuli.html/08717163747827",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.778Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-carbone-attivo.html/08717163753095",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.750Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect-gengive.html/08720181297076",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.746Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-protect-ultra-clean.html/08720181297083",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-revitalize.html/08720181311185/whitenow-pdp",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.746Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-detox-cocco.html/08720181318849/whitenow-pdp",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.746Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-gengive-forti-antiplacca.html/08720181684265",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.756Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-3in1-original.html/08720181696992",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.761Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional-gengive-forti-protezione-completa.html/08720181699535",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.765Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-beauty-booster.html/08720181740329",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-spazzolino-junior-6-13-anni.html/09014200243687",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.765Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-collutorio-p-300ml.html/00000080002734",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.772Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-spazzolino.html/00000080567080",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.791Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-sensitive-expert.html/08000630042397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.792Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-collutorio-p-500ml.html/08000630046203",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.792Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-p-setole-con-antibatterico.html/08710522590225",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.792Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-vertical-expert.html/08711600969025",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.787Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-tecnic-x3.html/08712561493611",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.787Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-vertical-expert-sensitive.html/08712561510011",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-protezione-famiglia-x2.html/08717163375327",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-professional.html/08717163443484",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-pocket.html/08717163494332",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.789Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-carbone-setole-con-antibatterico.html/08720181113949",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-system-bicarbonato.html/08720181121012",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-white-now-detox.html/08720181318856/whitenow-pdp",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.790Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.mentadent.it/p/mentadent-dentifricio-kids-0-6-anni.html/08720181501395",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:07.796Z"
+    }
+  ]
+}

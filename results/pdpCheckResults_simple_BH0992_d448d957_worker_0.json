@@ -1,0 +1,134 @@
+{
+  "brand": "simple",
+  "assortmentCode": "BH0992",
+  "feedUrl": "https://www.simpleskincare.com/sg/home.productfeed.json",
+  "totalUrlsChecked": 40,
+  "problematicPagesFound": 0,
+  "successfulPages": 20,
+  "errors": 20,
+  "duration": "4.62s",
+  "speed": "8.66 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/simple-hydrating-light-moisturiser-pouch.html/00000068125795",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/simple-moisturising-facial-wash-pouch.html/00000068125797",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.474Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-smoothing-facial-scrub.html/05011451103894",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-cleansing-facial-wipes.html/05011451103979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.472Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/regeneration-age-resisting-cleansing-wipes.html/05011451104204",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/spotless-skin-quick-fix-cleansing-wipes.html/05011451106284",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.466Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/soothing-anti-perspirant-deodorant-roll-on.html/00000087342826",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.467Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-purifying-cleansing-lotion.html/05011451103849",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.465Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/regeneration-age-resisting-eye-cream.html/05011451104013",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.470Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/regeneration-age-resisting-facial-wash.html/05011451104020",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.469Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/water-boost-hydrating-facial-wipes.html/08710447172087",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-de-stress-sheet-mask.html/08710447229606",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.468Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-rich-moisture-sheet-mask.html/08710447229620",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/water-boost-hydrating-sheet-mask.html/08710447309421",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.469Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-hydrating-cleansing-oil.html/08710908131691",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.472Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-dual-effect-eye-make-up-remover.html/08710908131769",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.473Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/kind-to-skin-moisturising-handwash.html/08712561847247",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.468Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/water-boost-micellar-water-shower-gel.html/08714100011379",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.480Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/simple-refreshing-shower-gel.html/08886467032097",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.475Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/sg/p/simple-nourishing-shower-gel.html/08886467032103",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:14.474Z"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "brand": "bango",
+  "assortmentCode": "BF0917",
+  "feedUrl": "https://www.bango.co.id/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": 2,
+  "errors": 5,
+  "duration": "0.67s",
+  "speed": "10.45 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-botol-620ml.html/08990121011028",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:56.858Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-sachet-18ml.html/08999999533496",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:56.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-less-sugar-520ml.html/08999999541897",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:56.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-hitam-gurih-55g.html/08999999596507",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:56.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.bango.co.id/p/bango-kecap-manis-hitam-gurih-550g.html/08999999596521",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:56.852Z"
+    }
+  ]
+}

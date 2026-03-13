@@ -1,0 +1,302 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/uy/home.productfeed.json",
+  "totalUrlsChecked": 48,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 48,
+  "duration": "0.13s",
+  "speed": "369.23 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-saludable-de-verdura-reducido-en-sodio.html/07794000561618",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-verdura-x12.html/07794000597518",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.388Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-gallina-x12.html/07794000597525",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-carne-x12.html/07794000597532",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-verdura-x6.html/07794000597600",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.369Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-gallina-x6.html/07794000597648",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-verdura-x2.html/07794000597662",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-carne-x2.html/07794000597686",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-gallina-x2.html/07794000597709",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-quick-de-vegetales.html/07794000004184",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.376Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-quick-de-zapallo.html/07794000004191",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-quick-de-choclo.html/07794000004207",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-tipo-casera-vegetales-con-fideos-de-letras.html/07794000004245",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-tipo-casera-vegetales-con-fideos-caracolitos-tricolor.html/07794000004252",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.377Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-tipo-casera-pollo-con-cabellos-de-angel.html/07794000004269",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-quick-de-zanahoria.html/07794000004283",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.377Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/rinde-m%C3%A1s-3-en-1-x70g.html/07794000004450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/rinde-m%C3%A1s-3-en-1-x140g.html/07794000004467",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/rinde-m%C3%A1s-3-en-1-x210g.html/07794000004474",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/vegetales-deshidratados-knorr-cebolla-100-gr.html/07794000006119",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/vegetales-deshidratados-knorr-zanahoria-100-gr.html/07794000006126",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/vegetales-deshidratados-knorr-morr%C3%B3n-75-gr.html/07794000006133",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/vegetales-deshidratados-knorr-espinaca-50-gr.html/07794000006140",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.390Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/caldo-de-costilla-x2.html/07794000504141",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sabor-al-horno-lim%C3%B3n-y-or%C3%A9gano.html/07794000595507",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sabor-al-horno-ajo-y-cebolla.html/07794000595514",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sabor-al-horno-tipo-criollo.html/07794000595910",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.388Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sabor-al-horno-romero-y-tomillo.html/07794000595927",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sabor-al-horno-hierbas-y-especias.html/07794000597136",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-crema-de-arvejas-con-jam%C3%B3n.html/07794000598317",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-crema-de-zapallo.html/07794000598355",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-crema-de-choclo.html/07794000598379",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-crema-de-verduras.html/07794000598393",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-quick-de-choclo.html/07794000598553",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sopa-quick-de-zapallo-light.html/07794000598591",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/salsa-lista-pomarola-tradicional.html/07794000598829",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/salsa-lista-bolognesa.html/07794000598836",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.415Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/salsa-lista-filetto.html/07794000598850",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.369Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/salsa-lista-pizza.html/07794000598874",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.369Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/salsa-lista-balance-pomarola.html/07794000598911",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/sabor-al-horno-barbacoa.html/07794000599192",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/pastas-tirabuz%C3%B3n.html/07798031154115",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/pastas-coditos.html/07798031154139",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/pastas-mo%C3%B1os.html/07798031154146",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.379Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/pastas-secas-spaghetti.html/07798031154153",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.382Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/pastas-foratti.html/07798031154177",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.376Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/pastas-mostachol.html/07798031154221",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/uy/p/pastas-tirabuz%C3%B3n-mix.html/07798031154245",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.379Z"
+    }
+  ]
+}

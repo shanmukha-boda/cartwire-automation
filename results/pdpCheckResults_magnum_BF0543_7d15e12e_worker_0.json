@@ -1,0 +1,20 @@
+{
+  "brand": "magnum",
+  "assortmentCode": "BF0543",
+  "feedUrl": "https://www.magnumicecream.com/fr/home.productfeed.json",
+  "totalUrlsChecked": 58,
+  "problematicPagesFound": 0,
+  "successfulPages": 57,
+  "errors": 1,
+  "duration": "8.07s",
+  "speed": "7.19 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/fr/p/mini-double-sunlover-x6.html/08711327580343",
+      "error": "request to https://www.magnumicecream.com/fr/p/mini-double-sunlover-x6.html/08711327580343 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:12:28.505Z"
+    }
+  ]
+}

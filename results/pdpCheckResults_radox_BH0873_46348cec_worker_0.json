@@ -1,0 +1,110 @@
+{
+  "brand": "radox",
+  "assortmentCode": "BH0873",
+  "feedUrl": "https://www.radox.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 22,
+  "errors": 16,
+  "duration": "0.99s",
+  "speed": "38.38 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-muscle-soak-bath-salts-400g.html/05000231036781",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.535Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-stress-relief-bath-soak-500ml.html/05000231050855",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.509Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-detoxed-bath-salts-900g.html/08710447459263",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.510Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-muscle-relax-bath-salts-900g.html/08710447459270",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-relaxed-bath-soak-500ml.html/08710847950223",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-heavenly-bath-soak-500ml.html/08710847950247",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-care-nourish-hard-on-germs-gentle-on-hands-antibacteria.html/08712561737142",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-awake-2-in-1-shower-gel.html/08720181336034",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-active-shower-gel.html/08720181336096",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.537Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-moisturised-shower-gel.html/08720181336133",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-revived-shower-gel.html/08720181336157",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/feel-invigorated-2-in-1-men's-shower-gel.html/08720181587634",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-energised-2-in-1-for-men-450-ml-with-marine-minerals-&-eucalyptus.html/08720181587641",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-protect-replenish-antibacterial-handwash-250ml.html/08712561736862",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.540Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-feel-awake-shower-gel-refill.html/08720181347306",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.radox.co.uk/p/radox-special-edition-secret-garden-shower-gel-60ml.html/08720181365300",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:32:56.556Z"
+    }
+  ]
+}

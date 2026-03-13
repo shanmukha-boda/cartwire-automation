@@ -1,0 +1,26 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/fr/home.productfeed.json",
+  "totalUrlsChecked": 87,
+  "problematicPagesFound": 0,
+  "successfulPages": 85,
+  "errors": 2,
+  "duration": "14.72s",
+  "speed": "5.91 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/fr/p/assaisonnement-viandox-665ml.html/03034450001024",
+      "error": "request to https://www.knorr.com/fr/p/assaisonnement-viandox-665ml.html/03034450001024 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:28.423Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/fr/p/sauce-champignons-%C3%A0-la-cr%C3%A8me-fra%C3%AEche.html/08712100630040",
+      "error": "request to https://www.knorr.com/fr/p/sauce-champignons-%C3%A0-la-cr%C3%A8me-fra%C3%AEche.html/08712100630040 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:23:28.425Z"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "maizena",
+  "assortmentCode": "BF0547",
+  "feedUrl": "https://www.maizena.com.ar/home.productfeed.json",
+  "totalUrlsChecked": 48,
+  "problematicPagesFound": 0,
+  "successfulPages": 48,
+  "errors": 0,
+  "duration": "4.09s",
+  "speed": "11.74 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

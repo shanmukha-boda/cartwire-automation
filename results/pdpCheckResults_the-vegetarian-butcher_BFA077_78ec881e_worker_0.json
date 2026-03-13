@@ -1,0 +1,62 @@
+{
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.thevegetarianbutcher.de/home.productfeed.json",
+  "totalUrlsChecked": 21,
+  "problematicPagesFound": 0,
+  "successfulPages": 13,
+  "errors": 8,
+  "duration": "5.04s",
+  "speed": "4.17 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/vegane-lasagn-yeah.html/04023372722901",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.244Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/vegetarische-hack-selig-burger.html/08718692788121",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.214Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/vegane-befluegel-nuggets.html/08718692788190",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.237Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/vegane-crispy-chickimicki-burger.html/08720182095206",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/veganer-crispy-chickimicki-burger.html/08720182095229",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.220Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/vegane-chick-eria-filets.html/08720182436627",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/vegane-krosse-flosse-fisch-filet.html/08720182813008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.232Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.thevegetarianbutcher.de/p/veganes-pepperfect-chick'n.html/08720182868275",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:11.252Z"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BFQ742",
+  "feedUrl": "https://www.algida.pl/home.productfeed.json",
+  "totalUrlsChecked": 29,
+  "problematicPagesFound": 0,
+  "successfulPages": 29,
+  "errors": 0,
+  "duration": "6.00s",
+  "speed": "4.83 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

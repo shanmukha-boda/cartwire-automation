@@ -1,0 +1,338 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/tw/home.productfeed.json",
+  "totalUrlsChecked": 54,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 54,
+  "duration": "0.14s",
+  "speed": "385.71 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%85%A8%E7%B4%A0%E9%AE%AE%E5%91%B3%E7%82%92%E6%89%8B.html/04710254020186",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%8E%9F%E5%91%B3%E9%AE%AE%E5%91%B3%E7%82%92%E6%89%8B.html/04710254020193",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%B0%B9%E9%AD%9A%E9%AE%AE%E5%91%B3%E7%82%92%E6%89%8B.html/04710254020209",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%A5%B6%E6%B2%B9%E7%8E%89%E7%B1%B3%E9%A2%A8%E5%91%B3%E7%8D%A8%E4%BA%AB%E6%9D%AF.html/04710254020285",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.137Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%A5%B6%E6%B2%B9%E8%98%91%E8%8F%87%E9%A2%A8%E5%91%B3%E7%8D%A8%E4%BA%AB%E6%9D%AF.html/04710254020292",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%A6%99%E8%9F%B9%E6%B5%B7%E9%AE%AE%E9%A2%A8%E5%91%B3%E7%8D%A8%E4%BA%AB%E6%9D%AF.html/04710254020308",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.112Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%A6%99%E8%8F%87%E6%B9%AF%E5%A1%8A.html/04710254020353",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.108Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%B5%B7%E9%AE%AE%E6%B9%AF%E5%A1%8A.html/04710254020384",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.114Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%9B%9E%E6%B9%AF%E5%A1%8A.html/04710254020391",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.102Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%8E%92%E9%AA%A8%E6%B9%AF%E5%A1%8A.html/04710254020407",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%B3%B0%E5%BC%8F%E6%89%93%E6%8B%8B%E8%B1%AC%E9%86%AC.html/04710254021435",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.114Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E9%86%AC.html/04710254021459",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.111Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%87%91%E6%B2%99%E8%B1%86%E8%85%90%E9%86%AC.html/04710254021466",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.106Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%91%B3%E5%99%8C%E6%B5%B7%E5%B8%B6%E8%8A%BD%E8%B1%86%E8%85%90%E6%B9%AF.html/04710254021619",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.124Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%B7%9D%E5%BC%8F%E9%85%B8%E8%BE%A3%E6%BF%83%E6%B9%AF.html/04710254021701",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%B3%96%E9%86%8B%E9%87%8C%E8%82%8C%E9%86%AC.html/04710254021992",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.147Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%94%B0%E5%9C%92%E5%8D%97%E7%93%9C%E8%94%AC%E8%8F%9C%E7%B2%A5.html/04710254022074",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.116Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E8%8A%8B%E9%A0%AD%E7%98%A6%E8%82%89%E7%B2%A5.html/04710254022081",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.142Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%9B%99%E8%8F%87%E6%BB%91%E8%9B%8B%E9%9B%9E%E8%82%89%E7%B2%A5.html/04710254022098",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.130Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%85%B8%E7%99%BD%E8%8F%9C%E7%81%AB%E9%8D%8B%E6%B9%AF%E5%BA%95.html/04710254022180",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.108Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%B8%AF%E5%BC%8F%E9%85%B8%E8%BE%A3%E7%8D%A8%E4%BA%AB%E6%9D%AF.html/04710254022234",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%97%A5%E5%BC%8F%E5%91%B3%E5%99%8C%E7%8D%A8%E4%BA%AB%E6%9D%AF.html/04710254022241",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.130Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%BE%A9%E5%BC%8F%E7%95%AA%E8%8C%84%E8%82%89%E9%86%AC.html/04710254022760",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.108Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%BE%A9%E5%BC%8F%E6%9D%BE%E9%9C%B2%E7%99%BD%E9%86%AC.html/04710254022777",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.100Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%BE%A9%E5%BC%8F%E5%A5%B6%E6%B2%B9%E5%9F%B9%E6%A0%B9%E9%86%AC.html/04710254022784",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%BA%B7%E5%AF%B6%E6%A5%B5%E6%B9%AF%E5%91%B3-%E5%B0%8F%E9%AD%9A%E4%B9%BE%E9%A2%A8%E5%91%B3.html/04710254022982",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.111Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%BA%B7%E5%AF%B6%E6%A5%B5%E6%B9%AF%E5%91%B3-%E9%A6%99%E8%8F%87%E9%A2%A8%E5%91%B3.html/04710254023002",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.107Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%88%86%E7%82%92%E9%A2%A8%E5%91%B3%E8%92%9C%E9%A0%AD%E9%9B%9E%E7%99%BD%E6%B9%AF%E7%81%AB%E9%8D%8B%E6%B9%AF%E5%BA%95.html/04710254023064",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E8%83%A1%E6%A4%92%E8%B1%9A%E9%AA%A8%E7%81%AB%E9%8D%8B%E6%B9%AF%E5%BA%95.html/04710254023071",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.108Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%A5%B6%E6%B2%B9%E9%A2%A8%E5%91%B3%E7%8E%89%E7%B1%B3%E6%BF%83%E6%B9%AF.html/04710254023415",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%A5%B6%E6%B2%B9%E9%A2%A8%E5%91%B3%E8%95%88%E8%8F%87%E6%BF%83%E6%B9%AF.html/04710254023422",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%BE%A9%E5%BC%8F%E9%9B%9E%E8%82%89%E7%B2%89%E7%B4%85%E9%86%AC.html/04710254023538",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%9F%B9%E6%A0%B9%E9%A2%A8%E5%91%B3%E8%B5%B7%E5%8F%B8%E9%A6%AC%E9%88%B4%E8%96%AF%E6%BF%83%E6%B9%AF.html/04710254023934",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.107Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%BE%A9%E5%BC%8F%E7%95%AA%E8%8C%84%E8%94%AC%E8%8F%9C%E6%B9%AF.html/04710254023941",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.111Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%B0%B9%E9%AD%9A%E9%A2%A8%E5%91%B3%E8%AA%BF%E5%91%B3%E6%96%99.html/04710254024184",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%98%86%E5%B8%83%E9%A2%A8%E5%91%B3%E8%AA%BF%E5%91%B3%E6%96%99.html/04710254024191",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.112Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%B0%B9%E9%AD%9A%E9%A2%A8%E5%91%B3%E8%AA%BF%E5%91%B3%E6%96%99.html/04710254024306",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.109Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%98%86%E5%B8%83%E9%A2%A8%E5%91%B3%E8%AA%BF%E5%91%B3%E6%96%99.html/04710254024313",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.129Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E8%92%9C%E5%91%B3%E9%80%9A%E7%94%A8%E7%87%92%E8%82%89%E9%86%AC.html/04710254024375",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%97%A5%E5%BC%8F%E7%A7%98%E7%82%99%E7%87%92%E8%82%89%E9%86%AC.html/04710254024382",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.131Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%BF%83%E5%8E%9A%E6%98%8E%E5%A4%AA%E5%AD%90%E9%A2%A8%E5%91%B3%E9%86%AC.html/04710254024535",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%AE%AE%E9%9B%9E%E6%99%B6.html/04710254091117",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.117Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%BA%B7%E5%AF%B6%E8%8D%89%E8%8E%93%E6%9E%9C%E9%86%AC.html/04710254506741",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.124Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%A5%B6%E6%B2%B9%E9%A2%A8%E5%91%B3%E7%B6%93%E5%85%B8%E8%95%88%E8%8F%87%E6%BF%83%E6%B9%AF.html/04710254508394",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%87%91%E9%BB%83%E7%8E%89%E7%B1%B3%E6%BF%83%E6%B9%AF.html/04710254508554",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.117Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%81%AB%E8%85%BF%E7%8E%89%E7%B1%B3%E6%BF%83%E6%B9%AF.html/04710254508561",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.114Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%9B%9E%E8%93%89%E7%8E%89%E7%B1%B3%E6%BF%83%E6%B9%AF.html/04710254508578",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.138Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%B8%AF%E5%BC%8F%E9%85%B8%E8%BE%A3%E6%BF%83%E6%B9%AF.html/04710254508585",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.128Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E6%B5%B7%E9%AE%AE%E7%B8%BD%E5%8C%AF%E6%BF%83%E6%B9%AF.html/04710254508608",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.107Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E5%B9%B2%E8%B2%9D%E9%9B%AA%E8%8F%9C%E6%BF%83%E6%B9%AF.html/04710254508615",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%8A%80%E9%AD%9A%E6%B5%B7%E5%B8%B6%E8%8A%BD%E6%BF%83%E6%B9%AF.html/04710254508622",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.113Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%A6%99%E8%9F%B9%E5%8D%97%E7%93%9C%E6%BF%83%E6%B9%AF.html/04710254508639",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.110Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E9%A6%99%E8%8F%87%E9%9B%9E%E8%93%89%E6%BF%83%E6%B9%AF.html/04710254508646",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tw/p/%E7%81%AB%E8%85%BF%E8%98%91%E8%8F%87%E6%BF%83%E6%B9%AF.html/04710254508653",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.117Z"
+    }
+  ]
+}

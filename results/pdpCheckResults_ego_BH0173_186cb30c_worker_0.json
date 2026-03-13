@@ -1,0 +1,80 @@
+{
+  "brand": "ego",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 34,
+  "problematicPagesFound": 0,
+  "successfulPages": 23,
+  "errors": 11,
+  "duration": "0.68s",
+  "speed": "50.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-sport-en-barra-45g.html/00000075064853",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.679Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-fresh-en-barra-45g.html/00000075064884",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.677Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-antitranspirante-fresh-roll-on-45ml.html/00000075064914",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.680Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-black-250ml.html/07506192500555",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.676Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-gel-for-men-diez-180ml.html/07506192505659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.680Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/espuma-de-afeitar-ego-force-200ml.html/07506306209954",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.677Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-body-spray-force-aerosol-150ml.html/07506306210103",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.681Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/jabon-2-en-1-para-cuerpo-y-barba-ego-force-45g.html/07506306210318",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.678Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-shampoo-control-ca%C3%ADda-2-en-1.html/07506306218949",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.678Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/ego-shampoo-limpieza-profunda.html/07506306218987",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.695Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.mx/p/shampoo-ego-control-caspa-200ml.html/07506306221222",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:49.697Z"
+    }
+  ]
+}

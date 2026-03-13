@@ -1,0 +1,13 @@
+{
+  "brand": "whatsfordinner",
+  "assortmentCode": "BFA317",
+  "feedUrl": "https://www.whatsfordinner.co.za/home.productfeed.json",
+  "totalUrlsChecked": 208,
+  "problematicPagesFound": 0,
+  "successfulPages": 208,
+  "errors": 0,
+  "duration": "12.28s",
+  "speed": "16.94 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

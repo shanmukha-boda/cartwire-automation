@@ -1,0 +1,692 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+  "totalUrlsChecked": 113,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 113,
+  "duration": "0.30s",
+  "speed": "376.67 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/tiefenwirksam-pflege-k%C3%B6rpercreme.html/00000040883007",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.044Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/mystic-muse-antitranspirant-roll-on.html/00000059000136",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/winterberry-swirl-antitranspirant-roll-on.html/00000059002154",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.054Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/invisible-dry-anti-transpirant-roll-on.html/00000059083856",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.040Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/original-anti-transpirant-roll-on.html/00000059095842",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.043Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/summer-care-anti-transpirant-roll-on.html/00000059095873",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.043Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/gurke-deodorant-roll-on.html/00000059095910",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.038Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/original-deodorant-roll-on.html/00000059095965",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.040Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/rose-deodorant-roll-on.html/00000059096047",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.076Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-cucumber-anti-transpirant-stick.html/00000059099574",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.054Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-invisible-anti-transpirant-stick.html/00000059099581",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.042Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-original-anti-transpirant-stick.html/00000059099604",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.039Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-pomegranate-anti-transpirant-stick.html/00000059099635",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.047Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-clean-comfort-stick.html/00000059099703",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.038Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-invisible-dry-stick.html/00000059099727",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.060Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/wohltuendes-cremebad-mandelmilch-und-hibiskusduft.html/08711700927536",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.045Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/dove-sommer-revival-body-lotion-fuer-mittlere-bis-dunkle-haut.html/08720181260537",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.068Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/citrus-deodorant-spray.html/08720181277740",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.040Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/zinc-original-deodorant-spray.html/08720181277764",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.050Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/rose-zinc-deodorant-spray.html/08720181277771",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.040Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/kirschblueten-deodorant-spray.html/08720181277788",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.051Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/gurke-deodorant-spray.html/08720181278136",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.044Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-invisible-dry-anti-transpirant-spray.html/08720181291593",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.080Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-go-fresh-anti-transpirant-spray-mit-granatapfel-un.html/08720181291777",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.052Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-summer-care-anti-transpirant-spray.html/08720181291890",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-original-anti-transpirant-spray.html/08720181291920",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.038Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-original-compressed-anti-transpirant-spray.html/08720181299926",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.046Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-go-fresh-anti-transpirant-spray-mit-passionsfrucht.html/08720181314100",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.048Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-prebiotic-body-milk-glycerin.html/08720181414282",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.045Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-go-fresh-anti-transpirant-spray-mit-pfirsich-und-w.html/08720181443565",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.072Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/go-fresh-deodorant-spray-mit-gurkenduft.html/08720181444227",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.049Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/advanced-care-go-fresh-anti-transpirant-spray-mit-drachenfrucht.html/08720181565816",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.084Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/vanilla-anti-transpirant-spray.html/08720181565878",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.056Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/fruity-anti-transpirant-spray.html/08720181566813",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.059Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/floral-anti-transpirant-spray.html/08720181566820",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.045Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/fresh-anti-transpirant-spray.html/08720181566844",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.044Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-sandalwood-vanilla-duft.html/08720181570056",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.067Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-anti-transpirant-spray-fresh.html/08720181570476",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.050Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/whole-body-lavendel-stick.html/08720181594809",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.042Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/whole-body-spray-lavendel.html/08720181594984",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.048Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/whole-body-spray-himbeere.html/08720181595165",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.056Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/whole-body-lavendel-cream.html/08720181596490",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.059Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-belebende-pflege-drachenfrucht-kokosduft.html/08720181608278",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.050Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/winterberry-swirl-antitranspirant-spray.html/08720181774317",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.055Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/beauty-aura-antitranspirant-spray.html/08720181786662",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/mystic-muse-antitranspirant-spray.html/08720181786679",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.081Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/mystic-muse-shower-cream.html/08720181797910",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.047Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/beauty-aura-shower-cream.html/08720181797927",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.066Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/winterberry-swirl-shower-cream.html/08720181797934",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.061Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/creme-dusch-peeling-bridgerton-raspberry-rendevzvous.html/08720181865619",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.049Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/handpflege-awakening-handcreme.html/08720181870156",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.077Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-bridgerton-rasberry-rendezvous.html/08720181871375",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.047Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/deo-bridgerton-raspberry-redezvous.html/08720181875526",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.066Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-clean-comfort-roll-on.html/00000059092575",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.055Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-clean-comfort-null-prozent-roll-on.html/00000059095927",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.094Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/pflegende-hand-waschlotion-reichhaltige-pflege.html/04000388179004",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.043Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/creme-dusch-peeling-macadamiareismilch.html/08710447217054",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.052Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/creme-dusch-peeling-granatapfelsheabutter.html/08710447257265",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/handpflege-proage-handcreme.html/08710522415702",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/intensiv-reparatur-shampoo.html/08710908832048",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.096Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/oil-care-naehrpflege-shampoo.html/08710908832192",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.068Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/taegliche-feuchtigkeit-2in1-shampoo-spuelung.html/08710908832284",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.066Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/intensiv-reparatur-spuelung.html/08710908832383",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.074Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/oilcare-naehrpflege-spuelung.html/08710908832420",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.076Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-anti-transpirant-spray-clean-comfort.html/08712561254595",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.073Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/original-anti-transpirant-spray.html/08712561315975",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.068Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/soft-feel-anti-transpirant-spray.html/08712561820899",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.046Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/pflegendes-cremebad-reichhaltige-pflege.html/08717163429884",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.101Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/reichhaltige-pflege-feuchtigkeitscreme.html/08717163476789",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.074Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-summer-glow-body-lotion.html/08717163693162",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.052Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/handpflege-intensiv-handcreme.html/08717163917770",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.071Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/maximum-protection-anti-transpirant-creme.html/08717644566237",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.066Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-strahlende-pflege-lotus-body-lotion.html/08720181083938",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.054Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-verwoehnende-pflege-shea-body-lotion.html/08720181085642",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.051Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-intesive-pflege-body-lotion.html/08720181085659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.054Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-hydro-pflege-body-lotion.html/08720181085666",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.084Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-regenerierende-pflege-kokos-body-lotion.html/08720181085710",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/one-cream-regenerierende-pflege.html/08720181172137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.063Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/dove-sommer-revival-body-lotion-fuer-helle-bis-mittlere-haut.html/08720181260513",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.079Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-clean-comfort.html/08720181284304",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-invisible-dry.html/08720181284366",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.167Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-extra-fresh.html/08720181284403",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.170Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-clean-comfort-null-prozent.html/08720181296642",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.188Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-cool-fresh-shower.html/08720181301995",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.164Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-endurance-shower.html/08720181302008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.172Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-extra-fresh-shower.html/08720181302015",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.195Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-extra-fresh-shower.html/08720181302022",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.163Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-sensitive-shower.html/08720181302039",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.165Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-sensitive-shower.html/08720181302046",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.171Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-clean-comfort-shower.html/08720181302053",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.165Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-clean-comfort-shower.html/08720181302336",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.168Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-barrier-repair-body-balsam-panthenol.html/08720181380006",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/body-love-night-renew-serum-body-lotion-niacinamid.html/08720181405594",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.172Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-advanced-eukalyptus-minze-duft.html/08720181433573",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.178Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-reichhaltige-pflege.html/08720181443459",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.225Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/men-care-null-prozent-spray-extra-fresh.html/08720181455711",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.171Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-vitalisierende-pflege-kirsche-chiamilch.html/08720181456855",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.173Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-anti-stress.html/08720181458033",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.170Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-intensivpflege-oel.html/08720181460029",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.178Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-hydra-pflege.html/08720181462948",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.166Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-kokos.html/08720181465826",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.177Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/cremig-sanft-pflegedusche.html/08720181466373",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.176Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/cremig-sanft-pflegedusche.html/08720181466526",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.174Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/samt-weich-pflegedusche.html/08720181468520",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.171Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/erfrischend-zart-pflegedusche.html/08720181471629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.182Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-seidig-zart.html/08720181491948",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.166Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/duschcreme-summer-care.html/08720181507281",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.168Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/bl%C3%BCten-sanft-pflegedusche.html/08720181657498",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.218Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/glow-up-pflegedusche.html/08720181702242",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.176Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/nourishing-beauty-bar.html/08720182258397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.232Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/glow-and-shine-body-lotion.html/08720182260437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.171Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/pampering-beauty-bar.html/08720182262417",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.183Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/dach/p/moisturizing-beauty-bar.html/08720182264664",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:27.190Z"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "brand": "simple",
+  "assortmentCode": "BH0992",
+  "feedUrl": "https://www.simpleskincare.com/my/home.productfeed.json",
+  "totalUrlsChecked": 30,
+  "problematicPagesFound": 0,
+  "successfulPages": 20,
+  "errors": 10,
+  "duration": "4.27s",
+  "speed": "7.03 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/regeneration-age-resisting-cleansing-wipes.html/05011451104204",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.256Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/daily-skin-detox-purifying-gel-facial-wash.html/08710447474419",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.258Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/daily-skin-detox-pore-polishing-face-scrub.html/08710447474426",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.263Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/kind-to-skin-hydrating-cleansing-oil.html/08710908131691",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.255Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/water-boost-cleansing-micellar-water.html/08710908711619",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.257Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/kind-to-skin-purifying-cleansing-lotion.html/05011451103849",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.258Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/kind-to-skin-eye-make-up-remover.html/05011451103917",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.266Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/age-resisting-day-cream-spf-15.html/05011451103993",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.257Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/water-boost-hydrating-facial-wipes.html/08710447172087",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/my/p/water-boost-skin-quench-sleeping-cream.html/08710908810664",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:23.271Z"
+    }
+  ]
+}

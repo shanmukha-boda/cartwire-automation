@@ -1,0 +1,13 @@
+{
+  "brand": "nexxus",
+  "assortmentCode": "BH0990",
+  "feedUrl": "https://www.nexxus.com/ca/fr/home.productfeed.json",
+  "totalUrlsChecked": 49,
+  "problematicPagesFound": 0,
+  "successfulPages": 49,
+  "errors": 0,
+  "duration": "0.41s",
+  "speed": "119.51 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

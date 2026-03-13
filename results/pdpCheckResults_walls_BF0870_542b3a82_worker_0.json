@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0870",
+  "feedUrl": "https://www.walls.com.my/home.productfeed.json",
+  "totalUrlsChecked": 45,
+  "problematicPagesFound": 0,
+  "successfulPages": 45,
+  "errors": 0,
+  "duration": "7.09s",
+  "speed": "6.35 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-03-13T13:33:56.038Z",
+  "brand": "duschdas",
+  "assortmentCode": "BH0874",
+  "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-night-out.html/08720181685880",
+      "gtin": "08720181685880",
+      "checkedAt": "2026-03-13T13:33:55.913Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=duschdas&locale=de-de&brand_code=BH0874&gtin=08720181685880",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/de/home.productfeed.json",
+  "totalUrlsChecked": 18,
+  "problematicPagesFound": 1,
+  "successfulPages": 12,
+  "errors": 5,
+  "duration": "8.01s",
+  "speed": "2.25 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "feedUrl": "https://www.hellmanns.com/de/home.productfeed.json",
+      "url": "https://www.hellmanns.com/de/p/ranch-sauce.html/08721317782152",
+      "gtin": "08721317782152",
+      "checkedAt": "2026-03-13T13:27:47.431Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=hellmann's&locale=de-de&brand_code=BF0380&gtin=08721317782152",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/de/p/chili.html/08711200424962",
+      "error": "request to https://www.hellmanns.com/de/p/chili.html/08711200424962 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:48.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/de/p/chunky-burger.html/08720182301710",
+      "error": "request to https://www.hellmanns.com/de/p/chunky-burger.html/08720182301710 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:48.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/de/p/real-mayonnaise-im-squeezer-430ml.html/08720182580160",
+      "error": "request to https://www.hellmanns.com/de/p/real-mayonnaise-im-squeezer-430ml.html/08720182580160 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:48.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/de/p/vegan-mayo-glas.html/08721201922350",
+      "error": "request to https://www.hellmanns.com/de/p/vegan-mayo-glas.html/08721201922350 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:48.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/de/p/grillsauce.html/08721201949951",
+      "error": "request to https://www.hellmanns.com/de/p/grillsauce.html/08721201949951 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:48.319Z"
+    }
+  ]
+}

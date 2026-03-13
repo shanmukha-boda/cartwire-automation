@@ -1,0 +1,68 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/uy/home.productfeed.json",
+  "totalUrlsChecked": 16,
+  "problematicPagesFound": 0,
+  "successfulPages": 7,
+  "errors": 9,
+  "duration": "8.05s",
+  "speed": "1.99 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/mayonesa-clasica-118g.html/07794000960022",
+      "error": "request to https://www.hellmanns.com/uy/p/mayonesa-clasica-118g.html/07794000960022 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/mayonesa-clasica-475g.html/07794000960091",
+      "error": "request to https://www.hellmanns.com/uy/p/mayonesa-clasica-475g.html/07794000960091 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/mayonesa-clasica-237g.html/07794000960107",
+      "error": "request to https://www.hellmanns.com/uy/p/mayonesa-clasica-237g.html/07794000960107 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/mayonesa-light-237g.html/07794000960145",
+      "error": "request to https://www.hellmanns.com/uy/p/mayonesa-light-237g.html/07794000960145 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/mayonesa-light-950g.html/07794000960152",
+      "error": "request to https://www.hellmanns.com/uy/p/mayonesa-light-950g.html/07794000960152 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/ketchup-500g.html/07794000960244",
+      "error": "request to https://www.hellmanns.com/uy/p/ketchup-500g.html/07794000960244 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.566Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/ketchup-60g.html/07794000960756",
+      "error": "request to https://www.hellmanns.com/uy/p/ketchup-60g.html/07794000960756 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/vegana-500g.html/07794000002135",
+      "error": "request to https://www.hellmanns.com/uy/p/vegana-500g.html/07794000002135 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.573Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/uy/p/mayonesa-receta-tipo-casera-473cc.html/07794000999954",
+      "error": "request to https://www.hellmanns.com/uy/p/mayonesa-receta-tipo-casera-473cc.html/07794000999954 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:24.572Z"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.frigo.es/home.productfeed.json",
+  "totalUrlsChecked": 147,
+  "problematicPagesFound": 0,
+  "successfulPages": 88,
+  "errors": 59,
+  "duration": "16.88s",
+  "speed": "8.71 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/barrita-snickers-chocolate-blanco.html/05000159509671",
+      "error": "request to https://www.frigo.es/p/barrita-snickers-chocolate-blanco.html/05000159509671 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/s%C3%A1ndwich-nata.html/07310290002176",
+      "error": "request to https://www.frigo.es/p/s%C3%A1ndwich-nata.html/07310290002176 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/calippo-lima-lim%C3%B3n.html/08000920401187",
+      "error": "request to https://www.frigo.es/p/calippo-lima-lim%C3%B3n.html/08000920401187 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/calippo-fresa.html/08000920401248",
+      "error": "request to https://www.frigo.es/p/calippo-fresa.html/08000920401248 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/super-twister.html/08000920402801",
+      "error": "request to https://www.frigo.es/p/super-twister.html/08000920402801 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-chocolate-fudge-brownie-100-ml.html/08711200562718",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-chocolate-fudge-brownie-100-ml.html/08711200562718 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-vainilla-pecan-brittle-100-ml.html/08711327322110",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-vainilla-pecan-brittle-100-ml.html/08711327322110 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/comtessa-nata-1l.html/08711327323087",
+      "error": "request to https://www.frigo.es/p/comtessa-nata-1l.html/08711327323087 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/cornetto-vainilla.html/08711327324725",
+      "error": "request to https://www.frigo.es/p/cornetto-vainilla.html/08711327324725 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-chunky-monkey-465-ml.html/08711327372955",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-chunky-monkey-465-ml.html/08711327372955 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-strawberry-cheesecake-465-ml.html/08711327374126",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-strawberry-cheesecake-465-ml.html/08711327374126 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-vainilla-pecan-blondie-465-ml.html/08711327374256",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-vainilla-pecan-blondie-465-ml.html/08711327374256 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-caramel-brownie-party-465-ml.html/08711327374324",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-caramel-brownie-party-465-ml.html/08711327374324 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-peanut-butter-cup-465-ml.html/08711327374515",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-peanut-butter-cup-465-ml.html/08711327374515 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-netflix-&-chill'd-465-ml.html/08711327386334",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-netflix-&-chill%27d-465-ml.html/08711327386334 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-romantica-con-vainilla-chocolate-y-caramelo-1l.html/08711327395701",
+      "error": "request to https://www.frigo.es/p/carte-dor-romantica-con-vainilla-chocolate-y-caramelo-1l.html/08711327395701 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-tarrina-double-gold-caramel-billionaire.html/08711327480438",
+      "error": "request to https://www.frigo.es/p/magnum-tarrina-double-gold-caramel-billionaire.html/08711327480438 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/cornetto-miniature-x10.html/08711327488694",
+      "error": "request to https://www.frigo.es/p/cornetto-miniature-x10.html/08711327488694 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/cornetto-soft-cookies-y-chocolate-x-4.html/08711327537248",
+      "error": "request to https://www.frigo.es/p/cornetto-soft-cookies-y-chocolate-x-4.html/08711327537248 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-sundae-cookie-vermont-ster-427ml.html/08711327539624",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-sundae-cookie-vermont-ster-427ml.html/08711327539624 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-vainilla-1300ml.html/08711327544772/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-vainilla-1300ml.html/08711327544772/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/mini-milk-x-10.html/08711327574236",
+      "error": "request to https://www.frigo.es/p/mini-milk-x-10.html/08711327574236 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-double-gold-caramel-x-3.html/08711327577909",
+      "error": "request to https://www.frigo.es/p/magnum-double-gold-caramel-x-3.html/08711327577909 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-doble-chocolate.html/08711327577978",
+      "error": "request to https://www.frigo.es/p/magnum-doble-chocolate.html/08711327577978 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-doble-chocolate-x-3.html/08711327578005",
+      "error": "request to https://www.frigo.es/p/magnum-doble-chocolate-x-3.html/08711327578005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-mini-doble-chocolate-x-6.html/08711327578340",
+      "error": "request to https://www.frigo.es/p/magnum-mini-doble-chocolate-x-6.html/08711327578340 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-mini-doble-caramelo-y-chocolate-x-6.html/08711327578463",
+      "error": "request to https://www.frigo.es/p/magnum-mini-doble-caramelo-y-chocolate-x-6.html/08711327578463 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-dulce-de-lish-427-ml.html/08711327589360",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-dulce-de-lish-427-ml.html/08711327589360 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/frigo-kids-mix-x-8.html/08711327592469",
+      "error": "request to https://www.frigo.es/p/frigo-kids-mix-x-8.html/08711327592469 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-chocolate-blanco-x-3.html/08711327607194",
+      "error": "request to https://www.frigo.es/p/magnum-chocolate-blanco-x-3.html/08711327607194 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-mini-cl%C3%A1sico-almendrado-y-blanco-x-10.html/08711327609464",
+      "error": "request to https://www.frigo.es/p/magnum-mini-cl%C3%A1sico-almendrado-y-blanco-x-10.html/08711327609464 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-gama-les-desserts-helado-mango-yogur-825ml.html/08711327615991/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-gama-les-desserts-helado-mango-yogur-825ml.html/08711327615991/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-helado-brownie-825-ml.html/08711327616332/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-helado-brownie-825-ml.html/08711327616332/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-helado-cookies-&-cream-825-ml.html/08711327617476/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-helado-cookies-&-cream-825-ml.html/08711327617476/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-helado-frutas-del-bosque-825ml.html/08711327619579/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-helado-frutas-del-bosque-825ml.html/08711327619579/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-helado-cheesecake-825-ml.html/08711327619678/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-helado-cheesecake-825-ml.html/08711327619678/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.579Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-helado-stracciatella-825-ml.html/08711327621015/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-helado-stracciatella-825-ml.html/08711327621015/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.578Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-wonder-x-3.html/08711327622708",
+      "error": "request to https://www.frigo.es/p/magnum-wonder-x-3.html/08711327622708 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:05.579Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-&-jerry's-non-dairy-cookie-dough-(vegano)-465ml.html/08711327626386",
+      "error": "request to https://www.frigo.es/p/ben-&-jerry%27s-non-dairy-cookie-dough-(vegano)-465ml.html/08711327626386 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.848Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-frac.html/08711327628731",
+      "error": "request to https://www.frigo.es/p/magnum-frac.html/08711327628731 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-frac-x-3.html/08711327629967",
+      "error": "request to https://www.frigo.es/p/magnum-frac-x-3.html/08711327629967 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/s%C3%A1ndwich-lion-king-x-4.html/08711327633353",
+      "error": "request to https://www.frigo.es/p/s%C3%A1ndwich-lion-king-x-4.html/08711327633353 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-dor-sorbete-de-limon-1l.html/08711327637184/carte-dor",
+      "error": "request to https://www.frigo.es/p/carte-dor-sorbete-de-limon-1l.html/08711327637184/carte-dor failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-bonbon-gold-caramel-billionaire-x-12.html/08711327639942",
+      "error": "request to https://www.frigo.es/p/magnum-bonbon-gold-caramel-billionaire-x-12.html/08711327639942 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.894Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/cornetto-fresa-x-4.html/08711327664746",
+      "error": "request to https://www.frigo.es/p/cornetto-fresa-x-4.html/08711327664746 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/ben-and-jerry's-sweet-mango-memories-465ml.html/08711327666962",
+      "error": "request to https://www.frigo.es/p/ben-and-jerry%27s-sweet-mango-memories-465ml.html/08711327666962 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-nocciola.html/08711327667174",
+      "error": "request to https://www.frigo.es/p/magnum-nocciola.html/08711327667174 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/bonb%C3%B3n-blanco-filipinos.html/08711327678064",
+      "error": "request to https://www.frigo.es/p/bonb%C3%B3n-blanco-filipinos.html/08711327678064 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.946Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/cornetto-max-mango-y-vainilla-x4.html/08711327680715",
+      "error": "request to https://www.frigo.es/p/cornetto-max-mango-y-vainilla-x4.html/08711327680715 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.894Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/calippo-super-mix-x-5.html/08712566108626",
+      "error": "request to https://www.frigo.es/p/calippo-super-mix-x-5.html/08712566108626 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/max-push-up-with-haribo.html/08712566344321",
+      "error": "request to https://www.frigo.es/p/max-push-up-with-haribo.html/08712566344321 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/cornetto-go.html/08714100641002",
+      "error": "request to https://www.frigo.es/p/cornetto-go.html/08714100641002 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.894Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/magnum-chocolate-blanco-y-cookies-x-3.html/08717163691496",
+      "error": "request to https://www.frigo.es/p/magnum-chocolate-blanco-y-cookies-x-3.html/08717163691496 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.946Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/cornetto-fresa-x4.html/08721274815528",
+      "error": "request to https://www.frigo.es/p/cornetto-fresa-x4.html/08721274815528 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.946Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/carte-d'or-chocolate-1-l.html/08722700142775",
+      "error": "request to https://www.frigo.es/p/carte-d%27or-chocolate-1-l.html/08722700142775 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/calippo-fresa-x-5.html/08722700231974",
+      "error": "request to https://www.frigo.es/p/calippo-fresa-x-5.html/08722700231974 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/calippo-lima-lim%C3%B3n-x-5.html/08722700231981",
+      "error": "request to https://www.frigo.es/p/calippo-lima-lim%C3%B3n-x-5.html/08722700231981 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.948Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/dr%C3%A1cula-x-6.html/08722700444664",
+      "error": "request to https://www.frigo.es/p/dr%C3%A1cula-x-6.html/08722700444664 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frigo.es/p/bomb%C3%B3n-filipinos-xxl-x4.html/08711327678194",
+      "error": "request to https://www.frigo.es/p/bomb%C3%B3n-filipinos-xxl-x4.html/08711327678194 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:17:13.948Z"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/be/nl/home.productfeed.json",
+  "totalUrlsChecked": 270,
+  "problematicPagesFound": 2,
+  "successfulPages": 244,
+  "errors": 24,
+  "duration": "1.17s",
+  "speed": "230.77 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/be/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/be/fr/p/sauce-chasseur-3x29-g.html/08721201918056",
+      "gtin": "08721201918056",
+      "checkedAt": "2026-03-13T13:24:23.902Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=fr-be&brand_code=BF0426&gtin=08721201918056",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/be/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/be/fr/p/sauce-jus-de-r%C3%B4ti-3x30-g.html/08721201923470",
+      "gtin": "08721201923470",
+      "checkedAt": "2026-03-13T13:24:24.063Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=fr-be&brand_code=BF0426&gtin=08721201923470",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/thai-red-curry-with-rice-noodles-69-g.html/08711200484355",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.179Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/champignon-300-ml.html/08712100634468",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.181Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/tomaat-groenten-soep-met-balletjes-515-ml.html/08720182819215",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.451Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/groenten-met-balletjes-515-ml.html/08720182831156",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.434Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/bearnaise-4x19-g.html/08720182841254",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.434Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/spicy-chicken-taste-64g.html/08720182862563",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/bolognese-60-g.html/08720182879073",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.438Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/tomato-mozzarella-63-g.html/08720182880277",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/carbonara-63-g.html/08720182880284",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.445Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/kip-63g.html/08720182909251",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.441Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/groenten-83-g.html/08720182915115",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.439Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/tomaat-vermicelli-67g.html/08720182949394",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.433Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/groene-pepersaus-3x30-g.html/08720182978240",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/paddenstoelen-10-bouillonblokjes.html/08720182987808",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.446Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/kaassaus-4x28-g.html/08721201908217",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.454Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/vissaus-4x31-g.html/08721201915529",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/champignonsaus-3x36-g.html/08721201915659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/jachtsaus-3x29-g.html/08721201918056",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/saus-voor-asperges-300ml.html/08721201945137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.434Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/risotto-truffle-175-g.html/08721201954696",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.441Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/risotto-asperges-175-g.html/08721201954702",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/rode-wijn-extract-4x26g.html/08721317708459",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.441Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/pompoen-weelde-500-ml.html/08722700821762",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/be/nl/p/bospaddenstoelen-500-ml.html/08722700830085",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.457Z"
+    }
+  ]
+}

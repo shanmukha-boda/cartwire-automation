@@ -1,0 +1,13 @@
+{
+  "brand": "tresemme",
+  "assortmentCode": "BH0996",
+  "feedUrl": "https://www.tresemme.com/au/home.productfeed.json",
+  "totalUrlsChecked": 42,
+  "problematicPagesFound": 0,
+  "successfulPages": 42,
+  "errors": 0,
+  "duration": "6.24s",
+  "speed": "6.73 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

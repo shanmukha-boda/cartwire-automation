@@ -1,0 +1,200 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/ro/home.productfeed.json",
+  "totalUrlsChecked": 31,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 31,
+  "duration": "0.10s",
+  "speed": "310.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/mustar-clasic.html/05948517603503",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.803Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/mustar-hrean.html/05948517603527",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/mustar-dulce.html/05948517603534",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/piure-de-cartofi.html/08001080030743",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/pasta-pot-carbonara.html/08584057005352",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/cub-vita-6-buc.html/08593838971540",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/cub-legume-6-buc.html/08593838971564",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/cub-gaina-6-buc.html/08593838971588",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.820Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/punga-magica-pui-cu-ierburi-aromate.html/08710522857359",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/supa-de-vita-cu-taitei.html/08710522991350",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/cup-a-soup-branza-si-crutoane.html/08712100866845",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/cup-a-soup-rosii-cu-taitei.html/08712100867057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/cup-a-soup-pui-cu-taitei.html/08712100867507",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/cup-a-soup-ciuperci-cu-crutoane.html/08712100867569",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/punga-magica-pui-cu-usturoi.html/08712566109715",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/punga-magica-porc-usturoi-afumat.html/08712566109739",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.823Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/punga-magica-cartofi-usturoi-si-rozmarin.html/08712566254491",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/noodles-rosii.html/08714100750612",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/noodles-branza-si-verdeturi.html/08714100750629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/fix-bolognese.html/08720182574183",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/fix-carbonara.html/08720182574985",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.826Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/asia-noodles-cu-legume.html/08720182821591",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.824Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/asia-noodles-cu-pui-picant.html/08720182882325",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/pasta-pot-bolognese.html/08720182884992",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.803Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/noodles-branza-si-verdeturi.html/08720182897916",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.837Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/supa-crema-ciuperci.html/08720182933454",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.803Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/supa-de-rosii-cu-taitei.html/08720182955319",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/supa-de-pui-cu-taitei.html/08720182975805",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/fix-pui-crocant-cu-usturoi.html/08721201964749",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/fix-mac-'n'-cheese.html/08721201964954",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ro/p/fix-pui-crocant-cu-paprica.html/08721201965166",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:50.800Z"
+    }
+  ]
+}

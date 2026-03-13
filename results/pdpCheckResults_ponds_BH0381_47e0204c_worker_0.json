@@ -1,0 +1,80 @@
+{
+  "brand": "ponds",
+  "assortmentCode": "BH0381",
+  "feedUrl": "https://www.ponds.com.ar/home.productfeed.json",
+  "totalUrlsChecked": 25,
+  "problematicPagesFound": 0,
+  "successfulPages": 14,
+  "errors": 11,
+  "duration": "4.42s",
+  "speed": "5.66 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/crema-c-leche-desmaquillante.html/00000001217327",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/clarant-b3.html/00000001217450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.653Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/clarant-b3-normal-a-grasa.html/00000001217578",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.644Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/evening-soothe-toallitas-limpiadoras.html/00000001236361",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.672Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/crema-h-crema-humectante.html/00000001237929",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/angel-face-natural-2-angel-face.html/00000001329998",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.681Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/sensitive.html/00000001330047",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.676Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/crema-s-crema-nutritiva-humectante.html/07501056326142",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/locion-desmaquillante-dual-clarant-b3.html/07501056346270",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/agua-micelar-c-original.html/07506306210950",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.666Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.ponds.com.ar/p/limpiador-facial-sensitive.html/07506306211117",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:38.643Z"
+    }
+  ]
+}

@@ -1,0 +1,1076 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 177,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 177,
+  "duration": "0.41s",
+  "speed": "431.71 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/zero-salt-chicken-bouillon.html/00048001015258",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/zero-salt-beef-bouillon.html/00048001015265",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/zero-salt-roasted-garlic-bouillon.html/00048001015272",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/chicken-bouillon-cubes.html/00055220000019",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/beef-bouillon-cubes.html/00055220000026",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/vegetable-bouillon-cubes.html/00055220000095",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.355Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/vegetable-soup-mix.html/00055220060013",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/cream-of-leek-soup-mix.html/00055220060037",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/minestrone-soup-mix.html/00055220060051",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/onion-soup-mix.html/00055220060129",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/cream-of-mushroom-soup-mix.html/00055220060211",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/cream-of-vegetable-soup-mix.html/00055220060280",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/cream-of-broccoli-soup-mix.html/00055220065131",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/bechamel-classic-sauce.html/00055220080028",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/hunter-gravy-sauce.html/00055220080042",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/demi-glace-gravy-sauce.html/00055220080059",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/au-jus-gravy-sauce.html/00055220080080",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/green-peppercorn-classic-sauce.html/00055220080097",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/turkey-gravy-sauce.html/00055220080141",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.369Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/brown-gravy-sauce.html/00055220080202",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/hollandaise-classic-sauce.html/00055220080714",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/bearnaise-classic-sauce.html/00055220080721",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.355Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/carbonara-pasta-sauce.html/00055220082060",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.387Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/roasted-garlic-and-herbs-pasta-seasoning.html/00055220083111",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/bovril-liquid-beef-bouillon.html/00061400000274",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.355Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/bovril-liquid-vegetable-bouillon.html/00061400000373",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/bovril-liquid-chicken-bouillon.html/00061400000571",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/bovril-chinese-fondue.html/00061400422519",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/veloutine-instant-thickener-for-brown-gravies.html/00062646056629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/beef-instant-stock-mix.html/00066345700050",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.379Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/chicken-instant-stock-mix.html/00066345700159",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/vegetable-instant-stock-mix.html/00066345700258",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-garlic-alfredo-fettuccine-pasta-side-dish.html/00068400000501",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-marinara-pasta.html/00068400003977",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-buffalo-chicken-flavour-pasta-side-dish.html/00068400003984",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.355Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/knorr-roasted-chicken-premium-flavour-base.html/00068400004356",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/knorr-roasted-beef-premium-flavour-base.html/00068400004363",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/knorr-vegetable-premium-flavour-base.html/00068400004370",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/a-la-king-classic-sauce.html/00068400011637",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.377Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-creamy-parmesan-pasta-side-dish.html/00068400018865",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.388Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-chicken-pasta-side-dish.html/00068400018889",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-sour-cream-and-chives-pasta-side-dish.html/00068400018896",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-butter-and-herb-pasta-side-dish.html/00068400018902",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-tomato-alfredo-pasta-side-dish.html/00068400020233",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-harvest-chicken-rice-side-dish.html/00068400020967",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-fettuccine-alfredo-pasta-side-dish.html/00068400021124",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-creamy-bacon-carbonara-pasta-side-dish.html/00068400021131",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-creamy-garlic-raffaello-pasta-side-dish.html/00068400021155",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.383Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-homestyle-cheddar-pasta-side-dish.html/00068400026488",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-country-mushroom-rice-side-dish.html/00068400026495",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.373Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-cheddar-broccoli-rice-side-dish.html/00068400026525",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-creamy-chicken-fusilli-pasta-side-dish.html/00068400030409",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.398Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-three-cheese-pasta-side-dish.html/00068400034650",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-parmesan-pesto-pasta-side-dish.html/00068400036616",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-honey-garlic-noodles-side-dish.html/00068400038115",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.381Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/recipe-onion-soup-mix.html/00068400091219",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-chicken-fried-rice-dish.html/00068400103615",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-teriyaki-noodles-side-dish.html/00068400113430",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/alfredo-pasta-sauce.html/00068400130109",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/parma-rosa-pasta-sauce.html/00068400130208",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.382Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/creamy-garlic-pasta-sauce.html/00068400130406",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/oxo-beef-sachets.html/00068400164616",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/oxo-chicken-sachets.html/00068400164623",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/oxo-chicken-sachets-25-less-salt.html/00068400164630",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.387Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/oxo-beef-sachets-25-less-salt.html/00068400164647",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.380Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-cheddar-chipotle-pasta-side-dish.html/00068400420057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.363Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-mexican-rice-side-dish.html/00068400662006",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-chicken-broccoli-fettuccine-side-dish.html/00068400664000",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/pesto-pasta-sauce.html/00077567003775",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.375Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/selects-vegetable-bouillon-cubes.html/00055220000101",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/chicken-noodle-soup-mix.html/00055220060082",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/oxo-chicken-in-a-mug.html/00068400001539",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.379Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/oxo-beef-in-a-mug.html/00068400001546",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/concentrated-chicken-bouillon.html/00068400001621",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.385Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/concentrated-beef-bouillon.html/00068400001638",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/concentrated-vegetable-bouillon.html/00068400001645",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/taste-of-thailand-concentrated-bouillon.html/00068400002178",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/mexican-rice-and-beans.html/00068400003878",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/chicken-flavoured-fried-rice.html/00068400003885",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.387Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/three-cheese-mushroom-risotto.html/00068400003908",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.390Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/teriyaki-noodle-cup.html/00068400004066",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/spicy-korean-bbq-noodle-cup.html/00068400004073",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/beef-bolognese-pasta-cup.html/00068400004448",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/creamy-roasted-garlic-pasta-cup.html/00068400004462",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.525Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/en/p/sidekicks-white-cheddar-broccoli.html/00068400113416",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.519Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-poulet-zero-sel.html/00048001015258",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.518Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-b%C5%93uf-zero-sel.html/00048001015265",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.520Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-a-lail-roti-zero-sel.html/00048001015272",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.519Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/poulet-cubes-de-bouillon.html/00055220000019",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/b%C5%93uf-cubes-de-bouillon.html/00055220000026",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.520Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/legumes-cubes-de-bouillon.html/00055220000095",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.518Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/nouilles-de-riz-instantanees-curry-rouge-thailandais.html/00055220000194",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.518Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/nouilles-de-riz-instantanees-pho-au-b%C5%93uf-vietnamien.html/00055220000200",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/nouilles-de-riz-instantanees-soupe-miso-japonaise.html/00055220000217",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/nouilles-de-riz-instantanees-laksa-du-singapour.html/00055220000224",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-aux-legumes.html/00055220060013",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-creme-de-poireau.html/00055220060037",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-minestrone.html/00055220060051",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-a-loignon.html/00055220060129",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-creme-de-champignons.html/00055220060211",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-creme-de-legumes.html/00055220060280",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-creme-de-brocoli.html/00055220065131",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.535Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-bechamel.html/00055220080028",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-chasseur.html/00055220080042",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.547Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-demi-glace.html/00055220080059",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.550Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-au-jus.html/00055220080080",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-poivre-vert.html/00055220080097",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-dinde.html/00055220080141",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-brune.html/00055220080202",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-hollandaise.html/00055220080714",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-bearnaise.html/00055220080721",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.520Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-carbonara.html/00055220082060",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/ail-roti-et-fines-herbes.html/00055220083111",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.526Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-b%C5%93uf-liquide-bovril.html/00061400000274",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.538Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-legumes-liquide-bovril.html/00061400000373",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-poulet-liquide-bovril.html/00061400000571",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/fondue-chinoise-bovril.html/00061400422519",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/veloutine-epaississant-instantane-pour-sauces-brunes.html/00062646056629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/b%C5%93uf-bouillons-instantanes.html/00066345700050",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/poulet-bouillons-instantanes.html/00066345700159",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.552Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/legumes-bouillons-instantanes.html/00066345700258",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/base-de-bouillon-de-poulet-in-a-mug-oxo.html/00068400001539",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.534Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/base-de-bouillon-de-b%C5%93uf-in-a-mug-oxo.html/00068400001546",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.555Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/pates-marinara-sidekicks.html/00068400003977",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/plat-accompagnement-pates-saveur-poulet-buffalo-sidekicks.html/00068400003984",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/base-de-bouillon-knorr-poulet-r%C3%B4ti-sup%C3%A9rieure-polyvalente-et-facile-%C3%A0-utiliser-311g.html/00068400004356",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/base-de-bouillon-knorr-b%C5%93uf-r%C3%B4ti-sup%C3%A9rieure-polyvalent-et-facile-%C3%A0-utiliser-311g.html/00068400004363",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/base-de-bouillon-knorr-l%C3%A9gumes-sup%C3%A9rieure-polyvalente-et-facile-%C3%A0-utiliser-311g.html/00068400004370",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-a%C2%80-la-king.html/00068400011637",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.547Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/parmesan-cremeux.html/00068400018865",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/poulet.html/00068400018889",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/creme-sure-et-ciboulette.html/00068400018896",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.539Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/beurre-et-fines-herbes.html/00068400018902",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/alfredo-rosee.html/00068400020233",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/poulet-jardiniere-riz-vermicelli.html/00068400020967",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/fettuccini-alfredo.html/00068400021124",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.537Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/carbonara-cremeuses-au-bacon.html/00068400021131",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.526Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/raffaello-cremeuses-a-lail.html/00068400021155",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/cheddar-maison.html/00068400026488",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.548Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/champignon-campagnards.html/00068400026495",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/cheddar-et-brocoli.html/00068400026525",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.525Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/fusilli-au-poulet-cremeux.html/00068400030409",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/trois-fromages.html/00068400034650",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.567Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/pesto-et-parmesan.html/00068400036616",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/nouilles-au-miel-et-a-lail.html/00068400038115",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/oignon.html/00068400091219",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/riz-frit-au-poulet.html/00068400103615",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.561Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/nouilles-teriyaki.html/00068400113430",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.577Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-alfredo.html/00068400130109",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-parma-rosa.html/00068400130208",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.529Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-ail-cremeux.html/00068400130406",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.571Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sachets-de-bouillon-de-b%C5%93uf-oxo.html/00068400164616",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sachets-de-bouillon-de-poulet-oxo.html/00068400164623",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.546Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sachets-de-bouillon-de-poulet-contenant-25-moins-de-sel-oxo.html/00068400164630",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.526Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sachets-de-bouillon-de-b%C5%93uf-contenant-25-moins-de-sel-oxo.html/00068400164647",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.533Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/p%C3%A2tes-au-chipotle-et-au-cheddar.html/00068400420057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/riz-mexicain.html/00068400662006",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/poulet-et-brocoli.html/00068400664000",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/sauce-pour-pates-au-pesto.html/00077567003775",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.537Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/cubes-de-bouillon-de-poulet-selectsmc.html/00055220000071",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/cubes-de-bouillon-de-b%C5%93uf-selectsmc.html/00055220000088",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/cubes-de-bouillon-de-legumes-selectsmc.html/00055220000101",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/soupe-poulet-et-nouilles.html/00055220060082",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.635Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/fettuccine-alfredo-a-l-ail-sidekicks.html/00068400000501",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.630Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-poulet-concentre.html/00068400001621",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-b%C5%93uf-concentre.html/00068400001638",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-de-legumes-concentre.html/00068400001645",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.634Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bouillon-concentre-taste-of-thailand.html/00068400002178",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/plat-daccompagnement-riz-et-vermicelli-beurre-et-fines-herbes-sidekicks.html/00068400002529",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.632Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/riz-mexicain-aux-haricots.html/00068400003878",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/riz-frit-a-saveur-de-poulet.html/00068400003885",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/risotto-trois-fromages-et-champignons.html/00068400003908",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.633Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bol-de-p%C3%A2tes-nouilles-teriyaki.html/00068400004066",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/bol-de-p%C3%A2tes-nouilles-style-bbq-cor%C3%A9en-%C3%A9pic%C3%A9.html/00068400004073",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/beef-bolognese-pasta-cup.html/00068400004448",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/creamy-roasted-garlic-pasta-cup.html/00068400004462",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.643Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ca/fr/p/cheddar-blanc-et-brocoli.html/00068400113416",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:42.628Z"
+    }
+  ]
+}

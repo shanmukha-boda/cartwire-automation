@@ -1,0 +1,68 @@
+{
+  "brand": "lipton",
+  "assortmentCode": "BF0648",
+  "feedUrl": "https://www.liptonicetea.be/nl/home.productfeed.json",
+  "totalUrlsChecked": 60,
+  "problematicPagesFound": 0,
+  "successfulPages": 51,
+  "errors": 9,
+  "duration": "8.32s",
+  "speed": "7.21 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/nl/p/lipton-ice-tea-green-original-25cl.html/05410033820134",
+      "error": "request to https://www.liptonicetea.be/nl/p/lipton-ice-tea-green-original-25cl.html/05410033820134 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/nl/p/lipton-ice-tea-sparkling-original-50cl.html/05410033820707",
+      "error": "request to https://www.liptonicetea.be/nl/p/lipton-ice-tea-sparkling-original-50cl.html/05410033820707 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/nl/p/lipton-ice-tea-green-original-15cl.html/08711327497306",
+      "error": "request to https://www.liptonicetea.be/nl/p/lipton-ice-tea-green-original-15cl.html/08711327497306 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/nl/p/lipton-ice-tea-green-zero-mango-50cl.html/08711327575493",
+      "error": "request to https://www.liptonicetea.be/nl/p/lipton-ice-tea-green-zero-mango-50cl.html/08711327575493 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/fr/p/lipton-ice-tea-peach-zero-50cl.html/08710604774178",
+      "error": "request to https://www.liptonicetea.be/fr/p/lipton-ice-tea-peach-zero-50cl.html/08710604774178 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/fr/p/lipton-ice-tea-green-mint-&-lime-33cl.html/08711327505346",
+      "error": "request to https://www.liptonicetea.be/fr/p/lipton-ice-tea-green-mint-&-lime-33cl.html/08711327505346 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/fr/p/lipton-ice-tea-green-zero-50cl.html/08711327548831",
+      "error": "request to https://www.liptonicetea.be/fr/p/lipton-ice-tea-green-zero-50cl.html/08711327548831 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.149Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/fr/p/lipton-ice-tea-peach-50cl.html/08711327582163",
+      "error": "request to https://www.liptonicetea.be/fr/p/lipton-ice-tea-peach-50cl.html/08711327582163 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.162Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.be/fr/p/lipton-ice-tea-sparkling-zero-50-cl.html/08711327596689",
+      "error": "request to https://www.liptonicetea.be/fr/p/lipton-ice-tea-sparkling-zero-50-cl.html/08711327596689 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:20:59.162Z"
+    }
+  ]
+}

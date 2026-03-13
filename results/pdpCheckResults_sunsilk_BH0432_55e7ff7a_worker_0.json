@@ -1,0 +1,290 @@
+{
+  "brand": "sunsilk",
+  "assortmentCode": "BH0432",
+  "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+  "totalUrlsChecked": 113,
+  "problematicPagesFound": 5,
+  "successfulPages": 73,
+  "errors": 35,
+  "duration": "2.70s",
+  "speed": "41.85 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-frutas-vermelhas-e-gengibre.html/07891150031746",
+      "gtin": "07891150031746",
+      "checkedAt": "2026-03-13T13:29:58.910Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150031746",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060883",
+      "gtin": "07891150060883",
+      "checkedAt": "2026-03-13T13:29:59.160Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150060883",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-des-coloridos.html/07891150066755",
+      "gtin": "07891150066755",
+      "checkedAt": "2026-03-13T13:29:59.360Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066755",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-modelador-antifrizz.html/07891150088368",
+      "gtin": "07891150088368",
+      "checkedAt": "2026-03-13T13:30:00.328Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088368",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088375",
+      "gtin": "07891150088375",
+      "checkedAt": "2026-03-13T13:30:00.131Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088375",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-ceramidas.html/07891150037250",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-crescimento-saud%C3%A1vel.html/07891150037274",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.435Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-liso-perfeito.html/07891150037328",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-pretos-luminosos.html/07891150037342",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-frutas-vermelhas-e-gengibre.html/07891150037489",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-liso-perfeito.html/07891150037519",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.383Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-pretos-luminosos.html/07891150037526",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.383Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-restauracao-instantanea.html/07891150037571",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.325Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-mel-e-aveia.html/07891150037588",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.382Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-brilho-encantado.html/07891150042773",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-brilho-encantado.html/07891150042780",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-volumao.html/07891150054509",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.406Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-hidrata.html/07891150058040",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.396Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-niina-micelar-hialuronico.html/07891150063440",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.411Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-niina-micelar-hialuronico.html/07891150063457",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-hidratacao-maxima.html/07891150063945",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.388Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-recuperacao-intensiva.html/07891150063952",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.389Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom.html/07891150066694",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.389Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespissimos.html/07891150066748",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.412Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-coco-reconstrucao.html/07891150067509",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.390Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-bambu-e-biotina.html/07891150070301",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.410Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-by-rayza-p%C3%B3s-danos.html/07891150072893",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-seda-by-rayza-p%C3%B3s-danos.html/07891150072909",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.441Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-raiz-limpa-ponta-sedosa.html/07891150078277",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-raiz-limpa-ponta-sedosa.html/07891150078291",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.442Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-raiz-limpa-ponta-sedosa.html/07891150078307",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.442Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-hidrata-muito.html/07891150078314",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.438Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cresce-forte.html/07891150078345",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.438Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-niina-colageno-vitamina-c.html/07891150080089",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.439Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-niina-colageno-vitamina-c.html/07891150080096",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-niina-colageno-vitamina-c.html/07891150080102",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-by-niina-colageno-vitamina-c.html/07891150080119",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.446Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-bomba-abacate-e-karit%C3%A9.html/07891150082595",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.439Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cachos-encantados.html/07891150083585",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.447Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-crespos-encantados.html/07891150083592",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:29:58.445Z"
+    }
+  ]
+}

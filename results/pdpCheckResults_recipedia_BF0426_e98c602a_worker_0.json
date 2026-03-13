@@ -1,0 +1,816 @@
+{
+  "brand": "recipedia",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+  "totalUrlsChecked": 82,
+  "problematicPagesFound": 45,
+  "successfulPages": 1,
+  "errors": 36,
+  "duration": "1.57s",
+  "speed": "52.23 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-4-cereales-con-vitaminas-y-minerales-200g.html/00000068302642",
+      "gtin": "00000068302642",
+      "checkedAt": "2026-03-13T13:34:23.273Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=00000068302642",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-200g.html/00000068302643",
+      "gtin": "00000068302643",
+      "checkedAt": "2026-03-13T13:34:23.356Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=00000068302643",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-multicereal-infantil-sabor-miel-con-vitaminas-y-minerales-28g.html/00000068302644",
+      "gtin": "00000068302644",
+      "checkedAt": "2026-03-13T13:34:23.420Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=00000068302644",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-fresa-con-vitaminas-y-minerales-28g.html/00000068302647",
+      "gtin": "00000068302647",
+      "checkedAt": "2026-03-13T13:34:23.017Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=00000068302647",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-yucarina-300g.html/07702047001424",
+      "gtin": "07702047001424",
+      "checkedAt": "2026-03-13T13:34:23.314Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047001424",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-soya-fruco.html/07702047001851",
+      "gtin": "07702047001851",
+      "checkedAt": "2026-03-13T13:34:23.472Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047001851",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-para-carnes-fruco-156ml.html/07702047003138",
+      "gtin": "07702047003138",
+      "checkedAt": "2026-03-13T13:34:23.211Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047003138",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-380g.html/07702047003497",
+      "gtin": "07702047003497",
+      "checkedAt": "2026-03-13T13:34:22.981Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047003497",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-bunuelos-800g.html/07702047003510",
+      "gtin": "07702047003510",
+      "checkedAt": "2026-03-13T13:34:23.123Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047003510",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-arequipe-300g.html/07702047005095",
+      "gtin": "07702047005095",
+      "checkedAt": "2026-03-13T13:34:23.153Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047005095",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-mostaza-fruco.html/07702047021934",
+      "gtin": "07702047021934",
+      "checkedAt": "2026-03-13T13:34:23.049Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047021934",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-3-89-kg.html/07702047025598",
+      "gtin": "07702047025598",
+      "checkedAt": "2026-03-13T13:34:23.488Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047025598",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/pasta-de-tomate-fruco.html/07702047028247",
+      "gtin": "07702047028247",
+      "checkedAt": "2026-03-13T13:34:23.158Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047028247",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-bunuelos-300g.html/07702047037645",
+      "gtin": "07702047037645",
+      "checkedAt": "2026-03-13T13:34:23.028Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047037645",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-tradicional-600g.html/07702047037744",
+      "gtin": "07702047037744",
+      "checkedAt": "2026-03-13T13:34:22.952Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047037744",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-original-mezcla-bu%C3%B1uelos-600gr.html/07702047037751",
+      "gtin": "07702047037751",
+      "checkedAt": "2026-03-13T13:34:22.989Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047037751",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-arequipe-600g.html/07702047037768",
+      "gtin": "07702047037768",
+      "checkedAt": "2026-03-13T13:34:23.012Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047037768",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038116",
+      "gtin": "07702047038116",
+      "checkedAt": "2026-03-13T13:34:23.387Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047038116",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038758",
+      "gtin": "07702047038758",
+      "checkedAt": "2026-03-13T13:34:23.488Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047038758",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047038772",
+      "gtin": "07702047038772",
+      "checkedAt": "2026-03-13T13:34:23.470Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047038772",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-light-fruco.html/07702047038789",
+      "gtin": "07702047038789",
+      "checkedAt": "2026-03-13T13:34:23.271Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047038789",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-85-gr.html/07702047038949",
+      "gtin": "07702047038949",
+      "checkedAt": "2026-03-13T13:34:23.308Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047038949",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-arequipe-con-vitaminas-y-minerales-28g.html/07702047040034",
+      "gtin": "07702047040034",
+      "checkedAt": "2026-03-13T13:34:23.206Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040034",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-vainilla-180-gr.html/07702047040096",
+      "gtin": "07702047040096",
+      "checkedAt": "2026-03-13T13:34:23.421Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040096",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-receta-artesanal-fruco-doypack.html/07702047040577",
+      "gtin": "07702047040577",
+      "checkedAt": "2026-03-13T13:34:22.960Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040577",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-botella-400g.html/07702047040638",
+      "gtin": "07702047040638",
+      "checkedAt": "2026-03-13T13:34:22.989Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040638",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-180g.html/07702047040652",
+      "gtin": "07702047040652",
+      "checkedAt": "2026-03-13T13:34:23.358Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040652",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047040874",
+      "gtin": "07702047040874",
+      "checkedAt": "2026-03-13T13:34:23.211Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040874",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-de-tomate-sachet-40gr.html/07702047040881",
+      "gtin": "07702047040881",
+      "checkedAt": "2026-03-13T13:34:23.153Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040881",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047040898",
+      "gtin": "07702047040898",
+      "checkedAt": "2026-03-13T13:34:23.443Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040898",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-de-mayonesa-sachet-40gr.html/07702047040904",
+      "gtin": "07702047040904",
+      "checkedAt": "2026-03-13T13:34:23.120Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047040904",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-mostaza-fruco.html/07702047041192",
+      "gtin": "07702047041192",
+      "checkedAt": "2026-03-13T13:34:23.054Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047041192",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-sachet.html/07702047041253",
+      "gtin": "07702047041253",
+      "checkedAt": "2026-03-13T13:34:23.160Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047041253",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047041260",
+      "gtin": "07702047041260",
+      "checkedAt": "2026-03-13T13:34:23.139Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047041260",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-doypack-120gr.html/07702047041284",
+      "gtin": "07702047041284",
+      "checkedAt": "2026-03-13T13:34:23.379Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047041284",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-de-tomate-original-1000-gr.html/07702047041482",
+      "gtin": "07702047041482",
+      "checkedAt": "2026-03-13T13:34:23.122Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047041482",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128930",
+      "gtin": "07702047128930",
+      "checkedAt": "2026-03-13T13:34:23.467Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047128930",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-negra-gourmet-para-cocinar-155ml.html/07702047129913",
+      "gtin": "07702047129913",
+      "checkedAt": "2026-03-13T13:34:23.545Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047129913",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130308",
+      "gtin": "07702047130308",
+      "checkedAt": "2026-03-13T13:34:23.108Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047130308",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130322",
+      "gtin": "07702047130322",
+      "checkedAt": "2026-03-13T13:34:23.147Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047130322",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-saborizada-rosada-8-gr.html/07702047133569",
+      "gtin": "07702047133569",
+      "checkedAt": "2026-03-13T13:34:23.352Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047133569",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047138007",
+      "gtin": "07702047138007",
+      "checkedAt": "2026-03-13T13:34:23.221Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047138007",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-mayonesa-pague-800gr-lleve-1000gr.html/07702047140925",
+      "gtin": "07702047140925",
+      "checkedAt": "2026-03-13T13:34:23.443Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047140925",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-de-mayonesa-sachet-80gr.html/07702047141014",
+      "gtin": "07702047141014",
+      "checkedAt": "2026-03-13T13:34:23.894Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047141014",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-de-tomate-sachet-x-12unidades-80gr.html/07702047141021",
+      "gtin": "07702047141021",
+      "checkedAt": "2026-03-13T13:34:23.821Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Recepedia&locale=es-co&brand_code=BF0426&gtin=07702047141021",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/delmaiz-fecula-de-maiz-90g.html/00000000575231",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.478Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/rinde-mas-de-knorr.html/00000040213675",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-aj%C3%AD-fruco.html/07702047001745",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-china-fruco.html/07702047001769",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-90g.html/07702047003466",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-coco-300g.html/07702047005248",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.468Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047005330",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.453Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-fruco.html/07702047015735",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047016824",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-para-carnes-fruco.html/07702047022078",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-tradicional-300g.html/07702047037652",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038123",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-coco-600g.html/07702047038642",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-natilla-maracuya-300g.html/07702047038659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047038765",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco.html/07702047038796",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-light-fruco.html/07702047039014",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-artesanal-fruco.html/07702047039236",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-colada-de-vainilla-con-vitaminas-y-minerales-28g.html/07702047040058",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.476Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-coladas-mix-28gr.html/07702047040065",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.528Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-doypack-380g.html/07702047040645",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-salsa-rosada-sachet-x-12-unidades-80gr.html/07702047041185",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-tomate-sachet-80g.html/07702047041208",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/fruco-original-salsa-mayonesa-sachet-x-12-unidades-80gr.html/07702047041215",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-bbq-artesanal-80g.html/07702047041222",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-rosada-fruco-80.html/07702047041239",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-doypack.html/07702047041291",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.541Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-baja-en-calorias.html/07702047128947",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.531Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-botella.html/07702047130315",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.530Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/knorr-crema-de-pollo-con-champinones.html/07702047137468",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.537Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/salsa-de-tomate-fruco-doypack.html/07702047137994",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.575Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/natilla-tres-leches.html/07702047140697",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.544Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-720g.html/07702047140819",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.579Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/natilla-tres-leches.html/07702047140918",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.581Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/mayonesa-receta-artesanal-fruco-doypack.html/07702047140956",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.562Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.recepedia.com/co/p/maizena-fecula-de-maiz-200g.html/07702047140963",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:22.548Z"
+    }
+  ]
+}

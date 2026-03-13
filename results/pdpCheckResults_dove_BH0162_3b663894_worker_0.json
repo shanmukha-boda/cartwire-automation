@@ -1,0 +1,452 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+  "totalUrlsChecked": 73,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 73,
+  "duration": "0.18s",
+  "speed": "405.56 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/fresh-facial-foam-tube.html/04902111734965",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-moisture-facial-foam-tube.html/04902111736655",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.694Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/sensitive-mild-facial-foam-tube.html/04902111736662",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.689Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/deep-pure-facial-foam-tube.html/04902111736679",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/clear-renew-facial-foam-tube.html/04902111736686",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.698Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/3-in-1-make-up-remover.html/04902111736914",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.695Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/moisture-milk-cleanser.html/04902111736938",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.705Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/moisture-oil-cleanser.html/04902111736952",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/sensitive-mild-milk-cleanser.html/04902111749662",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.702Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pore-beauty-self-foam.html/04902111750118",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.689Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pore-beauty-cleansing-balm-spa.html/04902111769547",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.686Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pore-beauty-cleansing-gel-spa.html/04902111769554",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.705Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pore-beauty-cleansing-balm-sensitive.html/04902111769561",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.707Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pore-beauty-cleansing-gel-sensitive.html/04902111769578",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.697Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-pomegranate.html/04902111771175",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.697Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-kiwi.html/04902111771182",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.713Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-macadamia.html/04902111771199",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.695Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-moisture-self-foam.html/04902111773384",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/clear-renew-facial-foam.html/04902111773391",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.684Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/deep-pure-self-foam.html/04902111773407",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.715Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/acne-care-self-foam-pump.html/04902111773414",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.714Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/sensitive-mild-self-foam.html/04902111773421",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.716Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/kyuchaku-pore-care-sengan-gel.html/04902111774442",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-moisture-shittori.html/04902111775005",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-moisture-tsuyayaka.html/04902111775012",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.761Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/premium-moisture-care-body-wash-pump.html/04902111775210",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.683Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/sensitive-body-wash-pump.html/04902111775234",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.710Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/purely-pampering-shea-butter-with-warm-vanilla-body-wash.html/04902111775258",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.698Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/go-fresh-peach-sweet-pea-body-wash-pump.html/04902111775272",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.720Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/purely-pampering-rice-ferment-with-osmanthus-body-wash.html/04902111775296",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.699Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/purely-pampering-jojobaoil-with-sandalwood-body-wash.html/04902111775357",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.722Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-sakura.html/04902111776552",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-moisture-fukkura.html/04902111776972",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.687Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-moisture-qd-body-wash.html/04902111777450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.711Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-cherry.html/04902111777498",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/purely-pampering-cream-body-wach-comfort-moisture.html/04902111777771",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.687Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/purely-pampering-cream-body-wach-joyous-glow.html/04902111777788",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.695Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/purely-pampering-lavender-with-oatmilk-body-wash.html/04902111777887",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.694Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-kinmokusei.html/04902111778242",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-tube-lavender.html/04902111778341",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.738Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-moisture-osmanthus-body-wash.html/04902111779867",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.706Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-tube-pomegranate.html/04902111779997",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.685Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-tube-sakura.html/04902111780009",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.694Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/rich-creamy-oil-scrub.html/04902111781457",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.689Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-facewash-translucent.html/04902111782652",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-facewash-moisture.html/04902111782669",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-facewash-porecare.html/04902111782676",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.710Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-selfform-sensitive.html/04902111782683",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-oil-translucent.html/04902111782706",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.706Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-oil-porecare.html/04902111782713",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.696Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-3in1-translucent.html/04902111782737",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/pearlshine-selfform-acnecare.html/04902111782751",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.732Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/fuwatoro-body-wash-cherry.html/04902111783857",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/creamy-scrub-tube-cherry.html/04902111784014",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.684Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/men-care-clean-comfort-pump.html/04902111722689-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.720Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/men-care-extra-fresh-tube.html/04902111722726-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/original-beauty-cream-bar.html/04902111738505",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.710Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/moisture-care-shampoo.html/04902111741383",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/moisture-care-conditioner.html/04902111741390",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.720Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/damage-care-shampoo.html/04902111741468",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.710Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/damage-care-conditioner.html/04902111741475",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/rich-milk-hair-treatment-tube.html/04902111746647",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.747Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/men-care-facewash-moisture-pump.html/04902111751337-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.705Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/men-care-facewash-oilrefresh-pump.html/04902111751436-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/men-care-lotion-oilrefresh-pump.html/04902111751481-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.703Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/men-care-skincleansing-cleancomfort-pump.html/04902111754369-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/men-care-skincleansing-extrafresh-pump.html/04902111754383-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.701Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/fuwatoro-body-wash-pomegranate.html/04902111783192",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.687Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/fuwatoro-body-wash-sakura.html/04902111783215",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.700Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/fuwatoro-body-wash-kinmokusei.html/04902111783239",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.696Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-serum-bodywash-moisture.html/04902111784380",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.695Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-serum-bodywash-enrich.html/04902111784397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.696Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/jp/p/beauty-serum-bodywash-shine.html/04902111784403",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.687Z"
+    }
+  ]
+}

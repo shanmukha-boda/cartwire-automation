@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-03-13T13:33:14.096Z",
+  "brand": "big-milk",
+  "assortmentCode": "BF2003",
+  "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+  "totalProblematicPages": 5,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-owoce-egotyczne-intense.html/08711327532755",
+      "gtin": "08711327532755",
+      "checkedAt": "2026-03-13T13:33:13.487Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327532755",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-truskawki-intense.html/08711327624665",
+      "gtin": "08711327624665",
+      "checkedAt": "2026-03-13T13:33:13.752Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327624665",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-wanilia.html/08711327666894",
+      "gtin": "08711327666894",
+      "checkedAt": "2026-03-13T13:33:13.712Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327666894",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-%C5%9Bmietanka-truskawka.html/08711327667303",
+      "gtin": "08711327667303",
+      "checkedAt": "2026-03-13T13:33:13.643Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327667303",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+      "url": "https://www.bigmilk.pl/p/big-milk-o-smaku-czekolada.html/08711327667570",
+      "gtin": "08711327667570",
+      "checkedAt": "2026-03-13T13:33:13.485Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=big-milk&locale=pl-pl&brand_code=BF2003&gtin=08711327667570",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

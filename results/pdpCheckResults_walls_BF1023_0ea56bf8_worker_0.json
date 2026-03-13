@@ -1,0 +1,482 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.frisko.dk/home.productfeed.json",
+  "totalUrlsChecked": 123,
+  "problematicPagesFound": 0,
+  "successfulPages": 45,
+  "errors": 78,
+  "duration": "16.31s",
+  "speed": "7.54 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/frisko-sandwich.html/07310290002176",
+      "error": "request to https://www.frisko.dk/p/frisko-sandwich.html/07310290002176 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/cornetto-king-cone-vanilla.html/05201028355508",
+      "error": "request to https://www.frisko.dk/p/cornetto-king-cone-vanilla.html/05201028355508 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/kung-fu.html/05701026066517",
+      "error": "request to https://www.frisko.dk/p/kung-fu.html/05701026066517 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/mango-melon.html/06438200680359",
+      "error": "request to https://www.frisko.dk/p/mango-melon.html/06438200680359 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.594Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/nougat.html/07310290004668",
+      "error": "request to https://www.frisko.dk/p/nougat.html/07310290004668 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/twister-mini-8-pak.html/08000920473696",
+      "error": "request to https://www.frisko.dk/p/twister-mini-8-pak.html/08000920473696 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-after-dinner-10-pak.html/08000920576502",
+      "error": "request to https://www.frisko.dk/p/magnum-after-dinner-10-pak.html/08000920576502 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.594Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-pistacie.html/08000920759837",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-pistacie.html/08000920759837 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-jordb%C3%A6r.html/08000920806562",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-jordb%C3%A6r.html/08000920806562 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-stracciatella.html/08000920808078",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-stracciatella.html/08000920808078 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-dulche-de-leche.html/08000920813089",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-dulche-de-leche.html/08000920813089 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.559Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-strawberry.html/08000920815885",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-strawberry.html/08000920815885 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-valn%25c3%25b8d.html/08000920815908",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-valn%25c3%25b8d.html/08000920815908 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-triple-chocolate.html/08000920815946",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-triple-chocolate.html/08000920815946 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-mint-&-chokolade.html/08000920833582",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-mint-&-chokolade.html/08000920833582 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-hasseln%25c3%25b8d.html/08000920869451",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-hasseln%25c3%25b8d.html/08000920869451 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-banan-&-chokolade.html/08000920925003",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-banan-&-chokolade.html/08000920925003 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/lakrids.html/08711327300002",
+      "error": "request to https://www.frisko.dk/p/lakrids.html/08711327300002 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-double-white-chocolate-&-cookies.html/08711327315631",
+      "error": "request to https://www.frisko.dk/p/magnum-double-white-chocolate-&-cookies.html/08711327315631 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.592Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-is-hindb%C3%A6r-&-hvid-chokolade-5500ml.html/08711327333932",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-is-hindb%C3%A6r-&-hvid-chokolade-5500ml.html/08711327333932 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/frisko-oreo.html/08711327335851",
+      "error": "request to https://www.frisko.dk/p/frisko-oreo.html/08711327335851 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/soft-republick-strawberry.html/08711327347137",
+      "error": "request to https://www.frisko.dk/p/soft-republick-strawberry.html/08711327347137 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/soft-republick-chocolate-chip.html/08711327347144",
+      "error": "request to https://www.frisko.dk/p/soft-republick-chocolate-chip.html/08711327347144 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/soft-republick-caramel.html/08711327347151",
+      "error": "request to https://www.frisko.dk/p/soft-republick-caramel.html/08711327347151 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/tip-top.html/08711327384163",
+      "error": "request to https://www.frisko.dk/p/tip-top.html/08711327384163 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/frisko-top-hat.html/08711327384477",
+      "error": "request to https://www.frisko.dk/p/frisko-top-hat.html/08711327384477 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-hindb%C3%A6rsorbet.html/08711327399440",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-hindb%C3%A6rsorbet.html/08711327399440 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-kaffe.html/08711327467620",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-kaffe.html/08711327467620 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.594Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-kokos.html/08711327477797",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-kokos.html/08711327477797 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.594Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-double-gold-caramel-billionaire.html/08711327480438",
+      "error": "request to https://www.frisko.dk/p/magnum-double-gold-caramel-billionaire.html/08711327480438 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.594Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-double-gold-caramel-billionaire.html/08711327480537",
+      "error": "request to https://www.frisko.dk/p/magnum-double-gold-caramel-billionaire.html/08711327480537 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.595Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-double-gold-caramel-billionaire-3-pak.html/08711327483071",
+      "error": "request to https://www.frisko.dk/p/magnum-double-gold-caramel-billionaire-3-pak.html/08711327483071 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/ingman-chocolatey-blast.html/08711327487925",
+      "error": "request to https://www.frisko.dk/p/ingman-chocolatey-blast.html/08711327487925 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.604Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/pineapple-split.html/08711327511156",
+      "error": "request to https://www.frisko.dk/p/pineapple-split.html/08711327511156 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/green-fresh.html/08711327511248",
+      "error": "request to https://www.frisko.dk/p/green-fresh.html/08711327511248 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/solbaerstang.html/08711327512689",
+      "error": "request to https://www.frisko.dk/p/solbaerstang.html/08711327512689 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-baileys.html/08711327532915",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-baileys.html/08711327532915 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-mini-cookie-mania-6-pak.html/08711327533622",
+      "error": "request to https://www.frisko.dk/p/magnum-mini-cookie-mania-6-pak.html/08711327533622 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/twister-pineapple-80-ml.html/08711327575646",
+      "error": "request to https://www.frisko.dk/p/twister-pineapple-80-ml.html/08711327575646 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/twister-mini-pineapple-6-pak.html/08711327576957",
+      "error": "request to https://www.frisko.dk/p/twister-mini-pineapple-6-pak.html/08711327576957 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-vegan-raspberry-swirl-3-p.html/08711327578913",
+      "error": "request to https://www.frisko.dk/p/magnum-vegan-raspberry-swirl-3-p.html/08711327578913 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.604Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-vegan-raspberry-swirl.html/08711327578968",
+      "error": "request to https://www.frisko.dk/p/magnum-vegan-raspberry-swirl.html/08711327578968 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-double-sunlover-3-p.html/08711327582408",
+      "error": "request to https://www.frisko.dk/p/magnum-double-sunlover-3-p.html/08711327582408 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-double-starchaser.html/08711327583610",
+      "error": "request to https://www.frisko.dk/p/magnum-double-starchaser.html/08711327583610 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/p%C3%A6re-laktosefri.html/08711327584105",
+      "error": "request to https://www.frisko.dk/p/p%C3%A6re-laktosefri.html/08711327584105 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/gammeldags-chokolade-lavt-laktoseinhold.html/08711327584204",
+      "error": "request to https://www.frisko.dk/p/gammeldags-chokolade-lavt-laktoseinhold.html/08711327584204 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/gammeldags-jordb%C3%A6r-lavt-laktoseinhold.html/08711327584860",
+      "error": "request to https://www.frisko.dk/p/gammeldags-jordb%C3%A6r-lavt-laktoseinhold.html/08711327584860 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-triple-luxe-chocolate-&-hazelnut.html/08711327584969",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-triple-luxe-chocolate-&-hazelnut.html/08711327584969 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-mini-double-caramel-collection-6-p.html/08711327585782",
+      "error": "request to https://www.frisko.dk/p/magnum-mini-double-caramel-collection-6-p.html/08711327585782 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/rom-&-rosiner.html/08711327585874",
+      "error": "request to https://www.frisko.dk/p/rom-&-rosiner.html/08711327585874 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/gammeldags-vanilje-lavt-laktoseinhold.html/08711327586024",
+      "error": "request to https://www.frisko.dk/p/gammeldags-vanilje-lavt-laktoseinhold.html/08711327586024 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-triple-luxe-salted-caramel-&-vanilla.html/08711327589520",
+      "error": "request to https://www.frisko.dk/p/carte-d%27or-triple-luxe-salted-caramel-&-vanilla.html/08711327589520 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/kingis-raspberry-licorice-78-ml.html/08711327591813",
+      "error": "request to https://www.frisko.dk/p/kingis-raspberry-licorice-78-ml.html/08711327591813 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:18:44.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-mangosorbet-vegan.html/08711327596313",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.665Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-vanilje-vegan.html/08711327597235",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.685Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-euphoria.html/08711327622289",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.705Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-chill-3-pak.html/08711327622678",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.944Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-chill.html/08711327622869",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.232Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-euphoria-3-pak.html/08711327623057",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.549Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-wonder.html/08711327625228",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.827Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/twister-cosmixx-4-pak.html/08711327627871",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-karamel-&-vanilje.html/08711327629998",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.407Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-vandmelon.html/08711327638037",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.734Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-is-solero-exotic-5500-ml.html/08711327669437",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.667Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/solero-exotic.html/08712100889233",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-al-pistacio.html/08712566331185",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.857Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-white-3-pak.html/08712566331963",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.671Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-mandel-3-pak.html/08712566332236",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.830Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/choice-vaffel-lovely-vanilla.html/08714100081501",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.849Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/magnum-mandel.html/08714100289983",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.511Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-classic-vanilje.html/08714100377048",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.257Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-classic-chokolade.html/08714100377147",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.225Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/carte-d'or-candyfloss.html/08714100588482",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.091Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/cornetto-go.html/08714100641002",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.790Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/daim-mini-6-pak.html/08722700020868",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/sandwich-original-6-pak.html/08722700132523",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.897Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/champagnebrus-mini-8-pak.html/08722700150299",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:46.749Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.frisko.dk/p/filur-mini-8-pak.html/08722700152583",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T13:18:47.172Z"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-03-13T13:17:36.093Z",
+  "brand": "walls",
+  "assortmentCode": "BF0802",
+  "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+  "totalProblematicPages": 8,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/solero-exotic-multipack.html/09310016000668",
+      "gtin": "09310016000668",
+      "checkedAt": "2026-03-13T13:17:23.335Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=09310016000668",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/solero-berry-bliss-multipack.html/09310016000675",
+      "gtin": "09310016000675",
+      "checkedAt": "2026-03-13T13:17:29.425Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=09310016000675",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/solero-exotic-90ml.html/09310016000880",
+      "gtin": "09310016000880",
+      "checkedAt": "2026-03-13T13:17:29.357Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=09310016000880",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/solero-berry-bliss-90ml.html/09310016000903",
+      "gtin": "09310016000903",
+      "checkedAt": "2026-03-13T13:17:23.148Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=09310016000903",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/magnum-dulce-de-leche-multipack-x4.html/09310016001399",
+      "gtin": "09310016001399",
+      "checkedAt": "2026-03-13T13:17:30.140Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=09310016001399",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/paddle-pop-vanilla.html/09310016001498",
+      "gtin": "09310016001498",
+      "checkedAt": "2026-03-13T13:17:23.237Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=09310016001498",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/paddle-pop-twister-mini-mallow-multipack.html/08711327660434",
+      "gtin": "08711327660434",
+      "checkedAt": "2026-03-13T13:17:23.061Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=08711327660434",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+      "url": "https://www.streetsicecream.com.au/p/paddle-pop-icy-twist-lemonade-multipack.html/09310016804259",
+      "gtin": "09310016804259",
+      "checkedAt": "2026-03-13T13:17:30.531Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=en-au&brand_code=BF0802&gtin=09310016804259",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

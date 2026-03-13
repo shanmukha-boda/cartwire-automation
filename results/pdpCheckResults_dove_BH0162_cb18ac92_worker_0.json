@@ -1,0 +1,140 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/th/home.productfeed.json",
+  "totalUrlsChecked": 21,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 21,
+  "duration": "0.07s",
+  "speed": "300.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/go-fresh-rebalancing-body-wash.html/06902088962147",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/intensive-repair-shampoo.html/08851932227841",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.815Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/nourishing-oil-care-shampoo.html/08851932274913",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.820Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/oxygen-moisture-shampoo.html/08851932351171",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/oxygen-moisture-conditioner.html/08851932351232",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.824Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/intense-repair-one-minute-super-conditioner-180ml.html/08851932389761",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.823Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/nourishing-oil-care-one-minute-super-conditioner180ml.html/08851932389778",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/botanical-selection-hydration-and-restore-shampoo.html/08851932412568",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.817Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/botanical-selection-hydration-and-restore-conditioner.html/08851932412582",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/botanical-selection-hydration-and-anti-hairfall-conditioner.html/08851932412629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.832Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/botanical-selection-hydration-and-clarify-shampoo.html/08851932412643",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/botanical-selection-hydration-and-clarify-conditioner.html/08851932412667",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.833Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/detox-nourishment-shampoo.html/08851932412988",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.828Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/detox-nourishment-conditioner.html/08851932413053",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.818Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/go-fresh-invigorating-hydration-body-wash.html/08851932462808",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.829Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/go-fresh-sakura-blossom-body-wash.html/08886467020360",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/deeply-nourishing-body-wash.html/08999999026400",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.819Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/go-fresh-revive-body-wash.html/08999999028121",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.825Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/intensive-repair-daily-hair-vitamins.html/08999999036270",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.817Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/sensitive-skin-nourishing-body-wash.html/08999999518370",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.815Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/th/p/deodorants-spray.html/09300830037810",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:28.820Z"
+    }
+  ]
+}

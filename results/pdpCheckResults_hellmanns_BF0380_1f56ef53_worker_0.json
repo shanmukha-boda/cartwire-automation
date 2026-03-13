@@ -1,0 +1,32 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 26,
+  "problematicPagesFound": 0,
+  "successfulPages": 23,
+  "errors": 3,
+  "duration": "8.15s",
+  "speed": "3.19 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/ca/en/p/made-with-avocado-oil.html/00068400000525",
+      "error": "request to https://www.hellmanns.com/ca/en/p/made-with-avocado-oil.html/00068400000525 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:28:04.486Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/ca/fr/p/avec-huile-dolive-legere.html/00068400158066",
+      "error": "request to https://www.hellmanns.com/ca/fr/p/avec-huile-dolive-legere.html/00068400158066 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:28:04.486Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/ca/fr/p/1-2-moins-de-gras-890-ml.html/00068400662709",
+      "error": "request to https://www.hellmanns.com/ca/fr/p/1-2-moins-de-gras-890-ml.html/00068400662709 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:28:04.486Z"
+    }
+  ]
+}

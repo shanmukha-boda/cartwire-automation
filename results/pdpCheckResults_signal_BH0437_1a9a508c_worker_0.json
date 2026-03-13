@@ -1,0 +1,110 @@
+{
+  "brand": "signal",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal.be/fr/home.productfeed.json",
+  "totalUrlsChecked": 60,
+  "problematicPagesFound": 0,
+  "successfulPages": 44,
+  "errors": 16,
+  "duration": "0.86s",
+  "speed": "69.77 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-kids-1-x-extra-zacht.html/08720181502880",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-junior-1-x-extra-zacht.html/08720181502897",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-classic-clean-1-x-dure.html/00000054024786",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.425Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-classic-clean-1-x-moyenne.html/08413300264270",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.447Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-aux-herbes-75-ml.html/08710447328088",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.438Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-%C3%A0-la-noix-de-coco-75-ml.html/08710447328095",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.447Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-charcoal-75ml.html/08710522417379",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-white-now-dentifrice-detox-coconut-75-ml.html/08710604754224",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-white-system-1-x-medium.html/08718114198903",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.428Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-camomille-75-ml.html/08720181230585",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.426Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-now-original-75-ml.html/08720181327148",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.427Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-now-gold-75-ml.html/08720181327155",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-complete-75ml-24x.html/08720181416316",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.440Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-interdental-75ml-24x.html/08720181419089",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.446Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-kids-multifruit-75-ml.html/08720181501784",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.447Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal.be/fr/p/signal-junior-dentifrice-menthe-75-ml.html/08720181501791",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:21:08.451Z"
+    }
+  ]
+}

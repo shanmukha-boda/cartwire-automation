@@ -1,0 +1,416 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/ie/home.productfeed.json",
+  "totalUrlsChecked": 67,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 67,
+  "duration": "0.15s",
+  "speed": "446.67 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/chicken-stock-cubes.html/05000184161028",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/beef-stock-cubes.html/05000184161066",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/ham-stock-cubes.html/05000184161103",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.643Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/vegetable-stock-cubes.html/05000184161165",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/lamb-stock-cubes.html/05000184161189",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pork-stock-cubes.html/05000184161240",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.638Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/aromat-seasoning.html/05000184221241",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.614Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/country-stew.html/05011002003055",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.632Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/white-sauce.html/05011002017038",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.661Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/parsley-sauce.html/05011002017045",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.648Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/cheese-sauce.html/05011002017083",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.636Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/medium-curry-sauce.html/05011002017106",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.641Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/chicken-casserole.html/05011002603248",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.616Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/beef-casserole.html/05011002603255",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/cream-pepper-sauce.html/05011002603903",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/knorr-mashed-potato-box.html/05011002605310",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.634Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/savoury-gravy.html/05011002605532",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.625Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/aromat-meat-seasoning.html/05011002607369",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.615Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/beef-stroganoff.html/05011002609080",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.655Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/hot-pepper-sauce.html/05011002609578",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/quick-soup-tomato.html/08710522820445",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.615Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/vegetable-zero-salt-stock-cubes.html/08710522940969",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.633Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/chicken-zero-salt-stock-cubes.html/08710522941058",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.622Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/beef-zero-salt-stock-cubes.html/08710522941157",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.639Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/lamb-stock-pot.html/08710908892219",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.630Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/rich-beef-stock-cubes.html/08710908960017",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.619Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/organic-beef-stock-pot.html/08711200333141",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.633Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/organic-vegetable-stock-pot.html/08711200333172",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/organic-chicken-stock-pot.html/08711200333189",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.651Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pasta-carbonara.html/08711200386741",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.620Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pasta-mushroom.html/08711200386796",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.624Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pasta-pesto.html/08711200386888",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.652Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pasta-bolognese.html/08711200387199",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pasta-parmesana.html/08711200387304",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/mushroom-sauce.html/08711200435104",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/chicken-gravy-pot.html/08711200501731",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/beef-gravy-pot.html/08711200503896",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.658Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/spaghetti-bolognese.html/08712100528873",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.630Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/savoury-mince.html/08712566144563",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/chicken-chasseur.html/08712566144600",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.631Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/shepherds-pie.html/08712566173143",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/carefully-prepared-chilli-con-carne-mix.html/08712566251933",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/fish-stock-pot.html/08712566479405",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.640Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/rich-beef-stock-pot.html/08712566479528",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.646Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/quick-soup-chicken-and-vegetable.html/08714100262344",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.628Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/quick-soup-chicken.html/08714100263358",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.627Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/quick-soup-golden-vegetable.html/08714100263853",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/quick-soup-mushroom.html/08714100263969",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.626Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/quick-soup-oxtail.html/08714100264089",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/quick-soup-chicken-noodle.html/08714100273920",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pepper-sauce-tub.html/08714100274644",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.656Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/curry-rice.html/08714100371923",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.623Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/chicken-taste-asia-noodles.html/08714100396575",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.666Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/curry-taste-asia-noodles.html/08714100397459",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.622Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/cheddar-&-jalapeno-snack-pot.html/08720182728944",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/mushroom-snack-pot.html/08720182728951",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.628Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/red-wine-stock-pot.html/08720182865199",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.650Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/white-wine-stock-pot.html/08720182865281",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.654Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pasta-carbonara.html/08720182868060",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/tomato-&-mozzarella-snack-pot.html/08720182868176",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.637Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/spicy-chicken-taste-asia-noodles.html/08720182882356",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.630Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/bbq-chicken-snack-pot.html/08720182882837",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.628Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/pasta-bolognese.html/08720182884992",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.634Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/bacon-&-onion.html/08720182885333",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.645Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/chicken-stock-pot.html/08722700268727",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/beef-stock-pot.html/08722700268741",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.629Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/ie/p/vegetable-stock-pot.html/08722700268772",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:33.658Z"
+    }
+  ]
+}

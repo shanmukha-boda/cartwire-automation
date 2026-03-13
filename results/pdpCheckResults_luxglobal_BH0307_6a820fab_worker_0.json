@@ -1,0 +1,13 @@
+{
+  "brand": "luxglobal",
+  "assortmentCode": "BH0307",
+  "feedUrl": "https://www.lux.com/za/home.productfeed.json",
+  "totalUrlsChecked": 17,
+  "problematicPagesFound": 0,
+  "successfulPages": 17,
+  "errors": 0,
+  "duration": "5.13s",
+  "speed": "3.31 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

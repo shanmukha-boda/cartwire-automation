@@ -1,0 +1,80 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/vn/home.productfeed.json",
+  "totalUrlsChecked": 11,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 11,
+  "duration": "0.06s",
+  "speed": "183.33 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/gia-v%E1%BB%8B-ho%C3%A0n-ch%E1%BB%89nh-knorr-c%C3%A1-kho.html/08934707010944",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.273Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/gia-v%E1%BB%8B-ho%C3%A0n-ch%E1%BB%89nh-knorr-c%C3%A1-kho-ri%E1%BB%81ng.html/08934707010968",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.274Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/gia-v%E1%BB%8B-ho%C3%A0n-ch%E1%BB%89nh-knorr-canh-chua.html/08934707010982",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.274Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/gia-v%E1%BB%8B-ho%C3%A0n-ch%E1%BB%89nh-knorr-th%E1%BB%8Bt-kho.html/08934707011002",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.276Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/gia-v%E1%BB%8B-ho%C3%A0n-ch%E1%BB%89nh-knorr-th%E1%BB%8Bt-kho-t%C3%A0u.html/08934707011026",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.271Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/hat-nem-nam-huong-huu-co-knorr-tu-nhien.html/08934707012122",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.273Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/h%E1%BA%A1t-n%C3%AAm-knorr-th%E1%BB%8Bt-th%C4%83n-x%C6%B0%C6%A1ng-%E1%BB%91ng-t%E1%BB%A7y.html/08934707029137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.271Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/t%C6%B0%C6%A1ng-%E1%BB%9Bt-knorr-tr%C3%B2n-5-v%E1%BB%8B-cay-t%C3%AA-t%C3%AA.html/08934707029359",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.272Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/t%C6%B0%C6%A1ng-%E1%BB%9Bt-knorr-tr%C3%B2n-5-v%E1%BB%8B-cay-%C4%91%E1%BA%ADm.html/08934707029366",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.271Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/nuoc-mam-knorr-ngon-nguyen-ban.html/08934707029816",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.272Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/vn/p/nuoc-mam-knorr-ngon-tron-vi.html/08934707029823",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:25.283Z"
+    }
+  ]
+}

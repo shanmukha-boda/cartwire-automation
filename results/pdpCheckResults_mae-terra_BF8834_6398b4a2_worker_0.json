@@ -1,0 +1,116 @@
+{
+  "brand": "mae-terra",
+  "assortmentCode": "BF8834",
+  "feedUrl": "https://www.maeterra.com.br/home.productfeed.json",
+  "totalUrlsChecked": 27,
+  "problematicPagesFound": 0,
+  "successfulPages": 10,
+  "errors": 17,
+  "duration": "0.35s",
+  "speed": "77.14 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-banana-e-cacau.html/07891150075450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.157Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-cacau-organico.html/07891150081338",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.157Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-maizena.html/07891150084643",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.152Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-tradicional-zero-acucares.html/07891150087606",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.174Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-brigadeiro-zero.html/07891150089112",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.157Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/choco-biscoito-cacau.html/07891150089198",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.169Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/tribos-cracker-gergelim.html/07896496917525",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.160Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/tribos-coco.html/07896496917716",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.173Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-frutas-e-mel-vegano.html/07896496972111",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.193Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-pizza.html/07896496972326",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.185Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-cebola.html/07896496972340",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.168Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-castanhas-brasileiras.html/07896496972500",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.171Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-acai.html/07896496972555",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.158Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-cacau.html/07896496972609",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.161Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-sementes.html/07896496972623",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.171Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-cacau-e-castanhas.html/07896496980857",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.200Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-banana-e-cacau.html/07896496980888",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:06.162Z"
+    }
+  ]
+}

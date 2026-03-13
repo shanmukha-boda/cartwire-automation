@@ -1,0 +1,32 @@
+{
+  "brand": "maizena",
+  "assortmentCode": "BF0547",
+  "feedUrl": "https://www.maizena.fr/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": 4,
+  "errors": 3,
+  "duration": "1.65s",
+  "speed": "4.24 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.maizena.fr/p/fleur-de-mais-700g.html/08712100338724",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:06.972Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maizena.fr/p/fleur-de-mais-bio-200g.html/08714100796610",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:06.980Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maizena.fr/p/melange-special-pour-crepes-gaufres-et-pancakes-510g.html/08714100671191",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:06.973Z"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "kissan",
+  "assortmentCode": "BF0423",
+  "feedUrl": "https://www.kissan.in/home.productfeed.json",
+  "totalUrlsChecked": 13,
+  "problematicPagesFound": 0,
+  "successfulPages": 13,
+  "errors": 0,
+  "duration": "0.82s",
+  "speed": "15.85 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

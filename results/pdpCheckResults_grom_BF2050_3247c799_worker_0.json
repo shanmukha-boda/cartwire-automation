@@ -1,0 +1,236 @@
+{
+  "brand": "grom",
+  "assortmentCode": "BF2050",
+  "feedUrl": "https://www.gromgelato.com/it/it/home.productfeed.json",
+  "totalUrlsChecked": 70,
+  "problematicPagesFound": 0,
+  "successfulPages": 33,
+  "errors": 37,
+  "duration": "1.09s",
+  "speed": "64.22 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/crema-di-grom.html/01000000000001",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.758Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato.html/01000000000003",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.711Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato-extranoir.html/01000000000005",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.764Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/stracciatella.html/01000000000011",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.741Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/yogurt.html/01000000000013",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.713Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/tiramis%C3%B9.html/01000000000014",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.712Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caramello-al-sale.html/01000000000015",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.712Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cocco.html/01000000000018",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.712Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caramello-e-mandorle.html/01000000000019",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.741Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/lampone.html/01000000000020",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.711Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/limone.html/01000000000023",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.711Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fragola.html/01000000000024",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.716Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/marocchino.html/01000000000049",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.719Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/malaga.html/01000000000123",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.750Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/stracciatella-al-cocco.html/01000000000125",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.712Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-alla-fragola.html/01000000000126",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.769Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pera-e-granella-di-cioccolato.html/01000000000127",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/variegato-all%E2%80%99amarena-con-granella-di-cioccolato.html/01000000000129",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.709Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8-variegato-al-gianduia.html/01000000000134",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.704Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato-e-mandorle.html/01000000000137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.708Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fiordilatte-croccante.html/01000000000142",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.721Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio-variegato-al-gianduia.html/01000000000147",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.718Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-vaniglia-e-amarene.html/01000000000224",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.719Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/vaniglia-albicocca-e-nocciola-pralinata.html/01000000001125",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.732Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/mango.html/01000000081089",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.749Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/meringata-cioccolato-e-nocciole.html/01000000081091",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.720Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/colomba.html/01000000081094",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.727Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pera.html/01000000081534",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.721Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/torta-sacher.html/01000005281088",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.726Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fior-di-panna.html/08711327510388",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/caff%C3%A8.html/08711327512672",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.788Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/limone.html/08714100618837",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.730Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/fragola.html/08714100619018",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.745Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/lampone.html/08714100619049",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/pistacchio.html/08714100658666",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.732Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/crema-di-grom-avvolgente.html/08714100719602",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.738Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.gromgelato.com/it/it/p/cioccolato-goloso.html/08714100719626",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:31:27.740Z"
+    }
+  ]
+}

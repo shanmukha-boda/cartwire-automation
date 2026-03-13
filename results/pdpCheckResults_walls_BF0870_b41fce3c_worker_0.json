@@ -1,0 +1,200 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0870",
+  "feedUrl": "https://www.wallsicecream.com/id/home.productfeed.json",
+  "totalUrlsChecked": 55,
+  "problematicPagesFound": 0,
+  "successfulPages": 24,
+  "errors": 31,
+  "duration": "6.27s",
+  "speed": "8.77 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/magnum-mini-classic.html/08999999035624",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.346Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/magnum-mini-almond.html/08999999035631",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.325Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/paddle-pop-choco-magma.html/08999999047191",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.315Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/cornetto-mini-oreo.html/08999999577285",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.318Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/magnum-classic.html/08999999005689",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.328Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/cornetto-mini-chocolate-&-vanilla.html/08999999034641",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/cornetto-mini-chocolate-&-tiramisu.html/08999999034672",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/oreo-cookies-&-cream.html/08999999035242",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/neopolitana.html/08999999042264",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.314Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/vanila-chocolate-chip.html/08999999042271",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.311Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/populaire-chocolate.html/08999999282196",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.332Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/populaire-strawberry.html/08999999282202",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.333Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/cornetto-disc-oreo.html/08999999513757",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/wall's-baby-shark.html/08999999536442",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.325Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/paddle-pop-choco-lava.html/08999999536596",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.314Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/feast-double.html/08999999540357",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/cornetto-classico-strawberry-vanilla.html/08999999540456",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/paddle-pop-fruit-slice-yummy-melon.html/08999999540463",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.327Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/apollo.html/08999999544072",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.314Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/solero-fruit-mangga.html/08999999547448",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/chocolate-deluxe.html/08999999555559",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.317Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/wall's-es-krim-mini-shaky-shake.html/08999999562397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/walls-oreo-vanilla-cup.html/08999999564162",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/magnum-mini-chocolate-luxe.html/08999999587307",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.334Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/selection-silverqueen.html/08999999588892",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/walls-feast-duo.html/08999999594602",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.329Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/magnum-chocolate-luxe.html/08999999595586",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.319Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/walls-cookies-&-cream.html/08999999598044",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.323Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/walls-xtra-creamy-clsc-vanilla.html/08999999599522",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.327Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/paddle-pop-upin-ipin.html/08999999599706",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.wallsicecream.com/id/p/cornetto-white-rose.html/08999999601379",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:45.331Z"
+    }
+  ]
+}

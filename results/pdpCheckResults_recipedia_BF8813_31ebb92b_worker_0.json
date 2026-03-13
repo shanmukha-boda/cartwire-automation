@@ -1,0 +1,356 @@
+{
+  "brand": "recipedia",
+  "assortmentCode": "BF8813",
+  "feedUrl": "https://www.secretosdecocina.com/home.productfeed.json",
+  "totalUrlsChecked": 116,
+  "problematicPagesFound": 0,
+  "successfulPages": 59,
+  "errors": 57,
+  "duration": "10.26s",
+  "speed": "11.31 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/lizano-chile-tabasco.html/00747627003013",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.130Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/chilero-lizano.html/00747627004010",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-lizano-regular.html/00747627005109",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-hellmanns-regular-380g.html/00747627100217",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-hellmanns-regular-190g.html/00747627100248",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-lizano-con-lim%C3%B3n.html/00747627150014",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.071Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-lizano-natural.html/00747627150045",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.136Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sabrosador-pollo-frasco.html/07411000300589",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sabrosador-pollo-4-pack.html/07411000302170",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.093Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sabrosador-carne-4-pack.html/07411000302187",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/empanizador-casero.html/07411000304570",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/hellmanns-sandwich-spread-190g.html/07411000308936",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.099Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mostaza-hellmanns-100g.html/07411000308943",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.061Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mostaza-hellmanns-190g.html/07411000308950",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.104Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/pasta-de-tomate-tradicional.html/07411000313992",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/frijol-rojo-volteado.html/07411000314852",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.066Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-hellmanns-regular-880g.html/07411000315354",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.066Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-marinara.html/07411000328590",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.069Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-tradicional.html/07411000328606",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-bolognesa.html/07411000328613",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.071Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/frijoles-negros-lizano.html/07411000341063",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.075Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/frijoles-rojos-lizano.html/07411000341100",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.111Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sabrosador-costilla-4-pack.html/07411000341261",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.096Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sazonador-de-gallina-criolla-knorr.html/07411000341407",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.103Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-rosada-lizano.html/07411000342008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.140Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/fecula-de-maiz-natural.html/07411000342466",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/fecula-de-maiz-natural.html/07411000342503",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.094Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-hellmanns-light-190g.html/07411000342954",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.105Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-hellmanns-light-380g.html/07411000342961",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.094Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/fecula-de-maiz-natural.html/07411000343364",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.094Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/atol-sabor-vainilla.html/07411000343784",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.094Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sabrosador-pollo-completo-4-pack.html/07411000343876",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.136Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/mayonesa-hellmanns-libre-colesterol-380g.html/07411000344088",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-italiana.html/07411000344293",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.138Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-sofrito-criollo.html/07411000344774",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-hongos.html/07411000344828",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.136Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-queso.html/07411000344842",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.162Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-ranchera.html/07411000344859",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.132Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-lizano-suave.html/07411000344897",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.132Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sabrosador-mi-arroz-4-pack.html/07411000344934",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.132Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sazonador-mi-arroz-knorr-.html/07411000344958",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.133Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/frijol-rojo-volteado.html/07411000345078",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.133Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/frijol-rojo-volteado.html/07411000345085",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.133Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sopa-pollo-con-conchita-tricolor-knorr.html/07411000345344",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.137Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sopa-gallina-criolla-con-conchitas-knorr-.html/07411000345368",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.138Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sopa-pollo-y-verduras-con-coditos-knorr.html/07411000345382",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.133Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sopa-gallina-criolla-con-arroz-y-chipilin-knorr-.html/07411000345399",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.157Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sopa-costilla-de-res-con-fideos-knorr.html/07411000345405",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.143Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sancochoa-knorr-.html/07411000345412",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.143Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sopa-de-tortilla-knorr.html/07411000345429",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:24.148Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-lizano-regular.html/07411000373828",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:29.519Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sazonador-de-pollo-knorr.html/07411000387061",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:29.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/sabrosador-pollo-completo-10-pack.html/07411000387115",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:29.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-ranchera.html/37411000313931",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:29.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-hongos.html/37411000313979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:29.526Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-ranchera.html/37411000314006",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:29.515Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.secretosdecocina.com/p/salsa-de-tomate-sabor-italiana.html/37411000314013",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:29.514Z"
+    }
+  ]
+}

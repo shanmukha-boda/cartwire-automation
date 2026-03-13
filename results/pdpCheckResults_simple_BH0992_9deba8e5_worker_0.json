@@ -1,0 +1,32 @@
+{
+  "brand": "simple",
+  "assortmentCode": "BH0992",
+  "feedUrl": "https://www.simpleskincare.com/au/home.productfeed.json",
+  "totalUrlsChecked": 16,
+  "problematicPagesFound": 0,
+  "successfulPages": 13,
+  "errors": 3,
+  "duration": "5.40s",
+  "speed": "2.96 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/au/p/simple-booster-serum-10-vitamins-c-e-f.html/08720181157110",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:27.513Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/au/p/simple-booster-serum-3-hyaluronic-acid-and-b5.html/08720181157127",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:27.512Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.simpleskincare.com/au/p/kind-to-skin-biodegradable-cleansing-wipes-twin-pack.html/08720181209451",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:27.513Z"
+    }
+  ]
+}

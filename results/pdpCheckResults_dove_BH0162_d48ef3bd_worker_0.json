@@ -1,0 +1,518 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+  "totalUrlsChecked": 84,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 84,
+  "duration": "0.23s",
+  "speed": "365.22 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/antiperspirant-roll-on-powder-soft.html/00000093576642",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.201Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-antiperspirant-roll-on-passion-fruit.html/00000093576659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.224Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/antiperspirant-roll-on-classic-fresh.html/00000093576666",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.195Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-antiperspirant-roll-on-black-&-white.html/00000093576680",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.200Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-antiperspirant-roll-on-pomegranate.html/00000093576697",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.201Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-antiperspirant-roll-on-original.html/00000093576703",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.196Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/rebalance-body-wash.html/06902088978216",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-lavender-and-chamomile-whole-body-deodorant-stick-81g.html/08720181658006",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-raspberry-and-rose-whole-body-deodorant-stick-81g.html/08720181658013",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/nourishing-moisture-shampoo.html/08851932348300",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/intensive-repair-shampoo.html/08851932348317",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.211Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/nourishing-moisture-conditioner.html/08851932348386",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.201Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/intensive-repair-conditioner.html/08851932348393",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.238Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/daily-care-shampoo.html/08851932374989",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.234Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/daily-care-conditioner.html/08851932374996",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/nourishing-shine-conditioner.html/08851932375016",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.211Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/fresh-care-body-wash.html/09300830001194",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.226Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/restoring-ritual-conditioner.html/09300830043057",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.200Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/restoring-ritual-shampoo.html/09300830043064",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.229Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/strengthening-ritual-shampoo.html/09300830043095",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/strengthening-ritual-conditioner.html/09300830043200",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.200Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/destress-ritual-shampoo.html/09300830050802",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.196Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/destress-ritual-care-conditioner.html/09300830050857",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/dry-scalp-relief-anti-dandruff-shampoo.html/09300830053544",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.214Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/clean-and-fresh-anti-dandruff-shampoo.html/09300830053568",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.202Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/coconut-hydration-anti-dandruff-conditioner.html/09300830053582",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.202Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/clean-and-fresh-anti-dandruff-conditioner.html/09300830053599",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.234Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/dry-scalp-relief-anti-dandruff-conditioner.html/09300830053605",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.214Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/coconut-hydration-anti-dandruff-shampoo.html/09300830053612",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/intensive-repair-3in1-serum-conditioner.html/09300830078165",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.218Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/nourishing-moisture-3in1-serum-conditioner.html/09300830078172",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.197Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-lavender-and-chamomile-whole-body-deodorant-aerosol-230ml.html/09300830095261",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.221Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-raspberry-and-rose-whole-body-deodorant-aerosol-230ml.html/09300830095292",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.224Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-triple-moisturising-body-wash.html/09300830095711",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.227Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-sensitive-body-wash.html/09300830095735",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.243Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-refreshing-body-wash.html/09300830095773",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-rejuvenating-body-wash.html/09300830095803",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.203Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-care-restoring-body-wash.html/09300830095827",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.227Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-passion-fruit-&-lemongrass.html/09300830096763",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-raspberry-and-rose-whole-body-deodorant-cream-75ml.html/09300830097357",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.203Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-lavender-and-chamomile-whole-body-deodorant-cream-75ml.html/09300830097388",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-fig-and-suede-whole-body-deodorant-aerosol-230ml.html/09300830099818",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-shea-butter-and-cedar-whole-body-deodorant-aerosol-230ml.html/09300830099849",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.219Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-0-aluminium-roll-on-deodorant-clean-comfort.html/00000093666718",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.205Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-antiperspirant-roll-on-clean-comfort.html/00000093830447",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.206Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/pomegranate-and-shea-butter-body-polish.html/00011111002029",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.206Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/crushed-lavendar-and-coconut-milk-body-polish.html/00011111010963",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.196Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/colloidal-oatmeal-and-calendula-oil-body-polish.html/00011111022676",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-antiperspirant-roll-on-invisible-dry.html/04800888183958",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.198Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/antiperspirant-roll-on-extra-fresh.html/04800888184511",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.254Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/refresh-and-care-dry-shampoo.html/08710908056505",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.244Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/summer-glow-gradual-self-tan-body-lotion-fair-to-medium.html/08717163041550",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/summer-glow-gradual-self-tan-body-lotion-medium-to-dark.html/08717163041611",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/sensitive-beauty-cream-2-bars.html/08720181201394",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.218Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/exfoliating-beauty-cream-4-bars.html/08720182252548",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.205Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/shea-butter-beauty-cream-2-bars.html/08720182255150",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.203Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/original-beauty-cream-bar.html/08720182255686",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/nourished-radiance-body-lotion.html/08901030861222",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.215Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/supple-bounce-body-lotion.html/08901030861239",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/triple-hydrate-body-wash.html/09300830001101",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.221Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/clinical-protection-original-deodorant.html/09300830007547",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.214Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/fruity-nourish-body-wash.html/09300830018260",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.249Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-anti-dandruff-shampoo.html/09300830018291",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.202Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/fresh-clean-2-in-1-shampoo.html/09300830018314",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-daily-deep-clean-fortifying-2-in-1-shampoo.html/09300830018321",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.217Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-antiperspirant-aerosol-clean-comfort.html/09300830022564",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.211Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-antiperspirant-aerosol-extra-fresh.html/09300830022588",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.216Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-antiperspirant-aerosol-invisible-dry.html/09300830022595",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.219Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/gentle-pamper-body-wash.html/09300830050611",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-clean-comfort-body-and-face-wash.html/09300830051656",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/men-care-0-aluminium-aerosol-deodorant-clean-comfort.html/09300830059621",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.221Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-nourishing-coconut-jasmine.html/09300830087808",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.255Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-acai-berry-and-waterlily.html/09300830087815",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.209Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-go-fresh-apple-white-tea.html/09300830087822",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.260Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-go-fresh-green-tea-cucumber.html/09300830087839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.234Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-classic.html/09300830087853",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.212Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-powder.html/09300830087860",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.239Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-fresh.html/09300830087877",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.205Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-original.html/09300830087969",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.231Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-pomegranate.html/09300830087976",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.207Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/advanced-antiperspirant-aerosol-invisible-dry.html/09300830087983",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.300Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/antiperspirant-aerosol-floral.html/09300830090792",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.315Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-deodorant-aerosol-cucumber-zero-%25-aluminium.html/09300830092307",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.297Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/nz/p/women-deodorant-aerosol-original-zero-%25-aluminium.html/09300830092321",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:29.295Z"
+    }
+  ]
+}

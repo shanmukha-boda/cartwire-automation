@@ -1,0 +1,116 @@
+{
+  "brand": "colmans",
+  "assortmentCode": "BF0199",
+  "feedUrl": "https://www.colmans.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 21,
+  "errors": 17,
+  "duration": "1.58s",
+  "speed": "24.05 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/korean-barbecue.html/08720182287502",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/singapore-noodles.html/08720182629579",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/one-pan-shepherds-pie.html/05000118033834",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/sausage-and-onion-casserole.html/05000118082320",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/white-sauce.html/05000147025275",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/bread-sauce.html/05000147025282",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chilli-con-carne.html/05000147026593",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chicken-casserole.html/05000147026623",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.504Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chinese-chicken-curry.html/08710522927304",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/pepper-sauce.html/08711200516636",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/lamb-hotpot.html/08712566140886",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/tuna-pasta-bake.html/08712566140923",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.494Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/spaghetti-bolognese.html/08712566144365",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.507Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/seafood-sauce.html/08714100535301",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/bramley-apple-sauce.html/08714100535516",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.495Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/tartare-sauce.html/08714100536148",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.colmans.co.uk/p/chicken-pie.html/08714100739020",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:54.507Z"
+    }
+  ]
+}

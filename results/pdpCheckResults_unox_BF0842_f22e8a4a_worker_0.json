@@ -1,0 +1,398 @@
+{
+  "brand": "unox",
+  "assortmentCode": "BF0842",
+  "feedUrl": "https://www.unox.nl/home.productfeed.json",
+  "totalUrlsChecked": 112,
+  "problematicPagesFound": 0,
+  "successfulPages": 48,
+  "errors": 64,
+  "duration": "8.90s",
+  "speed": "12.58 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-erwtensoep.html/08710522527115",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.260Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-tomatensoep-800ml.html/08710522674536",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.256Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-tomatensoep-1300ml.html/08710522674550",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-erwtensoep-1300ml.html/08710522674598",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.260Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-erwtensoep-800ml.html/08710522674659",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.263Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-goulashsoep-800ml.html/08710522674956",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.257Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-goulashsoep-300ml.html/08710522674970",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.256Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-tomatensoep-300ml.html/08710522675175",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.282Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-tomatencr%C3%A8mesoep-300ml.html/08710522684948",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/tomaten-kikkererwtensoep.html/08710522907757",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.283Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/tomaten-kidneybonensoep.html/08710522907900",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.256Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/pompoen-rode-linzen-soep.html/08710522908044",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.300Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-tomatensoep.html/08710604786010",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.269Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/tomaat-groentesoep.html/08710604786034",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.302Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/good-noodles-sat%C3%A9.html/08710604786973",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.328Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/good-noodles-oosterse-kip.html/08710604786980",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.269Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/good-noodles-kerrie.html/08710604786997",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.299Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/good-noodles-groente.html/08710604787024",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.334Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/proeverij-romige-tomatensoep.html/08710908976353",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.290Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/proeverij-vergetengroentesoep.html/08710908976551",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.299Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/originele-groentesoep-800ml.html/08711200355822",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.301Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/originele-kippensoep-800ml.html/08711200355914",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/originele-groentesoep-300ml.html/08711200358700",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/originele-kippensoep-1300ml.html/08711200361816",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.255Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-groentesoep.html/08711200373185",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/magere-leverpastei.html/08711200387618",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/leverpastei.html/08711200387625",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.288Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/champignon-ragout.html/08712100379529",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.332Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/pittige-rookworst.html/08712100428715",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.289Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/gehaktballetjes-in-sat%C3%A9saus.html/08712100500022",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.290Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/klassieke-tomatensoep.html/08712423002043",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.302Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/indiase-currysoep.html/08712423002050",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.340Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/romige-kip-champignonsoep.html/08712423010369",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/klassieke-ossenstaartsoep.html/08712423010444",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/pittige-erwtensoep.html/08712423010505",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/hongaarse-goulash.html/08713200822038",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/knaks-3-pak.html/08714100763575",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.338Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/pittige-knaks.html/08714100772874",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.337Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/kip-knaks.html/08714100772911",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.399Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/frankfurters.html/08714100772935",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.338Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/bockworsten.html/08714100772942",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.338Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/smac.html/08714100776070",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.400Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/schouderhammix.html/08714100776360",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-knaks.html/08717163777862",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.339Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/tomaten-pastasoep.html/08717163821305",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:11.404Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/geconcentreerde-champignonsoep.html/08718114806037",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.402Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/geconcentreerde-tomaten-cr%C3%A8mesoep.html/08718114806136",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.409Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/good-pasta-4-kazen.html/08720182035660",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.403Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/biologische-tomatensoep.html/08720182100696",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.402Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-kippensoep.html/08720182108142",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.408Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/biologische-champignonsoep.html/08720182123206",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.404Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/biologische-pompoensoep.html/08720182123213",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.419Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/stevige-pompoensoep-800ml.html/08720182260802",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.405Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/smac-xxl.html/08720182298096",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/kip-party-knaks.html/08720182327918",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.402Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-rookworst.html/08720182498151",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.403Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-balletjes-in-sat%C3%A9saus.html/08720182522009",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.407Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/vegetarische-balletjes-in-tomatensaus.html/08720182522016",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.402Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/magere-knaks.html/08720182687081",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.404Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/good-pasta-kaas-jalape%C3%B1o.html/08720182706225",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.403Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/good-pasta-pesto-kaas.html/08720182706249",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.413Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/extra-magere-rookworst-275g.html/08720182717702",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.409Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/extra-magere-rookworst-xxl-375g.html/08720182721198",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.404Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.unox.nl/p/gelderse-rookworst-magnetron-100g.html/08720182744692",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:34:19.407Z"
+    }
+  ]
+}

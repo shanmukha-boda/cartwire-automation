@@ -1,0 +1,13 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0413",
+  "feedUrl": "https://www.rexonadeodorant.com/ae/en/home.productfeed.json",
+  "totalUrlsChecked": 139,
+  "problematicPagesFound": 0,
+  "successfulPages": 139,
+  "errors": 0,
+  "duration": "14.80s",
+  "speed": "9.39 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

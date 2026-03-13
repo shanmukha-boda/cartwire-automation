@@ -1,0 +1,13 @@
+{
+  "brand": "zwitsal",
+  "assortmentCode": "BH0875",
+  "feedUrl": "https://www.zwitsal.co.id/home.productfeed.json",
+  "totalUrlsChecked": 28,
+  "problematicPagesFound": 0,
+  "successfulPages": 28,
+  "errors": 0,
+  "duration": "5.30s",
+  "speed": "5.28 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

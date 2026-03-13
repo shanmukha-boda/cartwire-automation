@@ -1,0 +1,32 @@
+{
+  "brand": "maizena",
+  "assortmentCode": "BF0547",
+  "feedUrl": "https://www.maizena.es/home.productfeed.json",
+  "totalUrlsChecked": 8,
+  "problematicPagesFound": 0,
+  "successfulPages": 5,
+  "errors": 3,
+  "duration": "2.74s",
+  "speed": "2.92 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.maizena.es/p/espesante-instantaneo.html/08410127010691",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:04.168Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maizena.es/p/flanin-el-nino-vainilla.html/08410127012183",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:04.173Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maizena.es/p/harina-fina-de-maiz.html/08711100080060",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:33:04.177Z"
+    }
+  ]
+}

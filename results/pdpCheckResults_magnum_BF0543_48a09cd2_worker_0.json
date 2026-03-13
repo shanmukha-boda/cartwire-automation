@@ -1,0 +1,20 @@
+{
+  "brand": "magnum",
+  "assortmentCode": "BF0543",
+  "feedUrl": "https://www.magnumicecream.com/it/home.productfeed.json",
+  "totalUrlsChecked": 36,
+  "problematicPagesFound": 0,
+  "successfulPages": 35,
+  "errors": 1,
+  "duration": "8.07s",
+  "speed": "4.46 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/it/p/mini-intense-coffee.html/08711327603110",
+      "error": "request to https://www.magnumicecream.com/it/p/mini-intense-coffee.html/08711327603110 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:12:01.727Z"
+    }
+  ]
+}

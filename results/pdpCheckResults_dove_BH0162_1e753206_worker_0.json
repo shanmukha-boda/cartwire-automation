@@ -1,0 +1,740 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/cz/home.productfeed.json",
+  "totalUrlsChecked": 121,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 121,
+  "duration": "0.27s",
+  "speed": "448.15 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-clean-comfort.html/00000050220021-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.925Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-go-fresh-okurka-a-zeleny-caj.html/00000050285662",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-invisible-dry.html/00000050287062",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-go-fresh-jablko-a-caj.html/00000059079583",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.924Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-roll-on-advanced-care-acai-berry.html/00000059092674",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-roll-on-advanced-care-okurka.html/00000059092711",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.936Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-roll-on-advanced-original.html/00000059095859",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.925Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/deodorant-roll-on-nula-alu-original.html/00000059095965",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.929Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-original.html/00000080466437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-invisible-care.html/00000087342765",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-cool-fresh.html/00000096125595-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.928Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-hruska-a-aloe-vera.html/00000096137161",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchova-pena-pena-na-holeni-bath-therapy-renew.html/00720181321726",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tekute-mydlo-original.html/04000388179004",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-ve-spreji-go-fresh-okurka-zeleny-aj.html/05000228023411",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.929Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-ve-spreji-original.html/08000630040843",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pro-muze-charcoal-clay.html/08710447205273-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-care-visible-glow-medium-dark.html/08710447212936",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.931Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-care-visible-glow-fair-medium.html/08710447212943",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.942Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-ruce-restoring-care.html/08710447275313",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tekute-mydlo-glowing-lotus.html/08710447482179",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.967Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-awakening-care.html/08710447495674",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.923Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-ruce-pro-age.html/08710522415702",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.928Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/samoopalovaci-pena-na-telo-summer-revived-fair-to-medium.html/08710847962769",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/samoopalovaci-pena-na-telo-summer-revived-medium-to-dark.html/08710847962783",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.925Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-ruce-essential-care.html/08710847963469",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.944Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-revitalising-care.html/08710847966071",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pro-muze-cool-fresh.html/08710908317828-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sampon-a-kondicioner-pro-muze-2v1-fresh-clean.html/08710908381195-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sampon-a-kondicioner-pro-muze-2v1-thickening.html/08710908381218-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-invigorating-care.html/08710908777394",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.936Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-glowing-care.html/08710908777950",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-restoring-care.html/08710908778230",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-essential-care.html/08711600368804",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-intense-care.html/08711600453975",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.952Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tuhe-mydlo-pro-muze-extra-fresh.html/08711600511989",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-ve-spreji-go-fresh-granatove-jablko.html/08711600786226",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.933Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-pampering-care.html/08711700841252",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.932Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tekute-mydlo-bambucke-maslo.html/08712561023566",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/%C5%A1ampon-intensive-repair-na-po%C5%A1kozen%C3%A9-vlasy.html/08712561488280",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kondicion%C3%A9r-intensive-repair.html/08712561571333",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.943Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-ve-spreji-powder-soft.html/08712561820493",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tekute-mydlo-refreshing-okurka.html/08717163097700",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.937Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-telo-a-tvar-rich-nourishment.html/08717163476789",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tekute-mydlo-silk.html/08717163573792",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.932Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pro-muze-sportcare-active-fresh.html/08717163634615-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.932Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-telo-i-tvar-beauty.html/08717163672266",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.952Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-clean-comfort.html/08717644579107-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-extra-fresh.html/08717644579886-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.932Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pro-muze-sportcare-endurance-comfort.html/08720181049552",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.936Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tekute-mydlo-care-protect.html/08720181054242",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.948Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-ruce-care-protect.html/08720181055249",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.938Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-telo-a-oblicej-nourishing.html/08720181172120",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.933Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/krem-na-telo-a-oblicej-light-hydratation.html/08720181172144",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.934Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-ve-spreji-go-fresh-marakuja-citronova-trava.html/08720181202469",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.970Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tekute-mydlo-pivonka.html/08720181209062",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.951Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pro-muze-sensitive.html/08720181225451",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.938Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tonovaci-telove-mleko-summer-revived-fair-to-medium.html/08720181260506",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.932Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/tonovaci-telove-mleko-summer-revived-medium-to-dark.html/08720181260544",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/deodorant-sprej-nula-alu-citrus-a-brokev.html/08720181277740",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.944Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/deodorant-sprej-nula-alu-ruze-jasmin.html/08720181277771",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.958Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/deodorant-sprej-nula-alu-kvet-tresne.html/08720181277788",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-clean-comfort.html/08720181284335",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.941Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-invisible-dry.html/08720181284359",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-extra-fresh.html/08720181284427",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.957Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-sport-fresh.html/08720181284458",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.977Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-cool-fresh.html/08720181284892",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.945Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-invisible-fresh.html/08720181284922",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.938Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-acai-berry.html/08720181291395",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.964Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-calming-blossom.html/08720181291449",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-coconut.html/08720181291494",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.941Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-invisible-care.html/08720181291562",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.941Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-invisible-dry.html/08720181291623",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.958Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-matcha-green-tea.html/08720181291654",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.957Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-original.html/08720181291692",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.943Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-marakujacitronova-trava-150ml.html/08720181291722",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.974Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-hruka-a-aloe-vera-150ml.html/08720181291746",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.949Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-granatove-jablko.html/08720181291791",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.946Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-soft-feel.html/08720181291845",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.938Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-summer.html/08720181291890",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:32.935Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-winter-care.html/08720181291913",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.048Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pena-do-koupele-bath-therapy-glow.html/08720181296420",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.055Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pena-do-koupele-bath-therapy-renew.html/08720181296437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.051Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sul-do-koupele-bath-therapy-renew.html/08720181305061",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.049Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sul-do-koupele-bath-therapy-glow.html/08720181305078",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.061Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pro-muze-extra-fresh.html/08720181313424",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.060Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-pro-muze-clean-comfort.html/08720181313448",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kondicion%C3%A9r-1-minute-super-intensive-repair.html/08720181316579",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.070Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchova-pena-pena-na-holeni-bath-therapy-glow.html/08720181321733",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.049Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telovy-peeling-bath-therapy-glow.html/08720181323458",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telovy-peeling-bath-therapy-renew.html/08720181323478",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.053Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-clean-touch.html/08720181339905",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.053Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-care-okurka.html/08720181339929",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.058Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/samoopalovaci-telove-a-pletove-mleko-summer-revived-fair-to-medium.html/08720181385995",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.059Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/samoopalovaci-telove-a-pletove-mleko-summer-revived-medium-to-dark.html/08720181386008",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.048Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/%C5%A1ampon-long&radiant.html/08720181402326",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.057Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kondicion%C3%A9r-long&radiant.html/08720181402333",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.071Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/%C5%A1ampon-aloe&rose-water.html/08720181402340",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.053Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kondicion%C3%A9r-aloe&rose-water.html/08720181402357",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.057Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-eucalyptus.html/08720181433597",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.060Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-deeply-nourishing.html/08720181457425",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.064Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-nourishing-silk.html/08720181457449",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.053Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-antistress.html/08720181459979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.052Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-reviving.html/08720181460135",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.049Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-gentle-scrub.html/08720181462887",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.055Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-glowing.html/08720181465840",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.057Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-hydrate.html/08720181466502",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.057Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-fruity-nourish.html/08720181468407",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.056Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-silky-velvet.html/08720181468438",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.060Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-petal-soft.html/08720181471599",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.055Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-gentle-pamper.html/08720181471728",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.051Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-fresh-care.html/08720181471742",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.067Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-nourishing-care.html/08720181477577",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.059Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-hypoallergenic.html/08720181479953",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.078Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/sprchovy-gel-advanced-care-summer-limited-edition.html/08720181507281",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.062Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kremova-tableta-kokos.html/08720182258137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.072Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kremova-tableta-arganovy-olej.html/08720182258397",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.052Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kremova-tableta-pink.html/08720182259813",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.066Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/telove-mleko-glow-shine.html/08720182260437",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.054Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kremova-tableta-bambucke-maslo.html/08720182262417",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.071Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/cz/p/kremova-tableta-original.html/08720182264664",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:33.077Z"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/tr/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 50,
+  "duration": "0.12s",
+  "speed": "416.67 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hindistan-cevizi-yasemin-cicegi-roll-on.html/00000059081630",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/shower-mousse-argan-yagi.html/08683130009963",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.967Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hair-therapy-breakage-remedy-sulfatsiz-serum-krem.html/08683130027493",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.962Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hair-therapy-hydration-spa-sulfatsiz-serum-krem.html/08683130027509",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.980Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hair-therapy-breakage-remedy-sulfatsiz-sampuan.html/08683130027516",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.954Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hair-therapy-hydration-spa-sulfatsiz-sampuan.html/08683130027530",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.949Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/lotus-cicegi-ve-pirinc-ozu-nemlendirici-sivi-sabun.html/08683130036068",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.958Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/deeply-nourishing-nemlendirici-sivi-sabun.html/08683130036082",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.947Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hindistan-cevizi-yagi-ve-badem-sutu-ozu-nemlendirici-sivi-sabun.html/08683130036099",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/avokado-yagi-ve-kalendula-ozlu-nemlendirici-sivi-sabun.html/08683130036105",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.967Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/nar-sprey.html/08690637817557",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.950Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/matcha-yasemin-cicegi-sprey.html/08690637891328",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.962Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hindistan-cevizi-yasemin-cicegi-sprey.html/08690637891342",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.970Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/matcha-sakura-cicegi-roll-on.html/08690637891861",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.963Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/ultra-care-yogun-onarici-sac-bakim-sampuan.html/08690637937330",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.951Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/even-tone-antiperspirant-deodorant.html/08690637943539",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.950Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/avokado-yagi-ve-kalendula-ozu-nemlendirici-dus-jeli.html/08710908882463",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.994Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hindistan-cevizi-yagi-ve-badem-ozu-nemlendirici-dus-jeli.html/08710908882661",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.949Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/deeply-nourishing-nemlendirici-dus-jeli-.html/08712561803618",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.959Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/dove-cream-bar-gentle-exfoliating.html/08720181219443",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.970Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/dove-cream-bar-pink.html/08720181219450",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/dove-cream-bar-fresh-touch.html/08720181219467",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.958Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/dove-cream-bar-micellar.html/08720181219979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.973Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/dove-cream-bar-original.html/08720182255716",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/dove-cream-bar-4x90gr.html/08720182256836",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.972Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/deodorant-stick-original.html/00000078009226",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.974Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/original-antiperspirant-roll-antiperspirant-deodorant-200ml.html/04800888196392",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.984Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/yagi-onarici-sac-bakim-sampun.html/08683130013137",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.976Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/uzun-sac-terapisi-1-minute-serum-sac-bak%C4%B1m-kremi.html/08683130013250",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.953Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/dokulmelerine-kars%C4%B1-1-minute-serum-sac-bak%C4%B1m-kremi.html/08683130013267",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.956Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/yogun-onar%C4%B1c%C4%B1-1-minute-serum-sac-bak%C4%B1m-kremi.html/08683130013274",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.954Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/besleyici-bak%C4%B1m-kuru-saclar-icin-sac-bak%C4%B1m-sampuan%C4%B1.html/08683130018309",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.968Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/uzun-sac-terapisi-uzun-y%C4%B1pranm%C4%B1s-saclar-sac-bak%C4%B1m-sampuan%C4%B1.html/08683130018323",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.957Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/yogun-onar%C4%B1c%C4%B1-y%C4%B1pranm%C4%B1s-saclar-sac-bak%C4%B1m-sampuan%C4%B1.html/08683130018330",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.952Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/yogun-onar%C4%B1c%C4%B1-1-minute-serum-sac-bak%C4%B1m-maskesi.html/08683130022184",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.967Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/argan-yag%C4%B1-onar%C4%B1c%C4%B1-serum-sac-bak%C4%B1m-kremi.html/08683130022214",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.977Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/hindistan-cevizi-yag%C4%B1-guclendirici-sac-bak%C4%B1m-sampuan%C4%B1.html/08683130022252",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.983Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/aloe-vera-kepek-kars%C4%B1t%C4%B1-sac-bak%C4%B1m-sampuan%C4%B1.html/08683130022269",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.961Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/avokado-ozu-dokulme-kars%C4%B1t%C4%B1-sac-bak%C4%B1m-sampuan%C4%B1.html/08683130022276",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.955Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/original-kadin-sprey-antiperspirant-deodorant-200ml.html/08683130028759",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.973Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/men-clean-comfort-deodorant-stick-50ml.html/08683130061497",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.990Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/0-alu-limon-vanilya-sprey.html/08683130063965",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.988Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/0-alu-salatalik-ve-yesil-cay.html/08683130063972",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.971Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/even-tone-antiperspirant-deodorant-200ml.html/08683130084595",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.968Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/uzun-sac-terapisi-uzun-y%C4%B1pranm%C4%B1s-saclar-icin-sac-bak%C4%B1m-kremi.html/08690637506079",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.972Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/deodorant-stick-invisible.html/08690637561061",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.963Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/deodorant-sprey-original.html/08690637628856",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.957Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/deodorant-sprey-invisible-dry.html/08690637628887",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.958Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/men-clean-comfort-deodorant-sprey-150ml.html/08690637685828",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.971Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/tr/p/lotus-cicegi-sprey.html/08690637983665",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.954Z"
+    }
+  ]
+}

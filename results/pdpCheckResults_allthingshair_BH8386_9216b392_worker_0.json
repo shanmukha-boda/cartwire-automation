@@ -1,0 +1,92 @@
+{
+  "brand": "allthingshair",
+  "assortmentCode": "BH8386",
+  "feedUrl": "https://www.allthingshair.com/vn/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": 2,
+  "errors": 13,
+  "duration": "8.00s",
+  "speed": "1.88 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/kem-u-tresemme-keratin-smooth-keratinbond.html/08934868178125",
+      "error": "request to https://www.allthingshair.com/vn/p/kem-u-tresemme-keratin-smooth-keratinbond.html/08934868178125 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.606Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/kem-u-bond-repair-peptidebond.html/08934868178132",
+      "error": "request to https://www.allthingshair.com/vn/p/kem-u-bond-repair-peptidebond.html/08934868178132 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.607Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/dau-xa-bond-repair-peptidebond.html/08934868179221",
+      "error": "request to https://www.allthingshair.com/vn/p/dau-xa-bond-repair-peptidebond.html/08934868179221 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.607Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/dau-goi-tresemme-bond-repair-peptidebond.html/08934868179245",
+      "error": "request to https://www.allthingshair.com/vn/p/dau-goi-tresemme-bond-repair-peptidebond.html/08934868179245 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.607Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/sua-rua-mat-pond-age-miracle.html/08999999074395",
+      "error": "request to https://www.allthingshair.com/vn/p/sua-rua-mat-pond-age-miracle.html/08999999074395 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.607Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/tresemme-serum-keratin-smooth-keratinbond.html/08999999581770",
+      "error": "request to https://www.allthingshair.com/vn/p/tresemme-serum-keratin-smooth-keratinbond.html/08999999581770 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.607Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/serum-duong-toc-tresemme-serum-bond-repair.html/08999999597436",
+      "error": "request to https://www.allthingshair.com/vn/p/serum-duong-toc-tresemme-serum-bond-repair.html/08999999597436 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.607Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/kem-duong-ban-ngay-ponds-age-miracle.html/18851932387481",
+      "error": "request to https://www.allthingshair.com/vn/p/kem-duong-ban-ngay-ponds-age-miracle.html/18851932387481 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.608Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/kem-duong-ban-dem-ponds-age-miracle.html/18851932387498",
+      "error": "request to https://www.allthingshair.com/vn/p/kem-duong-ban-dem-ponds-age-miracle.html/18851932387498 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.608Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/kem-duong-sang-da-ban-dem-ponds-bright-miracle.html/18851932412671",
+      "error": "request to https://www.allthingshair.com/vn/p/kem-duong-sang-da-ban-dem-ponds-bright-miracle.html/18851932412671 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.608Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/kem-duong-sang-da-ban-ngay-ponds-bright-miracle.html/18851932412695",
+      "error": "request to https://www.allthingshair.com/vn/p/kem-duong-sang-da-ban-ngay-ponds-bright-miracle.html/18851932412695 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.608Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/serum-ban-ngay-ponds-age-miracle.html/18851932452646",
+      "error": "request to https://www.allthingshair.com/vn/p/serum-ban-ngay-ponds-age-miracle.html/18851932452646 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.608Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/vn/p/serum-duong-sang-da-ponds-bright-miracle-ban-dem.html/24800888282280",
+      "error": "request to https://www.allthingshair.com/vn/p/serum-duong-sang-da-ponds-bright-miracle-ban-dem.html/24800888282280 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:34:42.608Z"
+    }
+  ]
+}

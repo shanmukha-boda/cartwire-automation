@@ -1,0 +1,26 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/se/home.productfeed.json",
+  "totalUrlsChecked": 12,
+  "problematicPagesFound": 0,
+  "successfulPages": 10,
+  "errors": 2,
+  "duration": "8.51s",
+  "speed": "1.41 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/se/p/majonnaes-real-430-ml.html/08710522882276",
+      "error": "request to https://www.hellmanns.com/se/p/majonnaes-real-430-ml.html/08710522882276 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:32.695Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.hellmanns.com/se/p/classic-burger-dressing.html/08720182754691",
+      "error": "request to https://www.hellmanns.com/se/p/classic-burger-dressing.html/08720182754691 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:27:32.709Z"
+    }
+  ]
+}

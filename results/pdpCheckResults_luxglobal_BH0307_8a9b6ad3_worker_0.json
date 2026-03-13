@@ -1,0 +1,212 @@
+{
+  "brand": "luxglobal",
+  "assortmentCode": "BH0307",
+  "feedUrl": "https://www.lux.co.jp/home.productfeed.json",
+  "totalUrlsChecked": 71,
+  "problematicPagesFound": 0,
+  "successfulPages": 38,
+  "errors": 33,
+  "duration": "5.75s",
+  "speed": "12.35 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/serum-styling-reset-water.html/04902111736815",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.498Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/premium-botanifique-damage-repair-hair-mask.html/04902111747033",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/premium-botanifique-balance-pure-hair-mask.html/04902111747101",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.493Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/premium-botanifique-natural-arrange-natural-hold-gelee.html/04902111749594",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/premium-botanifique-natural-arrange-volume-jelly-mist.html/04902111749600",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/body-soap-satin-soap.html/04902111759081",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/body-soap-white-garden.html/04902111759098",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.480Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/body-soap-musky-floral.html/04902111759104",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/body-soap-violet-floral.html/04902111759111",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.480Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/luminique-damage-repair-treatment.html/04902111759395",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/luminique-happiness-bloom-shampoo.html/04902111759487",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/luminique-happiness-bloom-treatment.html/04902111759494",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.497Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/luminique-oasis-calm-treatment.html/04902111759548",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/luminique-botanical-pure-wash-off-mask.html/04902111760100",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.465Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/celestial-escape-body-soap.html/04902111771854",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.465Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/bath-glow-repair-and-shine-shampoo.html/04902111777177",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.469Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/bath-glow-repair-and-shine-hair-booster.html/04902111777191",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.475Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/bath-glow-repair-and-shine-hair-mask.html/04902111777207",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.473Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichcrystal-multi-damage-repair-conditioner.html/04902111778839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.498Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichcrystal-color-care-repair-shampoo.html/04902111778884",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.486Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichcrystal-color-care-repair-conditioner.html/04902111778907",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.487Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-damage-repair-restorative-shampoo.html/04902111780689",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-damage-repair-restorative-conditioner.html/04902111780726",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.524Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-damage-repair-restorative-tube-treatment.html/04902111781044",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-moisture-hydrating-tube-treatment.html/04902111781051",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-straight-beauty-anti-frizz-tube-treatment.html/04902111781068",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.523Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-damage-repair-restorative-hair-oil.html/04902111781082",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-straight-beauty-anti-frizz-hair-oil.html/04902111781105",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.521Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-damage-repair-restorative-hair-milk.html/04902111781228",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.532Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-relax-night-care-smoothing-hair-milk.html/04902111781235",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.527Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-damage-repair-restorative-hair-mist.html/04902111781266",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.544Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-osmanthus-tube-treatment.html/04902111781976",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.522Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lux.co.jp/p/superrichshine-osmanthus-shampoo.html/04902111782072",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:20:02.533Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "brand": "tresemme",
+  "assortmentCode": "BH0996",
+  "feedUrl": "https://www.tresemme.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 142,
+  "problematicPagesFound": 0,
+  "successfulPages": 141,
+  "errors": 1,
+  "duration": "15.31s",
+  "speed": "9.27 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.tresemme.com/ca/fr/p/revitalize-color-conditioner-for-colored-hair.html/00022400393773",
+      "error": "request to https://www.tresemme.com/ca/fr/p/revitalize-color-conditioner-for-colored-hair.html/00022400393773 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:21:59.237Z"
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
+  "totalUrlsChecked": 86,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 86,
+  "duration": "0.22s",
+  "speed": "390.91 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-pesto-fusilli.html/00000000000000",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.797Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-mac-&-cheese-212-g.html/08683130067086",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.795Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-ezogelin.html/08683130067475",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.794Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-aci-eksi.html/08683130067734",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.793Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-crazy-corn.html/08683130070314",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.827Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-ramen.html/08683130070321",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.833Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-alfredo.html/08683130081808",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-kajun-tavuk.html/08683130081822",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.838Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-arabiata.html/08683130081921",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-truflu-penne.html/08683130086117",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.800Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/icinde-iyilik-var-serisi-tavuk-suyu.html/08683130089118",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/icinde-iyilik-var-serisi-kemik-ilik-suyu.html/08683130089125",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/peynirli-makarna-sosu.html/08683130089651",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.815Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/bolonez-makarna-sosu.html/08683130089668",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-chilli-&-lime.html/08683130098035",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.822Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-cheese-&-kimchi.html/08683130098059",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.807Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-mac-&-cheese-ranch.html/08683130126691",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.793Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/tavuk-suyu-bulyon-24-adet.html/08690637014185",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.820Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kembe-corbas.html/08690637018565",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.807Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kremal-tavuk-corbas.html/08690637018626",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-kitirli-domates.html/08690637019791",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-kremali-mantar.html/08690637019814",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.819Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-kremali-tavuk.html/08690637019838",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.810Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-mercimek.html/08690637019852",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/et-suyu-bulyon-24-adet.html/08690637028939",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-corba-acili-domates.html/08690637036897",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/mercimek-corbasi-tarifi.html/08690637581595",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kremal-domates-corbas.html/08690637812309",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.828Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/ehriyeli-tavuk-corbas.html/08690637812315",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.827Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/ehriyeli-tavuk-corbas.html/08690637812316",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.799Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kremal-mantar-corbas.html/08690637812323",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/be-amel-sos.html/08690637839160",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.839Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/koefte-harc.html/08690637845079",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.814Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/yayla-corbasi-tarifi.html/08690637864728",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/anal-k-zl-corbas.html/08690637911996",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.803Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-noodle-tavuk-aromali.html/08690637946417",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.803Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-noodle-korili.html/08690637946462",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-cabuk-noodle-acili-domates.html/08690637953347",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.822Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/bulgurlu-anali-kizli-corbasi.html/08690638911996",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/et-suyu-bulyon-12-adet.html/08690701002308",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/tavuk-suyu-bulyon-12-adet.html/08690701002353",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/pane-harc.html/08690701002742",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.810Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/c-t-r-pane-harc.html/08690701002766",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.819Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kremali-mantarli-makarna-sosu.html/08690701006610",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/patates-pueresi.html/08690701009758",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.799Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/ezogelin-corbasi-tarifi.html/08690701053072",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.812Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-baharat-%C3%A7%C3%B6rekotu.html/08683130025987",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.800Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-baharat-karanfil.html/08683130025994",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.798Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-%C5%9Fehriyeli-tavuklu-domates-%C3%A7orbas%C4%B1.html/08683130038635",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-k%C3%B6ri.html/08683130055427",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-tr%C3%BCf-mantarli-makarna-sosu.html/08683130089675",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.801Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-pesto-makarna-sosu.html/08683130089682",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.854Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-kore-usul%C3%BC-k%C4%B1zarm%C4%B1%C5%9F-tavuk-haz%C4%B1rlama-kiti.html/08683130092934",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-pirpirim-%C3%A7orbas%C4%B1.html/08683130095546",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.811Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-ek%C5%9Fili-k%C3%B6fte-%C3%A7orbas%C4%B1.html/08683130095553",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-kelle-pa%C3%A7a-%C3%A7orbas%C4%B1.html/08683130112359",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-beyran-%C3%A7orbas%C4%B1.html/08683130112366",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-yuvalama-%C3%A7orbas%C4%B1.html/08683130112403",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-ek%C5%9Fili-k%C3%B6fte-%C3%A7orbas%C4%B1.html/08683130112410",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-i%CC%87%C5%9Fkembe-%C3%A7orbas%C4%B1.html/08683130112427",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.812Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-mac-&-cheese-makarna-sosu.html/08683130120248",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-mant%C4%B1-%C3%A7orbas%C4%B1.html/08683130128688",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.812Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-tutma%C3%A7-%C3%A7orbas%C4%B1.html/08683130128848",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.810Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-kekikli-ve-fesle%C4%9Fenli-salata-sosu.html/08683130139905",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.809Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-sirkeli-ve-sar%C4%B1msakl%C4%B1-salata-sosu.html/08683130139912",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.817Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-dereotlu-ve-hardall%C4%B1-salata-sosu.html/08683130139936",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.804Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-tarhana-%C3%A7orbas%C4%B1.html/08690637058523",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-ezogelin-%C3%A7orbas%C4%B1.html/08690637865275",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/acili-baharatli-firinda-tavuk-cenisi.html/08690637976551",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.829Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/baharatil-sarimsakli-firinda-tavuk-cenisi.html/08690637976575",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.831Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kekikli-feslegenli-susamli-firinda-tavuk-cenisi.html/08690637976582",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.802Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/mangal-lezzeti-firinda-tavuk-cenisi.html/08690637976599",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.822Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/5-dakikada-etsiz-cig-kofte.html/08690637977046",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.848Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/zerdecal.html/08690637998485",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/zencefil.html/08690637998492",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.808Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-%C3%A7e%C5%9Fni-sebzeli-%C3%A7e%C5%9Fni.html/08690637998508",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.824Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-%C3%A7e%C5%9Fni-tavuk-%C3%A7e%C5%9Fnisi.html/08690637998515",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/tatl-toz-krmzbiber.html/08690637998522",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.833Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/tarcin.html/08690637998539",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.816Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/susam.html/08690637998546",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.817Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/sumak.html/08690637998553",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.895Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/pul-biber.html/08690637998560",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.896Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kimyon.html/08690637998584",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.894Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/kekik.html/08690637998591",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.896Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/karabiber.html/08690637998607",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.897Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.knorr.com/tr/p/knorr-%C3%A7e%C5%9Fni-kajun-baharatl%C4%B1-patates-%C3%A7e%C5%9Fnisi.html/08690637998614",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:24:24.898Z"
+    }
+  ]
+}

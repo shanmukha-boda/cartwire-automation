@@ -1,0 +1,579 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+  "totalUrlsChecked": 101,
+  "problematicPagesFound": 18,
+  "successfulPages": 28,
+  "errors": 55,
+  "duration": "16.11s",
+  "speed": "6.27 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-black-and-white.html/00000093576680",
+      "gtin": "00000093576680",
+      "checkedAt": "2026-03-13T13:14:29.587Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00000093576680",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/nourishing-boost-hyaluron-shampoo.html/08851932490528",
+      "gtin": "08851932490528",
+      "checkedAt": "2026-03-13T13:14:29.926Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490528",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/intensive-repair-ceramide-mask.html/09300666565730",
+      "gtin": "09300666565730",
+      "checkedAt": "2026-03-13T13:14:29.126Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300666565730",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/intensive-repair-ceramide-serum.html/09300666565778",
+      "gtin": "09300666565778",
+      "checkedAt": "2026-03-13T13:14:29.299Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300666565778",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/women-lavender-and-chamomile-whole-body-deodorant-aerosol-230ml.html/09300830095261",
+      "gtin": "09300830095261",
+      "checkedAt": "2026-03-13T13:14:29.510Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830095261",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/women-raspberry-and-rose-whole-body-deodorant-aerosol-230ml.html/09300830095292",
+      "gtin": "09300830095292",
+      "checkedAt": "2026-03-13T13:14:29.433Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830095292",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/women-lavender-and-chamomile-whole-body-deodorant-cream-75ml.html/09300830097388",
+      "gtin": "09300830097388",
+      "checkedAt": "2026-03-13T13:14:29.314Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830097388",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-fig-and-suede-whole-body-deodorant-aerosol-230ml.html/09300830099818",
+      "gtin": "09300830099818",
+      "checkedAt": "2026-03-13T13:14:29.417Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830099818",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-shea-butter-and-cedar-whole-body-deodorant-aerosol-230ml.html/09300830099849",
+      "gtin": "09300830099849",
+      "checkedAt": "2026-03-13T13:14:29.579Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830099849",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/crushed-lavendar-and-coconut-milk-body-polish.html/00011111010963",
+      "gtin": "00011111010963",
+      "checkedAt": "2026-03-13T13:14:29.151Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00011111010963",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/colloidal-oatmeal-and-calendula-oil-body-polish.html/00011111022676",
+      "gtin": "00011111022676",
+      "checkedAt": "2026-03-13T13:14:29.505Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00011111022676",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/supple-bounce-body-lotion.html/08901030861239",
+      "gtin": "08901030861239",
+      "checkedAt": "2026-03-13T13:14:29.462Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08901030861239",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-care-sport-fresh-body-wash.html/09300830051663",
+      "gtin": "09300830051663",
+      "checkedAt": "2026-03-13T13:14:37.396Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830051663",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-care-advanced-antiperspirant-aerosol-clean-comfort.html/09300830087891",
+      "gtin": "09300830087891",
+      "checkedAt": "2026-03-13T13:14:37.420Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830087891",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-care-advanced-antiperspirant-aerosol-invisible-dry.html/09300830087907",
+      "gtin": "09300830087907",
+      "checkedAt": "2026-03-13T13:14:37.986Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830087907",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-care-antiperspirant-aerosol-fresh.html/09300830087945",
+      "gtin": "09300830087945",
+      "checkedAt": "2026-03-13T13:14:37.541Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830087945",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-care-antiperspirant-aerosol-classic.html/09300830090785",
+      "gtin": "09300830090785",
+      "checkedAt": "2026-03-13T13:14:38.395Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830090785",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+      "url": "https://www.dove.com/au/p/men-deodoran-aerosol-clean-comfort-zero-aluminum.html/09300830092352",
+      "gtin": "09300830092352",
+      "checkedAt": "2026-03-13T13:14:37.524Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830092352",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/antiperspirant-roll-on-powder-soft.html/00000093576642",
+      "error": "request to https://www.dove.com/au/p/antiperspirant-roll-on-powder-soft.html/00000093576642 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.887Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-passion-fruit.html/00000093576659",
+      "error": "request to https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-passion-fruit.html/00000093576659 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.887Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/antiperspirant-roll-on-classic-fresh.html/00000093576666",
+      "error": "request to https://www.dove.com/au/p/antiperspirant-roll-on-classic-fresh.html/00000093576666 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.888Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-pomegranate.html/00000093576697",
+      "error": "request to https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-pomegranate.html/00000093576697 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.888Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-original.html/00000093576703",
+      "error": "request to https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-original.html/00000093576703 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.888Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/rebalance-body-wash.html/06902088978216",
+      "error": "request to https://www.dove.com/au/p/rebalance-body-wash.html/06902088978216 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.888Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/women-lavender-and-chamomile-whole-body-deodorant-stick-81g.html/08720181658006",
+      "error": "request to https://www.dove.com/au/p/women-lavender-and-chamomile-whole-body-deodorant-stick-81g.html/08720181658006 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.888Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/shea-butter-beauty-cream-bar.html/08720182255150",
+      "error": "request to https://www.dove.com/au/p/shea-butter-beauty-cream-bar.html/08720182255150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.888Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/intensive-repair-ceramide-conditioner.html/08851932490184",
+      "error": "request to https://www.dove.com/au/p/intensive-repair-ceramide-conditioner.html/08851932490184 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.888Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/nourishing-boost-hyaluron-conditioner.html/08851932490191",
+      "error": "request to https://www.dove.com/au/p/nourishing-boost-hyaluron-conditioner.html/08851932490191 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.889Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/volume-boost-collagen-conditioner.html/08851932490214",
+      "error": "request to https://www.dove.com/au/p/volume-boost-collagen-conditioner.html/08851932490214 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.889Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/bond-strength-biotin-conditioner.html/08851932490252",
+      "error": "request to https://www.dove.com/au/p/bond-strength-biotin-conditioner.html/08851932490252 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.889Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/intensive-repair-ceramide-shampoo.html/08851932490504",
+      "error": "request to https://www.dove.com/au/p/intensive-repair-ceramide-shampoo.html/08851932490504 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.889Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/volume-boost-collagen-shampoo.html/08851932490542",
+      "error": "request to https://www.dove.com/au/p/volume-boost-collagen-shampoo.html/08851932490542 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.889Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/bond-strength-biotin-shampoo.html/08851932490580",
+      "error": "request to https://www.dove.com/au/p/bond-strength-biotin-shampoo.html/08851932490580 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.889Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/nourishing-boost-hyaluron-mask.html/09300666565754",
+      "error": "request to https://www.dove.com/au/p/nourishing-boost-hyaluron-mask.html/09300666565754 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.889Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/triple-moisturising-body-wash.html/09300830001101",
+      "error": "request to https://www.dove.com/au/p/triple-moisturising-body-wash.html/09300830001101 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/gentle-pamper-body-wash.html/09300830050611",
+      "error": "request to https://www.dove.com/au/p/gentle-pamper-body-wash.html/09300830050611 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-care-refreshing-body-wash.html/09300830095773",
+      "error": "request to https://www.dove.com/au/p/advanced-care-refreshing-body-wash.html/09300830095773 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-care-restoring-body-wash.html/09300830095827",
+      "error": "request to https://www.dove.com/au/p/advanced-care-restoring-body-wash.html/09300830095827 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-antiperspirant-aerosol-passion-fruit-and-lemongrass.html/09300830096763",
+      "error": "request to https://www.dove.com/au/p/advanced-antiperspirant-aerosol-passion-fruit-and-lemongrass.html/09300830096763 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/women-raspberry-and-rose-whole-body-deodorant-cream-75ml.html/09300830097357",
+      "error": "request to https://www.dove.com/au/p/women-raspberry-and-rose-whole-body-deodorant-cream-75ml.html/09300830097357 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/women-deodorant-roll-on-original-zero-aluminum.html/00000093575294",
+      "error": "request to https://www.dove.com/au/p/women-deodorant-roll-on-original-zero-aluminum.html/00000093575294 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-deodorant-roll-on-clean-comfort-zero-aluminum.html/00000093575300",
+      "error": "request to https://www.dove.com/au/p/men-deodorant-roll-on-clean-comfort-zero-aluminum.html/00000093575300 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.890Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/antiperspirant-roll-on-aqua-impact.html/00000093830638",
+      "error": "request to https://www.dove.com/au/p/antiperspirant-roll-on-aqua-impact.html/00000093830638 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/kids-care-foaming-body-wash-cotton-candy.html/00011111028005",
+      "error": "request to https://www.dove.com/au/p/kids-care-foaming-body-wash-cotton-candy.html/00011111028005 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/antiperspirant-roll-on-extra-fresh.html/04800888184511",
+      "error": "request to https://www.dove.com/au/p/antiperspirant-roll-on-extra-fresh.html/04800888184511 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/baby-dove-rich-moisture-body-lotion.html/08710447362945",
+      "error": "request to https://www.dove.com/au/p/baby-dove-rich-moisture-body-lotion.html/08710447362945 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/baby-dove-rich-moisture-top-to-toe-body-wash.html/08710908657467",
+      "error": "request to https://www.dove.com/au/p/baby-dove-rich-moisture-top-to-toe-body-wash.html/08710908657467 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/baby-dove-rich-moisture-shampoo.html/08710908657979",
+      "error": "request to https://www.dove.com/au/p/baby-dove-rich-moisture-shampoo.html/08710908657979 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/baby-dove-calming-moisture-top-to-toe-body-wash.html/08717163858226",
+      "error": "request to https://www.dove.com/au/p/baby-dove-calming-moisture-top-to-toe-body-wash.html/08717163858226 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/exfoliating-beauty-cream-bar.html/08720182252548",
+      "error": "request to https://www.dove.com/au/p/exfoliating-beauty-cream-bar.html/08720182252548 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.891Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/nourished-radiance-body-lotion.html/08901030861222",
+      "error": "request to https://www.dove.com/au/p/nourished-radiance-body-lotion.html/08901030861222 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.892Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/light-hydration-body-lotion.html/08901030861246",
+      "error": "request to https://www.dove.com/au/p/light-hydration-body-lotion.html/08901030861246 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.892Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/essential-nutrients-tinted-moisturiser-beige-spf15.html/09300663435791",
+      "error": "request to https://www.dove.com/au/p/essential-nutrients-tinted-moisturiser-beige-spf15.html/09300663435791 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.892Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/clinical-protection-original-deodorant.html/09300830007547",
+      "error": "request to https://www.dove.com/au/p/clinical-protection-original-deodorant.html/09300830007547 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-anti-dandruff-shampoo.html/09300830018291",
+      "error": "request to https://www.dove.com/au/p/men-care-anti-dandruff-shampoo.html/09300830018291 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.903Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-thickening-shampoo.html/09300830018307",
+      "error": "request to https://www.dove.com/au/p/men-care-thickening-shampoo.html/09300830018307 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/fresh-clean-2-in-1-shampoo.html/09300830018314",
+      "error": "request to https://www.dove.com/au/p/fresh-clean-2-in-1-shampoo.html/09300830018314 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.908Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-daily-deep-clean-fortifying-2-in-1-shampoo.html/09300830018321",
+      "error": "request to https://www.dove.com/au/p/men-care-daily-deep-clean-fortifying-2-in-1-shampoo.html/09300830018321 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.905Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-antiperspirant-aerosol-aqua-impact.html/09300830022571",
+      "error": "request to https://www.dove.com/au/p/men-care-antiperspirant-aerosol-aqua-impact.html/09300830022571 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.907Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-antiperspirant-aerosol-extra-fresh.html/09300830022588",
+      "error": "request to https://www.dove.com/au/p/men-care-antiperspirant-aerosol-extra-fresh.html/09300830022588 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.907Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-clean-comfort-body-wash.html/09300830051656",
+      "error": "request to https://www.dove.com/au/p/men-care-clean-comfort-body-wash.html/09300830051656 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:36.906Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-0-aluminium-aerosol-deodorant-clean-comfort.html/09300830059621",
+      "error": "request to https://www.dove.com/au/p/men-care-0-aluminium-aerosol-deodorant-clean-comfort.html/09300830059621 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-antiperspirant-aerosol-acai-berry-and-waterlily.html/09300830087815",
+      "error": "request to https://www.dove.com/au/p/advanced-antiperspirant-aerosol-acai-berry-and-waterlily.html/09300830087815 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.970Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-antiperspirant-aerosol-go-fresh-apple-white-tea.html/09300830087822",
+      "error": "request to https://www.dove.com/au/p/advanced-antiperspirant-aerosol-go-fresh-apple-white-tea.html/09300830087822 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-antiperspirant-aerosol-go-fresh-green-tea-cucumber.html/09300830087839",
+      "error": "request to https://www.dove.com/au/p/advanced-antiperspirant-aerosol-go-fresh-green-tea-cucumber.html/09300830087839 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.970Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/antiperspirant-aerosol-classic.html/09300830087853",
+      "error": "request to https://www.dove.com/au/p/antiperspirant-aerosol-classic.html/09300830087853 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.954Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/antiperspirant-aerosol-fresh.html/09300830087877",
+      "error": "request to https://www.dove.com/au/p/antiperspirant-aerosol-fresh.html/09300830087877 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.954Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/men-care-advanced-antiperspirant-aerosol-extra-fresh.html/09300830087914",
+      "error": "request to https://www.dove.com/au/p/men-care-advanced-antiperspirant-aerosol-extra-fresh.html/09300830087914 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.970Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-antiperspirant-aerosol-original.html/09300830087969",
+      "error": "request to https://www.dove.com/au/p/advanced-antiperspirant-aerosol-original.html/09300830087969 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-antiperspirant-aerosol-pomegranate.html/09300830087976",
+      "error": "request to https://www.dove.com/au/p/advanced-antiperspirant-aerosol-pomegranate.html/09300830087976 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.969Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/advanced-antiperspirant-aerosol-invisible-dry.html/09300830087983",
+      "error": "request to https://www.dove.com/au/p/advanced-antiperspirant-aerosol-invisible-dry.html/09300830087983 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.954Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/antiperspirant-aerosol-floral.html/09300830090792",
+      "error": "request to https://www.dove.com/au/p/antiperspirant-aerosol-floral.html/09300830090792 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.954Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/au/p/women-deodorant-aerosol-cucumber-zero-aluminium.html/09300830092307",
+      "error": "request to https://www.dove.com/au/p/women-deodorant-aerosol-cucumber-zero-aluminium.html/09300830092307 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T13:14:44.970Z"
+    }
+  ]
+}

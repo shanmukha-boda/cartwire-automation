@@ -1,0 +1,596 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/fi/home.productfeed.json",
+  "totalUrlsChecked": 97,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 97,
+  "duration": "0.26s",
+  "speed": "373.08 URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/go-fresh-cucumber-green-tea-scent-antiperspirantti-stick.html/00000050285662",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/invisible-dry-antiperspirantti-stick.html/00000050287062",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.340Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-invisible-dry-antiperspirantti-roll-on.html/00000059084051",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-clean-comfort-antiperspirantti-roll-on.html/00000059092582",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-extra-fresh-antiperspirantti-roll-on.html/00000059092605",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-invisible-dry-antiperspirantti-roll-on.html/00000059092629",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-sport-fresh-antiperspirantti-roll-on.html/00000059092636",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-classic-antiperspirantti-roll-on.html/00000059092643",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.348Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-fresh-antiperspirantti-roll-on.html/00000059092650",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.392Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-acai-water-lily-antiperspirantti-roll-on.html/00000059092667",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-cucumber-antiperspirantti-roll-on.html/00000059092704",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.377Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-passion-fruit-antiperspirantti-roll-on.html/00000059095286",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-pomegranate-antiperspirantti-roll-on.html/00000059095316",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/classic-antiperspirantti-roll-on.html/00000059095354",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.355Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/fresh-antiperspirantti-roll-on.html/00000059095385",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/powder-antiperspirantti-roll-on.html/00000059095408",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-original-antiperspirantti-roll-on.html/00000059095842",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-clean-comfort-antiperspirantti-stick.html/00000096081754-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.368Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/original-beauty-cream-nestesaippua.html/04000388177000",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/original-beauty-creampalasaippua.html/08000700000005",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-charcoal-clay-suihkusaippua-miehille.html/08710447205273",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.370Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/awakening-kosteusvoide.html/08710447495834",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/refreshing-suihkusaippua.html/08710847936531",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.345Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/tanning-mousse-vaalea-medium.html/08710847962769",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.362Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/tanning-mousse-medium-tumma.html/08710847962783",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/essential-kaesivoiteen.html/08710847963469",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.380Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-cool-fresh-suihkusaippua-miehille.html/08710908317361",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.387Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-fresh-clean-2in1-shampoo.html/08710908352188-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.343Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/nourishing-secrets-glowing-ritual-kosteusvoide.html/08710908777004",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/nourishing-secrets-restoring-ritual-kosteusvoide.html/08710908778322",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/restoring-ritual-shampoo.html/08710908789380",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/restoring-ritual-hoitoaine.html/08710908789427",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/glowing-shampoo.html/08710908789823",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.341Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/nourishing-oil-hoitoaine.html/08711600451650",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/essential-nourishing-kosteusvoide.html/08711600456877",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.342Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/intensive-nourishment-kosteusvoide.html/08711700807258",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/shea-butter-nestesaippua.html/08711700921565",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-anti-dandruff-shampoo.html/08712561031578-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-thickening-shampoo.html/08712561032155-men-product-detail-page",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/glowing-hoitoaine.html/08714100511541",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/cucumber-and-green-tea-nestesaippua.html/08717163023839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/fine-silk-nestesaippua.html/08717163605776",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/deeply-nourishing-suihkusaippua.html/08717163742839",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.347Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/nourishing-care-suihkusaippua.html/08717163761991",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/reviving-suihkusaippua.html/08717163762028",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/pampering-suihkusaippua.html/08717163762035",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/nourishing-silk-suihkusaippua.html/08717163762042",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.371Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/relaxing-suihkusaippua.html/08717163764060",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/colour-care-shampoo.html/08718114560939",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.352Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/daily-moisture-shampoo.html/08718114561660",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.361Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/colour-care-hoitoaine.html/08718114562506",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.350Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/daily-moisture-hoitoaine.html/08718114562575",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.376Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/intensive-repair-shampoo.html/08718114621371",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.346Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/intensive-repair-hoitoaine.html/08718114627007",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/care-protect-nestesaippua.html/08720181049361",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.349Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/sport-endurance-comfort-suihkusaippua-miehille.html/08720181049538",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/care-protect-kaesienpuhdistuspyyhkeet.html/08720181060328",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/dove-nourishing--vartalovoide.html/08720181172120",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.397Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/dove-one-cream-vartalovoide.html/08720181172144",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.359Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/cucumber-antiperspirantti-spray.html/08720181174070",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/pomegranate-antiperspirantti-spray.html/08720181174568",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.356Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/original-antiperspirantti-spray.html/08720181175145",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.374Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/nourishing-secrets-glowing-ritual-suihkusaippua.html/08720181180286",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/invigorating-ritual-suihkusaippua.html/08720181184550",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.344Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/dove-k%C3%A4sisaippua-renewing-care.html/08720181195426",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-clean-comfort-antiperspirantti-spray.html/08720181201424",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.353Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-extra-fresh-antiperspirantti-spray.html/08720181201455",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.376Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/passion-fruit-antiperspirantti-spray.html/08720181202445",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/restoring-suihkusaippua.html/08720181222610",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.351Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/awakening-ritual-suihkusaippua.html/08720181224928",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.346Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-sensitive-suihkusaippua-miehille.html/08720181225451",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/dove-summer-revived-kevyesti-itseruskettava-kosteusvoide-vaalea-.html/08720181260506",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.354Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/dove-summer-revived-kevyesti-itseruskettava-kosteusvoide-medium-.html/08720181260544",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.367Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-clean-comfort-antiperspirantti-spray.html/08720181284311",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-invisible-dry-antiperspirantti-spray.html/08720181284380",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-extra-fresh-antiperspirantti-spray.html/08720181284410",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.358Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-sport-fresh-antiperspirantti-spray.html/08720181284434",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.382Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-acai-water-lily-antiperspirantti-spray.html/08720181291418",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.357Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-invisible-dry-antiperspirantti-spray.html/08720181291623",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.360Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-original-antiperspirantti-spray.html/08720181291708",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.384Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-passion-fruit-antiperspirantti-spray.html/08720181291739",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.451Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-pomegranate-antiperspirantti-spray.html/08720181291814",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-soft-feel-antiperspirantti-spray.html/08720181291838",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.469Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-extra-fresh-suihkusaippua-miehille.html/08720181313424",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.468Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-extra-fresh-suihkusaippua-miehille.html/08720181313431",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-clean-comfort-suihkusaippua-miehille.html/08720181313448",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.450Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-cucumber-antiperspirantti-spray.html/08720181339936",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.474Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-advanced-eucalyptus-mint-antiperspirantti-spray.html/08720181433580",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/men-care-eucalyptus-mint-suihkusaippua-ravitsee-tunnin-ajan.html/08720181444630",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.447Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-deeply-nourishing-suihkusaippua.html/08720181457432",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.458Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-nourishing-silk-suihkusaippua.html/08720181457487",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-nourishing-care-suihkusaippua.html/08720181460050",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-reviving-suihkusaippua.html/08720181460166",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.457Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-relaxing-suihkusaippua.html/08720181462825",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.449Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-hydrating-suihkusaippua.html/08720181462979",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.459Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-glowing-suihkusaippua.html/08720181465918",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.474Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.dove.com/fi/p/advanced-care-restoring-suihkusaippua.html/08720181465932",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T13:16:31.479Z"
+    }
+  ]
+}
