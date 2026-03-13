@@ -1,0 +1,610 @@
+{
+  "generatedAt": "2026-03-13T07:00:08.911Z",
+  "brand": "masakapahariini",
+  "assortmentCode": "BFA335",
+  "feedUrl": "https://www.masakapahariini.com/home.productfeed.json",
+  "totalUrlsChecked": 99,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-620ml.html/08990121011028",
+      "gtin": "08990121011028",
+      "checkedAt": "2026-03-13T06:59:52.597Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-buavita-apple-jus-apel-1000ml-buavita-apple-1000-ml.html/08998009020247",
+      "gtin": "08998009020247",
+      "checkedAt": "2026-03-13T06:59:53.125Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-broccoli-24x250ml-250ml.html/08999999037390",
+      "gtin": "08999999037390",
+      "checkedAt": "2026-03-13T06:59:52.595Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-ikan-goreng-22g.html/08999999039820",
+      "gtin": "08999999039820",
+      "checkedAt": "2026-03-13T06:59:52.759Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-goreng-22g.html/08999999039844",
+      "gtin": "08999999039844",
+      "checkedAt": "2026-03-13T06:59:52.608Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/kaldu-ayam-big-pack.html/08999999193317",
+      "gtin": "08999999193317",
+      "checkedAt": "2026-03-13T07:00:00.395Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-melati-teh-bubuk-teh-melati-30-g.html/08999999501976",
+      "gtin": "08999999501976",
+      "checkedAt": "2026-03-13T06:59:52.863Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-melati.html/08999999501983",
+      "gtin": "08999999501983",
+      "checkedAt": "2026-03-13T06:59:53.083Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-harian-500-ml.html/08999999504069",
+      "gtin": "08999999504069",
+      "checkedAt": "2026-03-13T06:59:52.356Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-penyedap-makanan-penyedap-rasa-sapi-beriodium-220-g.html/08999999516215",
+      "gtin": "08999999516215",
+      "checkedAt": "2026-03-13T06:59:52.990Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-soto-17g.html/08999999539276",
+      "gtin": "08999999539276",
+      "checkedAt": "2026-03-13T07:00:08.710Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-goreng-belacan-25g.html/08999999539290",
+      "gtin": "08999999539290",
+      "checkedAt": "2026-03-13T07:00:08.517Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-soto-45g.html/08999999540289",
+      "gtin": "08999999540289",
+      "checkedAt": "2026-03-13T07:00:08.477Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-nasi-goreng-kambing-40g.html/08999999540296",
+      "gtin": "08999999540296",
+      "checkedAt": "2026-03-13T07:00:08.032Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/saus-tiram-275ml.html/08999999576950",
+      "gtin": "08999999576950",
+      "checkedAt": "2026-03-13T07:00:08.122Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-hitam-gurih-550ml.html/08999999579548",
+      "gtin": "08999999579548",
+      "checkedAt": "2026-03-13T07:00:01.249Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/korean-white-peach.html/08999999587376",
+      "gtin": "08999999587376",
+      "checkedAt": "2026-03-13T07:00:02.194Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-hitam-gurih-55g.html/08999999596507",
+      "gtin": "08999999596507",
+      "checkedAt": "2026-03-13T07:00:08.911Z"
+    }
+  ],
+  "errors": 81,
+  "duration": "17.37s",
+  "speedMetrics": "5.70 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-100%25-teh-asli.html/00000100256452",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-100%25-teh-asli.html/00000100256452 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-mawar.html/00000613176759",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-mawar.html/00000613176759 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.775Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-hitam-jahe-&-kunyit.html/00000619465842",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-hitam-jahe-&-kunyit.html/00000619465842 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.775Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-hitam-kurma-&-madu.html/00003014361304",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-hitam-kurma-&-madu.html/00003014361304 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/jeruk.html/08998009020179",
+      "error": "request to https://www.masakapahariini.com/p/jeruk.html/08998009020179 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/jambu.html/08998009020186",
+      "error": "request to https://www.masakapahariini.com/p/jambu.html/08998009020186 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/mangga.html/08998009020193",
+      "error": "request to https://www.masakapahariini.com/p/mangga.html/08998009020193 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/leci.html/08998009020216",
+      "error": "request to https://www.masakapahariini.com/p/leci.html/08998009020216 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/apel.html/08998009020223",
+      "error": "request to https://www.masakapahariini.com/p/apel.html/08998009020223 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-kemasan-apel-125ml.html/08998009020513",
+      "error": "request to https://www.masakapahariini.com/p/buavita-jus-kemasan-apel-125ml.html/08998009020513 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-grape-24x250ml-250ml.html/08999999023171",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-grape-24x250ml-250ml.html/08999999023171 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pedas-210ml.html/08999999026257",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-pedas-210ml.html/08999999026257 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-royale-mix-berries-24-x-250ml-250ml.html/08999999031510",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-royale-mix-berries-24-x-250ml-250ml.html/08999999031510 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.777Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-royale-mix-berries-12-x-1000ml-1000ml.html/08999999031527",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-royale-mix-berries-12-x-1000ml-1000ml.html/08999999031527 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.839Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sarimelati-black-leaf-tea-tea-bag-1-7g.html/08999999031572",
+      "error": "request to https://www.masakapahariini.com/p/sarimelati-black-leaf-tea-tea-bag-1-7g.html/08999999031572 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.842Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sarimurni-teh-celup-kantong-bundar-1-6g.html/08999999031602",
+      "error": "request to https://www.masakapahariini.com/p/sarimurni-teh-celup-kantong-bundar-1-6g.html/08999999031602 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.842Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-rock-bag-1-9g.html/08999999035389",
+      "error": "request to https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-rock-bag-1-9g.html/08999999035389 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.775Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-rock-bag-40g.html/08999999035396",
+      "error": "request to https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-rock-bag-40g.html/08999999035396 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-broccoli-12x1000ml-1000ml.html/08999999037406",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-broccoli-12x1000ml-1000ml.html/08999999037406 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-carrot-24x250ml-250ml.html/08999999037413",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-carrot-24x250ml-250ml.html/08999999037413 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-carrot-12x1000ml-1000ml.html/08999999037420",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-carrot-12x1000ml-1000ml.html/08999999037420 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-kelapa-12x1000ml-1000ml.html/08999999037468",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-kelapa-12x1000ml-1000ml.html/08999999037468 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-markisa-24x250ml-0.html/08999999037482",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-markisa-24x250ml-0.html/08999999037482 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-sirsak-24x250ml-250ml.html/08999999038137",
+      "error": "request to https://www.masakapahariini.com/p/buavita-fruit-juices-buavita-sirsak-24x250ml-250ml.html/08999999038137 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-ikan-goreng-22-5g.html/08999999039240",
+      "error": "request to https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-ikan-goreng-22-5g.html/08999999039240 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-pedas-17g.html/08999999039288",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-pedas-17g.html/08999999039288 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-tempe-tahu-goreng-17g.html/08999999039837",
+      "error": "request to https://www.masakapahariini.com/p/royco-mealmakers-royco-bk-tempe-tahu-goreng-17g.html/08999999039837 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-17g.html/08999999039868",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-17g.html/08999999039868 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-mealmaker-ayam-bacem-60g.html/08999999042448",
+      "error": "request to https://www.masakapahariini.com/p/bango-mealmaker-ayam-bacem-60g.html/08999999042448 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-mealmaker-tempe-tahu-bacem-60g.html/08999999042462",
+      "error": "request to https://www.masakapahariini.com/p/bango-mealmaker-tempe-tahu-bacem-60g.html/08999999042462 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.776Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-asli-harian-1000-ml.html/08999999055714",
+      "error": "request to https://www.masakapahariini.com/p/buavita-minuman-sari-buah-jambu-asli-guava-100%25-vitamin-c-asli-harian-1000-ml.html/08999999055714 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-buah-asli-mango-juice-mangga-100%25-vitamin-c-asli-harian-1000ml.html/08999999055721",
+      "error": "request to https://www.masakapahariini.com/p/buavita-jus-buah-asli-mango-juice-mangga-100%25-vitamin-c-asli-harian-1000ml.html/08999999055721 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-black-leaf-tea-tea-bag-25x1-8.html/08999999059842",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-black-leaf-tea-tea-bag-25x1-8.html/08999999059842 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-tea-bag-40g.html/08999999059859",
+      "error": "request to https://www.masakapahariini.com/p/sarimurni-black-leaf-tea-tea-bag-40g.html/08999999059859 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.842Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-520ml.html/08999999100506",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-520ml.html/08999999100506 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sup-krim-ayam.html/08999999191436",
+      "error": "request to https://www.masakapahariini.com/p/sup-krim-ayam.html/08999999191436 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.847Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sup-krim-jagung.html/08999999191443",
+      "error": "request to https://www.masakapahariini.com/p/sup-krim-jagung.html/08999999191443 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.847Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/kaldu-ayam-medium-pack.html/08999999192150",
+      "error": "request to https://www.masakapahariini.com/p/kaldu-ayam-medium-pack.html/08999999192150 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.847Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/kaldu-sapi-medium-pack.html/08999999192198",
+      "error": "request to https://www.masakapahariini.com/p/kaldu-sapi-medium-pack.html/08999999192198 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.847Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/kaldu-sapi-big-pack.html/08999999193324",
+      "error": "request to https://www.masakapahariini.com/p/kaldu-sapi-big-pack.html/08999999193324 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.847Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-hijau.html/08999999193447",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-hijau.html/08999999193447 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.847Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-1-85g.html/08999999193522",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-1-85g.html/08999999193522 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.848Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-46-25g.html/08999999195649",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-46-25g.html/08999999195649 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.848Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-100%25-teh-hitam-asli-teh-celup-membantu-kesehatan-jantung*-1-85g-isi-50.html/08999999195656",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-100%25-teh-hitam-asli-teh-celup-membantu-kesehatan-jantung*-1-85g-isi-50.html/08999999195656 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.848Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-black-leaf-tea-tea-bag-0.html/08999999195670",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-black-leaf-tea-tea-bag-0.html/08999999195670 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.839Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pouch-540g.html/08999999204693",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-pouch-540g.html/08999999204693 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.841Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-385g.html/08999999206451",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-botol-385g.html/08999999206451 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-865g.html/08999999206468",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-botol-865g.html/08999999206468 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.839Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-botol-189g.html/08999999210168",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-botol-189g.html/08999999210168 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pouch-700gr.html/08999999210748",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-pouch-700gr.html/08999999210748 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.841Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-pouch-950g.html/08999999210762",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-pouch-950g.html/08999999210762 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.840Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-melati-teh-celup-jasmine-tea-dari-daun-teh-asli-isi-25-isi-30.html/08999999501990",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-melati-teh-celup-jasmine-tea-dari-daun-teh-asli-isi-25-isi-30.html/08999999501990 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.841Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-kantong-bundar-1-8g.html/08999999502003",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-kantong-bundar-1-8g.html/08999999502003 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.841Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-18-5-g.html/08999999502041",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-18-5-g.html/08999999502041 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.842Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/kaldu-ayam-sachet.html/08999999502393",
+      "error": "request to https://www.masakapahariini.com/p/kaldu-ayam-sachet.html/08999999502393 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.841Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/kaldu-sapi-sachet.html/08999999502409",
+      "error": "request to https://www.masakapahariini.com/p/kaldu-sapi-sachet.html/08999999502409 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-sapi-6x9g.html/08999999502423",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kaldu-sapi-6x9g.html/08999999502423 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.841Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-kemasan-apel-500ml.html/08999999504052",
+      "error": "request to https://www.masakapahariini.com/p/buavita-jus-kemasan-apel-500ml.html/08999999504052 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.841Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-sarimurni.html/08999999504656",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-sarimurni.html/08999999504656 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-7-4-g.html/08999999506544",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-7-4-g.html/08999999506544 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.842Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-138-75-g.html/08999999514389",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-teh-hitam-138-75-g.html/08999999514389 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.842Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-penyedap-makanan-penyedap-rasa-ayam-beryodium-220g.html/08999999516208",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kaldu-penyedap-makanan-penyedap-rasa-ayam-beryodium-220g.html/08999999516208 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-light-135ml.html/08999999518875",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-light-135ml.html/08999999518875 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-220ml.html/08999999518882",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-220ml.html/08999999518882 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.843Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/buavita-jus-kemasan-mangga-500ml.html/08999999528973",
+      "error": "request to https://www.masakapahariini.com/p/buavita-jus-kemasan-mangga-500ml.html/08999999528973 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/ayam-bumbu-rujak.html/08999999531218",
+      "error": "request to https://www.masakapahariini.com/p/ayam-bumbu-rujak.html/08999999531218 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.844Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-cabe-hijau-17g.html/08999999531225",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-cabe-hijau-17g.html/08999999531225 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-rendang-17g.html/08999999531232",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kemasan-nasi-goreng-rendang-17g.html/08999999531232 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-sachet-18ml.html/08999999533496",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-sachet-18ml.html/08999999533496 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.845Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sup-krim-kepiting-dan-jagung.html/08999999537982",
+      "error": "request to https://www.masakapahariini.com/p/sup-krim-kepiting-dan-jagung.html/08999999537982 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:59.846Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-tonseng-khas-solo-50g.html/08999999540265",
+      "error": "request to https://www.masakapahariini.com/p/bango-bumbu-kemasan-tonseng-khas-solo-50g.html/08999999540265 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-bumbu-kemasan-opor-ayam-35g.html/08999999540272",
+      "error": "request to https://www.masakapahariini.com/p/bango-bumbu-kemasan-opor-ayam-35g.html/08999999540272 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-4x1-85.html/08999999540333",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-teh-celup-asli-4x1-85.html/08999999540333 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-less-sugar-520ml.html/08999999541897",
+      "error": "request to https://www.masakapahariini.com/p/bango-less-sugar-520ml.html/08999999541897 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.502Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-saus-telur-asin-22g.html/08999999549701",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kemasan-ayam-saus-telur-asin-22g.html/08999999549701 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-ayam-230g-2.html/08999999555405",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kaldu-ayam-230g-2.html/08999999555405 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.502Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/sariwangi-100%25-teh-hitam-asli-teh-celup-membantu-kesehatan-jantung*-1-85g-isi-30.html/08999999556327",
+      "error": "request to https://www.masakapahariini.com/p/sariwangi-100%25-teh-hitam-asli-teh-celup-membantu-kesehatan-jantung*-1-85g-isi-30.html/08999999556327 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-jamur-170g.html/08999999557041",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kaldu-jamur-170g.html/08999999557041 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/royco-bumbu-kaldu-jamur-36g.html/08999999557058",
+      "error": "request to https://www.masakapahariini.com/p/royco-bumbu-kaldu-jamur-36g.html/08999999557058 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.501Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/saus-tiram-135ml.html/08999999576967",
+      "error": "request to https://www.masakapahariini.com/p/saus-tiram-135ml.html/08999999576967 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.masakapahariini.com/p/bango-kecap-manis-hitam-gurih-550g.html/08999999596521",
+      "error": "request to https://www.masakapahariini.com/p/bango-kecap-manis-hitam-gurih-550g.html/08999999596521 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T07:00:08.501Z"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "generatedAt": "2026-03-13T06:58:49.084Z",
+  "brand": "walls",
+  "assortmentCode": "BF0802",
+  "feedUrl": "https://www.streetsicecream.co.nz/home.productfeed.json",
+  "totalUrlsChecked": 65,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-soft-vanilla-140ml.html/08711327556256",
+      "gtin": "08711327556256",
+      "checkedAt": "2026-03-13T06:58:49.021Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-classico-mp6-750ml.html/08711327642836",
+      "gtin": "08711327642836",
+      "checkedAt": "2026-03-13T06:58:49.021Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-triple-choc-mp6-750ml.html/08711327642935",
+      "gtin": "08711327642935",
+      "checkedAt": "2026-03-13T06:58:49.045Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-caramel-mp6-750ml.html/08711327643079",
+      "gtin": "08711327643079",
+      "checkedAt": "2026-03-13T06:58:49.021Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-classico-impulse-cone-125ml.html/08711327652682",
+      "gtin": "08711327652682",
+      "checkedAt": "2026-03-13T06:58:49.044Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-soft-strawberry-140ml.html/08711327658233",
+      "gtin": "08711327658233",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-soft-strawberry-mp4-560ml.html/08711327662377",
+      "gtin": "08711327662377",
+      "checkedAt": "2026-03-13T06:58:48.994Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cornetto-chocolate-impulse-cone-125ml.html/08711327678989",
+      "gtin": "08711327678989",
+      "checkedAt": "2026-03-13T06:58:49.021Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cookie-crumble-strawberries-and-cream-stick.html/08721274617047",
+      "gtin": "08721274617047",
+      "checkedAt": "2026-03-13T06:58:49.046Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cookie-crumble-strawberries-and-cream-multipack.html/08721274617061",
+      "gtin": "08721274617061",
+      "checkedAt": "2026-03-13T06:58:49.046Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-classic.html/09300830025336",
+      "gtin": "09300830025336",
+      "checkedAt": "2026-03-13T06:58:48.993Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-almond.html/09300830025343",
+      "gtin": "09300830025343",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-honeycomb-crunch.html/09300830025350",
+      "gtin": "09300830025350",
+      "checkedAt": "2026-03-13T06:58:49.059Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-white.html/09300830025367",
+      "gtin": "09300830025367",
+      "checkedAt": "2026-03-13T06:58:49.084Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-peppermint.html/09300830025374",
+      "gtin": "09300830025374",
+      "checkedAt": "2026-03-13T06:58:49.044Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-classic-multipack.html/09300830025381",
+      "gtin": "09300830025381",
+      "checkedAt": "2026-03-13T06:58:49.044Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-almond-multipack.html/09300830025398",
+      "gtin": "09300830025398",
+      "checkedAt": "2026-03-13T06:58:49.045Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-honeycomb-crunch-multipack.html/09300830025404",
+      "gtin": "09300830025404",
+      "checkedAt": "2026-03-13T06:58:49.079Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-white-multipack.html/09300830025411",
+      "gtin": "09300830025411",
+      "checkedAt": "2026-03-13T06:58:49.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-peppermint-multipack.html/09300830025428",
+      "gtin": "09300830025428",
+      "checkedAt": "2026-03-13T06:58:49.059Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-pint-classic.html/09300830041299",
+      "gtin": "09300830041299",
+      "checkedAt": "2026-03-13T06:58:49.045Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-banana-multipack.html/09300830060719",
+      "gtin": "09300830060719",
+      "checkedAt": "2026-03-13T06:58:49.068Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-rainbow-multipack.html/09300830060726",
+      "gtin": "09300830060726",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-chocolate-multipack.html/09300830060733",
+      "gtin": "09300830060733",
+      "checkedAt": "2026-03-13T06:58:49.045Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cookie-crumble-slab-160ml.html/09310016000538",
+      "gtin": "09310016000538",
+      "checkedAt": "2026-03-13T06:58:49.020Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/solero-exotic-multipack.html/09310016000668",
+      "gtin": "09310016000668",
+      "checkedAt": "2026-03-13T06:58:49.070Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/solero-berry-bliss-multipack.html/09310016000675",
+      "gtin": "09310016000675",
+      "checkedAt": "2026-03-13T06:58:49.070Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/solero-exotic-90ml.html/09310016000880",
+      "gtin": "09310016000880",
+      "checkedAt": "2026-03-13T06:58:49.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/solero-berry-bliss-90ml.html/09310016000903",
+      "gtin": "09310016000903",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/boysenberry-multipack-x4.html/09310016001474",
+      "gtin": "09310016001474",
+      "checkedAt": "2026-03-13T06:58:49.021Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-rainbow.html/09310016410764",
+      "gtin": "09310016410764",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/bubble-o-bill.html/09310016411334",
+      "gtin": "09310016411334",
+      "checkedAt": "2026-03-13T06:58:49.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-minis-classic-multipack.html/09310016800701",
+      "gtin": "09310016800701",
+      "checkedAt": "2026-03-13T06:58:49.045Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-minis-almond-multipack.html/09310016800725",
+      "gtin": "09310016800725",
+      "checkedAt": "2026-03-13T06:58:49.044Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/calippo-raspberry-pineapple.html/09310016803023",
+      "gtin": "09310016803023",
+      "checkedAt": "2026-03-13T06:58:49.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/calippo-lemon.html/09310016803030",
+      "gtin": "09310016803030",
+      "checkedAt": "2026-03-13T06:58:49.065Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-icy-twist-lemonade.html/09310016803313",
+      "gtin": "09310016803313",
+      "checkedAt": "2026-03-13T06:58:49.068Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/calippo-minis-raspberry-pineapple-multipack.html/09310016803849",
+      "gtin": "09310016803849",
+      "checkedAt": "2026-03-13T06:58:49.067Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cookie-crunch-multipack-x4.html/19300830082787",
+      "gtin": "19300830082787",
+      "checkedAt": "2026-03-13T06:58:49.069Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-dairy-free-sea-salt-caramel-multipack.html/08711327434981",
+      "gtin": "08711327434981",
+      "checkedAt": "2026-03-13T06:58:49.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-pint-luxe-gold-caramelised-chocolate.html/08711327475854",
+      "gtin": "08711327475854",
+      "checkedAt": "2026-03-13T06:58:49.045Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-minis-double-caramel-multipack.html/08711327578548",
+      "gtin": "08711327578548",
+      "checkedAt": "2026-03-13T06:58:49.046Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-double-caramel-ego-multipack.html/08711327582941",
+      "gtin": "08711327582941",
+      "checkedAt": "2026-03-13T06:58:49.067Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-double-sunlover-multipack.html/08711327587342",
+      "gtin": "08711327587342",
+      "checkedAt": "2026-03-13T06:58:49.046Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-double-sunlover.html/08711327587496",
+      "gtin": "08711327587496",
+      "checkedAt": "2026-03-13T06:58:49.046Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-double-starchaser-multipack.html/08711327588004",
+      "gtin": "08711327588004",
+      "checkedAt": "2026-03-13T06:58:49.068Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-double-starchaser.html/08711327588073",
+      "gtin": "08711327588073",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-mini-twister-multipack.html/08711327604148",
+      "gtin": "08711327604148",
+      "checkedAt": "2026-03-13T06:58:49.069Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-twister-mini-tropical-multipack.html/08711327655140",
+      "gtin": "08711327655140",
+      "checkedAt": "2026-03-13T06:58:49.067Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/paddle-pop-twister-mini-mallow-multipack.html/08711327660434",
+      "gtin": "08711327660434",
+      "checkedAt": "2026-03-13T06:58:49.070Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/calippo-super-mix-multipack.html/08711327679054",
+      "gtin": "08711327679054",
+      "checkedAt": "2026-03-13T06:58:49.059Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-dairy-free-almond.html/08714100658277",
+      "gtin": "08714100658277",
+      "checkedAt": "2026-03-13T06:58:49.067Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-dairy-free-classic-multipack.html/08714100658420",
+      "gtin": "08714100658420",
+      "checkedAt": "2026-03-13T06:58:49.071Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-dairy-free-almond-multipack.html/08714100658499",
+      "gtin": "08714100658499",
+      "checkedAt": "2026-03-13T06:58:49.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/viennetta-vanilla.html/08714100895252",
+      "gtin": "08714100895252",
+      "checkedAt": "2026-03-13T06:58:49.065Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/calippo-cola-lemonade.html/08851932465465",
+      "gtin": "08851932465465",
+      "checkedAt": "2026-03-13T06:58:49.046Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cookie-crumble-caramel-multipack.html/09300830025459",
+      "gtin": "09300830025459",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-minis-dulce-de-leche-multipack.html/09300830043477",
+      "gtin": "09300830043477",
+      "checkedAt": "2026-03-13T06:58:49.059Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-pint-luxe-salted-caramel.html/09300830050635",
+      "gtin": "09300830050635",
+      "checkedAt": "2026-03-13T06:58:49.070Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-passionfruit-white-chocolate-multipack.html/09300830068234",
+      "gtin": "09300830068234",
+      "checkedAt": "2026-03-13T06:58:49.061Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/magnum-caramelised-chocolate-&-cookie.html/09300830068524",
+      "gtin": "09300830068524",
+      "checkedAt": "2026-03-13T06:58:49.059Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/bubble-o'-bill-multipack.html/09300830068906",
+      "gtin": "09300830068906",
+      "checkedAt": "2026-03-13T06:58:49.046Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/cookie-crumble-caramel.html/09310016800428",
+      "gtin": "09310016800428",
+      "checkedAt": "2026-03-13T06:58:49.065Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/streets-cyclone.html/09310016801340",
+      "gtin": "09310016801340",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.streetsicecream.co.nz/p/streets-cyclone-multipack.html/09310016801371",
+      "gtin": "09310016801371",
+      "checkedAt": "2026-03-13T06:58:49.060Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.91s",
+  "speedMetrics": "71.43 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-03-13T06:59:06.959Z",
+  "brand": "zest",
+  "assortmentCode": "BH1081",
+  "feedUrl": "https://www.zest.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 17,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-delicate1.html/07506306219281",
+      "gtin": "07506306219281",
+      "checkedAt": "2026-03-13T06:59:00.398Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure1.html/07506306219298",
+      "gtin": "07506306219298",
+      "checkedAt": "2026-03-13T06:59:00.494Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-antb-alcohol-spray-12x300ml.html/07506306222922",
+      "gtin": "07506306222922",
+      "checkedAt": "2026-03-13T06:59:00.486Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-antib-aer-para-manos-12x108g-150ml.html/07506306223004",
+      "gtin": "07506306223004",
+      "checkedAt": "2026-03-13T06:59:00.614Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-vainilla-y-jengibre.html/07506306202955",
+      "gtin": "07506306202955",
+      "checkedAt": "2026-03-13T06:59:00.500Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-toronja-y-albahaca.html/07506306202962",
+      "gtin": "07506306202962",
+      "checkedAt": "2026-03-13T06:59:00.582Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-bw-liquido-agua-de-coco.html/07506306216020",
+      "gtin": "07506306216020",
+      "checkedAt": "2026-03-13T06:59:00.546Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-delicate.html/07506306219250",
+      "gtin": "07506306219250",
+      "checkedAt": "2026-03-13T06:59:00.543Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-pure.html/07506306219267",
+      "gtin": "07506306219267",
+      "checkedAt": "2026-03-13T06:59:00.518Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-men.html/07506306238350",
+      "gtin": "07506306238350",
+      "checkedAt": "2026-03-13T06:59:00.621Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-pepino.html/07506306238398",
+      "gtin": "07506306238398",
+      "checkedAt": "2026-03-13T06:59:00.566Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-almendra-y-avena.html/07506306238404",
+      "gtin": "07506306238404",
+      "checkedAt": "2026-03-13T06:59:00.714Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-jab-neutro.html/07506306238428",
+      "gtin": "07506306238428",
+      "checkedAt": "2026-03-13T06:59:00.676Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.zest.com.mx/p/zest-hw-toronja-y-albahaca.html/08710908851704",
+      "gtin": "08710908851704",
+      "checkedAt": "2026-03-13T06:59:00.717Z"
+    }
+  ],
+  "errors": 3,
+  "duration": "8.10s",
+  "speedMetrics": "2.10 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.zest.com.mx/p/zest-gel-antibacterial-12x400ml.html/07506306222939",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.959Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zest.com.mx/p/zest-jab-aqua.html/07506306238336",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:02.951Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.zest.com.mx/p/zest-bw-toronja-y-albahaca.html/08710908851476",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.340Z"
+    }
+  ]
+}

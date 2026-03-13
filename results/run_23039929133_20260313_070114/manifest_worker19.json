@@ -1,0 +1,40 @@
+{
+  "worker": 19,
+  "timestamp": "23039929133-23-1",
+  "processedBrands": [
+    "magnum",
+    "dove",
+    "dove",
+    "walls",
+    "ponds",
+    "tresemme",
+    "knorr",
+    "rexona",
+    "hellmanns",
+    "axe",
+    "sunsilk",
+    "zendium-master",
+    "maizena",
+    "parogencyl",
+    "regenerate"
+  ],
+  "filesProcessed": [
+    "pdpCheckResults_ALL_PROBLEMATIC_23039929133-23-1_worker19.json",
+    "pdpCheckResults_PROBLEMATIC_dove_BH0162_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_PROBLEMATIC_hellmanns_BF0380_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_axe_BH0045_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_dove_BH0162_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_hellmanns_BF0380_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_knorr_BF0426_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_magnum_BF0543_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_maizena_BF0547_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_parogencyl_BHA123_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_ponds_BH0381_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_regenerate_BH1047_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_rexona_BH0413_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_sunsilk_BH0468_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_tresemme_BH0996_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_walls_BF0012_1_23039929133-23-1_worker19.json",
+    "pdpCheckResults_zendium-master_BH0871_1_23039929133-23-1_worker19.json"
+  ]
+}

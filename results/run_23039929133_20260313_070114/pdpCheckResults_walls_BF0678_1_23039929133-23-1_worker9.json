@@ -1,0 +1,310 @@
+{
+  "generatedAt": "2026-03-13T06:59:09.466Z",
+  "brand": "walls",
+  "assortmentCode": "BF0678",
+  "feedUrl": "https://www.heladospinguino.com.ec/home.productfeed.json",
+  "totalUrlsChecked": 49,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-dulce-de-leche.html/07861047700048",
+      "gtin": "07861047700048",
+      "checkedAt": "2026-03-13T06:59:02.311Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cornetto-fresa.html/07861047722583",
+      "gtin": "07861047722583",
+      "checkedAt": "2026-03-13T06:59:02.216Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cornetto-cl%C3%A1sico.html/07861047722606",
+      "gtin": "07861047722606",
+      "checkedAt": "2026-03-13T06:59:02.542Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/gemelos-chocoleche.html/07861047700123",
+      "gtin": "07861047700123",
+      "checkedAt": "2026-03-13T06:59:02.134Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/crema-real-gigante.html/07861047708693",
+      "gtin": "07861047708693",
+      "checkedAt": "2026-03-13T06:59:02.300Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/gemelos-lim%C3%B3n-naranja.html/07861047708815",
+      "gtin": "07861047708815",
+      "checkedAt": "2026-03-13T06:59:02.239Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/casero-mora.html/07861047709843",
+      "gtin": "07861047709843",
+      "checkedAt": "2026-03-13T06:59:02.204Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-blanco-almendras.html/07861047710139",
+      "gtin": "07861047710139",
+      "checkedAt": "2026-03-13T06:59:02.178Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/manicho-473ml.html/07861047710238",
+      "gtin": "07861047710238",
+      "checkedAt": "2026-03-13T06:59:02.418Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/oreo-473ml.html/07861047710252",
+      "gtin": "07861047710252",
+      "checkedAt": "2026-03-13T06:59:02.447Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-triple-chocolate.html/07861047710399",
+      "gtin": "07861047710399",
+      "checkedAt": "2026-03-13T06:59:02.284Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/acidix-lim%C3%B3n.html/07861047721180",
+      "gtin": "07861047721180",
+      "checkedAt": "2026-03-13T06:59:03.164Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/multipack-sanduche-vainilla.html/07861047721760",
+      "gtin": "07861047721760",
+      "checkedAt": "2026-03-13T06:59:02.417Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/manicho-paleta.html/07861047722699",
+      "gtin": "07861047722699",
+      "checkedAt": "2026-03-13T06:59:02.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-ron-pasas-900ml.html/07861047722712",
+      "gtin": "07861047722712",
+      "checkedAt": "2026-03-13T06:59:02.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-vainilla-900ml.html/07861047722798",
+      "gtin": "07861047722798",
+      "checkedAt": "2026-03-13T06:59:02.322Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-marmoleado-mora-900ml.html/07861047722804",
+      "gtin": "07861047722804",
+      "checkedAt": "2026-03-13T06:59:02.178Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-manjar-almendras-900ml.html/07861047722828",
+      "gtin": "07861047722828",
+      "checkedAt": "2026-03-13T06:59:02.468Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-sanduche-900ml.html/07861047722859",
+      "gtin": "07861047722859",
+      "checkedAt": "2026-03-13T06:59:02.776Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-manicho-900ml.html/07861047722873",
+      "gtin": "07861047722873",
+      "checkedAt": "2026-03-13T06:59:02.382Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-cerezas-gourmet-900ml.html/07861047722910",
+      "gtin": "07861047722910",
+      "checkedAt": "2026-03-13T06:59:02.257Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/polito-frutilla.html/07861047723061",
+      "gtin": "07861047723061",
+      "checkedAt": "2026-03-13T06:59:02.300Z"
+    }
+  ],
+  "errors": 27,
+  "duration": "8.37s",
+  "speedMetrics": "5.85 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/cornetto-chocmix.html/07861047722590",
+      "error": "request to https://www.heladospinguino.com.ec/p/cornetto-chocmix.html/07861047722590 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:09.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-black-moccachino.html/07861047722682",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.957Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/torta-festival-(25-pedazos).html/07861047700062",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.649Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/torta-capricho-(15-pedazos).html/07861047700079",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.853Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/chocoempastado.html/07861047708679",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/casero-coco.html/07861047709836",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:05.940Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/polito-vainilla.html/07861047710122",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/max-bubbaloo-paleta.html/07861047710146",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.761Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/sanduche-473ml.html/07861047710245",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/casero-chocolate.html/07861047710269",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.436Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-cl%C3%A1sico.html/07861047710696",
+      "error": "request to https://www.heladospinguino.com.ec/p/magnum-cl%C3%A1sico.html/07861047710696 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:09.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/casero-ron-pasas.html/07861047720190",
+      "error": "request to https://www.heladospinguino.com.ec/p/casero-ron-pasas.html/07861047720190 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:09.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/miniyog-fresa.html/07861047720794",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.911Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/sanduche-vainilla.html/07861047721104",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/casero-relleno-banano-chocolate.html/07861047721203",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.657Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-almendras.html/07861047721227",
+      "error": "request to https://www.heladospinguino.com.ec/p/magnum-almendras.html/07861047721227 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:09.444Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-tres-leches-900ml.html/07861047721692",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:07.506Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/multipack-magnum-almendras-x4.html/07861047721753",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/pintalengua-paleta.html/07861047722262",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.259Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/vasito-vainilla.html/07861047722576",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:07.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-napolitano-900ml.html/07861047722705",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.035Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-chocolate-900ml.html/07861047722729",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.944Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-frutilla-900ml.html/07861047722743",
+      "error": "request to https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-frutilla-900ml.html/07861047722743 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:09.465Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-oreo-900ml.html/07861047722835",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:07.647Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-chocolate-gourmet-900ml.html/07861047722927",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:05.385Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-vainilla-gourmet-900ml.html/07861047722934",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T06:59:06.892Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-chocolate-ecuatoriano.html/07861047723382",
+      "error": "request to https://www.heladospinguino.com.ec/p/magnum-chocolate-ecuatoriano.html/07861047723382 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:09.466Z"
+    }
+  ]
+}

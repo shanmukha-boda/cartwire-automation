@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-03-13T06:58:56.155Z",
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
+      "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-supreme-230g.html/07891150101548",
+      "gtin": "07891150101548",
+      "checkedAt": "2026-03-13T06:58:56.150Z"
+    }
+  ]
+}

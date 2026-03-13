@@ -1,0 +1,2745 @@
+{
+  "generatedAt": "2026-03-13T07:01:14Z",
+  "runId": "23039929133",
+  "timestamp": "20260313_070114",
+  "workflowRun": "23039929133",
+  "totalFilesProcessed": 385,
+  "summary": {
+    "totalProblematicPages": 1553,
+    "totalSuccessfulPages": 11321,
+    "totalErrors": 979,
+    "totalUrlsChecked": 12649
+  },
+  "brandResults": [
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0012",
+      "totalUrlsChecked": 92,
+      "problematicPagesFound": 0,
+      "successfulPages": 79,
+      "errors": 13,
+      "duration": "8.47s",
+      "speedMetrics": "10.86 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0012",
+      "totalUrlsChecked": 92,
+      "problematicPagesFound": 0,
+      "successfulPages": 80,
+      "errors": 12,
+      "duration": "8.50s",
+      "speedMetrics": "10.82 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0012",
+      "totalUrlsChecked": 92,
+      "problematicPagesFound": 0,
+      "successfulPages": 80,
+      "errors": 12,
+      "duration": "8.52s",
+      "speedMetrics": "10.80 URLs/second"
+    },
+    {
+      "brand": "calve",
+      "assortmentCode": "BF0153",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "0.50s",
+      "speedMetrics": "44.00 URLs/second"
+    },
+    {
+      "brand": "calve",
+      "assortmentCode": "BF0153",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "1.22s",
+      "speedMetrics": "18.03 URLs/second"
+    },
+    {
+      "brand": "colmans",
+      "assortmentCode": "BF0199",
+      "totalUrlsChecked": 38,
+      "problematicPagesFound": 0,
+      "successfulPages": 38,
+      "errors": 0,
+      "duration": "1.77s",
+      "speedMetrics": "21.47 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0204",
+      "totalUrlsChecked": 151,
+      "problematicPagesFound": 0,
+      "successfulPages": 150,
+      "errors": 1,
+      "duration": "2.01s",
+      "speedMetrics": "75.12 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0213",
+      "totalUrlsChecked": 102,
+      "problematicPagesFound": 0,
+      "successfulPages": 93,
+      "errors": 9,
+      "duration": "16.37s",
+      "speedMetrics": "6.23 URLs/second"
+    },
+    {
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "totalUrlsChecked": 25,
+      "problematicPagesFound": 10,
+      "successfulPages": 13,
+      "errors": 2,
+      "duration": "8.29s",
+      "speedMetrics": "3.02 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.66s",
+      "speedMetrics": "54.55 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.67s",
+      "speedMetrics": "53.73 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.69s",
+      "speedMetrics": "52.17 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.70s",
+      "speedMetrics": "51.43 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.72s",
+      "speedMetrics": "50.00 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.74s",
+      "speedMetrics": "48.65 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.77s",
+      "speedMetrics": "46.75 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.79s",
+      "speedMetrics": "45.57 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.84s",
+      "speedMetrics": "42.86 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 35,
+      "errors": 0,
+      "duration": "0.96s",
+      "speedMetrics": "37.50 URLs/second"
+    },
+    {
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "totalUrlsChecked": 36,
+      "problematicPagesFound": 1,
+      "successfulPages": 30,
+      "errors": 5,
+      "duration": "8.52s",
+      "speedMetrics": "4.23 URLs/second"
+    },
+    {
+      "brand": "hertog",
+      "assortmentCode": "BF0384",
+      "totalUrlsChecked": 21,
+      "problematicPagesFound": 0,
+      "successfulPages": 21,
+      "errors": 0,
+      "duration": "2.36s",
+      "speedMetrics": "8.90 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0387",
+      "totalUrlsChecked": 78,
+      "problematicPagesFound": 0,
+      "successfulPages": 72,
+      "errors": 6,
+      "duration": "8.26s",
+      "speedMetrics": "9.44 URLs/second"
+    },
+    {
+      "brand": "kissan",
+      "assortmentCode": "BF0423",
+      "totalUrlsChecked": 13,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 2,
+      "duration": "8.10s",
+      "speedMetrics": "1.60 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.44s",
+      "speedMetrics": "102.27 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.46s",
+      "speedMetrics": "97.83 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.47s",
+      "speedMetrics": "95.74 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.48s",
+      "speedMetrics": "93.75 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.49s",
+      "speedMetrics": "91.84 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.51s",
+      "speedMetrics": "88.24 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.53s",
+      "speedMetrics": "84.91 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.55s",
+      "speedMetrics": "81.82 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.56s",
+      "speedMetrics": "80.36 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.57s",
+      "speedMetrics": "78.95 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.59s",
+      "speedMetrics": "76.27 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.60s",
+      "speedMetrics": "75.00 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.62s",
+      "speedMetrics": "72.58 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "0.84s",
+      "speedMetrics": "53.57 URLs/second"
+    },
+    {
+      "brand": "recipedia",
+      "assortmentCode": "BF0426",
+      "totalUrlsChecked": 82,
+      "problematicPagesFound": 0,
+      "successfulPages": 82,
+      "errors": 0,
+      "duration": "7.54s",
+      "speedMetrics": "10.88 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.41s",
+      "speedMetrics": "107.32 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.45s",
+      "speedMetrics": "97.78 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.46s",
+      "speedMetrics": "95.65 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.48s",
+      "speedMetrics": "91.67 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.51s",
+      "speedMetrics": "86.27 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.52s",
+      "speedMetrics": "84.62 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.53s",
+      "speedMetrics": "83.02 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.55s",
+      "speedMetrics": "80.00 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.57s",
+      "speedMetrics": "77.19 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.66s",
+      "speedMetrics": "66.67 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.73s",
+      "speedMetrics": "60.27 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.77s",
+      "speedMetrics": "57.14 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "0.84s",
+      "speedMetrics": "52.38 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "1.18s",
+      "speedMetrics": "37.29 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "4.21s",
+      "speedMetrics": "10.45 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 44,
+      "errors": 0,
+      "duration": "7.87s",
+      "speedMetrics": "5.59 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 1,
+      "duration": "8.19s",
+      "speedMetrics": "5.37 URLs/second"
+    },
+    {
+      "brand": "magnum",
+      "assortmentCode": "BF0543",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 1,
+      "duration": "8.20s",
+      "speedMetrics": "5.37 URLs/second"
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalUrlsChecked": 1,
+      "problematicPagesFound": 0,
+      "successfulPages": 1,
+      "errors": 0,
+      "duration": "0.22s",
+      "speedMetrics": "4.55 URLs/second"
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalUrlsChecked": 1,
+      "problematicPagesFound": 0,
+      "successfulPages": 1,
+      "errors": 0,
+      "duration": "0.28s",
+      "speedMetrics": "3.57 URLs/second"
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalUrlsChecked": 1,
+      "problematicPagesFound": 0,
+      "successfulPages": 1,
+      "errors": 0,
+      "duration": "0.31s",
+      "speedMetrics": "3.23 URLs/second"
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalUrlsChecked": 1,
+      "problematicPagesFound": 0,
+      "successfulPages": 1,
+      "errors": 0,
+      "duration": "0.52s",
+      "speedMetrics": "1.92 URLs/second"
+    },
+    {
+      "brand": "maizena",
+      "assortmentCode": "BF0547",
+      "totalUrlsChecked": 1,
+      "problematicPagesFound": 0,
+      "successfulPages": 1,
+      "errors": 0,
+      "duration": "0.62s",
+      "speedMetrics": "1.61 URLs/second"
+    },
+    {
+      "brand": "marmite",
+      "assortmentCode": "BF0556",
+      "totalUrlsChecked": 10,
+      "problematicPagesFound": 0,
+      "successfulPages": 10,
+      "errors": 0,
+      "duration": "1.60s",
+      "speedMetrics": "6.25 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0588",
+      "totalUrlsChecked": 105,
+      "problematicPagesFound": 0,
+      "successfulPages": 90,
+      "errors": 15,
+      "duration": "16.34s",
+      "speedMetrics": "6.43 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0632",
+      "totalUrlsChecked": 24,
+      "problematicPagesFound": 0,
+      "successfulPages": 24,
+      "errors": 0,
+      "duration": "0.42s",
+      "speedMetrics": "57.14 URLs/second"
+    },
+    {
+      "brand": "lipton",
+      "assortmentCode": "BF0648",
+      "totalUrlsChecked": 54,
+      "problematicPagesFound": 0,
+      "successfulPages": 54,
+      "errors": 0,
+      "duration": "0.71s",
+      "speedMetrics": "76.06 URLs/second"
+    },
+    {
+      "brand": "lipton",
+      "assortmentCode": "BF0648",
+      "totalUrlsChecked": 54,
+      "problematicPagesFound": 0,
+      "successfulPages": 54,
+      "errors": 0,
+      "duration": "0.75s",
+      "speedMetrics": "72.00 URLs/second"
+    },
+    {
+      "brand": "lipton",
+      "assortmentCode": "BF0648",
+      "totalUrlsChecked": 54,
+      "problematicPagesFound": 0,
+      "successfulPages": 54,
+      "errors": 0,
+      "duration": "1.46s",
+      "speedMetrics": "36.99 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0678",
+      "totalUrlsChecked": 49,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 27,
+      "duration": "8.37s",
+      "speedMetrics": "5.85 URLs/second"
+    },
+    {
+      "brand": "potnoodle",
+      "assortmentCode": "BF0688",
+      "totalUrlsChecked": 26,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 4,
+      "duration": "4.13s",
+      "speedMetrics": "6.30 URLs/second"
+    },
+    {
+      "brand": "knorr",
+      "assortmentCode": "BF0735",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "1.39s",
+      "speedMetrics": "15.83 URLs/second"
+    },
+    {
+      "brand": "whatsfordinner",
+      "assortmentCode": "BF0735",
+      "totalUrlsChecked": 170,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 170,
+      "duration": "18.84s",
+      "speedMetrics": "9.02 URLs/second"
+    },
+    {
+      "brand": "tehsariwangi",
+      "assortmentCode": "BF0755",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "1.61s",
+      "speedMetrics": "4.35 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0765",
+      "totalUrlsChecked": 92,
+      "problematicPagesFound": 0,
+      "successfulPages": 84,
+      "errors": 8,
+      "duration": "8.61s",
+      "speedMetrics": "10.69 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "totalUrlsChecked": 65,
+      "problematicPagesFound": 0,
+      "successfulPages": 65,
+      "errors": 0,
+      "duration": "0.91s",
+      "speedMetrics": "71.43 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0802",
+      "totalUrlsChecked": 65,
+      "problematicPagesFound": 0,
+      "successfulPages": 65,
+      "errors": 0,
+      "duration": "0.92s",
+      "speedMetrics": "70.65 URLs/second"
+    },
+    {
+      "brand": "unox",
+      "assortmentCode": "BF0842",
+      "totalUrlsChecked": 112,
+      "problematicPagesFound": 0,
+      "successfulPages": 112,
+      "errors": 0,
+      "duration": "1.58s",
+      "speedMetrics": "70.89 URLs/second"
+    },
+    {
+      "brand": "nakmakanapa",
+      "assortmentCode": "BF0870",
+      "totalUrlsChecked": 46,
+      "problematicPagesFound": 0,
+      "successfulPages": 41,
+      "errors": 5,
+      "duration": "8.24s",
+      "speedMetrics": "5.58 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalUrlsChecked": 84,
+      "problematicPagesFound": 0,
+      "successfulPages": 84,
+      "errors": 0,
+      "duration": "1.01s",
+      "speedMetrics": "83.17 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalUrlsChecked": 84,
+      "problematicPagesFound": 0,
+      "successfulPages": 84,
+      "errors": 0,
+      "duration": "1.09s",
+      "speedMetrics": "77.06 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalUrlsChecked": 84,
+      "problematicPagesFound": 0,
+      "successfulPages": 84,
+      "errors": 0,
+      "duration": "1.14s",
+      "speedMetrics": "73.68 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF0870",
+      "totalUrlsChecked": 84,
+      "problematicPagesFound": 0,
+      "successfulPages": 23,
+      "errors": 61,
+      "duration": "17.08s",
+      "speedMetrics": "4.92 URLs/second"
+    },
+    {
+      "brand": "bango",
+      "assortmentCode": "BF0917",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.75s",
+      "speedMetrics": "9.33 URLs/second"
+    },
+    {
+      "brand": "buavita",
+      "assortmentCode": "BF1010",
+      "totalUrlsChecked": 19,
+      "problematicPagesFound": 0,
+      "successfulPages": 19,
+      "errors": 0,
+      "duration": "1.01s",
+      "speedMetrics": "18.81 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalUrlsChecked": 47,
+      "problematicPagesFound": 0,
+      "successfulPages": 47,
+      "errors": 0,
+      "duration": "0.66s",
+      "speedMetrics": "71.21 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalUrlsChecked": 47,
+      "problematicPagesFound": 0,
+      "successfulPages": 47,
+      "errors": 0,
+      "duration": "0.70s",
+      "speedMetrics": "67.14 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalUrlsChecked": 47,
+      "problematicPagesFound": 0,
+      "successfulPages": 47,
+      "errors": 0,
+      "duration": "0.72s",
+      "speedMetrics": "65.28 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalUrlsChecked": 47,
+      "problematicPagesFound": 0,
+      "successfulPages": 47,
+      "errors": 0,
+      "duration": "0.77s",
+      "speedMetrics": "61.04 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "totalUrlsChecked": 47,
+      "problematicPagesFound": 0,
+      "successfulPages": 47,
+      "errors": 0,
+      "duration": "0.79s",
+      "speedMetrics": "59.49 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BF1055",
+      "totalUrlsChecked": 104,
+      "problematicPagesFound": 5,
+      "successfulPages": 19,
+      "errors": 80,
+      "duration": "16.34s",
+      "speedMetrics": "6.36 URLs/second"
+    },
+    {
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "big-milk",
+      "assortmentCode": "BF2003",
+      "totalUrlsChecked": 34,
+      "problematicPagesFound": 11,
+      "successfulPages": 21,
+      "errors": 2,
+      "duration": "8.16s",
+      "speedMetrics": "4.17 URLs/second"
+    },
+    {
+      "brand": "grom",
+      "assortmentCode": "BF2050",
+      "totalUrlsChecked": 70,
+      "problematicPagesFound": 0,
+      "successfulPages": 69,
+      "errors": 1,
+      "duration": "8.18s",
+      "speedMetrics": "8.56 URLs/second"
+    },
+    {
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "totalUrlsChecked": 168,
+      "problematicPagesFound": 57,
+      "successfulPages": 111,
+      "errors": 0,
+      "duration": "12.13s",
+      "speedMetrics": "13.85 URLs/second"
+    },
+    {
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "totalUrlsChecked": 168,
+      "problematicPagesFound": 57,
+      "successfulPages": 110,
+      "errors": 1,
+      "duration": "9.53s",
+      "speedMetrics": "17.63 URLs/second"
+    },
+    {
+      "brand": "mae-terra",
+      "assortmentCode": "BF8834",
+      "totalUrlsChecked": 27,
+      "problematicPagesFound": 0,
+      "successfulPages": 27,
+      "errors": 0,
+      "duration": "0.45s",
+      "speedMetrics": "60.00 URLs/second"
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 29,
+      "errors": 15,
+      "duration": "0.40s",
+      "speedMetrics": "110.00 URLs/second"
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 33,
+      "errors": 11,
+      "duration": "0.50s",
+      "speedMetrics": "88.00 URLs/second"
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 33,
+      "errors": 11,
+      "duration": "6.36s",
+      "speedMetrics": "6.92 URLs/second"
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 26,
+      "errors": 18,
+      "duration": "8.18s",
+      "speedMetrics": "5.38 URLs/second"
+    },
+    {
+      "brand": "the-vegetarian-butcher",
+      "assortmentCode": "BFA077",
+      "totalUrlsChecked": 44,
+      "problematicPagesFound": 0,
+      "successfulPages": 28,
+      "errors": 16,
+      "duration": "8.24s",
+      "speedMetrics": "5.34 URLs/second"
+    },
+    {
+      "brand": "whatsfordinner",
+      "assortmentCode": "BFA317",
+      "totalUrlsChecked": 208,
+      "problematicPagesFound": 0,
+      "successfulPages": 112,
+      "errors": 96,
+      "duration": "11.54s",
+      "speedMetrics": "18.02 URLs/second"
+    },
+    {
+      "brand": "masakapahariini",
+      "assortmentCode": "BFA335",
+      "totalUrlsChecked": 99,
+      "problematicPagesFound": 0,
+      "successfulPages": 18,
+      "errors": 81,
+      "duration": "17.37s",
+      "speedMetrics": "5.70 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BFQ742",
+      "totalUrlsChecked": 62,
+      "problematicPagesFound": 0,
+      "successfulPages": 62,
+      "errors": 0,
+      "duration": "1.14s",
+      "speedMetrics": "54.39 URLs/second"
+    },
+    {
+      "brand": "walls",
+      "assortmentCode": "BFQ742",
+      "totalUrlsChecked": 62,
+      "problematicPagesFound": 0,
+      "successfulPages": 58,
+      "errors": 4,
+      "duration": "8.33s",
+      "speedMetrics": "7.44 URLs/second"
+    },
+    {
+      "brand": "namdong",
+      "assortmentCode": "BFR099",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 3,
+      "errors": 3,
+      "duration": "0.91s",
+      "speedMetrics": "6.59 URLs/second"
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0013",
+      "totalUrlsChecked": 50,
+      "problematicPagesFound": 0,
+      "successfulPages": 50,
+      "errors": 0,
+      "duration": "2.93s",
+      "speedMetrics": "17.06 URLs/second"
+    },
+    {
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "andrelon",
+      "assortmentCode": "BH0027",
+      "totalUrlsChecked": 81,
+      "problematicPagesFound": 28,
+      "successfulPages": 49,
+      "errors": 4,
+      "duration": "8.69s",
+      "speedMetrics": "9.32 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.21s",
+      "speedMetrics": "28.57 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.22s",
+      "speedMetrics": "27.27 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.26s",
+      "speedMetrics": "23.08 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.28s",
+      "speedMetrics": "21.43 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.29s",
+      "speedMetrics": "20.69 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.32s",
+      "speedMetrics": "18.75 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.33s",
+      "speedMetrics": "18.18 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.38s",
+      "speedMetrics": "15.79 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.41s",
+      "speedMetrics": "14.63 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.45s",
+      "speedMetrics": "13.33 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.47s",
+      "speedMetrics": "12.77 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0045",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "0.57s",
+      "speedMetrics": "10.53 URLs/second"
+    },
+    {
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "baba",
+      "assortmentCode": "BH0048",
+      "totalUrlsChecked": 62,
+      "problematicPagesFound": 4,
+      "successfulPages": 34,
+      "errors": 24,
+      "duration": "8.23s",
+      "speedMetrics": "7.53 URLs/second"
+    },
+    {
+      "brand": "citra",
+      "assortmentCode": "BH0110",
+      "totalUrlsChecked": 20,
+      "problematicPagesFound": 0,
+      "successfulPages": 19,
+      "errors": 1,
+      "duration": "2.20s",
+      "speedMetrics": "9.09 URLs/second"
+    },
+    {
+      "brand": "citra",
+      "assortmentCode": "BH0110",
+      "totalUrlsChecked": 20,
+      "problematicPagesFound": 0,
+      "successfulPages": 18,
+      "errors": 2,
+      "duration": "8.09s",
+      "speedMetrics": "2.47 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.23s",
+      "speedMetrics": "47.83 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.27s",
+      "speedMetrics": "40.74 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.28s",
+      "speedMetrics": "39.29 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.31s",
+      "speedMetrics": "35.48 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.33s",
+      "speedMetrics": "33.33 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.34s",
+      "speedMetrics": "32.35 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.48s",
+      "speedMetrics": "22.92 URLs/second"
+    },
+    {
+      "brand": "clear",
+      "assortmentCode": "BH0117",
+      "totalUrlsChecked": 11,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 0,
+      "duration": "0.59s",
+      "speedMetrics": "18.64 URLs/second"
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 1,
+      "duration": "0.24s",
+      "speedMetrics": "29.17 URLs/second"
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.26s",
+      "speedMetrics": "26.92 URLs/second"
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.37s",
+      "speedMetrics": "18.92 URLs/second"
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 1,
+      "duration": "0.41s",
+      "speedMetrics": "17.07 URLs/second"
+    },
+    {
+      "brand": "close-up",
+      "assortmentCode": "BH0118",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.55s",
+      "speedMetrics": "12.73 URLs/second"
+    },
+    {
+      "brand": "cream-silk",
+      "assortmentCode": "BH0128",
+      "totalUrlsChecked": 19,
+      "problematicPagesFound": 0,
+      "successfulPages": 11,
+      "errors": 8,
+      "duration": "8.24s",
+      "speedMetrics": "2.31 URLs/second"
+    },
+    {
+      "brand": "dawn",
+      "assortmentCode": "BH0141",
+      "totalUrlsChecked": 30,
+      "problematicPagesFound": 0,
+      "successfulPages": 30,
+      "errors": 0,
+      "duration": "6.04s",
+      "speedMetrics": "4.97 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0143",
+      "totalUrlsChecked": 104,
+      "problematicPagesFound": 0,
+      "successfulPages": 62,
+      "errors": 42,
+      "duration": "14.65s",
+      "speedMetrics": "7.10 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0143",
+      "totalUrlsChecked": 104,
+      "problematicPagesFound": 0,
+      "successfulPages": 103,
+      "errors": 1,
+      "duration": "8.93s",
+      "speedMetrics": "11.65 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.02s",
+      "speedMetrics": "67.65 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.03s",
+      "speedMetrics": "66.99 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.05s",
+      "speedMetrics": "65.71 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.06s",
+      "speedMetrics": "65.09 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.07s",
+      "speedMetrics": "64.49 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.08s",
+      "speedMetrics": "63.89 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.11s",
+      "speedMetrics": "62.16 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.12s",
+      "speedMetrics": "61.61 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.13s",
+      "speedMetrics": "61.06 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.14s",
+      "speedMetrics": "60.53 URLs/second"
+    },
+    {
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "totalUrlsChecked": 69,
+      "problematicPagesFound": 1,
+      "successfulPages": 68,
+      "errors": 0,
+      "duration": "1.48s",
+      "speedMetrics": "46.62 URLs/second"
+    },
+    {
+      "brand": "ego",
+      "assortmentCode": "BH0173",
+      "totalUrlsChecked": 34,
+      "problematicPagesFound": 0,
+      "successfulPages": 34,
+      "errors": 0,
+      "duration": "1.69s",
+      "speedMetrics": "20.12 URLs/second"
+    },
+    {
+      "brand": "egoco",
+      "assortmentCode": "BH0173",
+      "totalUrlsChecked": 9,
+      "problematicPagesFound": 0,
+      "successfulPages": 9,
+      "errors": 0,
+      "duration": "0.18s",
+      "speedMetrics": "50.00 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 14,
+      "successfulPages": 31,
+      "errors": 0,
+      "duration": "0.70s",
+      "speedMetrics": "64.29 URLs/second"
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalUrlsChecked": 70,
+      "problematicPagesFound": 14,
+      "successfulPages": 56,
+      "errors": 0,
+      "duration": "1.15s",
+      "speedMetrics": "60.87 URLs/second"
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalUrlsChecked": 70,
+      "problematicPagesFound": 14,
+      "successfulPages": 56,
+      "errors": 0,
+      "duration": "1.16s",
+      "speedMetrics": "60.34 URLs/second"
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalUrlsChecked": 70,
+      "problematicPagesFound": 14,
+      "successfulPages": 56,
+      "errors": 0,
+      "duration": "1.75s",
+      "speedMetrics": "40.00 URLs/second"
+    },
+    {
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "totalUrlsChecked": 70,
+      "problematicPagesFound": 14,
+      "successfulPages": 56,
+      "errors": 0,
+      "duration": "3.24s",
+      "speedMetrics": "21.60 URLs/second"
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.24s",
+      "speedMetrics": "62.50 URLs/second"
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.29s",
+      "speedMetrics": "51.72 URLs/second"
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.31s",
+      "speedMetrics": "48.39 URLs/second"
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.32s",
+      "speedMetrics": "46.88 URLs/second"
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.43s",
+      "speedMetrics": "34.88 URLs/second"
+    },
+    {
+      "brand": "luxglobal",
+      "assortmentCode": "BH0307",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.85s",
+      "speedMetrics": "17.65 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0322",
+      "totalUrlsChecked": 62,
+      "problematicPagesFound": 0,
+      "successfulPages": 58,
+      "errors": 4,
+      "duration": "8.39s",
+      "speedMetrics": "7.39 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0360",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 0,
+      "successfulPages": 45,
+      "errors": 0,
+      "duration": "8.63s",
+      "speedMetrics": "5.21 URLs/second"
+    },
+    {
+      "brand": "pears",
+      "assortmentCode": "BH0368",
+      "totalUrlsChecked": 26,
+      "problematicPagesFound": 0,
+      "successfulPages": 26,
+      "errors": 0,
+      "duration": "1.35s",
+      "speedMetrics": "19.26 URLs/second"
+    },
+    {
+      "brand": "pears",
+      "assortmentCode": "BH0368",
+      "totalUrlsChecked": 26,
+      "problematicPagesFound": 0,
+      "successfulPages": 26,
+      "errors": 0,
+      "duration": "1.71s",
+      "speedMetrics": "15.20 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalUrlsChecked": 24,
+      "problematicPagesFound": 0,
+      "successfulPages": 24,
+      "errors": 0,
+      "duration": "0.40s",
+      "speedMetrics": "60.00 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalUrlsChecked": 24,
+      "problematicPagesFound": 0,
+      "successfulPages": 24,
+      "errors": 0,
+      "duration": "0.49s",
+      "speedMetrics": "48.98 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalUrlsChecked": 24,
+      "problematicPagesFound": 0,
+      "successfulPages": 24,
+      "errors": 0,
+      "duration": "0.50s",
+      "speedMetrics": "48.00 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0370",
+      "totalUrlsChecked": 24,
+      "problematicPagesFound": 0,
+      "successfulPages": 23,
+      "errors": 1,
+      "duration": "8.37s",
+      "speedMetrics": "2.87 URLs/second"
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 17,
+      "errors": 0,
+      "duration": "0.31s",
+      "speedMetrics": "54.84 URLs/second"
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 17,
+      "errors": 0,
+      "duration": "0.33s",
+      "speedMetrics": "51.52 URLs/second"
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 17,
+      "errors": 0,
+      "duration": "0.35s",
+      "speedMetrics": "48.57 URLs/second"
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 17,
+      "errors": 0,
+      "duration": "0.44s",
+      "speedMetrics": "38.64 URLs/second"
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 17,
+      "errors": 0,
+      "duration": "0.50s",
+      "speedMetrics": "34.00 URLs/second"
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 17,
+      "errors": 0,
+      "duration": "0.58s",
+      "speedMetrics": "29.31 URLs/second"
+    },
+    {
+      "brand": "ponds",
+      "assortmentCode": "BH0381",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 17,
+      "errors": 0,
+      "duration": "0.68s",
+      "speedMetrics": "25.00 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.40s",
+      "speedMetrics": "107.50 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.41s",
+      "speedMetrics": "104.88 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.42s",
+      "speedMetrics": "102.38 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.43s",
+      "speedMetrics": "100.00 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.49s",
+      "speedMetrics": "87.76 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.51s",
+      "speedMetrics": "84.31 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.52s",
+      "speedMetrics": "82.69 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.59s",
+      "speedMetrics": "72.88 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.62s",
+      "speedMetrics": "69.35 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "0.68s",
+      "speedMetrics": "63.24 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 39,
+      "errors": 4,
+      "duration": "0.71s",
+      "speedMetrics": "60.56 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "totalUrlsChecked": 43,
+      "problematicPagesFound": 0,
+      "successfulPages": 43,
+      "errors": 0,
+      "duration": "5.82s",
+      "speedMetrics": "7.39 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "totalUrlsChecked": 113,
+      "problematicPagesFound": 6,
+      "successfulPages": 83,
+      "errors": 24,
+      "duration": "16.48s",
+      "speedMetrics": "6.86 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0433",
+      "totalUrlsChecked": 50,
+      "problematicPagesFound": 0,
+      "successfulPages": 48,
+      "errors": 2,
+      "duration": "8.24s",
+      "speedMetrics": "6.07 URLs/second"
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0437",
+      "totalUrlsChecked": 60,
+      "problematicPagesFound": 0,
+      "successfulPages": 60,
+      "errors": 0,
+      "duration": "1.21s",
+      "speedMetrics": "49.59 URLs/second"
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0437",
+      "totalUrlsChecked": 60,
+      "problematicPagesFound": 0,
+      "successfulPages": 39,
+      "errors": 21,
+      "duration": "9.14s",
+      "speedMetrics": "6.56 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0437",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.43s",
+      "speedMetrics": "34.88 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0437",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.44s",
+      "speedMetrics": "34.09 URLs/second"
+    },
+    {
+      "brand": "smile",
+      "assortmentCode": "BH0437",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "0.71s",
+      "speedMetrics": "21.13 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalUrlsChecked": 8,
+      "problematicPagesFound": 0,
+      "successfulPages": 8,
+      "errors": 0,
+      "duration": "0.36s",
+      "speedMetrics": "22.22 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalUrlsChecked": 8,
+      "problematicPagesFound": 0,
+      "successfulPages": 8,
+      "errors": 0,
+      "duration": "0.39s",
+      "speedMetrics": "20.51 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalUrlsChecked": 8,
+      "problematicPagesFound": 0,
+      "successfulPages": 8,
+      "errors": 0,
+      "duration": "0.40s",
+      "speedMetrics": "20.00 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalUrlsChecked": 8,
+      "problematicPagesFound": 0,
+      "successfulPages": 8,
+      "errors": 0,
+      "duration": "0.60s",
+      "speedMetrics": "13.33 URLs/second"
+    },
+    {
+      "brand": "sunsilk",
+      "assortmentCode": "BH0468",
+      "totalUrlsChecked": 8,
+      "problematicPagesFound": 0,
+      "successfulPages": 8,
+      "errors": 0,
+      "duration": "2.05s",
+      "speedMetrics": "3.90 URLs/second"
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "0.52s",
+      "speedMetrics": "42.31 URLs/second"
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "0.56s",
+      "speedMetrics": "39.29 URLs/second"
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "0.58s",
+      "speedMetrics": "37.93 URLs/second"
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "0.60s",
+      "speedMetrics": "36.67 URLs/second"
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "0.83s",
+      "speedMetrics": "26.51 URLs/second"
+    },
+    {
+      "brand": "vaseline",
+      "assortmentCode": "BH0499",
+      "totalUrlsChecked": 22,
+      "problematicPagesFound": 0,
+      "successfulPages": 22,
+      "errors": 0,
+      "duration": "0.91s",
+      "speedMetrics": "24.18 URLs/second"
+    },
+    {
+      "brand": "mondamin",
+      "assortmentCode": "BH0604",
+      "totalUrlsChecked": 4,
+      "problematicPagesFound": 0,
+      "successfulPages": 4,
+      "errors": 0,
+      "duration": "0.54s",
+      "speedMetrics": "7.41 URLs/second"
+    },
+    {
+      "brand": "neutral",
+      "assortmentCode": "BH0869",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "neutral",
+      "assortmentCode": "BH0869",
+      "totalUrlsChecked": 30,
+      "problematicPagesFound": 2,
+      "successfulPages": 28,
+      "errors": 0,
+      "duration": "0.54s",
+      "speedMetrics": "55.56 URLs/second"
+    },
+    {
+      "brand": "zendium-master",
+      "assortmentCode": "BH0871",
+      "totalUrlsChecked": 9,
+      "problematicPagesFound": 0,
+      "successfulPages": 9,
+      "errors": 0,
+      "duration": "1.14s",
+      "speedMetrics": "7.89 URLs/second"
+    },
+    {
+      "brand": "radox",
+      "assortmentCode": "BH0873",
+      "totalUrlsChecked": 38,
+      "problematicPagesFound": 0,
+      "successfulPages": 35,
+      "errors": 3,
+      "duration": "8.22s",
+      "speedMetrics": "4.62 URLs/second"
+    },
+    {
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "totalUrlsChecked": 20,
+      "problematicPagesFound": 4,
+      "successfulPages": 16,
+      "errors": 0,
+      "duration": "1.17s",
+      "speedMetrics": "17.09 URLs/second"
+    },
+    {
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 14,
+      "successfulPages": 31,
+      "errors": 0,
+      "duration": "0.58s",
+      "speedMetrics": "77.59 URLs/second"
+    },
+    {
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "totalUrlsChecked": 45,
+      "problematicPagesFound": 14,
+      "successfulPages": 31,
+      "errors": 0,
+      "duration": "5.57s",
+      "speedMetrics": "8.08 URLs/second"
+    },
+    {
+      "brand": "signal",
+      "assortmentCode": "BH0880",
+      "totalUrlsChecked": 15,
+      "problematicPagesFound": 0,
+      "successfulPages": 15,
+      "errors": 0,
+      "duration": "9.97s",
+      "speedMetrics": "1.50 URLs/second"
+    },
+    {
+      "brand": "zwitsal",
+      "assortmentCode": "BH0884",
+      "totalUrlsChecked": 19,
+      "problematicPagesFound": 0,
+      "successfulPages": 19,
+      "errors": 0,
+      "duration": "1.41s",
+      "speedMetrics": "13.48 URLs/second"
+    },
+    {
+      "brand": "axe",
+      "assortmentCode": "BH0977",
+      "totalUrlsChecked": 64,
+      "problematicPagesFound": 0,
+      "successfulPages": 57,
+      "errors": 7,
+      "duration": "8.20s",
+      "speedMetrics": "7.80 URLs/second"
+    },
+    {
+      "brand": "rexona",
+      "assortmentCode": "BH0978",
+      "totalUrlsChecked": 139,
+      "problematicPagesFound": 0,
+      "successfulPages": 139,
+      "errors": 0,
+      "duration": "4.76s",
+      "speedMetrics": "29.20 URLs/second"
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalUrlsChecked": 12,
+      "problematicPagesFound": 0,
+      "successfulPages": 12,
+      "errors": 0,
+      "duration": "0.31s",
+      "speedMetrics": "38.71 URLs/second"
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalUrlsChecked": 12,
+      "problematicPagesFound": 0,
+      "successfulPages": 12,
+      "errors": 0,
+      "duration": "0.42s",
+      "speedMetrics": "28.57 URLs/second"
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalUrlsChecked": 12,
+      "problematicPagesFound": 0,
+      "successfulPages": 12,
+      "errors": 0,
+      "duration": "0.49s",
+      "speedMetrics": "24.49 URLs/second"
+    },
+    {
+      "brand": "nexxus",
+      "assortmentCode": "BH0990",
+      "totalUrlsChecked": 12,
+      "problematicPagesFound": 0,
+      "successfulPages": 12,
+      "errors": 0,
+      "duration": "0.54s",
+      "speedMetrics": "22.22 URLs/second"
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.24s",
+      "speedMetrics": "29.17 URLs/second"
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.25s",
+      "speedMetrics": "28.00 URLs/second"
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.27s",
+      "speedMetrics": "25.93 URLs/second"
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.36s",
+      "speedMetrics": "19.44 URLs/second"
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.51s",
+      "speedMetrics": "13.73 URLs/second"
+    },
+    {
+      "brand": "simple",
+      "assortmentCode": "BH0992",
+      "totalUrlsChecked": 7,
+      "problematicPagesFound": 0,
+      "successfulPages": 7,
+      "errors": 0,
+      "duration": "0.67s",
+      "speedMetrics": "10.45 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.26s",
+      "speedMetrics": "60.32 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.28s",
+      "speedMetrics": "59.38 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.29s",
+      "speedMetrics": "58.91 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.31s",
+      "speedMetrics": "58.02 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.32s",
+      "speedMetrics": "57.58 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.34s",
+      "speedMetrics": "56.72 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.35s",
+      "speedMetrics": "56.30 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.38s",
+      "speedMetrics": "55.07 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.39s",
+      "speedMetrics": "54.68 URLs/second"
+    },
+    {
+      "brand": "tresemme",
+      "assortmentCode": "BH0996",
+      "totalUrlsChecked": 76,
+      "problematicPagesFound": 0,
+      "successfulPages": 76,
+      "errors": 0,
+      "duration": "1.52s",
+      "speedMetrics": "50.00 URLs/second"
+    },
+    {
+      "brand": "folicure",
+      "assortmentCode": "BH1005",
+      "totalUrlsChecked": 6,
+      "problematicPagesFound": 0,
+      "successfulPages": 6,
+      "errors": 0,
+      "duration": "1.40s",
+      "speedMetrics": "4.29 URLs/second"
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalUrlsChecked": 3,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 3,
+      "duration": "0.25s",
+      "speedMetrics": "12.00 URLs/second"
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalUrlsChecked": 3,
+      "problematicPagesFound": 0,
+      "successfulPages": 3,
+      "errors": 0,
+      "duration": "0.31s",
+      "speedMetrics": "9.68 URLs/second"
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalUrlsChecked": 3,
+      "problematicPagesFound": 0,
+      "successfulPages": 3,
+      "errors": 0,
+      "duration": "0.61s",
+      "speedMetrics": "4.92 URLs/second"
+    },
+    {
+      "brand": "regenerate",
+      "assortmentCode": "BH1047",
+      "totalUrlsChecked": 3,
+      "problematicPagesFound": 0,
+      "successfulPages": 3,
+      "errors": 0,
+      "duration": "0.66s",
+      "speedMetrics": "4.55 URLs/second"
+    },
+    {
+      "brand": "zest",
+      "assortmentCode": "BH1081",
+      "totalUrlsChecked": 17,
+      "problematicPagesFound": 0,
+      "successfulPages": 14,
+      "errors": 3,
+      "duration": "8.10s",
+      "speedMetrics": "2.10 URLs/second"
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalUrlsChecked": 41,
+      "problematicPagesFound": 0,
+      "successfulPages": 41,
+      "errors": 0,
+      "duration": "0.51s",
+      "speedMetrics": "80.39 URLs/second"
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalUrlsChecked": 41,
+      "problematicPagesFound": 0,
+      "successfulPages": 41,
+      "errors": 0,
+      "duration": "0.57s",
+      "speedMetrics": "71.93 URLs/second"
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalUrlsChecked": 41,
+      "problematicPagesFound": 0,
+      "successfulPages": 41,
+      "errors": 0,
+      "duration": "0.81s",
+      "speedMetrics": "50.62 URLs/second"
+    },
+    {
+      "brand": "allthingshair",
+      "assortmentCode": "BH8386",
+      "totalUrlsChecked": 41,
+      "problematicPagesFound": 0,
+      "successfulPages": 41,
+      "errors": 0,
+      "duration": "1.37s",
+      "speedMetrics": "29.93 URLs/second"
+    },
+    {
+      "brand": "savile",
+      "assortmentCode": "BH8800",
+      "totalUrlsChecked": 50,
+      "problematicPagesFound": 0,
+      "successfulPages": 46,
+      "errors": 4,
+      "duration": "7.96s",
+      "speedMetrics": "6.28 URLs/second"
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalUrlsChecked": 32,
+      "problematicPagesFound": 0,
+      "successfulPages": 31,
+      "errors": 1,
+      "duration": "0.48s",
+      "speedMetrics": "66.67 URLs/second"
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalUrlsChecked": 32,
+      "problematicPagesFound": 0,
+      "successfulPages": 31,
+      "errors": 1,
+      "duration": "0.52s",
+      "speedMetrics": "61.54 URLs/second"
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalUrlsChecked": 32,
+      "problematicPagesFound": 0,
+      "successfulPages": 31,
+      "errors": 1,
+      "duration": "0.62s",
+      "speedMetrics": "51.61 URLs/second"
+    },
+    {
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "totalUrlsChecked": 32,
+      "problematicPagesFound": 0,
+      "successfulPages": 32,
+      "errors": 0,
+      "duration": "0.88s",
+      "speedMetrics": "36.36 URLs/second"
+    },
+    {
+      "brand": "fluocaril",
+      "assortmentCode": "BHA122",
+      "totalUrlsChecked": 20,
+      "problematicPagesFound": 0,
+      "successfulPages": 20,
+      "errors": 0,
+      "duration": "0.55s",
+      "speedMetrics": "36.36 URLs/second"
+    },
+    {
+      "brand": "parogencyl",
+      "assortmentCode": "BHA123",
+      "totalUrlsChecked": 14,
+      "problematicPagesFound": 0,
+      "successfulPages": 14,
+      "errors": 0,
+      "duration": "1.25s",
+      "speedMetrics": "11.20 URLs/second"
+    },
+    {
+      "brand": "liquid",
+      "assortmentCode": "BHA361",
+      "totalUrlsChecked": 3,
+      "problematicPagesFound": 0,
+      "successfulPages": 3,
+      "errors": 0,
+      "duration": "0.36s",
+      "speedMetrics": "8.33 URLs/second"
+    },
+    {
+      "brand": "allthingsbeauty",
+      "assortmentCode": "ID",
+      "totalUrlsChecked": 470,
+      "problematicPagesFound": 0,
+      "successfulPages": 361,
+      "errors": 109,
+      "duration": "49.26s",
+      "speedMetrics": "9.54 URLs/second"
+    },
+    {
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "totalUrlsChecked": 0,
+      "problematicPagesFound": 0,
+      "successfulPages": 0,
+      "errors": 0,
+      "duration": null,
+      "speedMetrics": null
+    },
+    {
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "totalUrlsChecked": 226,
+      "problematicPagesFound": 35,
+      "successfulPages": 179,
+      "errors": 12,
+      "duration": "2.30s",
+      "speedMetrics": "98.26 URLs/second"
+    }
+  ]
+}

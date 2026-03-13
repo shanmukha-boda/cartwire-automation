@@ -1,0 +1,42 @@
+{
+  "worker": 4,
+  "timestamp": "23039929133-23-1",
+  "processedBrands": [
+    "magnum",
+    "nexxus",
+    "dove",
+    "dove",
+    "walls",
+    "ponds",
+    "tresemme",
+    "knorr",
+    "rexona",
+    "hellmanns",
+    "axe",
+    "close-up",
+    "smile",
+    "citra",
+    "zest",
+    "pears"
+  ],
+  "filesProcessed": [
+    "pdpCheckResults_ALL_PROBLEMATIC_23039929133-23-1_worker4.json",
+    "pdpCheckResults_PROBLEMATIC_dove_BH0162_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_PROBLEMATIC_hellmanns_BF0380_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_axe_BH0045_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_citra_BH0110_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_close-up_BH0118_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_dove_BH0162_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_hellmanns_BF0380_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_knorr_BF0426_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_magnum_BF0543_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_nexxus_BH0990_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_pears_BH0368_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_ponds_BH0381_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_rexona_BH0413_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_smile_BH0437_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_tresemme_BH0996_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_walls_BF1023_1_23039929133-23-1_worker4.json",
+    "pdpCheckResults_zest_BH1081_1_23039929133-23-1_worker4.json"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-03-13T06:58:52.737Z",
+  "brand": "regenerate",
+  "assortmentCode": "BH1047",
+  "feedUrl": "https://www.regeneratenr5.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 3,
+  "problematicPagesFound": 0,
+  "successfulPages": [],
+  "errors": 3,
+  "duration": "0.25s",
+  "speedMetrics": "12.00 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.regeneratenr5.co.uk/p/advanced-foaming-mouthwash.html/08710447492130",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T06:58:52.737Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.regeneratenr5.co.uk/p/advanced-toothpaste.html/08712561170277",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T06:58:52.733Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.regeneratenr5.co.uk/p/toothbrush.html/08720181065415",
+      "error": "HTTP Error: 403 Forbidden",
+      "checkedAt": "2026-03-13T06:58:52.735Z"
+    }
+  ]
+}

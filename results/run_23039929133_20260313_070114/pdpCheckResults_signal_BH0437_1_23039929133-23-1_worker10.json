@@ -1,0 +1,375 @@
+{
+  "generatedAt": "2026-03-13T06:59:02.479Z",
+  "brand": "signal",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal.be/nl/home.productfeed.json",
+  "totalUrlsChecked": 60,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-classic-fresh-hard.html/00000054024786",
+      "gtin": "00000054024786",
+      "checkedAt": "2026-03-13T06:59:02.387Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandpasta-bescherming-tegen-cari%C3%ABs.html/03014230002076",
+      "gtin": "03014230002076",
+      "checkedAt": "2026-03-13T06:59:02.320Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/caries-protection-fluor-&-calcium-100ml.html/03014230002090",
+      "gtin": "03014230002090",
+      "checkedAt": "2026-03-13T06:59:02.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-white-now-soft.html/08000630041574",
+      "gtin": "08000630041574",
+      "checkedAt": "2026-03-13T06:59:02.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-classic-fresh-medium.html/08413300264270",
+      "gtin": "08413300264270",
+      "checkedAt": "2026-03-13T06:59:02.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-elements-tandpasta-herbal.html/08710447328088",
+      "gtin": "08710447328088",
+      "checkedAt": "2026-03-13T06:59:02.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-elements-tandpasta-kokos.html/08710447328095",
+      "gtin": "08710447328095",
+      "checkedAt": "2026-03-13T06:59:02.349Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-elements-charcoal-75ml.html/08710522417379",
+      "gtin": "08710522417379",
+      "checkedAt": "2026-03-13T06:59:02.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-white-system-2-pack-1-x-medium.html/08710522712108",
+      "gtin": "08710522712108",
+      "checkedAt": "2026-03-13T06:59:02.353Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-white-now-detox-coconut-75ml.html/08710604754224",
+      "gtin": "08710604754224",
+      "checkedAt": "2026-03-13T06:59:02.407Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-white-now-detox-charcoal-75ml.html/08710604754231",
+      "gtin": "08710604754231",
+      "checkedAt": "2026-03-13T06:59:02.374Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-el%C3%A9ments-baking-soda-75ml.html/08710604781879",
+      "gtin": "08710604781879",
+      "checkedAt": "2026-03-13T06:59:02.349Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-white-system-1-x-medium.html/08718114198903",
+      "gtin": "08718114198903",
+      "checkedAt": "2026-03-13T06:59:02.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-nature-el%C3%A9ments-chamomile-75ml.html/08720181230585",
+      "gtin": "08720181230585",
+      "checkedAt": "2026-03-13T06:59:02.356Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-anti-plaque-4-pack-(medium).html/08720181236310",
+      "gtin": "08720181236310",
+      "checkedAt": "2026-03-13T06:59:02.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-pure-breath-75ml.html/08720181242397",
+      "gtin": "08720181242397",
+      "checkedAt": "2026-03-13T06:59:02.353Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-white-now-original-75ml.html/08720181327148",
+      "gtin": "08720181327148",
+      "checkedAt": "2026-03-13T06:59:02.252Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-white-now-gold-75ml.html/08720181327155",
+      "gtin": "08720181327155",
+      "checkedAt": "2026-03-13T06:59:02.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-complete-75ml.html/08720181416316",
+      "gtin": "08720181416316",
+      "checkedAt": "2026-03-13T06:59:02.460Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-interdental-75ml.html/08720181419089",
+      "gtin": "08720181419089",
+      "checkedAt": "2026-03-13T06:59:02.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-deep-clean-75ml.html/08720181419102",
+      "gtin": "08720181419102",
+      "checkedAt": "2026-03-13T06:59:02.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-white-75ml.html/08720181419119",
+      "gtin": "08720181419119",
+      "checkedAt": "2026-03-13T06:59:02.316Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-integral-8-intense-fresh-75ml.html/08720181419126",
+      "gtin": "08720181419126",
+      "checkedAt": "2026-03-13T06:59:02.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-white-system-classic-75ml.html/08720181419683",
+      "gtin": "08720181419683",
+      "checkedAt": "2026-03-13T06:59:02.252Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-toothpaste-crystal-gel-75-ml.html/08720181419690",
+      "gtin": "08720181419690",
+      "checkedAt": "2026-03-13T06:59:02.407Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-expert-comfort-1-x-medium.html/08720181426971",
+      "gtin": "08720181426971",
+      "checkedAt": "2026-03-13T06:59:02.317Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-kids-tandpasta-multifruit.html/08720181501784",
+      "gtin": "08720181501784",
+      "checkedAt": "2026-03-13T06:59:02.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-junior-tandpasta-munt.html/08720181501791",
+      "gtin": "08720181501791",
+      "checkedAt": "2026-03-13T06:59:02.349Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-kids-1-x-extra-zacht.html/08720181502880",
+      "gtin": "08720181502880",
+      "checkedAt": "2026-03-13T06:59:02.375Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/nl/p/signal-tandenborstel-junior-1-x-extra-zacht.html/08720181502897",
+      "gtin": "08720181502897",
+      "checkedAt": "2026-03-13T06:59:02.349Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-classic-clean-1-x-dure.html/00000054024786",
+      "gtin": "00000054024786",
+      "checkedAt": "2026-03-13T06:59:02.375Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-protection-contre-les-caries-75-ml.html/03014230002076",
+      "gtin": "03014230002076",
+      "checkedAt": "2026-03-13T06:59:02.375Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-toothpaste-protection-against-caries-100-ml-x24.html/03014230002090",
+      "gtin": "03014230002090",
+      "checkedAt": "2026-03-13T06:59:02.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-white-system-1-x-souple.html/08000630041574",
+      "gtin": "08000630041574",
+      "checkedAt": "2026-03-13T06:59:02.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-classic-clean-1-x-moyenne.html/08413300264270",
+      "gtin": "08413300264270",
+      "checkedAt": "2026-03-13T06:59:02.317Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-aux-herbes-75-ml.html/08710447328088",
+      "gtin": "08710447328088",
+      "checkedAt": "2026-03-13T06:59:02.288Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-%C3%A0-la-noix-de-coco-75-ml.html/08710447328095",
+      "gtin": "08710447328095",
+      "checkedAt": "2026-03-13T06:59:02.288Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-charcoal-75ml.html/08710522417379",
+      "gtin": "08710522417379",
+      "checkedAt": "2026-03-13T06:59:02.410Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-white-system-2-packs.html/08710522712108",
+      "gtin": "08710522712108",
+      "checkedAt": "2026-03-13T06:59:02.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-white-now-dentifrice-detox-coconut-75-ml.html/08710604754224",
+      "gtin": "08710604754224",
+      "checkedAt": "2026-03-13T06:59:02.353Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-white-now-dentifrice-detox-charcoal-75-ml.html/08710604754231",
+      "gtin": "08710604754231",
+      "checkedAt": "2026-03-13T06:59:02.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-toothpaste-baking-soda-75ml.html/08710604781879",
+      "gtin": "08710604781879",
+      "checkedAt": "2026-03-13T06:59:02.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-white-system-1-x-medium.html/08718114198903",
+      "gtin": "08718114198903",
+      "checkedAt": "2026-03-13T06:59:02.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-integral-8-nature-elements-dentifrice-camomille-75-ml.html/08720181230585",
+      "gtin": "08720181230585",
+      "checkedAt": "2026-03-13T06:59:02.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-a-plaq-quatro-medium-10x.html/08720181236310",
+      "gtin": "08720181236310",
+      "checkedAt": "2026-03-13T06:59:02.412Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-pure-breath-75-ml.html/08720181242397",
+      "gtin": "08720181242397",
+      "checkedAt": "2026-03-13T06:59:02.317Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-now-original-75-ml.html/08720181327148",
+      "gtin": "08720181327148",
+      "checkedAt": "2026-03-13T06:59:02.375Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-now-gold-75-ml.html/08720181327155",
+      "gtin": "08720181327155",
+      "checkedAt": "2026-03-13T06:59:02.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-complete-75ml-24x.html/08720181416316",
+      "gtin": "08720181416316",
+      "checkedAt": "2026-03-13T06:59:02.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-interdental-75ml-24x.html/08720181419089",
+      "gtin": "08720181419089",
+      "checkedAt": "2026-03-13T06:59:02.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-deep-clean-75ml-24x.html/08720181419102",
+      "gtin": "08720181419102",
+      "checkedAt": "2026-03-13T06:59:02.320Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-white-75ml-24x.html/08720181419119",
+      "gtin": "08720181419119",
+      "checkedAt": "2026-03-13T06:59:02.458Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-integral-8-intense-fresh-75ml-24x.html/08720181419126",
+      "gtin": "08720181419126",
+      "checkedAt": "2026-03-13T06:59:02.349Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-white-system-75ml-24x.html/08720181419683",
+      "gtin": "08720181419683",
+      "checkedAt": "2026-03-13T06:59:02.375Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-crystal-gel-75ml-24x.html/08720181419690",
+      "gtin": "08720181419690",
+      "checkedAt": "2026-03-13T06:59:02.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-expert-comfort-1-x-moyenne.html/08720181426971",
+      "gtin": "08720181426971",
+      "checkedAt": "2026-03-13T06:59:02.478Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/dentifrice-signal-kids-multifruit-75-ml.html/08720181501784",
+      "gtin": "08720181501784",
+      "checkedAt": "2026-03-13T06:59:02.464Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/signal-junior-dentifrice-menthe-75-ml.html/08720181501791",
+      "gtin": "08720181501791",
+      "checkedAt": "2026-03-13T06:59:02.320Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-kids-x1-extra-soft.html/08720181502880",
+      "gtin": "08720181502880",
+      "checkedAt": "2026-03-13T06:59:02.442Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal.be/fr/p/brosse-%C3%A0-dents-signal-junior-1-x-extra-soft.html/08720181502897",
+      "gtin": "08720181502897",
+      "checkedAt": "2026-03-13T06:59:02.252Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "1.21s",
+  "speedMetrics": "49.59 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

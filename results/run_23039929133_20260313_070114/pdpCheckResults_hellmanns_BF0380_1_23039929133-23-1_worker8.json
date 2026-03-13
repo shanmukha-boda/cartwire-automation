@@ -1,0 +1,235 @@
+{
+  "generatedAt": "2026-03-13T06:58:56.155Z",
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
+  "totalUrlsChecked": 36,
+  "problematicPagesFound": 1,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/mostarda-amarela.html/07891150027794",
+      "gtin": "07891150027794",
+      "checkedAt": "2026-03-13T06:58:56.101Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-squeeze.html/07891150027800",
+      "gtin": "07891150027800",
+      "checkedAt": "2026-03-13T06:58:56.102Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/3-em-1.html/07891150027824",
+      "gtin": "07891150027824",
+      "checkedAt": "2026-03-13T06:58:56.101Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/ketchup-picante-380g.html/07891150027831",
+      "gtin": "07891150027831",
+      "checkedAt": "2026-03-13T06:58:56.112Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/ketchup-tradicional-380g.html/07891150027848",
+      "gtin": "07891150027848",
+      "checkedAt": "2026-03-13T06:58:56.101Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-doypack-700g.html/07891150045255",
+      "gtin": "07891150045255",
+      "checkedAt": "2026-03-13T06:58:56.130Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-doypack-400g.html/07891150056916",
+      "gtin": "07891150056916",
+      "checkedAt": "2026-03-13T06:58:56.101Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/molho-para-salada-rose-210ml.html/07891150070882",
+      "gtin": "07891150070882",
+      "checkedAt": "2026-03-13T06:58:56.101Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/molho-para-salada-caesar-210ml.html/07891150070905",
+      "gtin": "07891150070905",
+      "checkedAt": "2026-03-13T06:58:56.137Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/molho-para-salada-limao-e-ervas-finas-210ml.html/07891150070912",
+      "gtin": "07891150070912",
+      "checkedAt": "2026-03-13T06:58:56.112Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/barbecue-tradicional-400g.html/07891150071216",
+      "gtin": "07891150071216",
+      "checkedAt": "2026-03-13T06:58:56.122Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/barbecue-sabor-shoyu-e-cebola-caramelizada-400g.html/07891150071230",
+      "gtin": "07891150071230",
+      "checkedAt": "2026-03-13T06:58:56.102Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/barbecue-sabor-whisky-400g.html/07891150071247",
+      "gtin": "07891150071247",
+      "checkedAt": "2026-03-13T06:58:56.122Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-tradicional-657g.html/07891150072046",
+      "gtin": "07891150072046",
+      "checkedAt": "2026-03-13T06:58:56.122Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-tradicional-600g.html/07891150072053",
+      "gtin": "07891150072053",
+      "checkedAt": "2026-03-13T06:58:56.144Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-aioli-500g.html/07891150072077",
+      "gtin": "07891150072077",
+      "checkedAt": "2026-03-13T06:58:56.112Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-vegana-squeeze-335g.html/07891150078185",
+      "gtin": "07891150078185",
+      "checkedAt": "2026-03-13T06:58:56.137Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-doypack-800g.html/07891150078611",
+      "gtin": "07891150078611",
+      "checkedAt": "2026-03-13T06:58:56.121Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-verde-squeeze-335g.html/07891150079892",
+      "gtin": "07891150079892",
+      "checkedAt": "2026-03-13T06:58:56.122Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-supreme-330g.html/07891150080546",
+      "gtin": "07891150080546",
+      "checkedAt": "2026-03-13T06:58:56.123Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-squeeze-750g.html/07891150081208",
+      "gtin": "07891150081208",
+      "checkedAt": "2026-03-13T06:58:56.130Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-light-335g.html/07891150089501",
+      "gtin": "07891150089501",
+      "checkedAt": "2026-03-13T06:58:56.137Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-churrasco-squeeze-335g.html/07891150090835",
+      "gtin": "07891150090835",
+      "checkedAt": "2026-03-13T06:58:56.144Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-alho-squeeze-335g.html/07891150096462",
+      "gtin": "07891150096462",
+      "checkedAt": "2026-03-13T06:58:56.123Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/ketchup-supreme-390g.html/07891150097940",
+      "gtin": "07891150097940",
+      "checkedAt": "2026-03-13T06:58:56.136Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-bacon-bisnaga-335g.html/07891150099371",
+      "gtin": "07891150099371",
+      "checkedAt": "2026-03-13T06:58:56.130Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-queijo-bisnaga-335g.html/07891150104990",
+      "gtin": "07891150104990",
+      "checkedAt": "2026-03-13T06:58:56.154Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/barbecue-hellmann's-supreme-380g.html/07891150105591",
+      "gtin": "07891150105591",
+      "checkedAt": "2026-03-13T06:58:56.122Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/barbecue-hellmann's-supreme-280g.html/07891150105607",
+      "gtin": "07891150105607",
+      "checkedAt": "2026-03-13T06:58:56.122Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/mostarda-hellmann's-supreme-250g.html/07891150105706",
+      "gtin": "07891150105706",
+      "checkedAt": "2026-03-13T06:58:56.121Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-doypack-200g.html/07894000030470",
+      "gtin": "07894000030470",
+      "checkedAt": "2026-03-13T06:58:56.137Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-regular-250g.html/07894000050027",
+      "gtin": "07894000050027",
+      "checkedAt": "2026-03-13T06:58:56.136Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-regular-500g.html/07894000050034",
+      "gtin": "07894000050034",
+      "checkedAt": "2026-03-13T06:58:56.145Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-limao-500g.html/07894000050539",
+      "gtin": "07894000050539",
+      "checkedAt": "2026-03-13T06:58:56.145Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.hellmanns.com.br/p/maionese-light-500g.html/07894000050720",
+      "gtin": "07894000050720",
+      "checkedAt": "2026-03-13T06:58:56.137Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.67s",
+  "speedMetrics": "53.73 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "hellmanns",
+      "assortmentCode": "BF0380",
+      "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
+      "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-supreme-230g.html/07891150101548",
+      "gtin": "07891150101548",
+      "checkedAt": "2026-03-13T06:58:56.150Z"
+    }
+  ],
+  "errorPages": []
+}

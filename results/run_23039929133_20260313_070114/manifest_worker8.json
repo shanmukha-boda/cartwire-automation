@@ -1,0 +1,43 @@
+{
+  "worker": 8,
+  "timestamp": "23039929133-23-1",
+  "processedBrands": [
+    "magnum",
+    "clear",
+    "dove",
+    "walls",
+    "walls",
+    "lipton",
+    "vaseline",
+    "knorr",
+    "rexona",
+    "hellmanns",
+    "axe",
+    "close-up",
+    "smile",
+    "simple",
+    "savile",
+    "nakmakanapa"
+  ],
+  "filesProcessed": [
+    "pdpCheckResults_ALL_PROBLEMATIC_23039929133-23-1_worker8.json",
+    "pdpCheckResults_PROBLEMATIC_dove_BH0162_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_PROBLEMATIC_hellmanns_BF0380_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_axe_BH0045_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_clear_BH0117_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_close-up_BH0118_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_dove_BH0162_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_hellmanns_BF0380_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_knorr_BF0426_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_lipton_BF0648_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_magnum_BF0543_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_nakmakanapa_BF0870_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_rexona_BH0413_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_savile_BH8800_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_simple_BH0992_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_smile_BH0370_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_vaseline_BH0499_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_walls_BF0012_1_23039929133-23-1_worker8.json",
+    "pdpCheckResults_walls_BF1023_1_23039929133-23-1_worker8.json"
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "generatedAt": "2026-03-13T06:59:43.365Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0433",
+  "feedUrl": "https://www.sedal.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-restauracion-instantanea-300ml.html/07501056340025",
+      "gtin": "07501056340025",
+      "checkedAt": "2026-03-13T06:59:35.808Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-anti-sponge-300ml.html/07501056340100",
+      "gtin": "07501056340100",
+      "checkedAt": "2026-03-13T06:59:35.879Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-liso-perfecto-300ml.html/07501056340117",
+      "gtin": "07501056340117",
+      "checkedAt": "2026-03-13T06:59:35.721Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-ceramidas-300ml.html/07501056340124",
+      "gtin": "07501056340124",
+      "checkedAt": "2026-03-13T06:59:35.718Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-rizos-definidos-300ml.html/07501056340131",
+      "gtin": "07501056340131",
+      "checkedAt": "2026-03-13T06:59:35.689Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-rizos-definidos-10ml.html/07501056340261",
+      "gtin": "07501056340261",
+      "checkedAt": "2026-03-13T06:59:35.783Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-hidra-micelar-y-pro-vitamina-b5-300ml.html/07506306210905",
+      "gtin": "07506306210905",
+      "checkedAt": "2026-03-13T06:59:35.789Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-crecimiento-anti-estres-300ml.html/07506306215214",
+      "gtin": "07506306215214",
+      "checkedAt": "2026-03-13T06:59:35.724Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-purificacion-e-hidratacion-carbon-activado-y-aloe-300ml.html/07506306221901",
+      "gtin": "07506306221901",
+      "checkedAt": "2026-03-13T06:59:35.667Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-ceramidas-300ml.html/07506306223035",
+      "gtin": "07506306223035",
+      "checkedAt": "2026-03-13T06:59:35.722Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-purificacion-e-hidratacion-carbon-activado-y-aloe-845ml.html/07506306223882",
+      "gtin": "07506306223882",
+      "checkedAt": "2026-03-13T06:59:35.841Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-acido-hialuronico-y-vitamina-c-300ml.html/07506306224100",
+      "gtin": "07506306224100",
+      "checkedAt": "2026-03-13T06:59:35.557Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-hidratacion-anti-nudos-frambuesa-y-oleos-300ml.html/07506306234062",
+      "gtin": "07506306234062",
+      "checkedAt": "2026-03-13T06:59:35.730Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-control-caida-620ml.html/07506306246232",
+      "gtin": "07506306246232",
+      "checkedAt": "2026-03-13T06:59:36.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-ceramidas-2en1-620ml.html/07506306246249",
+      "gtin": "07506306246249",
+      "checkedAt": "2026-03-13T06:59:36.082Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-ceramidas-620ml.html/07506306246256",
+      "gtin": "07506306246256",
+      "checkedAt": "2026-03-13T06:59:35.747Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-crecimiento-anti-estres-620ml.html/07506306246263",
+      "gtin": "07506306246263",
+      "checkedAt": "2026-03-13T06:59:35.602Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-keratina-con-antioxidante-620ml.html/07506306246270",
+      "gtin": "07506306246270",
+      "checkedAt": "2026-03-13T06:59:35.743Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-liso-perfecto-620ml.html/07506306246287",
+      "gtin": "07506306246287",
+      "checkedAt": "2026-03-13T06:59:35.689Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-restauracion-instantanea-2en1-620ml.html/07506306246294",
+      "gtin": "07506306246294",
+      "checkedAt": "2026-03-13T06:59:35.767Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-restauracion-instantanea-620ml.html/07506306246300",
+      "gtin": "07506306246300",
+      "checkedAt": "2026-03-13T06:59:35.771Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-rizos-definidos-2en1-620ml.html/07506306246317",
+      "gtin": "07506306246317",
+      "checkedAt": "2026-03-13T06:59:35.621Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-rizos-definidos-620ml.html/07506306246324",
+      "gtin": "07506306246324",
+      "checkedAt": "2026-03-13T06:59:35.906Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-ceramidas-620ml.html/07506306246331",
+      "gtin": "07506306246331",
+      "checkedAt": "2026-03-13T06:59:35.748Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-keratina-con-antioxidante-620ml.html/07506306246348",
+      "gtin": "07506306246348",
+      "checkedAt": "2026-03-13T06:59:36.109Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-rizos-definidos-620ml.html/07506306246362",
+      "gtin": "07506306246362",
+      "checkedAt": "2026-03-13T06:59:35.689Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-purificacion-e-hidratacion-carbon-activado-y-aloe-620ml.html/07506306246782",
+      "gtin": "07506306246782",
+      "checkedAt": "2026-03-13T06:59:35.754Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-hidratacion-anti-nudos-frambuesa-y-oleos-620ml.html/07506306246829",
+      "gtin": "07506306246829",
+      "checkedAt": "2026-03-13T06:59:35.839Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-purificacion-e-hidratacion-carbon-activado-y-aloe-620ml.html/07506306246836",
+      "gtin": "07506306246836",
+      "checkedAt": "2026-03-13T06:59:35.805Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-control-caspa-y-frescura-aloe-y-menta-620ml.html/07506306246843",
+      "gtin": "07506306246843",
+      "checkedAt": "2026-03-13T06:59:35.755Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-brillo-y-suavidad-arandano-y-oleos-620ml.html/07506306246850",
+      "gtin": "07506306246850",
+      "checkedAt": "2026-03-13T06:59:35.816Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-brillo-y-suavidad-arandano-y-oleos-620ml.html/07506306246867",
+      "gtin": "07506306246867",
+      "checkedAt": "2026-03-13T06:59:35.734Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-hidratacion-anti-nudos-frambuesa-y-oleos-620ml.html/07506306246874",
+      "gtin": "07506306246874",
+      "checkedAt": "2026-03-13T06:59:35.722Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-detox-anti-contaminacion-te-verde-y-limon-620ml.html/07506306246881",
+      "gtin": "07506306246881",
+      "checkedAt": "2026-03-13T06:59:42.939Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-detox-anti-contaminacion-te-verde-y-limon-620ml.html/07506306246898",
+      "gtin": "07506306246898",
+      "checkedAt": "2026-03-13T06:59:35.926Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-reparacion-y-brillo-bomba-de-argan-de-marruecos-620ml.html/07506306246904",
+      "gtin": "07506306246904",
+      "checkedAt": "2026-03-13T06:59:35.688Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-reparacion-y-brillo-bomba-de-argan-de-marruecos-620ml.html/07506306246911",
+      "gtin": "07506306246911",
+      "checkedAt": "2026-03-13T06:59:35.737Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-agua-micelar-y-pro-vitamina-b5-620ml.html/07506306248229",
+      "gtin": "07506306248229",
+      "checkedAt": "2026-03-13T06:59:35.720Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-hidra-micelar-y-pro-vitamina-b5-620ml.html/07506306248243",
+      "gtin": "07506306248243",
+      "checkedAt": "2026-03-13T06:59:35.705Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-acido-hialuronico-y-vitamina-c-620ml.html/07506306248267",
+      "gtin": "07506306248267",
+      "checkedAt": "2026-03-13T06:59:43.365Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-sin-sal-ni-parabenos-cafe-y-oleo-de-ricino-370ml.html/07506306248649",
+      "gtin": "07506306248649",
+      "checkedAt": "2026-03-13T06:59:35.689Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-sin-sal-ni-parabenos-limon-y-matcha-370-ml.html/07506306248656",
+      "gtin": "07506306248656",
+      "checkedAt": "2026-03-13T06:59:35.810Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/shampoo-sin-sal-ni-parabenos-quinoa-y-linaza-370-ml.html/07506306248663",
+      "gtin": "07506306248663",
+      "checkedAt": "2026-03-13T06:59:36.074Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-sin-sal-ni-parabenos-limon-y-matcha-300ml.html/07506306248694",
+      "gtin": "07506306248694",
+      "checkedAt": "2026-03-13T06:59:35.718Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-sin-sal-ni-parabenos-quinoa-y-linaza-300ml.html/07506306248700",
+      "gtin": "07506306248700",
+      "checkedAt": "2026-03-13T06:59:35.720Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-sin-sal-ni-parabenos-cafe-y-oleo-de-ricino-260ml.html/07506306248717",
+      "gtin": "07506306248717",
+      "checkedAt": "2026-03-13T06:59:35.810Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-sin-sal-ni-parabenos-quinoa-y-linaza-260-ml.html/07506306248724",
+      "gtin": "07506306248724",
+      "checkedAt": "2026-03-13T06:59:35.809Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-sin-sal-ni-parabenos-limon-y-matcha-260-ml.html/07506306248731",
+      "gtin": "07506306248731",
+      "checkedAt": "2026-03-13T06:59:35.705Z"
+    }
+  ],
+  "errors": 2,
+  "duration": "8.24s",
+  "speedMetrics": "6.07 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.sedal.com.mx/p/tratamiento-acondicionador-acido-hialuronico-y-vitamina-c-620ml.html/07506306248236",
+      "error": "request to https://www.sedal.com.mx/p/tratamiento-acondicionador-acido-hialuronico-y-vitamina-c-620ml.html/07506306248236 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:43.295Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.sedal.com.mx/p/crema-para-peinar-sin-sal-ni-parabenos-cafe-y-oleo-de-ricino-300ml.html/07506306248687",
+      "error": "request to https://www.sedal.com.mx/p/crema-para-peinar-sin-sal-ni-parabenos-cafe-y-oleo-de-ricino-300ml.html/07506306248687 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T06:59:43.295Z"
+    }
+  ]
+}

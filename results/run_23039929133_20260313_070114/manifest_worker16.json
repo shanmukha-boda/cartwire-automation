@@ -1,0 +1,38 @@
+{
+  "worker": 16,
+  "timestamp": "23039929133-23-1",
+  "processedBrands": [
+    "magnum",
+    "dove",
+    "dove",
+    "walls",
+    "luxglobal",
+    "tresemme",
+    "knorr",
+    "rexona",
+    "rexona",
+    "axe",
+    "sunsilk",
+    "whatsfordinner",
+    "radox",
+    "cream-silk",
+    "allthingshair"
+  ],
+  "filesProcessed": [
+    "pdpCheckResults_ALL_PROBLEMATIC_23039929133-23-1_worker16.json",
+    "pdpCheckResults_PROBLEMATIC_dove_BH0162_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_allthingshair_BH8386_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_axe_BH0045_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_cream-silk_BH0128_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_dove_BH0162_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_knorr_BF0426_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_luxglobal_BH0307_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_magnum_BF0543_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_radox_BH0873_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_rexona_BH0413_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_sunsilk_BH0468_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_tresemme_BH0996_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_walls_BF0802_1_23039929133-23-1_worker16.json",
+    "pdpCheckResults_whatsfordinner_BFA317_1_23039929133-23-1_worker16.json"
+  ]
+}
