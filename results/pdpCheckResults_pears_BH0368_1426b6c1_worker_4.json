@@ -1,0 +1,12 @@
+{
+  "brand": "pears",
+  "assortmentCode": "BH0368",
+  "feedUrl": "https://www.pearspuresince1807.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 26,
+  "problematicPagesFound": 0,
+  "successfulPages": 26,
+  "errors": 0,
+  "duration": "0.32s",
+  "speed": "81.25 URLs/s",
+  "problematicPages": []
+}

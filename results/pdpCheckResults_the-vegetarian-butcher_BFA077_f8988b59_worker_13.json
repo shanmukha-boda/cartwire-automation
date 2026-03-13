@@ -1,0 +1,12 @@
+{
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.devegetarischeslager.nl/home.productfeed.json",
+  "totalUrlsChecked": 44,
+  "problematicPagesFound": 0,
+  "successfulPages": 44,
+  "errors": 0,
+  "duration": "0.73s",
+  "speed": "60.27 URLs/s",
+  "problematicPages": []
+}

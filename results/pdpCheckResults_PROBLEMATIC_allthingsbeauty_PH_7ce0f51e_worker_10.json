@@ -1,0 +1,230 @@
+{
+  "generatedAt": "2026-03-13T09:16:07.682Z",
+  "brand": "allthingsbeauty",
+  "assortmentCode": "PH",
+  "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+  "totalProblematicPages": 17,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-dark-temptation-stick.html/04800888197870",
+      "gtin": "04800888197870",
+      "checkedAt": "2026-03-13T09:15:43.507Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=04800888197870",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/tresemme-detox-and-nourish-shampoo.html/04800888200396",
+      "gtin": "04800888200396",
+      "checkedAt": "2026-03-13T09:15:43.674Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=04800888200396",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/pond-s-healthy-hydration-aloe-vera-hydrating-jelly-cleanser.html/04800888223104",
+      "gtin": "04800888223104",
+      "checkedAt": "2026-03-13T09:15:51.719Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=04800888223104",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-radiant-plus-care-serum-bar-50x-niacinamide-plus-vitamin-c-and-e.html/04800888285300",
+      "gtin": "04800888285300",
+      "checkedAt": "2026-03-13T09:15:51.765Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=04800888285300",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-aqua-bergamot-stick.html/04800888289919",
+      "gtin": "04800888289919",
+      "checkedAt": "2026-03-13T09:15:51.750Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=04800888289919",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-beauty-bar-sensitive-skin.html/08000700000227",
+      "gtin": "08000700000227",
+      "checkedAt": "2026-03-13T09:15:52.139Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=08000700000227",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-body-spray-black-vanilla.html/08851932483209",
+      "gtin": "08851932483209",
+      "checkedAt": "2026-03-13T09:15:51.716Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=08851932483209",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/axe-aqua-bergamot-roll-on.html/08851932485760",
+      "gtin": "08851932485760",
+      "checkedAt": "2026-03-13T09:15:51.887Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=08851932485760",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/closeup-white-now-detox-cleanse-serum-toothpaste.html/08934839135737",
+      "gtin": "08934839135737",
+      "checkedAt": "2026-03-13T09:15:59.928Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=08934839135737",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-glow-recharge-serum-body-wash.html/08934868196082",
+      "gtin": "08934868196082",
+      "checkedAt": "2026-03-13T09:16:00.115Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=08934868196082",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-hydration-boost-serum-body-wash.html/08934868196099",
+      "gtin": "08934868196099",
+      "checkedAt": "2026-03-13T09:15:59.829Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=08934868196099",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-ceramide-intense-repair-mask-300ml.html/18934868180958",
+      "gtin": "18934868180958",
+      "checkedAt": "2026-03-13T09:15:59.866Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=18934868180958",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-biotin-hair-fall-shampoo-300ml.html/24800888179627",
+      "gtin": "24800888179627",
+      "checkedAt": "2026-03-13T09:15:59.942Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=24800888179627",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-biotin-hair-fall-conditioner-170ml.html/24800888206651",
+      "gtin": "24800888206651",
+      "checkedAt": "2026-03-13T09:15:59.883Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=24800888206651",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-ceramide-intense-repair-protective-nourishing-oil-95ml.html/24800888289289",
+      "gtin": "24800888289289",
+      "checkedAt": "2026-03-13T09:15:59.894Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=24800888289289",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-hair-fall-recovery-conditioner-170ml.html/24800888291992",
+      "gtin": "24800888291992",
+      "checkedAt": "2026-03-13T09:16:00.028Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=24800888291992",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "allthingsbeauty",
+      "assortmentCode": "PH",
+      "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+      "url": "https://www.allthingsbeauty.com/ph/p/dove-derma-scalp-hair-fall-recovery-3-in-1-serum-45ml.html/24800888292883",
+      "gtin": "24800888292883",
+      "checkedAt": "2026-03-13T09:15:59.843Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=AllThingsBeauty%20Philippines&locale=en-ph&brand_code=BH8386&gtin=24800888292883",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

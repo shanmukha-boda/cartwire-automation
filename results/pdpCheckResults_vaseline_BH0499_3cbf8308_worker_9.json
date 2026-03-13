@@ -1,0 +1,12 @@
+{
+  "brand": "vaseline",
+  "assortmentCode": "BH0499",
+  "feedUrl": "https://www.vaseline.com.tr/home.productfeed.json",
+  "totalUrlsChecked": 22,
+  "problematicPagesFound": 0,
+  "successfulPages": 22,
+  "errors": 0,
+  "duration": "0.59s",
+  "speed": "37.29 URLs/s",
+  "problematicPages": []
+}

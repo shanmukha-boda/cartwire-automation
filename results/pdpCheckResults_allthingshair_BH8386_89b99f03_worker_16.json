@@ -1,0 +1,12 @@
+{
+  "brand": "allthingshair",
+  "assortmentCode": "BH8386",
+  "feedUrl": "https://www.allthingshair.com/uk/home.productfeed.json",
+  "totalUrlsChecked": 41,
+  "problematicPagesFound": 0,
+  "successfulPages": 41,
+  "errors": 0,
+  "duration": "0.58s",
+  "speed": "70.69 URLs/s",
+  "problematicPages": []
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "hertog",
+  "assortmentCode": "BF0384",
+  "feedUrl": "https://www.hertogijs.nl/home.productfeed.json",
+  "totalUrlsChecked": 21,
+  "problematicPagesFound": 0,
+  "successfulPages": 21,
+  "errors": 0,
+  "duration": "0.69s",
+  "speed": "30.43 URLs/s",
+  "problematicPages": []
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "mae-terra",
+  "assortmentCode": "BF8834",
+  "feedUrl": "https://www.maeterra.com.br/home.productfeed.json",
+  "totalUrlsChecked": 27,
+  "problematicPagesFound": 0,
+  "successfulPages": 27,
+  "errors": 0,
+  "duration": "0.40s",
+  "speed": "67.50 URLs/s",
+  "problematicPages": []
+}

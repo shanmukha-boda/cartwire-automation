@@ -1,0 +1,12 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0012",
+  "feedUrl": "https://www.algida.com/gr/home.productfeed.json",
+  "totalUrlsChecked": 92,
+  "problematicPagesFound": 0,
+  "successfulPages": 86,
+  "errors": 6,
+  "duration": "16.28s",
+  "speed": "5.65 URLs/s",
+  "problematicPages": []
+}

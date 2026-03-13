@@ -1,0 +1,12 @@
+{
+  "brand": "savile",
+  "assortmentCode": "BH8800",
+  "feedUrl": "https://www.savilemexico.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 50,
+  "problematicPagesFound": 0,
+  "successfulPages": 50,
+  "errors": 0,
+  "duration": "0.60s",
+  "speed": "83.33 URLs/s",
+  "problematicPages": []
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "whatsfordinner",
+  "assortmentCode": "BF0735",
+  "feedUrl": "https://www.whatsfordinner.co.ke/home.productfeed.json",
+  "totalUrlsChecked": 170,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 170,
+  "duration": "12.66s",
+  "speed": "13.43 URLs/s",
+  "problematicPages": []
+}

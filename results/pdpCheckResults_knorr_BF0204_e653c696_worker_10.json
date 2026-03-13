@@ -1,0 +1,12 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0204",
+  "feedUrl": "https://www.continental.com.au/home.productfeed.json",
+  "totalUrlsChecked": 151,
+  "problematicPagesFound": 0,
+  "successfulPages": 61,
+  "errors": 90,
+  "duration": "16.99s",
+  "speed": "8.89 URLs/s",
+  "problematicPages": []
+}

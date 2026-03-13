@@ -1,0 +1,12 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0735",
+  "feedUrl": "https://www.royco.co.id/home.productfeed.json",
+  "totalUrlsChecked": 22,
+  "problematicPagesFound": 0,
+  "successfulPages": 5,
+  "errors": 17,
+  "duration": "8.38s",
+  "speed": "2.63 URLs/s",
+  "problematicPages": []
+}

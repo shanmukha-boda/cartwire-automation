@@ -1,0 +1,12 @@
+{
+  "brand": "cream-silk",
+  "assortmentCode": "BH0128",
+  "feedUrl": "https://www.creamsilk.com.ph/home.productfeed.json",
+  "totalUrlsChecked": 19,
+  "problematicPagesFound": 0,
+  "successfulPages": 19,
+  "errors": 0,
+  "duration": "0.55s",
+  "speed": "34.55 URLs/s",
+  "problematicPages": []
+}

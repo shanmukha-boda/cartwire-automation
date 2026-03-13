@@ -1,0 +1,12 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.langnese.de/home.productfeed.json",
+  "totalUrlsChecked": 47,
+  "problematicPagesFound": 0,
+  "successfulPages": 47,
+  "errors": 0,
+  "duration": "0.83s",
+  "speed": "56.63 URLs/s",
+  "problematicPages": []
+}

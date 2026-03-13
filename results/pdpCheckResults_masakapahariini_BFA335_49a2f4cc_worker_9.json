@@ -1,0 +1,12 @@
+{
+  "brand": "masakapahariini",
+  "assortmentCode": "BFA335",
+  "feedUrl": "https://www.masakapahariini.com/home.productfeed.json",
+  "totalUrlsChecked": 99,
+  "problematicPagesFound": 0,
+  "successfulPages": 99,
+  "errors": 0,
+  "duration": "3.01s",
+  "speed": "32.89 URLs/s",
+  "problematicPages": []
+}

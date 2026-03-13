@@ -1,0 +1,12 @@
+{
+  "brand": "smile",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal-zahnpflege.de/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": 15,
+  "errors": 0,
+  "duration": "0.80s",
+  "speed": "18.75 URLs/s",
+  "problematicPages": []
+}

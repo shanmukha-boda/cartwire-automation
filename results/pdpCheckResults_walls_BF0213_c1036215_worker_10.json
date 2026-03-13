@@ -1,0 +1,12 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0213",
+  "feedUrl": "https://www.algida.sk/home.productfeed.json",
+  "totalUrlsChecked": 102,
+  "problematicPagesFound": 0,
+  "successfulPages": 18,
+  "errors": 84,
+  "duration": "16.48s",
+  "speed": "6.19 URLs/s",
+  "problematicPages": []
+}
