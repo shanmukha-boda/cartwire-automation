@@ -1,4 +1,4 @@
-name: PDP Enterprise Scanner
+name: PDP Scanner
 
 on:
   workflow_dispatch:
