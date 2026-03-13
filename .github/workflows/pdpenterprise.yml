@@ -37,55 +37,59 @@ jobs:
       - name: Run worker
         run: |
           node <<'NODE'
-          const fs = require("fs")
-          const { execSync } = require("child_process")
-          const path = require("path")
+          import fs from 'fs';
+          import { execSync } from 'child_process';
+          import path from 'path';
+          import { fileURLToPath } from 'url';
 
-          const worker = Number(process.env.WORKER)
-          const timestamp = process.env.TIMESTAMP
-          const runId = process.env.GITHUB_RUN_ID
+          const __filename = fileURLToPath(import.meta.url);
+          const __dirname = path.dirname(__filename);
+
+          const worker = Number(process.env.WORKER);
+          const timestamp = process.env.TIMESTAMP;
+          const runId = process.env.GITHUB_RUN_ID;
 
           const data = JSON.parse(
             fs.readFileSync("productPageUrls.json","utf8")
-          )
+          );
 
-          const brands = data.data
+          const brands = data.data;
 
-          console.log("Worker:", worker)
-          console.log("Timestamp:", timestamp)
-          console.log("Run ID:", runId)
+          console.log("Worker:", worker);
+          console.log("Timestamp:", timestamp);
+          console.log("Run ID:", runId);
 
           // Create worker results directory
-          const workerDir = `worker-results-${timestamp}`
+          const workerDir = `worker-results-${timestamp}`;
           if (!fs.existsSync(workerDir)) {
-            fs.mkdirSync(workerDir, { recursive: true })
+            fs.mkdirSync(workerDir, { recursive: true });
           }
 
           for (let i = worker; i < brands.length; i += 20) {
-            const item = brands[i]
-            console.log("Processing:", item.brand, item.assortmentCode)
+            const item = brands[i];
+            console.log("Processing:", item.brand, item.assortmentCode);
 
             try {
               // Run the scanner
               execSync(
                 `node checkPdpPages.js "${item.brand}" "${item.assortmentCode}"`,
                 { stdio: "inherit" }
-              )
+              );
 
               // Move result files to worker directory with timestamp and runId
               const resultFiles = fs.readdirSync(".").filter(f => 
                 f.startsWith("pdpCheckResults_") && f.endsWith(".json")
-              )
+              );
 
               resultFiles.forEach(file => {
                 // Add runId and worker to filename to ensure uniqueness
-                const newFileName = file.replace('.json', `_run${runId}_worker${worker}.json`)
-                fs.renameSync(file, path.join(workerDir, newFileName))
-                console.log(`Moved ${file} to ${newFileName}`)
-              })
+                const newFileName = file.replace('.json', `_run${runId}_worker${worker}.json`);
+                fs.renameSync(file, path.join(workerDir, newFileName));
+                console.log(`Moved ${file} to ${newFileName}`);
+              });
 
             } catch (error) {
-              console.error(`Error processing ${item.brand}:`, error.message)
+              console.error(`Error processing ${item.brand}:`, error.message);
             }
           }
 
@@ -96,12 +100,12 @@ jobs:
             timestamp: timestamp,
             processedBrands: brands.filter((_, idx) => idx % 20 === worker).map(b => b.brand),
             filesProcessed: fs.readdirSync(workerDir)
-          }
+          };
 
           fs.writeFileSync(
             path.join(workerDir, `manifest_worker${worker}_run${runId}.json`),
             JSON.stringify(manifest, null, 2)
-          )
+          );
 
           NODE
         env:
@@ -160,10 +164,14 @@ jobs:
           
           RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
           
-          # Create a Node.js script for proper deduplication
-          cat > $RESULTS_DIR/deduplicate.js << 'EOF'
-          const fs = require('fs');
-          const path = require('path');
+          # Create a Node.js script with .mjs extension for ES modules
+          cat > $RESULTS_DIR/deduplicate.mjs << 'EOF'
+          import fs from 'fs';
+          import path from 'path';
+          import { fileURLToPath } from 'url';
+
+          const __filename = fileURLToPath(import.meta.url);
+          const __dirname = path.dirname(__filename);
 
           const resultsDir = process.argv[2];
           const runId = process.argv[3];
@@ -320,8 +328,8 @@ jobs:
           console.log(JSON.stringify(summary, null, 2));
           EOF
 
-          # Run the deduplication script
-          node $RESULTS_DIR/deduplicate.js "$RESULTS_DIR" "$RUN_ID" "$TIMESTAMP"
+          # Run the deduplication script with .mjs extension
+          node $RESULTS_DIR/deduplicate.mjs "$RESULTS_DIR" "$RUN_ID" "$TIMESTAMP"
 
       - name: Update latest symlink
         run: |
