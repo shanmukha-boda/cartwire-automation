@@ -135,6 +135,9 @@ clearTimeout(timeout);
 }
  
 async function main() {
+  // At the beginning of main() function, after parsing args
+const timestamp = new Date().toISOString().replace(/[:.]/g, '-').substring(0, 19);
+const runId = process.env.GITHUB_RUN_ID || 'local';
   try {
     // Parse command line arguments
     console.log("start time",new Date().toLocaleTimeString("en-IN", { timeZone: "Asia/Kolkata" }));
