@@ -1,0 +1,310 @@
+{
+  "generatedAt": "2026-03-13T08:44:16.380Z",
+  "brand": "walls",
+  "assortmentCode": "BF0678",
+  "feedUrl": "https://www.heladospinguino.com.ec/home.productfeed.json",
+  "totalUrlsChecked": 49,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-dulce-de-leche.html/07861047700048",
+      "gtin": "07861047700048",
+      "checkedAt": "2026-03-13T08:44:08.106Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cornetto-fresa.html/07861047722583",
+      "gtin": "07861047722583",
+      "checkedAt": "2026-03-13T08:44:08.205Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cornetto-chocmix.html/07861047722590",
+      "gtin": "07861047722590",
+      "checkedAt": "2026-03-13T08:44:08.388Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cornetto-cl%C3%A1sico.html/07861047722606",
+      "gtin": "07861047722606",
+      "checkedAt": "2026-03-13T08:44:08.176Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/torta-capricho-(15-pedazos).html/07861047700079",
+      "gtin": "07861047700079",
+      "checkedAt": "2026-03-13T08:44:14.570Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/gemelos-chocoleche.html/07861047700123",
+      "gtin": "07861047700123",
+      "checkedAt": "2026-03-13T08:44:08.316Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/chocoempastado.html/07861047708679",
+      "gtin": "07861047708679",
+      "checkedAt": "2026-03-13T08:44:15.341Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/crema-real-gigante.html/07861047708693",
+      "gtin": "07861047708693",
+      "checkedAt": "2026-03-13T08:44:08.193Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/gemelos-lim%C3%B3n-naranja.html/07861047708815",
+      "gtin": "07861047708815",
+      "checkedAt": "2026-03-13T08:44:08.117Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/casero-coco.html/07861047709836",
+      "gtin": "07861047709836",
+      "checkedAt": "2026-03-13T08:44:08.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/casero-mora.html/07861047709843",
+      "gtin": "07861047709843",
+      "checkedAt": "2026-03-13T08:44:08.038Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/polito-vainilla.html/07861047710122",
+      "gtin": "07861047710122",
+      "checkedAt": "2026-03-13T08:44:08.585Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-blanco-almendras.html/07861047710139",
+      "gtin": "07861047710139",
+      "checkedAt": "2026-03-13T08:44:08.109Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/max-bubbaloo-paleta.html/07861047710146",
+      "gtin": "07861047710146",
+      "checkedAt": "2026-03-13T08:44:15.570Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/manicho-473ml.html/07861047710238",
+      "gtin": "07861047710238",
+      "checkedAt": "2026-03-13T08:44:08.009Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/sanduche-473ml.html/07861047710245",
+      "gtin": "07861047710245",
+      "checkedAt": "2026-03-13T08:44:15.807Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/oreo-473ml.html/07861047710252",
+      "gtin": "07861047710252",
+      "checkedAt": "2026-03-13T08:44:07.991Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/casero-chocolate.html/07861047710269",
+      "gtin": "07861047710269",
+      "checkedAt": "2026-03-13T08:44:14.998Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-triple-chocolate.html/07861047710399",
+      "gtin": "07861047710399",
+      "checkedAt": "2026-03-13T08:44:07.930Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-cl%C3%A1sico.html/07861047710696",
+      "gtin": "07861047710696",
+      "checkedAt": "2026-03-13T08:44:08.249Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/casero-ron-pasas.html/07861047720190",
+      "gtin": "07861047720190",
+      "checkedAt": "2026-03-13T08:44:08.356Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/miniyog-fresa.html/07861047720794",
+      "gtin": "07861047720794",
+      "checkedAt": "2026-03-13T08:44:14.797Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/sanduche-vainilla.html/07861047721104",
+      "gtin": "07861047721104",
+      "checkedAt": "2026-03-13T08:44:14.743Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/acidix-lim%C3%B3n.html/07861047721180",
+      "gtin": "07861047721180",
+      "checkedAt": "2026-03-13T08:44:08.117Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/casero-relleno-banano-chocolate.html/07861047721203",
+      "gtin": "07861047721203",
+      "checkedAt": "2026-03-13T08:44:14.215Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-almendras.html/07861047721227",
+      "gtin": "07861047721227",
+      "checkedAt": "2026-03-13T08:44:08.347Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-tres-leches-900ml.html/07861047721692",
+      "gtin": "07861047721692",
+      "checkedAt": "2026-03-13T08:44:16.380Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/multipack-magnum-almendras-x4.html/07861047721753",
+      "gtin": "07861047721753",
+      "checkedAt": "2026-03-13T08:44:16.169Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/multipack-sanduche-vainilla.html/07861047721760",
+      "gtin": "07861047721760",
+      "checkedAt": "2026-03-13T08:44:08.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/pintalengua-paleta.html/07861047722262",
+      "gtin": "07861047722262",
+      "checkedAt": "2026-03-13T08:44:15.929Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/vasito-vainilla.html/07861047722576",
+      "gtin": "07861047722576",
+      "checkedAt": "2026-03-13T08:44:16.002Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/manicho-paleta.html/07861047722699",
+      "gtin": "07861047722699",
+      "checkedAt": "2026-03-13T08:44:08.153Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-ron-pasas-900ml.html/07861047722712",
+      "gtin": "07861047722712",
+      "checkedAt": "2026-03-13T08:44:08.086Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-frutilla-900ml.html/07861047722743",
+      "gtin": "07861047722743",
+      "checkedAt": "2026-03-13T08:44:08.417Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-vainilla-900ml.html/07861047722798",
+      "gtin": "07861047722798",
+      "checkedAt": "2026-03-13T08:44:08.156Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-marmoleado-mora-900ml.html/07861047722804",
+      "gtin": "07861047722804",
+      "checkedAt": "2026-03-13T08:44:08.164Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-manjar-almendras-900ml.html/07861047722828",
+      "gtin": "07861047722828",
+      "checkedAt": "2026-03-13T08:44:08.160Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-oreo-900ml.html/07861047722835",
+      "gtin": "07861047722835",
+      "checkedAt": "2026-03-13T08:44:16.136Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-sanduche-900ml.html/07861047722859",
+      "gtin": "07861047722859",
+      "checkedAt": "2026-03-13T08:44:08.165Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-manicho-900ml.html/07861047722873",
+      "gtin": "07861047722873",
+      "checkedAt": "2026-03-13T08:44:08.106Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-cerezas-gourmet-900ml.html/07861047722910",
+      "gtin": "07861047722910",
+      "checkedAt": "2026-03-13T08:44:08.220Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-chocolate-gourmet-900ml.html/07861047722927",
+      "gtin": "07861047722927",
+      "checkedAt": "2026-03-13T08:44:15.005Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/ping%C3%BCino-vainilla-gourmet-900ml.html/07861047722934",
+      "gtin": "07861047722934",
+      "checkedAt": "2026-03-13T08:44:14.693Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/polito-frutilla.html/07861047723061",
+      "gtin": "07861047723061",
+      "checkedAt": "2026-03-13T08:44:08.199Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-chocolate-ecuatoriano.html/07861047723382",
+      "gtin": "07861047723382",
+      "checkedAt": "2026-03-13T08:44:08.492Z"
+    }
+  ],
+  "errors": 4,
+  "duration": "9.10s",
+  "speedMetrics": "5.38 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/magnum-black-moccachino.html/07861047722682",
+      "error": "request to https://www.heladospinguino.com.ec/p/magnum-black-moccachino.html/07861047722682 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:15.600Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/torta-festival-(25-pedazos).html/07861047700062",
+      "error": "request to https://www.heladospinguino.com.ec/p/torta-festival-(25-pedazos).html/07861047700062 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:15.621Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-napolitano-900ml.html/07861047722705",
+      "error": "request to https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-napolitano-900ml.html/07861047722705 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:15.600Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-chocolate-900ml.html/07861047722729",
+      "error": "request to https://www.heladospinguino.com.ec/p/cl%C3%A1sicos-chocolate-900ml.html/07861047722729 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:15.621Z"
+    }
+  ]
+}

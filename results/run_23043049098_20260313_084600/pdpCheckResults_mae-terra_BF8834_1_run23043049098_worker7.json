@@ -1,0 +1,177 @@
+{
+  "generatedAt": "2026-03-13T08:44:44.868Z",
+  "brand": "mae-terra",
+  "assortmentCode": "BF8834",
+  "feedUrl": "https://www.maeterra.com.br/home.productfeed.json",
+  "totalUrlsChecked": 27,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/granola-tradicional-com-castanhas-brasileiras.html/07891150075443",
+      "gtin": "07891150075443",
+      "checkedAt": "2026-03-13T08:44:44.758Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/granola-banana-e-cacau.html/07891150075450",
+      "gtin": "07891150075450",
+      "checkedAt": "2026-03-13T08:44:44.782Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-cacau-organico.html/07891150081338",
+      "gtin": "07891150081338",
+      "checkedAt": "2026-03-13T08:44:44.755Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-maizena.html/07891150084643",
+      "gtin": "07891150084643",
+      "checkedAt": "2026-03-13T08:44:44.852Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/granola-tradicional-zero-acucares.html/07891150087606",
+      "gtin": "07891150087606",
+      "checkedAt": "2026-03-13T08:44:44.743Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-brigadeiro-zero.html/07891150089112",
+      "gtin": "07891150089112",
+      "checkedAt": "2026-03-13T08:44:44.741Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/choco-cookies-castanhas-brasileiras.html/07891150089167",
+      "gtin": "07891150089167",
+      "checkedAt": "2026-03-13T08:44:44.727Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/choco-biscoito-maizena.html/07891150089181",
+      "gtin": "07891150089181",
+      "checkedAt": "2026-03-13T08:44:44.768Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/choco-biscoito-cacau.html/07891150089198",
+      "gtin": "07891150089198",
+      "checkedAt": "2026-03-13T08:44:44.734Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/granola-castanha-de-caju-amigos-do-bem.html/07891150090798",
+      "gtin": "07891150090798",
+      "checkedAt": "2026-03-13T08:44:44.827Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-queijo.html/07891150094857",
+      "gtin": "07891150094857",
+      "checkedAt": "2026-03-13T08:44:44.749Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/tribos-cracker-gergelim.html/07896496917525",
+      "gtin": "07896496917525",
+      "checkedAt": "2026-03-13T08:44:44.748Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-caramelo-com-coco.html/07896496917655",
+      "gtin": "07896496917655",
+      "checkedAt": "2026-03-13T08:44:44.760Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-cacau.html/07896496917662",
+      "gtin": "07896496917662",
+      "checkedAt": "2026-03-13T08:44:44.770Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/tribos-cacau.html/07896496917709",
+      "gtin": "07896496917709",
+      "checkedAt": "2026-03-13T08:44:44.765Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/tribos-coco.html/07896496917716",
+      "gtin": "07896496917716",
+      "checkedAt": "2026-03-13T08:44:44.810Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/granola-frutas-e-mel-vegano.html/07896496972111",
+      "gtin": "07896496972111",
+      "checkedAt": "2026-03-13T08:44:44.859Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-pizza.html/07896496972326",
+      "gtin": "07896496972326",
+      "checkedAt": "2026-03-13T08:44:44.838Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-cebola.html/07896496972340",
+      "gtin": "07896496972340",
+      "checkedAt": "2026-03-13T08:44:44.737Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/remix-castanhas-brasileiras.html/07896496972500",
+      "gtin": "07896496972500",
+      "checkedAt": "2026-03-13T08:44:44.753Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/remix-acai.html/07896496972555",
+      "gtin": "07896496972555",
+      "checkedAt": "2026-03-13T08:44:44.746Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/remix-cacau.html/07896496972609",
+      "gtin": "07896496972609",
+      "checkedAt": "2026-03-13T08:44:44.759Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/remix-sementes.html/07896496972623",
+      "gtin": "07896496972623",
+      "checkedAt": "2026-03-13T08:44:44.796Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-cacau-e-castanhas.html/07896496980857",
+      "gtin": "07896496980857",
+      "checkedAt": "2026-03-13T08:44:44.868Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-banana-e-cacau.html/07896496980888",
+      "gtin": "07896496980888",
+      "checkedAt": "2026-03-13T08:44:44.799Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-coco-e-castanhas.html/07896496980994",
+      "gtin": "07896496980994",
+      "checkedAt": "2026-03-13T08:44:44.756Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.maeterra.com.br/p/granola-cacau.html/07896496995219",
+      "gtin": "07896496995219",
+      "checkedAt": "2026-03-13T08:44:44.825Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.52s",
+  "speedMetrics": "51.92 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

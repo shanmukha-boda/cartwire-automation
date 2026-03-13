@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-03-13T08:44:10.076Z",
+  "brand": "smile",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal-zahnpflege.de/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now.html/08712561437370",
+      "gtin": "08712561437370",
+      "checkedAt": "2026-03-13T08:44:10.051Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now-time-correct.html/08720181327186",
+      "gtin": "08720181327186",
+      "checkedAt": "2026-03-13T08:44:10.013Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnpasta-0-6-jahre-mit-fruchtgeschmack.html/08720181501456",
+      "gtin": "08720181501456",
+      "checkedAt": "2026-03-13T08:44:10.052Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnpasta-6-13-jahre-milde-minze.html/08720181501760",
+      "gtin": "08720181501760",
+      "checkedAt": "2026-03-13T08:44:09.900Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnpasta-6-13-jahre-rote-fr%C3%BCchte.html/08720181501777",
+      "gtin": "08720181501777",
+      "checkedAt": "2026-03-13T08:44:09.909Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnb%C3%BCrste-6-13-jahre-extra-soft-trio.html/08720181502804",
+      "gtin": "08720181502804",
+      "checkedAt": "2026-03-13T08:44:09.914Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnb%C3%BCrste-0-6-jahre-extra-soft-trio.html/08720181502811",
+      "gtin": "08720181502811",
+      "checkedAt": "2026-03-13T08:44:10.050Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnb%C3%BCrste-6-13-jahre-extra-soft.html/08720181502828",
+      "gtin": "08720181502828",
+      "checkedAt": "2026-03-13T08:44:10.075Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnb%C3%BCrste-0-6-jahre-extra-soft.html/08720181502835",
+      "gtin": "08720181502835",
+      "checkedAt": "2026-03-13T08:44:09.848Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-sport-gel-fresh-xxl.html/08718114436395",
+      "gtin": "08718114436395",
+      "checkedAt": "2026-03-13T08:44:10.017Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz.html/08720181323539",
+      "gtin": "08720181323539",
+      "checkedAt": "2026-03-13T08:44:09.861Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-sport-gel-fresh.html/08720181323546",
+      "gtin": "08720181323546",
+      "checkedAt": "2026-03-13T08:44:09.871Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-cool-mint.html/08720181323553",
+      "gtin": "08720181323553",
+      "checkedAt": "2026-03-13T08:44:09.952Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz-xxl.html/08720181323560",
+      "gtin": "08720181323560",
+      "checkedAt": "2026-03-13T08:44:10.055Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-cool-mint-xxl.html/08720181323577",
+      "gtin": "08720181323577",
+      "checkedAt": "2026-03-13T08:44:10.065Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.55s",
+  "speedMetrics": "27.27 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

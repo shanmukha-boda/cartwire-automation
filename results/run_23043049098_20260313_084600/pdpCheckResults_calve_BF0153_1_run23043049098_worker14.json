@@ -1,0 +1,147 @@
+{
+  "generatedAt": "2026-03-13T08:44:17.057Z",
+  "brand": "calve",
+  "assortmentCode": "BF0153",
+  "feedUrl": "https://www.calve.com.tr/home.productfeed.json",
+  "totalUrlsChecked": 22,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-aci-peri-peri-sos.html/08683130002384",
+      "gtin": "08683130002384",
+      "checkedAt": "2026-03-13T08:44:10.926Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-sriracha-sos.html/08683130063170",
+      "gtin": "08683130063170",
+      "checkedAt": "2026-03-13T08:44:10.901Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-truflu-mayonez.html/08683130069073",
+      "gtin": "08683130069073",
+      "checkedAt": "2026-03-13T08:44:10.980Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-sriracha-mayonez.html/08683130069080",
+      "gtin": "08683130069080",
+      "checkedAt": "2026-03-13T08:44:10.952Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-pesto-mayonez.html/08683130069097",
+      "gtin": "08683130069097",
+      "checkedAt": "2026-03-13T08:44:16.124Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-buffalo-sos.html/08690637796890",
+      "gtin": "08690637796890",
+      "checkedAt": "2026-03-13T08:44:10.989Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-ranch-sos.html/08690637805202",
+      "gtin": "08690637805202",
+      "checkedAt": "2026-03-13T08:44:10.877Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-barbeku-sos.html/08690637805219",
+      "gtin": "08690637805219",
+      "checkedAt": "2026-03-13T08:44:10.940Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-hardal.html/08690637805226",
+      "gtin": "08690637805226",
+      "checkedAt": "2026-03-13T08:44:10.932Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-sarimsakli-mayonez.html/08690637805233",
+      "gtin": "08690637805233",
+      "checkedAt": "2026-03-13T08:44:10.961Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-balli-hardal.html/08690637805769",
+      "gtin": "08690637805769",
+      "checkedAt": "2026-03-13T08:44:10.948Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-aci-sos.html/08690637833847",
+      "gtin": "08690637833847",
+      "checkedAt": "2026-03-13T08:44:10.901Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-acili-ketcap.html/08690637840746",
+      "gtin": "08690637840746",
+      "checkedAt": "2026-03-13T08:44:10.976Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-klasik-mayonez.html/08690637840777",
+      "gtin": "08690637840777",
+      "checkedAt": "2026-03-13T08:44:10.914Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-klasik-ketcap.html/08690637840821",
+      "gtin": "08690637840821",
+      "checkedAt": "2026-03-13T08:44:10.914Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-acili-meksika-salsa-dip-sos.html/08690637919817",
+      "gtin": "08690637919817",
+      "checkedAt": "2026-03-13T08:44:10.914Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-tatli-aci-sweet-chili-dip-sos.html/08690637919824",
+      "gtin": "08690637919824",
+      "checkedAt": "2026-03-13T08:44:10.980Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-cheddar-sos.html/08690637921100",
+      "gtin": "08690637921100",
+      "checkedAt": "2026-03-13T08:44:10.995Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-yagi-azaltilmis-mayonez.html/08690637923272",
+      "gtin": "08690637923272",
+      "checkedAt": "2026-03-13T08:44:17.057Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-kori-sos.html/08690637953293",
+      "gtin": "08690637953293",
+      "checkedAt": "2026-03-13T08:44:11.041Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-taneli-hardal.html/08690637993749",
+      "gtin": "08690637993749",
+      "checkedAt": "2026-03-13T08:44:11.060Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.calve.com.tr/p/calve-hafif-bi-mayonez.html/08690637999277",
+      "gtin": "08690637999277",
+      "checkedAt": "2026-03-13T08:44:16.080Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "6.54s",
+  "speedMetrics": "3.36 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

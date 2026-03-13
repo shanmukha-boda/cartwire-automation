@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-03-13T08:44:46.683Z",
+  "brand": "cremissimo",
+  "assortmentCode": "BF0225",
+  "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+  "totalUrlsChecked": 25,
+  "problematicPagesFound": 10,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/erdbeer-joghurt.html/08711327615434",
+      "gtin": "08711327615434",
+      "checkedAt": "2026-03-13T08:44:46.473Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/eierlik%C3%B6r.html/08711327615748",
+      "gtin": "08711327615748",
+      "checkedAt": "2026-03-13T08:44:46.429Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/salted-caramel.html/08711327616097",
+      "gtin": "08711327616097",
+      "checkedAt": "2026-03-13T08:44:46.382Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/nogger-choc.html/08711327616622",
+      "gtin": "08711327616622",
+      "checkedAt": "2026-03-13T08:44:46.408Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/schwarzw%C3%A4lder-kirsch.html/08711327617506",
+      "gtin": "08711327617506",
+      "checkedAt": "2026-03-13T08:44:46.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/heidelbeer-vanille.html/08711327617766",
+      "gtin": "08711327617766",
+      "checkedAt": "2026-03-13T08:44:46.421Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/solero.html/08711327618145",
+      "gtin": "08711327618145",
+      "checkedAt": "2026-03-13T08:44:46.422Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/bourbon-vanille-vegan.html/08711327618671",
+      "gtin": "08711327618671",
+      "checkedAt": "2026-03-13T08:44:46.455Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/schokolade.html/08711327619470",
+      "gtin": "08711327619470",
+      "checkedAt": "2026-03-13T08:44:46.371Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/walnuss.html/08711327619722",
+      "gtin": "08711327619722",
+      "checkedAt": "2026-03-13T08:44:46.368Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/stracciatella.html/08711327622814",
+      "gtin": "08711327622814",
+      "checkedAt": "2026-03-13T08:44:46.364Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/triple-choc.html/08711327627505",
+      "gtin": "08711327627505",
+      "checkedAt": "2026-03-13T08:44:46.418Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/tiramisu.html/08711327629547",
+      "gtin": "08711327629547",
+      "checkedAt": "2026-03-13T08:44:46.383Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.cremissimo.de/p/bourbon-vanille.html/08711327630895",
+      "gtin": "08711327630895",
+      "checkedAt": "2026-03-13T08:44:46.410Z"
+    }
+  ],
+  "errors": 1,
+  "duration": "0.71s",
+  "speedMetrics": "35.21 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/baileys.html/08711327657267",
+      "gtin": "08711327657267",
+      "checkedAt": "2026-03-13T08:44:46.420Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/haselnuss-vanilla-schokolade.html/08711327668836",
+      "gtin": "08711327668836",
+      "checkedAt": "2026-03-13T08:44:46.437Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/pistazie-vanille.html/08711327671874",
+      "gtin": "08711327671874",
+      "checkedAt": "2026-03-13T08:44:46.374Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/himbeer-spritz.html/08711327677302",
+      "gtin": "08711327677302",
+      "checkedAt": "2026-03-13T08:44:46.387Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/soft-&-crunchy-erdbeere.html/08721274812299",
+      "gtin": "08721274812299",
+      "checkedAt": "2026-03-13T08:44:46.362Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/soft-&-crunchy-schokolade.html/08721274812671",
+      "gtin": "08721274812671",
+      "checkedAt": "2026-03-13T08:44:46.380Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/crema.html/08721274818055",
+      "gtin": "08721274818055",
+      "checkedAt": "2026-03-13T08:44:46.445Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/schokolade-vanilla-erdbeer.html/08721274814804",
+      "gtin": "08721274814804",
+      "checkedAt": "2026-03-13T08:44:46.392Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/walnuss-heidelbeer-butterkeks.html/08721274815191",
+      "gtin": "08721274815191",
+      "checkedAt": "2026-03-13T08:44:46.683Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/tiramisu-genuss.html/08721274817102",
+      "gtin": "08721274817102",
+      "checkedAt": "2026-03-13T08:44:46.364Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.cremissimo.de/p/strawberry-cheescake.html/08711327617940",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-13T08:44:46.682Z"
+    }
+  ]
+}

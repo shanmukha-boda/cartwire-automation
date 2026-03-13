@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-03-13T08:44:14.731Z",
+  "brand": "duschdas",
+  "assortmentCode": "BH0874",
+  "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+  "totalUrlsChecked": 20,
+  "problematicPagesFound": 4,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-noire-3in1.html/08720181325380",
+      "gtin": "08720181325380",
+      "checkedAt": "2026-03-13T08:44:14.496Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-ice-kick-2in1.html/08720181333996",
+      "gtin": "08720181333996",
+      "checkedAt": "2026-03-13T08:44:14.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-acai-berry.html/08720181334016",
+      "gtin": "08720181334016",
+      "checkedAt": "2026-03-13T08:44:14.556Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-magnolie.html/08720181334030",
+      "gtin": "08720181334030",
+      "checkedAt": "2026-03-13T08:44:14.511Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-wildrose-melisse.html/08720181334061",
+      "gtin": "08720181334061",
+      "checkedAt": "2026-03-13T08:44:14.678Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-limette-minze.html/08720181334108",
+      "gtin": "08720181334108",
+      "checkedAt": "2026-03-13T08:44:14.550Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-zitrone-rosmarin.html/08720181334122",
+      "gtin": "08720181334122",
+      "checkedAt": "2026-03-13T08:44:14.556Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-pfirsich.html/08720181334139",
+      "gtin": "08720181334139",
+      "checkedAt": "2026-03-13T08:44:14.570Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-energy-3in1.html/08720181334153",
+      "gtin": "08720181334153",
+      "checkedAt": "2026-03-13T08:44:14.622Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-shampoo-for-men-3in1.html/08720181334580",
+      "gtin": "08720181334580",
+      "checkedAt": "2026-03-13T08:44:14.526Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-sport-3in1.html/08720181334597",
+      "gtin": "08720181334597",
+      "checkedAt": "2026-03-13T08:44:14.585Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-mandel-jojoba-(almond-jojoba).html/08720181400247",
+      "gtin": "08720181400247",
+      "checkedAt": "2026-03-13T08:44:14.535Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-granatapfel.html/08720181490057",
+      "gtin": "08720181490057",
+      "checkedAt": "2026-03-13T08:44:14.659Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-dfb-fan-edition.html/08720181798474",
+      "gtin": "08720181798474",
+      "checkedAt": "2026-03-13T08:44:14.589Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-dfb-fan-edition-450ml.html/08720181798481",
+      "gtin": "08720181798481",
+      "checkedAt": "2026-03-13T08:44:14.531Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.duschdas.de/p/duschgel-spa-des-orients.html/08720181883699",
+      "gtin": "08720181883699",
+      "checkedAt": "2026-03-13T08:44:14.494Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.57s",
+  "speedMetrics": "35.09 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-kokos-sheabutter-(cocos-shea-butter).html/08720181400254",
+      "gtin": "08720181400254",
+      "checkedAt": "2026-03-13T08:44:14.515Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-hydra-kick.html/08720181559648",
+      "gtin": "08720181559648",
+      "checkedAt": "2026-03-13T08:44:14.573Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-deep-relax.html/08720181559655",
+      "gtin": "08720181559655",
+      "checkedAt": "2026-03-13T08:44:14.731Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "duschdas",
+      "assortmentCode": "BH0874",
+      "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+      "url": "https://www.duschdas.de/p/duschgel-night-out.html/08720181685880",
+      "gtin": "08720181685880",
+      "checkedAt": "2026-03-13T08:44:14.574Z"
+    }
+  ],
+  "errorPages": []
+}

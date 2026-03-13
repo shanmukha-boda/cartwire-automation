@@ -1,0 +1,567 @@
+{
+  "generatedAt": "2026-03-13T08:43:58.701Z",
+  "brand": "walls",
+  "assortmentCode": "BF0012",
+  "feedUrl": "https://www.algida.com/gr/home.productfeed.json",
+  "totalUrlsChecked": 92,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-vanilla-madagascar-5l.html/04056100032201",
+      "gtin": "04056100032201",
+      "checkedAt": "2026-03-13T08:43:58.391Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-cone-almond-160ml.html/05201028345639",
+      "gtin": "05201028345639",
+      "checkedAt": "2026-03-13T08:43:58.549Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-kingcone-vanilla-260ml.html/05201028355508",
+      "gtin": "05201028355508",
+      "checkedAt": "2026-03-13T08:43:58.215Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/evga-cream-900ml.html/05201034050213",
+      "gtin": "05201034050213",
+      "checkedAt": "2026-03-13T08:43:58.442Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/sandwich-100ml.html/07310290002176",
+      "gtin": "07310290002176",
+      "checkedAt": "2026-03-13T08:43:58.507Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/calippo-orange-105ml.html/08000920401170",
+      "gtin": "08000920401170",
+      "checkedAt": "2026-03-13T08:43:58.395Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/calippo-lemon-105ml.html/08000920401187",
+      "gtin": "08000920401187",
+      "checkedAt": "2026-03-13T08:43:58.455Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/calippo-strawberry-105ml.html/08000920401248",
+      "gtin": "08000920401248",
+      "checkedAt": "2026-03-13T08:43:58.428Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/supertwister.html/08000920402801",
+      "gtin": "08000920402801",
+      "checkedAt": "2026-03-13T08:43:58.348Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/caramel.html/08000920808061",
+      "gtin": "08000920808061",
+      "checkedAt": "2026-03-13T08:43:58.352Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-chocolate.html/08000920815953",
+      "gtin": "08000920815953",
+      "checkedAt": "2026-03-13T08:43:58.524Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/rum-&-raisins.html/08000920815991",
+      "gtin": "08000920815991",
+      "checkedAt": "2026-03-13T08:43:58.307Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/strawberry-cheesecake.html/08000920826638",
+      "gtin": "08000920826638",
+      "checkedAt": "2026-03-13T08:43:58.476Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/yogurt-&-honey.html/08000920826645",
+      "gtin": "08000920826645",
+      "checkedAt": "2026-03-13T08:43:58.373Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/stracciatella.html/08000920829707",
+      "gtin": "08000920829707",
+      "checkedAt": "2026-03-13T08:43:58.258Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/vanilla.html/08000920829745",
+      "gtin": "08000920829745",
+      "checkedAt": "2026-03-13T08:43:58.459Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/coffee.html/08000920829783",
+      "gtin": "08000920829783",
+      "checkedAt": "2026-03-13T08:43:58.300Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/mint-&-chocolate.html/08000920833582",
+      "gtin": "08000920833582",
+      "checkedAt": "2026-03-13T08:43:58.511Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/sorbet-lemon.html/08000920834688",
+      "gtin": "08000920834688",
+      "checkedAt": "2026-03-13T08:43:58.422Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/raspberry-sorbet.html/08000920834855",
+      "gtin": "08000920834855",
+      "checkedAt": "2026-03-13T08:43:58.481Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-brownie-55l.html/08000920861745",
+      "gtin": "08000920861745",
+      "checkedAt": "2026-03-13T08:43:58.264Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/vanila-wild-cherry.html/08000920915202",
+      "gtin": "08000920915202",
+      "checkedAt": "2026-03-13T08:43:58.136Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/tiramisu.html/08000920915516",
+      "gtin": "08000920915516",
+      "checkedAt": "2026-03-13T08:43:58.401Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-banana-&-chocolate-55l.html/08000920925003",
+      "gtin": "08000920925003",
+      "checkedAt": "2026-03-13T08:43:58.417Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-pistachio-55l.html/08000920925515",
+      "gtin": "08000920925515",
+      "checkedAt": "2026-03-13T08:43:58.280Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/kids-marshmallow.html/08000920981092",
+      "gtin": "08000920981092",
+      "checkedAt": "2026-03-13T08:43:58.529Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cocktail-cup-150ml.html/08710908936500",
+      "gtin": "08710908936500",
+      "checkedAt": "2026-03-13T08:43:58.516Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-double-caramel-440ml.html/08711327315518",
+      "gtin": "08711327315518",
+      "checkedAt": "2026-03-13T08:43:58.408Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-white-chocolate-&-cookies-440ml.html/08711327315952",
+      "gtin": "08711327315952",
+      "checkedAt": "2026-03-13T08:43:58.485Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-strawberry-120ml.html/08711327320109",
+      "gtin": "08711327320109",
+      "checkedAt": "2026-03-13T08:43:58.437Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-chocolate-90ml.html/08711327323643",
+      "gtin": "08711327323643",
+      "checkedAt": "2026-03-13T08:43:58.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-chocolate-90ml-x-6.html/08711327324077",
+      "gtin": "08711327324077",
+      "checkedAt": "2026-03-13T08:43:58.450Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-salted-caramel-glazed-almonds-90ml.html/08711327391208",
+      "gtin": "08711327391208",
+      "checkedAt": "2026-03-13T08:43:58.364Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-salted-caramel-24l.html/08711327466821",
+      "gtin": "08711327466821",
+      "checkedAt": "2026-03-13T08:43:58.252Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-double-gold-caramel-billionaire-440ml.html/08711327480780",
+      "gtin": "08711327480780",
+      "checkedAt": "2026-03-13T08:43:58.211Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-double-gold-caramel-billionaire-85ml.html/08711327482630",
+      "gtin": "08711327482630",
+      "checkedAt": "2026-03-13T08:43:58.557Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/x-pop-50ml.html/08711327485846",
+      "gtin": "08711327485846",
+      "checkedAt": "2026-03-13T08:43:58.158Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-miniatures-vanila-chocolate.html/08711327488694",
+      "gtin": "08711327488694",
+      "checkedAt": "2026-03-13T08:43:58.520Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-soft-140ml-x4.html/08711327489448",
+      "gtin": "08711327489448",
+      "checkedAt": "2026-03-13T08:43:58.463Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cookies-&-cream.html/08711327495647",
+      "gtin": "08711327495647",
+      "checkedAt": "2026-03-13T08:43:58.153Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-almond-remix-440ml.html/08711327536937",
+      "gtin": "08711327536937",
+      "checkedAt": "2026-03-13T08:43:58.220Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-soft-cookies-chocolate.html/08711327536982",
+      "gtin": "08711327536982",
+      "checkedAt": "2026-03-13T08:43:58.412Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-soft-cookie-140ml-x-4.html/08711327537248",
+      "gtin": "08711327537248",
+      "checkedAt": "2026-03-13T08:43:58.185Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/twister-pineapple.html/08711327575646",
+      "gtin": "08711327575646",
+      "checkedAt": "2026-03-13T08:43:58.566Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/twister-mini-50ml-x6.html/08711327576810",
+      "gtin": "08711327576810",
+      "checkedAt": "2026-03-13T08:43:58.502Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/evga-cookies-cream-900ml.html/08711327578845",
+      "gtin": "08711327578845",
+      "checkedAt": "2026-03-13T08:43:58.166Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-mini-double-chocolate-double-caramel-55-ml-x6.html/08711327579941",
+      "gtin": "08711327579941",
+      "checkedAt": "2026-03-13T08:43:58.180Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-double-chocolate-85ml.html/08711327581906",
+      "gtin": "08711327581906",
+      "checkedAt": "2026-03-13T08:43:58.356Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/vegan-vanilla.html/08711327597235",
+      "gtin": "08711327597235",
+      "checkedAt": "2026-03-13T08:43:58.433Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-classic-110ml.html/08711327608801",
+      "gtin": "08711327608801",
+      "checkedAt": "2026-03-13T08:43:58.494Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-110ml-almond-fic-x20-x228-eb.html/08711327608917",
+      "gtin": "08711327608917",
+      "checkedAt": "2026-03-13T08:43:58.225Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-classic-440ml.html/08711327611528",
+      "gtin": "08711327611528",
+      "checkedAt": "2026-03-13T08:43:58.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-almond-vegan-90ml.html/08711327620070",
+      "gtin": "08711327620070",
+      "checkedAt": "2026-03-13T08:43:58.382Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-soft-straciatella-%CF%80%CE%BF%CE%BB%CF%85%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CE%B1%CF%83%CE%AF%CE%B1.html/08711327624764",
+      "gtin": "08711327624764",
+      "checkedAt": "2026-03-13T08:43:58.369Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-soft-straciatella.html/08711327627697",
+      "gtin": "08711327627697",
+      "checkedAt": "2026-03-13T08:43:58.472Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-cookie-mix.html/08711327629912",
+      "gtin": "08711327629912",
+      "checkedAt": "2026-03-13T08:43:58.377Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-almond-&-billionaire.html/08711327630208",
+      "gtin": "08711327630208",
+      "checkedAt": "2026-03-13T08:43:58.146Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/karabola-110ml.html/08711327631175",
+      "gtin": "08711327631175",
+      "checkedAt": "2026-03-13T08:43:58.130Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-choco-orgy-850ml.html/08711327632080",
+      "gtin": "08711327632080",
+      "checkedAt": "2026-03-13T08:43:58.315Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-cookies-arrested-850ml.html/08711327632226",
+      "gtin": "08711327632226",
+      "checkedAt": "2026-03-13T08:43:58.233Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-%CE%BA%CF%8D%CF%80%CE%B5%CE%BB%CE%BF-caramel-secrets-850ml.html/08711327632493",
+      "gtin": "08711327632493",
+      "checkedAt": "2026-03-13T08:43:58.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-choco-orgy-175ml.html/08711327632752",
+      "gtin": "08711327632752",
+      "checkedAt": "2026-03-13T08:43:58.323Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-parfait-vanilla-175ml.html/08711327632882",
+      "gtin": "08711327632882",
+      "checkedAt": "2026-03-13T08:43:58.194Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-parfait-vanilla-850ml.html/08711327633018",
+      "gtin": "08711327633018",
+      "checkedAt": "2026-03-13T08:43:58.534Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/lion-king-sandwich.html/08711327633155",
+      "gtin": "08711327633155",
+      "checkedAt": "2026-03-13T08:43:58.175Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-caramel-secrets-175ml.html/08711327633292",
+      "gtin": "08711327633292",
+      "checkedAt": "2026-03-13T08:43:58.561Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/scandal-cookies-arrested-175ml.html/08711327633469",
+      "gtin": "08711327633469",
+      "checkedAt": "2026-03-13T08:43:58.189Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-sunlover-440ml.html/08711327635333",
+      "gtin": "08711327635333",
+      "checkedAt": "2026-03-13T08:43:58.327Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-melon.html/08711327638020",
+      "gtin": "08711327638020",
+      "checkedAt": "2026-03-13T08:43:58.539Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-watermelon.html/08711327638037",
+      "gtin": "08711327638037",
+      "checkedAt": "2026-03-13T08:43:58.544Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-double-hazelnut-85ml.html/08711327665460",
+      "gtin": "08711327665460",
+      "checkedAt": "2026-03-13T08:43:58.490Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/peanut-&-banana-825ml.html/08711327665514",
+      "gtin": "08711327665514",
+      "checkedAt": "2026-03-13T08:43:58.360Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/haribo-85ml.html/08711327667525",
+      "gtin": "08711327667525",
+      "checkedAt": "2026-03-13T08:43:58.572Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-double-hazelnut-440ml.html/08711327671928",
+      "gtin": "08711327671928",
+      "checkedAt": "2026-03-13T08:43:58.200Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-bar-caramel-nut-64ml.html/08711327671973",
+      "gtin": "08711327671973",
+      "checkedAt": "2026-03-13T08:43:58.246Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-mini-55ml-x6.html/08711327678330",
+      "gtin": "08711327678330",
+      "checkedAt": "2026-03-13T08:43:58.468Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-sandwich-almond-140ml.html/08711327679764",
+      "gtin": "08711327679764",
+      "checkedAt": "2026-03-13T08:43:58.206Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/evga-0%25-vanilla.html/08711327682382",
+      "gtin": "08711327682382",
+      "checkedAt": "2026-03-13T08:43:58.499Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-double-caramel-85ml.html/08712100849848",
+      "gtin": "08712100849848",
+      "checkedAt": "2026-03-13T08:43:58.238Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-classico-90ml-x6.html/08712100879302",
+      "gtin": "08712100879302",
+      "checkedAt": "2026-03-13T08:43:58.553Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/calippo-supermix-105ml-x-5.html/08712566108626",
+      "gtin": "08712566108626",
+      "checkedAt": "2026-03-13T08:43:58.687Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/viennetta-vanilla-xxl-1l.html/08712566397709",
+      "gtin": "08712566397709",
+      "checkedAt": "2026-03-13T08:43:58.628Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-almond-440ml.html/08714100289976",
+      "gtin": "08714100289976",
+      "checkedAt": "2026-03-13T08:43:58.675Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/sorbet-mango.html/08714100564219",
+      "gtin": "08714100564219",
+      "checkedAt": "2026-03-13T08:43:58.604Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/carte-d-or-candyfloss-55l.html/08714100588482",
+      "gtin": "08714100588482",
+      "checkedAt": "2026-03-13T08:43:58.640Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/praline.html/08714100590096",
+      "gtin": "08714100590096",
+      "checkedAt": "2026-03-13T08:43:58.701Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-mini-classic-almond-white-55ml-x6.html/08714100635742",
+      "gtin": "08714100635742",
+      "checkedAt": "2026-03-13T08:43:58.683Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/cornetto-vegan-%CF%80%CE%BF%CE%BB%CF%85%CF%83%CF%85%CF%83%CE%BA%CE%B5%CF%85%CE%B1%CF%83%CE%AF%CE%B1.html/08714100873885",
+      "gtin": "08714100873885",
+      "checkedAt": "2026-03-13T08:43:58.692Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/magic-90ml-white-chocolate-and-cookies.html/08717163691786",
+      "gtin": "08717163691786",
+      "checkedAt": "2026-03-13T08:43:58.667Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/king-cone-chocolate-260ml.html/08722700020097",
+      "gtin": "08722700020097",
+      "checkedAt": "2026-03-13T08:43:58.657Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/sugar-free.html/08722700066675",
+      "gtin": "08722700066675",
+      "checkedAt": "2026-03-13T08:43:58.662Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.algida.com/gr/p/sandwich-100mlx6.html/08722700132523",
+      "gtin": "08722700132523",
+      "checkedAt": "2026-03-13T08:43:58.696Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.98s",
+  "speedMetrics": "93.88 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

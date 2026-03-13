@@ -1,0 +1,1189 @@
+{
+  "generatedAt": "2026-03-13T08:44:54.167Z",
+  "brand": "recipedia",
+  "assortmentCode": "BF8813",
+  "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+  "totalUrlsChecked": 168,
+  "problematicPagesFound": 55,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-mustar-720g.html/08593838918125",
+      "gtin": "08593838918125",
+      "checkedAt": "2026-03-13T08:44:44.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-mustar-440g.html/08593838918163",
+      "gtin": "08593838918163",
+      "checkedAt": "2026-03-13T08:44:44.217Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-cheddar-szosz.html/08710522976876",
+      "gtin": "08710522976876",
+      "checkedAt": "2026-03-13T08:44:43.882Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-csipos-mexikoi-szosz.html/08710604744393",
+      "gtin": "08710604744393",
+      "checkedAt": "2026-03-13T08:44:44.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-mezes-bbq-szosz.html/08712100390548",
+      "gtin": "08712100390548",
+      "checkedAt": "2026-03-13T08:44:44.018Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-burger-szosz.html/08712566385188",
+      "gtin": "08712566385188",
+      "checkedAt": "2026-03-13T08:44:44.017Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chilis-szosz.html/08712566388066",
+      "gtin": "08712566388066",
+      "checkedAt": "2026-03-13T08:44:43.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-bbq-szosz.html/08712566394197",
+      "gtin": "08712566394197",
+      "checkedAt": "2026-03-13T08:44:44.170Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-original.html/08720182088277",
+      "gtin": "08720182088277",
+      "checkedAt": "2026-03-13T08:44:44.081Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-uborkas-tartar-szosz.html/08720182515377",
+      "gtin": "08720182515377",
+      "checkedAt": "2026-03-13T08:44:43.562Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-edes-chili-szosz.html/08720182577986",
+      "gtin": "08720182577986",
+      "checkedAt": "2026-03-13T08:44:44.027Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-edes-savanyu-szosz.html/08720182589323",
+      "gtin": "08720182589323",
+      "checkedAt": "2026-03-13T08:44:43.997Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-kinai-stilusu-leves.html/08720182691835",
+      "gtin": "08720182691835",
+      "checkedAt": "2026-03-13T08:44:44.602Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-indonez-stilusu-leves.html/08720182694836",
+      "gtin": "08720182694836",
+      "checkedAt": "2026-03-13T08:44:43.845Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-currys-azsiai-instant-teszta.html/08720182804891",
+      "gtin": "08720182804891",
+      "checkedAt": "2026-03-13T08:44:43.945Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-csipos-csirkes-instant-teszta.html/08720182882325",
+      "gtin": "08720182882325",
+      "checkedAt": "2026-03-13T08:44:44.218Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-paprikas-csirkes.html/08720182932686",
+      "gtin": "08720182932686",
+      "checkedAt": "2026-03-13T08:44:44.112Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-eroleves-kocka.html/08721201906732",
+      "gtin": "08721201906732",
+      "checkedAt": "2026-03-13T08:44:44.170Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-brokkolis.html/08721201919855",
+      "gtin": "08721201919855",
+      "checkedAt": "2026-03-13T08:44:44.112Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-spenotos.html/08721201919916",
+      "gtin": "08721201919916",
+      "checkedAt": "2026-03-13T08:44:44.255Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-piritott-teszta-zoldseges.html/08721201920042",
+      "gtin": "08721201920042",
+      "checkedAt": "2026-03-13T08:44:44.050Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-paradicsomos-mozzarellas.html/08721201920561",
+      "gtin": "08721201920561",
+      "checkedAt": "2026-03-13T08:44:43.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-piritott-teszta-csirkes.html/08721201920714",
+      "gtin": "08721201920714",
+      "checkedAt": "2026-03-13T08:44:44.229Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-csipos-tyukhusleves.html/08721201954337",
+      "gtin": "08721201954337",
+      "checkedAt": "2026-03-13T08:44:46.755Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-pikans-marhahusleves.html/08721201956454",
+      "gtin": "08721201956454",
+      "checkedAt": "2026-03-13T08:44:44.247Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-4-sajtos.html/08721201957116",
+      "gtin": "08721201957116",
+      "checkedAt": "2026-03-13T08:44:44.145Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-cheddar-szosz.html/08721201959608",
+      "gtin": "08721201959608",
+      "checkedAt": "2026-03-13T08:44:43.802Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/tejszines-gombas-csirke-alap.html/08721201998430",
+      "gtin": "08721201998430",
+      "checkedAt": "2026-03-13T08:44:44.112Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-meggyleves.html/05996358005666",
+      "gtin": "05996358005666",
+      "checkedAt": "2026-03-13T08:44:44.018Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorrgorog-gyumolcsleves.html/05996358005680",
+      "gtin": "05996358005680",
+      "checkedAt": "2026-03-13T08:44:44.081Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-450g.html/05996358010578",
+      "gtin": "05996358010578",
+      "checkedAt": "2026-03-13T08:44:44.191Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-1kg.html/05996358010585",
+      "gtin": "05996358010585",
+      "checkedAt": "2026-03-13T08:44:48.150Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014170",
+      "gtin": "05996358014170",
+      "checkedAt": "2026-03-13T08:44:43.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014187",
+      "gtin": "05996358014187",
+      "checkedAt": "2026-03-13T08:44:43.818Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleveskocka.html/05996358014194",
+      "gtin": "05996358014194",
+      "checkedAt": "2026-03-13T08:44:44.224Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014279",
+      "gtin": "05996358014279",
+      "checkedAt": "2026-03-13T08:44:44.127Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-zoldsegleveskocka.html/05996358018918",
+      "gtin": "05996358018918",
+      "checkedAt": "2026-03-13T08:44:43.712Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-lasagne-bolognese.html/05997257351052",
+      "gtin": "05997257351052",
+      "checkedAt": "2026-03-13T08:44:43.651Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bolognai-spagetti-alap.html/05997257387709",
+      "gtin": "05997257387709",
+      "checkedAt": "2026-03-13T08:44:43.997Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-tesztaleves-csirkes.html/08710522627433",
+      "gtin": "08710522627433",
+      "checkedAt": "2026-03-13T08:44:44.130Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-fustolthus-izesito-kocka.html/08710522919552",
+      "gtin": "08710522919552",
+      "checkedAt": "2026-03-13T08:44:44.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-burgonyapure.html/08710522919620",
+      "gtin": "08710522919620",
+      "checkedAt": "2026-03-13T08:44:44.153Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-gulyasleves.html/08710522919699",
+      "gtin": "08710522919699",
+      "checkedAt": "2026-03-13T08:44:44.018Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkolt-alap.html/08710522945025",
+      "gtin": "08710522945025",
+      "checkedAt": "2026-03-13T08:44:44.145Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-rokagomba-kremleves.html/08710522958315",
+      "gtin": "08710522958315",
+      "checkedAt": "2026-03-13T08:44:44.018Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-gombakremleves.html/08710522959824",
+      "gtin": "08710522959824",
+      "checkedAt": "2026-03-13T08:44:44.178Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-tyukhusleves-cernametelttel.html/08710522960110",
+      "gtin": "08710522960110",
+      "checkedAt": "2026-03-13T08:44:43.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-tyukhusleves-csigatesztaval.html/08710522965245",
+      "gtin": "08710522965245",
+      "checkedAt": "2026-03-13T08:44:44.081Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-marhahusleves-cernametelttel.html/08710522975527",
+      "gtin": "08710522975527",
+      "checkedAt": "2026-03-13T08:44:44.181Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-mezes-mustaros-szosz.html/08710604746052",
+      "gtin": "08710604746052",
+      "checkedAt": "2026-03-13T08:44:44.303Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-carbonara-spagetti-alap.html/08710604753951",
+      "gtin": "08710604753951",
+      "checkedAt": "2026-03-13T08:44:43.882Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-carbonara-spagetti-alap-xxl.html/08710604753968",
+      "gtin": "08710604753968",
+      "checkedAt": "2026-03-13T08:44:44.018Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-chili-con-carne-alap-xxl.html/08710908942631",
+      "gtin": "08710908942631",
+      "checkedAt": "2026-03-13T08:44:44.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-marhahusleves-kocka.html/08711200318735",
+      "gtin": "08711200318735",
+      "checkedAt": "2026-03-13T08:44:48.630Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08711200360772",
+      "gtin": "08711200360772",
+      "checkedAt": "2026-03-13T08:44:48.462Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-csemege-ketchup.html/08711200405879",
+      "gtin": "08711200405879",
+      "checkedAt": "2026-03-13T08:44:48.599Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-csemege-ketchup.html/08711200405886",
+      "gtin": "08711200405886",
+      "checkedAt": "2026-03-13T08:44:48.377Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-csipos-ketchup.html/08711200405923",
+      "gtin": "08711200405923",
+      "checkedAt": "2026-03-13T08:44:48.692Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-kinai-edes-savanyu-csirke-alap.html/08711200529995",
+      "gtin": "08711200529995",
+      "checkedAt": "2026-03-13T08:44:48.980Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-marhahusleves-cernametelttel.html/08711327406391",
+      "gtin": "08711327406391",
+      "checkedAt": "2026-03-13T08:44:49.111Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-sajtkremleves-brokkolival.html/08712100328985",
+      "gtin": "08712100328985",
+      "checkedAt": "2026-03-13T08:44:49.315Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bolognai-spagetti-alap-xxl.html/08712100379482",
+      "gtin": "08712100379482",
+      "checkedAt": "2026-03-13T08:44:49.356Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-sajtos-kremleves-zsemlekockaval.html/08712100866845",
+      "gtin": "08712100866845",
+      "checkedAt": "2026-03-13T08:44:49.298Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-paradicsomleves-tesztaval.html/08712100867057",
+      "gtin": "08712100867057",
+      "checkedAt": "2026-03-13T08:44:49.241Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-varganyakremleves-zsemlekockaval.html/08712100867446",
+      "gtin": "08712100867446",
+      "checkedAt": "2026-03-13T08:44:48.955Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-fokhagymakremleves-zsemlekockaval.html/08712100867996",
+      "gtin": "08712100867996",
+      "checkedAt": "2026-03-13T08:44:48.813Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-brokkolikremleves-karfiollal.html/08712566055050",
+      "gtin": "08712566055050",
+      "checkedAt": "2026-03-13T08:44:49.337Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-sajtszosz-alap.html/08712566157228",
+      "gtin": "08712566157228",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-mexikoi-chillis-bab-alap.html/08712566157754",
+      "gtin": "08712566157754",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-milanoi-makaroni-alap.html/08712566157983",
+      "gtin": "08712566157983",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-hazias-marhahus-levesalap.html/08712566205875",
+      "gtin": "08712566205875",
+      "checkedAt": "2026-03-13T08:44:49.316Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-hazias-zoldseg-levesalap.html/08712566205912",
+      "gtin": "08712566205912",
+      "checkedAt": "2026-03-13T08:44:48.956Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-600g.html/08712566414710",
+      "gtin": "08712566414710",
+      "checkedAt": "2026-03-13T08:44:49.267Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-paradicsomos-instant-teszta.html/08714100750612",
+      "gtin": "08714100750612",
+      "checkedAt": "2026-03-13T08:44:48.799Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-spargakremleves-snidlinggel.html/08714100840641",
+      "gtin": "08714100840641",
+      "checkedAt": "2026-03-13T08:44:49.337Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-gulyasleves.html/08718114706054",
+      "gtin": "08718114706054",
+      "checkedAt": "2026-03-13T08:44:49.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-gyros-alap-fokhagymas-dresszinggel.html/08718114854397",
+      "gtin": "08718114854397",
+      "checkedAt": "2026-03-13T08:44:49.352Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-zoldsegleves-kagylotesztaval.html/08720182003614",
+      "gtin": "08720182003614",
+      "checkedAt": "2026-03-13T08:44:49.251Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-fokhagymakremleves.html/08720182003836",
+      "gtin": "08720182003836",
+      "checkedAt": "2026-03-13T08:44:49.154Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-gulyasleves.html/08720182029195",
+      "gtin": "08720182029195",
+      "checkedAt": "2026-03-13T08:44:48.956Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-csurigtesztas-husleves.html/08720182030542",
+      "gtin": "08720182030542",
+      "checkedAt": "2026-03-13T08:44:48.799Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-lasagne-alap.html/08720182142047",
+      "gtin": "08720182142047",
+      "checkedAt": "2026-03-13T08:44:49.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-rokagombaleves.html/08720182240231",
+      "gtin": "08720182240231",
+      "checkedAt": "2026-03-13T08:44:49.266Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-avengers-paradicsomleves.html/08720182422392",
+      "gtin": "08720182422392",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-jegvarazs-zoldsegleves.html/08720182428264",
+      "gtin": "08720182428264",
+      "checkedAt": "2026-03-13T08:44:49.380Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-zoldborsos-zoldsegleves.html/08720182469212",
+      "gtin": "08720182469212",
+      "checkedAt": "2026-03-13T08:44:49.372Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-zoldsegleves-kocka.html/08720182626622",
+      "gtin": "08720182626622",
+      "checkedAt": "2026-03-13T08:44:49.153Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-tyukhusleves-kocka.html/08720182626820",
+      "gtin": "08720182626820",
+      "checkedAt": "2026-03-13T08:44:48.955Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-konnyed-majonez.html/08720182635068",
+      "gtin": "08720182635068",
+      "checkedAt": "2026-03-13T08:44:49.359Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-brokkolis-sajtos.html/08720182684035",
+      "gtin": "08720182684035",
+      "checkedAt": "2026-03-13T08:44:49.026Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-majonez.html/08720182727244",
+      "gtin": "08720182727244",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/ropogos-panirbunda-fokhagymas-fuszeres.html/08720182781574",
+      "gtin": "08720182781574",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/ropogos-panirbunda-paprikas-fuszeres.html/08720182781628",
+      "gtin": "08720182781628",
+      "checkedAt": "2026-03-13T08:44:49.241Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/szaftos-fasirt-alap.html/08720182783035",
+      "gtin": "08720182783035",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/globus-ketchup-light.html/08720182818669",
+      "gtin": "08720182818669",
+      "checkedAt": "2026-03-13T08:44:48.813Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkes-azsiai-instant-teszta.html/08720182821584",
+      "gtin": "08720182821584",
+      "checkedAt": "2026-03-13T08:44:49.351Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-paradicsomos-mozzarellas.html/08720182839626",
+      "gtin": "08720182839626",
+      "checkedAt": "2026-03-13T08:44:49.143Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-francia-hagymaleves.html/08720182907332",
+      "gtin": "08720182907332",
+      "checkedAt": "2026-03-13T08:44:49.143Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-erdei-gombakremleves.html/08720182933454",
+      "gtin": "08720182933454",
+      "checkedAt": "2026-03-13T08:44:49.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-paradicsomleves-tesztaval.html/08720182955432",
+      "gtin": "08720182955432",
+      "checkedAt": "2026-03-13T08:44:49.143Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-olaszos-paradicsomleves.html/08720182955999",
+      "gtin": "08720182955999",
+      "checkedAt": "2026-03-13T08:44:48.983Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-nemo-zoldsegleves.html/08720182967152",
+      "gtin": "08720182967152",
+      "checkedAt": "2026-03-13T08:44:48.955Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-csirkes-etelekhez-55g.html/08721201903878",
+      "gtin": "08721201903878",
+      "checkedAt": "2026-03-13T08:44:49.243Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-marhahusleves-kocka.html/08721201903960",
+      "gtin": "08721201903960",
+      "checkedAt": "2026-03-13T08:44:49.349Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/macn-cheese-alap.html/08721201908330",
+      "gtin": "08721201908330",
+      "checkedAt": "2026-03-13T08:44:49.057Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-bolognai-szoszos.html/08721201919732",
+      "gtin": "08721201919732",
+      "checkedAt": "2026-03-13T08:44:48.805Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-macn-cheese-bacon-alap.html/08721201950056",
+      "gtin": "08721201950056",
+      "checkedAt": "2026-03-13T08:44:49.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-majgombocleves-csigatesztaval.html/08721201966422",
+      "gtin": "08721201966422",
+      "checkedAt": "2026-03-13T08:44:49.324Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/tepsimix-sonkas-sajtos-teszta.html/08721201973796",
+      "gtin": "08721201973796",
+      "checkedAt": "2026-03-13T08:44:49.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/tepsimix-paradicsomos-csirkes-teszta.html/08721201973871",
+      "gtin": "08721201973871",
+      "checkedAt": "2026-03-13T08:44:49.153Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/tepsimix-tepsis-burgonya.html/08721201973888",
+      "gtin": "08721201973888",
+      "checkedAt": "2026-03-13T08:44:49.646Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/marry-me-csirkes-teszta.html/08721317776205",
+      "gtin": "08721317776205",
+      "checkedAt": "2026-03-13T08:44:49.613Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.receptmuhely.hu/p/knorr-koncentralt-alaple-sult-fokhagyma.html/08721317785788",
+      "gtin": "08721317785788",
+      "checkedAt": "2026-03-13T08:44:49.614Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "11.86s",
+  "speedMetrics": "14.17 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-mustar--szosz.html/08712566388677",
+      "gtin": "08712566388677",
+      "checkedAt": "2026-03-13T08:44:44.189Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-real-majonez.html/08714100848234",
+      "gtin": "08714100848234",
+      "checkedAt": "2026-03-13T08:44:43.997Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-light-majonez.html/08714100848623",
+      "gtin": "08714100848623",
+      "checkedAt": "2026-03-13T08:44:43.801Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08720182197870",
+      "gtin": "08720182197870",
+      "checkedAt": "2026-03-13T08:44:44.198Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-avokados-szosz.html/08720182308078",
+      "gtin": "08720182308078",
+      "checkedAt": "2026-03-13T08:44:44.081Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-tzatziki-jellegu-szosz.html/08720182589699",
+      "gtin": "08720182589699",
+      "checkedAt": "2026-03-13T08:44:44.212Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-fokhagymas-szosz.html/08720182817730",
+      "gtin": "08720182817730",
+      "checkedAt": "2026-03-13T08:44:44.050Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-extra-chili-szosz.html/08720182822567",
+      "gtin": "08720182822567",
+      "checkedAt": "2026-03-13T08:44:44.145Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-vegan-majonez.html/08721201906305",
+      "gtin": "08721201906305",
+      "checkedAt": "2026-03-13T08:44:44.170Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-tejszines-zoldseges.html/08721201920295",
+      "gtin": "08721201920295",
+      "checkedAt": "2026-03-13T08:44:44.127Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-carbonara.html/08721201920417",
+      "gtin": "08721201920417",
+      "checkedAt": "2026-03-13T08:44:44.145Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-kremes-sajtszoszos.html/08721201921599",
+      "gtin": "08721201921599",
+      "checkedAt": "2026-03-13T08:44:44.081Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-kebab-izesitessel.html/08721201974014",
+      "gtin": "08721201974014",
+      "checkedAt": "2026-03-13T08:44:44.173Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317715624",
+      "gtin": "08721317715624",
+      "checkedAt": "2026-03-13T08:44:44.050Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317790010",
+      "gtin": "08721317790010",
+      "checkedAt": "2026-03-13T08:44:43.719Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-75g.html/05996358010554",
+      "gtin": "05996358010554",
+      "checkedAt": "2026-03-13T08:44:44.112Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-250g.html/05996358010561",
+      "gtin": "05996358010561",
+      "checkedAt": "2026-03-13T08:44:44.047Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014286",
+      "gtin": "05996358014286",
+      "checkedAt": "2026-03-13T08:44:44.212Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358014309",
+      "gtin": "05996358014309",
+      "checkedAt": "2026-03-13T08:44:43.818Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358018932",
+      "gtin": "05996358018932",
+      "checkedAt": "2026-03-13T08:44:44.201Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-petrezselymes-tyukhusleveskocka.html/05996358019540",
+      "gtin": "05996358019540",
+      "checkedAt": "2026-03-13T08:44:44.018Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-carbonara.html/08584057005352",
+      "gtin": "08584057005352",
+      "checkedAt": "2026-03-13T08:44:44.112Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-azsiai-tesztaleves-marhas.html/08710522627594",
+      "gtin": "08710522627594",
+      "checkedAt": "2026-03-13T08:44:44.145Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tejszines-paprikas-szosz.html/08710604746076",
+      "gtin": "08710604746076",
+      "checkedAt": "2026-03-13T08:44:44.018Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tejszines-gombas-szosz.html/08710604746199",
+      "gtin": "08710604746199",
+      "checkedAt": "2026-03-13T08:44:43.881Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-edes-savanyu-szosz.html/08710908934674",
+      "gtin": "08710908934674",
+      "checkedAt": "2026-03-13T08:44:44.019Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-teriyaki-szosz.html/08710908934759",
+      "gtin": "08710908934759",
+      "checkedAt": "2026-03-13T08:44:44.128Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-extra-csipos-ketchup.html/08711200405893",
+      "gtin": "08711200405893",
+      "checkedAt": "2026-03-13T08:44:48.603Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-tyukhusleves-tesztaval.html/08712100867507",
+      "gtin": "08712100867507",
+      "checkedAt": "2026-03-13T08:44:49.127Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-gombakremleves-zsemlekockaval.html/08712100867569",
+      "gtin": "08712100867569",
+      "checkedAt": "2026-03-13T08:44:49.225Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-csirkekremleves-zsemlekockaval.html/08712100867682",
+      "gtin": "08712100867682",
+      "checkedAt": "2026-03-13T08:44:49.143Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-sajtkremleves-zsemlekockaval.html/08712100867743",
+      "gtin": "08712100867743",
+      "checkedAt": "2026-03-13T08:44:49.265Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-bogres-brokkolikremleves-zsemlekockaval.html/08712100868467",
+      "gtin": "08712100868467",
+      "checkedAt": "2026-03-13T08:44:48.955Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-szojaszosz.html/08712423034983",
+      "gtin": "08712423034983",
+      "checkedAt": "2026-03-13T08:44:49.128Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08712423038158",
+      "gtin": "08712423038158",
+      "checkedAt": "2026-03-13T08:44:49.398Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-hazias-tyukhus-levesalap.html/08712566205967",
+      "gtin": "08712566205967",
+      "checkedAt": "2026-03-13T08:44:48.813Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkes-instant-teszta.html/08714100750582",
+      "gtin": "08714100750582",
+      "checkedAt": "2026-03-13T08:44:49.153Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-csirkehusleves-kocka.html/08714100884980",
+      "gtin": "08714100884980",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-mac-and-cheese-jalapeno.html/08720182396921",
+      "gtin": "08720182396921",
+      "checkedAt": "2026-03-13T08:44:49.153Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-350g.html/08720182681355",
+      "gtin": "08720182681355",
+      "checkedAt": "2026-03-13T08:44:49.126Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-majonez-csaladi-meret.html/08720182739100",
+      "gtin": "08720182739100",
+      "checkedAt": "2026-03-13T08:44:49.243Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-mustar-250g.html/08720182792761",
+      "gtin": "08720182792761",
+      "checkedAt": "2026-03-13T08:44:49.267Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/mustar.html/08720182793980",
+      "gtin": "08720182793980",
+      "checkedAt": "2026-03-13T08:44:48.953Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-ketchup-olaszos.html/08720182821409",
+      "gtin": "08720182821409",
+      "checkedAt": "2026-03-13T08:44:48.980Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-sajtos-instant-teszta.html/08720182897916",
+      "gtin": "08720182897916",
+      "checkedAt": "2026-03-13T08:44:49.180Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-grizgaluskaleves.html/08720182975195",
+      "gtin": "08720182975195",
+      "checkedAt": "2026-03-13T08:44:49.340Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-light-majonez.html/08721201900969",
+      "gtin": "08721201900969",
+      "checkedAt": "2026-03-13T08:44:49.153Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-csirkes-etelekhez-200g.html/08721201904165",
+      "gtin": "08721201904165",
+      "checkedAt": "2026-03-13T08:44:49.240Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-ementali-szoszos.html/08721201920363",
+      "gtin": "08721201920363",
+      "checkedAt": "2026-03-13T08:44:49.281Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-husgombocleves.html/08721201930843",
+      "gtin": "08721201930843",
+      "checkedAt": "2026-03-13T08:44:49.026Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-bbq-szosz.html/08721317701511",
+      "gtin": "08721317701511",
+      "checkedAt": "2026-03-13T08:44:49.660Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-csirkes-burrito-izesitessel.html/08721317773921",
+      "gtin": "08721317773921",
+      "checkedAt": "2026-03-13T08:44:49.681Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-edes-savanyu-izesitessel.html/08721317774164",
+      "gtin": "08721317774164",
+      "checkedAt": "2026-03-13T08:44:49.669Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/alfredo-csirkes-teszta.html/08721317776199",
+      "gtin": "08721317776199",
+      "checkedAt": "2026-03-13T08:44:49.627Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08721317797279",
+      "gtin": "08721317797279",
+      "checkedAt": "2026-03-13T08:44:54.166Z"
+    }
+  ],
+  "errorPages": []
+}

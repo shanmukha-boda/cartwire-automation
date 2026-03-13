@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-03-13T08:44:35.863Z",
+  "brand": "axe",
+  "assortmentCode": "BH0045",
+  "feedUrl": "https://www.axe.com/br/home.productfeed.json",
+  "totalUrlsChecked": 6,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.axe.com/br/p/antitranspirante-apollo.html/07791293025780",
+      "gtin": "07791293025780",
+      "checkedAt": "2026-03-13T08:44:28.296Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.axe.com/br/p/antitranspirante-chocolate.html/07791293025797",
+      "gtin": "07791293025797",
+      "checkedAt": "2026-03-13T08:44:28.138Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.axe.com/br/p/antitranspirante-black.html/07791293028781",
+      "gtin": "07791293028781",
+      "checkedAt": "2026-03-13T08:44:28.404Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.axe.com/br/p/antitranspirante-marine.html/07891150080966",
+      "gtin": "07891150080966",
+      "checkedAt": "2026-03-13T08:44:28.109Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.axe.com/br/p/antitranspirante-musk.html/07891150080973",
+      "gtin": "07891150080973",
+      "checkedAt": "2026-03-13T08:44:28.258Z"
+    }
+  ],
+  "errors": 1,
+  "duration": "8.18s",
+  "speedMetrics": "0.73 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.axe.com/br/p/antitranspirante-urban.html/07506306233362",
+      "error": "request to https://www.axe.com/br/p/antitranspirante-urban.html/07506306233362 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:35.863Z"
+    }
+  ]
+}

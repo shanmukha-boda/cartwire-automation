@@ -1,0 +1,280 @@
+{
+  "generatedAt": "2026-03-13T08:44:33.321Z",
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.devegetarischeslager.nl/home.productfeed.json",
+  "totalUrlsChecked": 44,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/saucijzenbroodjes.html/08710522871621/ufs",
+      "gtin": "08710522871621",
+      "checkedAt": "2026-03-13T08:44:26.696Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kipnuggets.html/08718692783232",
+      "gtin": "08718692783232",
+      "checkedAt": "2026-03-13T08:44:26.754Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/petit-pate.html/08718692784727",
+      "gtin": "08718692784727",
+      "checkedAt": "2026-03-13T08:44:25.877Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/petit-filet-a-l-americain.html/08718692784963",
+      "gtin": "08718692784963",
+      "checkedAt": "2026-03-13T08:44:25.814Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nochicken-chunks.html/08718692786561/ufs",
+      "gtin": "08718692786561",
+      "checkedAt": "2026-03-13T08:44:25.863Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nomeatballs.html/08718692786578/ufs",
+      "gtin": "08718692786578",
+      "checkedAt": "2026-03-13T08:44:26.572Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nobacon-bits.html/08718692786622/ufs",
+      "gtin": "08718692786622",
+      "checkedAt": "2026-03-13T08:44:25.898Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/nochicken-shawarma.html/08718692786660/ufs",
+      "gtin": "08718692786660",
+      "checkedAt": "2026-03-13T08:44:25.967Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/bofkipburger.html/08718692789067",
+      "gtin": "08718692789067",
+      "checkedAt": "2026-03-13T08:44:25.773Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kiptevree-filet.html/08720181254772",
+      "gtin": "08720181254772",
+      "checkedAt": "2026-03-13T08:44:26.704Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/pluimfeest-burger.html/08720182086396",
+      "gtin": "08720182086396",
+      "checkedAt": "2026-03-13T08:44:25.647Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/vlamboyante-kipstuckjes.html/08720182227539",
+      "gtin": "08720182227539",
+      "checkedAt": "2026-03-13T08:44:26.593Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/little-willies.html/08720182594235",
+      "gtin": "08720182594235",
+      "checkedAt": "2026-03-13T08:44:25.572Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kipstuckjes-voordeelverpakking.html/08720182612588",
+      "gtin": "08720182612588",
+      "checkedAt": "2026-03-13T08:44:25.908Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/braadwurst.html/08720182809148",
+      "gtin": "08720182809148",
+      "checkedAt": "2026-03-13T08:44:26.771Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/leckerbekje.html/08720182814401",
+      "gtin": "08720182814401",
+      "checkedAt": "2026-03-13T08:44:25.670Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/lecker-burgerlijk.html/08720182920195",
+      "gtin": "08720182920195",
+      "checkedAt": "2026-03-13T08:44:25.745Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.devegetarischeslager.nl/p/kip-shoarma-diepvries.html/08718692781788",
+      "gtin": "08718692781788",
+      "checkedAt": "2026-03-13T08:44:26.654Z"
+    }
+  ],
+  "errors": 26,
+  "duration": "8.24s",
+  "speedMetrics": "5.34 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/ereburger.html/08710522766996",
+      "error": "request to https://www.devegetarischeslager.nl/p/ereburger.html/08710522766996 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/sat%C3%A9broodjes.html/08710522871638/ufs",
+      "error": "request to https://www.devegetarischeslager.nl/p/sat%C3%A9broodjes.html/08710522871638/ufs failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.297Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/hamplackjes.html/08710765966900",
+      "error": "request to https://www.devegetarischeslager.nl/p/hamplackjes.html/08710765966900 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.297Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/boterhamworst.html/08718692783430",
+      "error": "request to https://www.devegetarischeslager.nl/p/boterhamworst.html/08718692783430 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.296Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/little-willies.html/08718692784659/ufs",
+      "error": "request to https://www.devegetarischeslager.nl/p/little-willies.html/08718692784659/ufs failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/saucijzenbroodjes.html/08718692786318",
+      "error": "request to https://www.devegetarischeslager.nl/p/saucijzenbroodjes.html/08718692786318 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.262Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/nobeef-burger.html/08718692786554/ufs",
+      "error": "request to https://www.devegetarischeslager.nl/p/nobeef-burger.html/08718692786554/ufs failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/nomince.html/08718692786639/ufs",
+      "error": "request to https://www.devegetarischeslager.nl/p/nomince.html/08718692786639/ufs failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kipworst.html/08718692786967",
+      "error": "request to https://www.devegetarischeslager.nl/p/kipworst.html/08718692786967 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.296Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/spaanse-worst.html/08718692786974",
+      "error": "request to https://www.devegetarischeslager.nl/p/spaanse-worst.html/08718692786974 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.296Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/nohotdog.html/08718692787254/ufs",
+      "error": "request to https://www.devegetarischeslager.nl/p/nohotdog.html/08718692787254/ufs failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/nochicken-burger.html/08718692787261/ufs",
+      "error": "request to https://www.devegetarischeslager.nl/p/nochicken-burger.html/08718692787261/ufs failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.295Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/rul-gehackt.html/08718692788497",
+      "error": "request to https://www.devegetarischeslager.nl/p/rul-gehackt.html/08718692788497 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.295Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kip-shoarma.html/08718692789043",
+      "error": "request to https://www.devegetarischeslager.nl/p/kip-shoarma.html/08718692789043 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/geroockte-speckjes.html/08720182070272",
+      "error": "request to https://www.devegetarischeslager.nl/p/geroockte-speckjes.html/08720182070272 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/auf-wieder-schnitzel.html/08720182194077",
+      "error": "request to https://www.devegetarischeslager.nl/p/auf-wieder-schnitzel.html/08720182194077 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.261Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/specktakel.html/08720182235664",
+      "error": "request to https://www.devegetarischeslager.nl/p/specktakel.html/08720182235664 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.297Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/roockworst.html/08720182475367",
+      "error": "request to https://www.devegetarischeslager.nl/p/roockworst.html/08720182475367 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.296Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/sat%C3%A9-kipstuckjes.html/08720182594501",
+      "error": "request to https://www.devegetarischeslager.nl/p/sat%C3%A9-kipstuckjes.html/08720182594501 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.295Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kip-krockant.html/08720182617057",
+      "error": "request to https://www.devegetarischeslager.nl/p/kip-krockant.html/08720182617057 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.297Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/cordon-blij.html/08720182706034",
+      "error": "request to https://www.devegetarischeslager.nl/p/cordon-blij.html/08720182706034 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kipstuckjes.html/08720182927705",
+      "error": "request to https://www.devegetarischeslager.nl/p/kipstuckjes.html/08720182927705 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/kipstuckjes-voordeelverpakking.html/08720182929488",
+      "error": "request to https://www.devegetarischeslager.nl/p/kipstuckjes-voordeelverpakking.html/08720182929488 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.309Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/let-it-beef.html/08721201925283",
+      "error": "request to https://www.devegetarischeslager.nl/p/let-it-beef.html/08721201925283 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.297Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/smokey-bbq-kipstuckjes.html/87201826594020",
+      "error": "request to https://www.devegetarischeslager.nl/p/smokey-bbq-kipstuckjes.html/87201826594020 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.310Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.devegetarischeslager.nl/p/zweedsche-gehacktballetjes.html/00720000257936",
+      "error": "request to https://www.devegetarischeslager.nl/p/zweedsche-gehacktballetjes.html/00720000257936 failed, reason: Socket timeout",
+      "checkedAt": "2026-03-13T08:44:33.321Z"
+    }
+  ]
+}

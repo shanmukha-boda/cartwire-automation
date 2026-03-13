@@ -1,0 +1,243 @@
+{
+  "generatedAt": "2026-03-13T08:44:06.662Z",
+  "brand": "colmans",
+  "assortmentCode": "BF0199",
+  "feedUrl": "https://www.colmans.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/korean-barbecue.html/08720182287502",
+      "gtin": "08720182287502",
+      "checkedAt": "2026-03-13T08:44:06.617Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/salt-and-pepper-chicken.html/08720182296689",
+      "gtin": "08720182296689",
+      "checkedAt": "2026-03-13T08:44:06.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/singapore-noodles.html/08720182629579",
+      "gtin": "08720182629579",
+      "checkedAt": "2026-03-13T08:44:06.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/thai-chicken.html/08720182629586",
+      "gtin": "08720182629586",
+      "checkedAt": "2026-03-13T08:44:06.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/english-mustard.html/00000050147311",
+      "gtin": "00000050147311",
+      "checkedAt": "2026-03-13T08:44:06.598Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/english-squeezable-mustard.html/00000096107775",
+      "gtin": "00000096107775",
+      "checkedAt": "2026-03-13T08:44:06.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/one-pan-shepherds-pie.html/05000118033834",
+      "gtin": "05000118033834",
+      "checkedAt": "2026-03-13T08:44:06.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/cottage-pie.html/05000118082306",
+      "gtin": "05000118082306",
+      "checkedAt": "2026-03-13T08:44:06.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/sausage-and-onion-casserole.html/05000118082320",
+      "gtin": "05000118082320",
+      "checkedAt": "2026-03-13T08:44:06.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/cheddar-cheese-sauce.html/05000147025213",
+      "gtin": "05000147025213",
+      "checkedAt": "2026-03-13T08:44:06.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/onion-sauce.html/05000147025237",
+      "gtin": "05000147025237",
+      "checkedAt": "2026-03-13T08:44:06.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/white-sauce.html/05000147025275",
+      "gtin": "05000147025275",
+      "checkedAt": "2026-03-13T08:44:06.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/bread-sauce.html/05000147025282",
+      "gtin": "05000147025282",
+      "checkedAt": "2026-03-13T08:44:06.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chilli-con-carne.html/05000147026593",
+      "gtin": "05000147026593",
+      "checkedAt": "2026-03-13T08:44:06.617Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/beef-casserole.html/05000147026616",
+      "gtin": "05000147026616",
+      "checkedAt": "2026-03-13T08:44:06.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chicken-casserole.html/05000147026623",
+      "gtin": "05000147026623",
+      "checkedAt": "2026-03-13T08:44:06.597Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/beef-bourguignon.html/05000147026685",
+      "gtin": "05000147026685",
+      "checkedAt": "2026-03-13T08:44:06.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/parsley-sauce.html/05000147026753",
+      "gtin": "05000147026753",
+      "checkedAt": "2026-03-13T08:44:06.623Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/doner-kebab.html/08710522927090",
+      "gtin": "08710522927090",
+      "checkedAt": "2026-03-13T08:44:06.612Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chinese-chicken-curry.html/08710522927304",
+      "gtin": "08710522927304",
+      "checkedAt": "2026-03-13T08:44:06.598Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chicken-kebab.html/08710522929070",
+      "gtin": "08710522929070",
+      "checkedAt": "2026-03-13T08:44:06.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/ultimate-burger.html/08710522929148",
+      "gtin": "08710522929148",
+      "checkedAt": "2026-03-13T08:44:06.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/pepper-sauce.html/08711200516636",
+      "gtin": "08711200516636",
+      "checkedAt": "2026-03-13T08:44:06.597Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/hot-chilli-con-carne.html/08712100487934",
+      "gtin": "08712100487934",
+      "checkedAt": "2026-03-13T08:44:06.624Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/coq-au-vin-pot-mix.html/08712100488184",
+      "gtin": "08712100488184",
+      "checkedAt": "2026-03-13T08:44:06.620Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chicken-chasseur.html/08712566140602",
+      "gtin": "08712566140602",
+      "checkedAt": "2026-03-13T08:44:06.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/sausage-casserole.html/08712566140688",
+      "gtin": "08712566140688",
+      "checkedAt": "2026-03-13T08:44:06.624Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/lamb-hotpot.html/08712566140886",
+      "gtin": "08712566140886",
+      "checkedAt": "2026-03-13T08:44:06.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/tuna-pasta-bake.html/08712566140923",
+      "gtin": "08712566140923",
+      "checkedAt": "2026-03-13T08:44:06.661Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chicken-supreme.html/08712566141005",
+      "gtin": "08712566141005",
+      "checkedAt": "2026-03-13T08:44:06.630Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/spaghetti-bolognese.html/08712566144365",
+      "gtin": "08712566144365",
+      "checkedAt": "2026-03-13T08:44:06.623Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/beef-stroganoff.html/08712566144921",
+      "gtin": "08712566144921",
+      "checkedAt": "2026-03-13T08:44:06.630Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/seafood-sauce.html/08714100535301",
+      "gtin": "08714100535301",
+      "checkedAt": "2026-03-13T08:44:06.624Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/bramley-apple-sauce.html/08714100535516",
+      "gtin": "08714100535516",
+      "checkedAt": "2026-03-13T08:44:06.637Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/tartare-sauce.html/08714100536148",
+      "gtin": "08714100536148",
+      "checkedAt": "2026-03-13T08:44:06.623Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/horseradish-sauce.html/08714100536209",
+      "gtin": "08714100536209",
+      "checkedAt": "2026-03-13T08:44:06.611Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/fish-pie-mix.html/08714100737972",
+      "gtin": "08714100737972",
+      "checkedAt": "2026-03-13T08:44:06.642Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.colmans.co.uk/p/chicken-pie.html/08714100739020",
+      "gtin": "08714100739020",
+      "checkedAt": "2026-03-13T08:44:06.649Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.57s",
+  "speedMetrics": "66.67 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

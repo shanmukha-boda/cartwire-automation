@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-03-13T08:44:00.625Z",
+  "brand": "ponds",
+  "assortmentCode": "BH0381",
+  "feedUrl": "https://www.ponds.com/vn/home.productfeed.json",
+  "totalUrlsChecked": 17,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/kem-duong-sang-da-cao-cap-ban-ngay-ponds-flawless-radiance.html/08851932171403",
+      "gtin": "08851932171403",
+      "checkedAt": "2026-03-13T08:44:00.610Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/sua-rua-mat-ngan-ngua-lao-hoa-cao-cap-ponds-age-miracle.html/08851932199179",
+      "gtin": "08851932199179",
+      "checkedAt": "2026-03-13T08:44:00.585Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/nuoc-tay-trang-lam-sang-da-ponds-bright-beauty.html/08851932378918",
+      "gtin": "08851932378918",
+      "checkedAt": "2026-03-13T08:44:00.624Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/sua-rua-mat-duong-sang-cao-cap-ponds-flawless-radiance.html/08934868070344",
+      "gtin": "08934868070344",
+      "checkedAt": "2026-03-13T08:44:00.608Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/kem-duong-sang-da-cao-cap-ban-dem-ponds-flawless-radiance.html/08934868070351",
+      "gtin": "08934868070351",
+      "checkedAt": "2026-03-13T08:44:00.562Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/kem-duong-sang-tao-nen-bb-cream-ponds-flawless-radiance.html/08999999031879",
+      "gtin": "08999999031879",
+      "checkedAt": "2026-03-13T08:44:00.563Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/sua-rua-mat-lam-sang-da-ponds-bright-beauty.html/08999999040451",
+      "gtin": "08999999040451",
+      "checkedAt": "2026-03-13T08:44:00.593Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/sua-rua-mat-ngua-mun-ponds-acne-clear.html/08999999052935",
+      "gtin": "08999999052935",
+      "checkedAt": "2026-03-13T08:44:00.601Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/sua-rua-mat-lam-sach-sau-ponds-pure-white.html/08999999053048",
+      "gtin": "08999999053048",
+      "checkedAt": "2026-03-13T08:44:00.597Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/kem-duong-sang-da-ban-ngay-ponds-bright-beauty.html/08999999056865",
+      "gtin": "08999999056865",
+      "checkedAt": "2026-03-13T08:44:00.568Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/kem-duong-sang-da-ban-dem-ponds-bright-beauty.html/08999999057978",
+      "gtin": "08999999057978",
+      "checkedAt": "2026-03-13T08:44:00.572Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/kem-ngan-ngua-lao-hoa-cao-cap-ban-ngay-spf18-pa-ponds-age-miracle.html/08999999059927",
+      "gtin": "08999999059927",
+      "checkedAt": "2026-03-13T08:44:00.593Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/kem-ngan-ngua-lao-hoa-cao-cap-ban-dem-ponds-age-miracle.html/08999999059941",
+      "gtin": "08999999059941",
+      "checkedAt": "2026-03-13T08:44:00.592Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/nuoc-hoa-hong-lam-sang-da-ponds-bright-beauty.html/08999999720094",
+      "gtin": "08999999720094",
+      "checkedAt": "2026-03-13T08:44:00.568Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/tinh-chat-serum-ngan-ngua-lao-hoa-chuyen-sau-ponds-age-miracle-double-action-30ml.html/08851932387163",
+      "gtin": "08851932387163",
+      "checkedAt": "2026-03-13T08:44:00.572Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/tinh-chat-essence-ngan-ngua-lao-hoa-ponds-age-miracle-ultimate-youth-30g.html/08851932406611",
+      "gtin": "08851932406611",
+      "checkedAt": "2026-03-13T08:44:00.593Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.ponds.com/vn/p/tinh-chat-duong-sang-mo-tham-3d-glow-serum.html/08851932429429",
+      "gtin": "08851932429429",
+      "checkedAt": "2026-03-13T08:44:00.602Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "0.28s",
+  "speedMetrics": "60.71 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

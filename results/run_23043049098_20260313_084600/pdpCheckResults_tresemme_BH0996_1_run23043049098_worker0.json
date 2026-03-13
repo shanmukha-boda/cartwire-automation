@@ -1,0 +1,471 @@
+{
+  "generatedAt": "2026-03-13T08:44:01.321Z",
+  "brand": "tresemme",
+  "assortmentCode": "BH0996",
+  "feedUrl": "https://www.tresemme.com/uk/home.productfeed.json",
+  "totalUrlsChecked": 76,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/rich-moisture-conditioner-100ml.html/00000050118083",
+      "gtin": "00000050118083",
+      "checkedAt": "2026-03-13T08:44:01.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/care-&-protect-heat-defence-spray-60ml.html/00000050398928",
+      "gtin": "00000050398928",
+      "checkedAt": "2026-03-13T08:44:01.254Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/rich-moisture-shampoo-100ml.html/00000050398997",
+      "gtin": "00000050398997",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-care-&-protect-heat-defence-spray-270-ml-for-all-hair-types.html/05012254061145",
+      "gtin": "05012254061145",
+      "checkedAt": "2026-03-13T08:44:01.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-extra-hold-hairspray-400-ml-for-frizzy-hair.html/08710447299081",
+      "gtin": "08710447299081",
+      "checkedAt": "2026-03-13T08:44:01.306Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-freeze-hold-hairspray-400-ml-for-frizzy-hair.html/08710447299104",
+      "gtin": "08710447299104",
+      "checkedAt": "2026-03-13T08:44:01.303Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-firm-hold-hairspray-400-ml-for-frizzy-hair.html/08710447299111",
+      "gtin": "08710447299111",
+      "checkedAt": "2026-03-13T08:44:01.313Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/volumising-blow-dry-creme.html/08710447374184",
+      "gtin": "08710447374184",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/volume-lift-mousse-200ml.html/08710522935903",
+      "gtin": "08710522935903",
+      "checkedAt": "2026-03-13T08:44:01.275Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-flawless-volume-hairspray-400-ml-for-frizzy-hair.html/08710522935910",
+      "gtin": "08710522935910",
+      "checkedAt": "2026-03-13T08:44:01.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-keratin-smooth-heat-protection-spray-200-ml-for-frizzy-hair.html/08710908694134",
+      "gtin": "08710908694134",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/keratin-smooth-shampoo-100ml.html/08710908694745",
+      "gtin": "08710908694745",
+      "checkedAt": "2026-03-13T08:44:01.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/keratin-smooth-conditioner-100ml.html/08710908694813",
+      "gtin": "08710908694813",
+      "checkedAt": "2026-03-13T08:44:01.226Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-keratin-smooth-hair-oil-for-frizzy-hair.html/08710908695018",
+      "gtin": "08710908695018",
+      "checkedAt": "2026-03-13T08:44:01.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-curl-definition-hair-mousse-200-ml-for-curly-&-wavy-hair.html/08717163639573",
+      "gtin": "08717163639573",
+      "checkedAt": "2026-03-13T08:44:01.254Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-rich-moisture-conditioner-900-ml-for-dry-damaged-hair.html/08717163902929",
+      "gtin": "08717163902929",
+      "checkedAt": "2026-03-13T08:44:01.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-rich-moisture-shampoo-900-ml-for-dry-damaged-hair.html/08717163902936",
+      "gtin": "08717163902936",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-revitalise-colour-conditioner-900-ml-for-coloured-hair.html/08717163902981",
+      "gtin": "08717163902981",
+      "checkedAt": "2026-03-13T08:44:01.253Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-revitalise-colour-shampoo-900-ml-for-coloured-hair.html/08717163902998",
+      "gtin": "08717163902998",
+      "checkedAt": "2026-03-13T08:44:01.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/replenish-cleanse-shampoo.html/08717163907047",
+      "gtin": "08717163907047",
+      "checkedAt": "2026-03-13T08:44:01.253Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/replenish-cleanse-2-in-1-shampoo-shampoo.html/08717163907085",
+      "gtin": "08717163907085",
+      "checkedAt": "2026-03-13T08:44:01.253Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/body-volume-conditioner.html/08717163907108",
+      "gtin": "08717163907108",
+      "checkedAt": "2026-03-13T08:44:01.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/body-volume-shampoo.html/08717163907115",
+      "gtin": "08717163907115",
+      "checkedAt": "2026-03-13T08:44:01.312Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/replenish-cleanse-2-in-1-shampoo-conditioner.html/08717163907122",
+      "gtin": "08717163907122",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-keratin-smooth-1-minute-wow-hair-treatment.html/08720181231186",
+      "gtin": "08720181231186",
+      "checkedAt": "2026-03-13T08:44:01.253Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-biotin-repair-1-minute-wow-hair-treatment.html/08720181231193",
+      "gtin": "08720181231193",
+      "checkedAt": "2026-03-13T08:44:01.275Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/hydrate-purify-1-minute-wow-treatment.html/08720181231209",
+      "gtin": "08720181231209",
+      "checkedAt": "2026-03-13T08:44:01.275Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/nourish-coconut-mask-440ml.html/08720181238031",
+      "gtin": "08720181238031",
+      "checkedAt": "2026-03-13T08:44:01.275Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/revitalise-colour-mask-440ml.html/08720181238055",
+      "gtin": "08720181238055",
+      "checkedAt": "2026-03-13T08:44:01.303Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/biotin-repair-mask-440ml.html/08720181238079",
+      "gtin": "08720181238079",
+      "checkedAt": "2026-03-13T08:44:01.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/keratin-smooth-mask-440ml.html/08720181238390",
+      "gtin": "08720181238390",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/rich-moisture-mask-440ml.html/08720181238413",
+      "gtin": "08720181238413",
+      "checkedAt": "2026-03-13T08:44:01.315Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/keratin-smooth-shampoo-300ml.html/08720181474002",
+      "gtin": "08720181474002",
+      "checkedAt": "2026-03-13T08:44:01.253Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/keratin-smooth-conditioner-300ml.html/08720181474026",
+      "gtin": "08720181474026",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/lamellar-shine-cream-serum.html/08720181474637",
+      "gtin": "08720181474637",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/lamellar-shine-shampoo.html/08720181474682",
+      "gtin": "08720181474682",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/lamellar-shine-conditioner.html/08720181474699",
+      "gtin": "08720181474699",
+      "checkedAt": "2026-03-13T08:44:00.680Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/lamellar-shine-shampoo.html/08720181474705",
+      "gtin": "08720181474705",
+      "checkedAt": "2026-03-13T08:44:01.312Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/biotin-repair-shampoo-300ml.html/08720181475061",
+      "gtin": "08720181475061",
+      "checkedAt": "2026-03-13T08:44:01.272Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/biotin-repair-conditioner-300ml.html/08720181475078",
+      "gtin": "08720181475078",
+      "checkedAt": "2026-03-13T08:44:01.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/rich-moisture-shampoo-500ml.html/08720181477249",
+      "gtin": "08720181477249",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/replenish-&-cleanse-shampoo-500ml.html/08720181477256",
+      "gtin": "08720181477256",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/revitalise-colour-shampoo-500ml.html/08720181477263",
+      "gtin": "08720181477263",
+      "checkedAt": "2026-03-13T08:44:01.275Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/rich-moisture-conditioner-500ml.html/08720181477270",
+      "gtin": "08720181477270",
+      "checkedAt": "2026-03-13T08:44:01.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/replenish-&-cleanse-condtioner-500ml.html/08720181477287",
+      "gtin": "08720181477287",
+      "checkedAt": "2026-03-13T08:44:01.306Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/revitalise-colour-conditioner-500ml.html/08720181477294",
+      "gtin": "08720181477294",
+      "checkedAt": "2026-03-13T08:44:01.274Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/lamellar-shine-oil.html/08720181482618",
+      "gtin": "08720181482618",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/lamellar-shine-mask-440ml.html/08720181518942",
+      "gtin": "08720181518942",
+      "checkedAt": "2026-03-13T08:44:01.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemme-lamellar-shine-ultra-gloss-hair-shine-spray-200ml.html/08720181623134",
+      "gtin": "08720181623134",
+      "checkedAt": "2026-03-13T08:44:01.272Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/rich-moisture-shampoo-300ml.html/08720182513663",
+      "gtin": "08720182513663",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/revitalise-colour-shampoo-300ml.html/08720182513755",
+      "gtin": "08720182513755",
+      "checkedAt": "2026-03-13T08:44:01.314Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/replenish-&-cleanse-shampoo-300ml.html/08720182513786",
+      "gtin": "08720182513786",
+      "checkedAt": "2026-03-13T08:44:01.300Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/rich-moisture-conditioner-300ml.html/08720182513793",
+      "gtin": "08720182513793",
+      "checkedAt": "2026-03-13T08:44:01.273Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/revitalise-colour-conditioner-300ml.html/08720182513939",
+      "gtin": "08720182513939",
+      "checkedAt": "2026-03-13T08:44:01.315Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/replenish-&-cleanse-conditioner-300ml.html/08720182513946",
+      "gtin": "08720182513946",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-replenish-&-cleanse-shampoo-680-ml-for-oily-hair.html/08720182513953",
+      "gtin": "08720182513953",
+      "checkedAt": "2026-03-13T08:44:01.303Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-rich-moisture-shampoo-680-ml-for-dry-damaged-hair.html/08720182513960",
+      "gtin": "08720182513960",
+      "checkedAt": "2026-03-13T08:44:01.290Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-revitalise-colour-shampoo-680-ml-for-coloured-hair.html/08720182513991",
+      "gtin": "08720182513991",
+      "checkedAt": "2026-03-13T08:44:01.303Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-nourish-coconut-shampoo-680-ml-for-dry-damaged-hair.html/08720182514066",
+      "gtin": "08720182514066",
+      "checkedAt": "2026-03-13T08:44:01.276Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-keratin-smooth-shampoo-680-ml-for-frizzy-hair.html/08720182514073",
+      "gtin": "08720182514073",
+      "checkedAt": "2026-03-13T08:44:01.290Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-biotin-repair-shampoo-680-ml-for-damaged-hair.html/08720182514103",
+      "gtin": "08720182514103",
+      "checkedAt": "2026-03-13T08:44:01.290Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-beauty-full-strength-shampoo-680-ml-for-damaged-hair.html/08720182514127",
+      "gtin": "08720182514127",
+      "checkedAt": "2026-03-13T08:44:01.306Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-rich-moisture-conditioner-680-ml-for-dry-damaged-hair.html/08720182514134",
+      "gtin": "08720182514134",
+      "checkedAt": "2026-03-13T08:44:01.303Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-replenish-&-cleanse-conditioner-680-ml-for-oily-hair.html/08720182514141",
+      "gtin": "08720182514141",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-revitalise-colour-conditioner-680-ml-for-coloured-hair.html/08720182514158",
+      "gtin": "08720182514158",
+      "checkedAt": "2026-03-13T08:44:01.290Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-nourish-coconut-conditioner-680-ml-for-dry-damaged-hair.html/08720182514165",
+      "gtin": "08720182514165",
+      "checkedAt": "2026-03-13T08:44:01.301Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-keratin-smooth-conditioner-680-ml-for-frizzy-hair.html/08720182514196",
+      "gtin": "08720182514196",
+      "checkedAt": "2026-03-13T08:44:01.312Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-biotin-repair-conditioner-680-ml-for-damaged-hair.html/08720182514202",
+      "gtin": "08720182514202",
+      "checkedAt": "2026-03-13T08:44:00.992Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-beauty-full-strength-conditioner-680-ml-for-damaged-hair.html/08720182514226",
+      "gtin": "08720182514226",
+      "checkedAt": "2026-03-13T08:44:01.303Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-rich-moisture-shampoo-6x-680-ml-for-dry-damaged-hair.html/08720182514370",
+      "gtin": "08720182514370",
+      "checkedAt": "2026-03-13T08:44:01.290Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-revitalise-colour-shampoo-6x-680-ml-for-coloured-hair.html/08720182514394",
+      "gtin": "08720182514394",
+      "checkedAt": "2026-03-13T08:44:01.313Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-nourish-coconut-shampoo-6x-680-ml-for-dry-damaged-hair.html/08720182514479",
+      "gtin": "08720182514479",
+      "checkedAt": "2026-03-13T08:44:01.289Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-keratin-smooth-shampoo-6x-680-ml-for-frizzy-hair.html/08720182514493",
+      "gtin": "08720182514493",
+      "checkedAt": "2026-03-13T08:44:01.321Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-biotin-repair-shampoo-6x-680-ml-for-damaged-hair.html/08720182514554",
+      "gtin": "08720182514554",
+      "checkedAt": "2026-03-13T08:44:01.315Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-beauty-full-strength-hair-serum-50-ml-for-damaged-hair.html/08720182548962",
+      "gtin": "08720182548962",
+      "checkedAt": "2026-03-13T08:44:01.312Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.tresemme.com/uk/p/tresemm%C3%A9-beauty-full-strength-hair-treatment-200-ml-for-damaged-hair.html/08720182549204",
+      "gtin": "08720182549204",
+      "checkedAt": "2026-03-13T08:44:01.313Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "1.28s",
+  "speedMetrics": "59.38 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}
