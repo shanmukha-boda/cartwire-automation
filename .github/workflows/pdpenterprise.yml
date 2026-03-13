@@ -1,5 +1,6 @@
 name: PDP BIN Check
-
+permissions:
+  contents: write
 on:
   workflow_dispatch:
 
