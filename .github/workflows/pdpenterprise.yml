@@ -155,25 +155,52 @@ jobs:
           
           RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
           
-          # Merge all problematic files
-          jq -s '
-          {
-            generatedAt: now | todate,
-            runId: $runId,
-            timestamp: $timestamp,
-            workflowRun: $workflowRun,
-            problematicPages: map(.problematicPages // []) | add,
-            totalProblematicPages: (map(.problematicPages // []) | add | length),
-            brandsProcessed: [
-              .[] | {brand, assortmentCode, totalProblematicPages: .problematicPages // [] | length}
-            ] | unique
-          }
-          ' --arg runId "$RUN_ID" \
-             --arg timestamp "$TIMESTAMP" \
-             --arg workflowRun "${{ github.run_id }}" \
-             $RESULTS_DIR/*PROBLEMATIC*.json > $RESULTS_DIR/pdpCheckResults_ALL_PROBLEMATIC.json
+          # Check if there are any problematic files
+          if ls $RESULTS_DIR/*PROBLEMATIC*.json 1> /dev/null 2>&1; then
+            # Merge all problematic files - fixed syntax
+            jq -s '
+            {
+              generatedAt: now | todate,
+              runId: $runId,
+              timestamp: $timestamp,
+              workflowRun: $workflowRun,
+              problematicPages: map(.problematicPages // []) | add,
+              totalProblematicPages: (map(.problematicPages // []) | add | length),
+              brandsProcessed: [
+                .[] | {
+                  brand: .brand,
+                  assortmentCode: .assortmentCode,
+                  totalProblematicPages: (.problematicPages | length)
+                }
+              ] | unique
+            }
+            ' --arg runId "$RUN_ID" \
+               --arg timestamp "$TIMESTAMP" \
+               --arg workflowRun "${{ github.run_id }}" \
+               $RESULTS_DIR/*PROBLEMATIC*.json > $RESULTS_DIR/pdpCheckResults_ALL_PROBLEMATIC.json
+            
+            echo "Created problematic pages report"
+          else
+            echo "No problematic files found, creating empty report"
+            echo '{
+              "generatedAt": "'$(date -Iseconds)'",
+              "runId": "'$RUN_ID'",
+              "timestamp": "'$TIMESTAMP'",
+              "workflowRun": "'${{ github.run_id }}'",
+              "problematicPages": [],
+              "totalProblematicPages": 0,
+              "brandsProcessed": []
+            }' > $RESULTS_DIR/pdpCheckResults_ALL_PROBLEMATIC.json
+          fi
 
-          # Also create a combined master report
+      - name: Create master report
+        run: |
+          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
+          RUN_ID=${{ env.RUN_ID }}
+          
+          RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
+          
+          # Create master report with all results
           jq -s '
           {
             generatedAt: now | todate,
@@ -182,16 +209,67 @@ jobs:
             workflowRun: $workflowRun,
             totalFilesProcessed: length,
             summary: {
-              totalProblematicPages: map(.problematicPages // [] | length) | add,
-              totalSuccessfulPages: map(.successfulPages // [] | length) | add,
-              totalErrors: map(.errors // 0) | add
+              totalProblematicPages: map(
+                if .problematicPages then .problematicPages | length else 0 end
+              ) | add,
+              totalSuccessfulPages: map(
+                if .successfulPages then .successfulPages | length else 0 end
+              ) | add,
+              totalErrors: map(
+                if .errors then .errors else 0 end
+              ) | add,
+              totalUrlsChecked: map(
+                if .totalUrlsChecked then .totalUrlsChecked else 0 end
+              ) | add
             },
-            allResults: .
+            brandResults: [
+              .[] | select(.brand != null) | {
+                brand: .brand,
+                assortmentCode: .assortmentCode,
+                totalUrlsChecked: (.totalUrlsChecked // 0),
+                problematicPagesFound: (.problematicPagesFound // 0),
+                successfulPages: (.successfulPages // [] | length),
+                errors: (.errors // 0),
+                duration: .duration,
+                speedMetrics: .speedMetrics
+              }
+            ] | unique
           }
           ' --arg runId "$RUN_ID" \
              --arg timestamp "$TIMESTAMP" \
              --arg workflowRun "${{ github.run_id }}" \
              $RESULTS_DIR/*.json > $RESULTS_DIR/pdpCheckResults_MASTER_REPORT.json
+          
+          echo "Created master report"
+
+      - name: Create summary statistics
+        run: |
+          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
+          RUN_ID=${{ env.RUN_ID }}
+          
+          RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
+          
+          # Calculate total statistics
+          TOTAL_URLS=$(jq '[.[] | .totalUrlsChecked // 0] | add' $RESULTS_DIR/*.json 2>/dev/null || echo 0)
+          TOTAL_PROBLEMATIC=$(jq '[.[] | .problematicPagesFound // 0] | add' $RESULTS_DIR/*.json 2>/dev/null || echo 0)
+          TOTAL_SUCCESS=$(jq '[.[] | .successfulPages // [] | length] | add' $RESULTS_DIR/*.json 2>/dev/null || echo 0)
+          TOTAL_ERRORS=$(jq '[.[] | .errors // 0] | add' $RESULTS_DIR/*.json 2>/dev/null || echo 0)
+          
+          # Create summary JSON
+          cat > $RESULTS_DIR/summary.json << EOF
+          {
+            "runId": "$RUN_ID",
+            "timestamp": "$TIMESTAMP",
+            "workflowRun": "${{ github.run_id }}",
+            "totalUrlsChecked": $TOTAL_URLS,
+            "totalProblematicPages": $TOTAL_PROBLEMATIC,
+            "totalSuccessfulPages": $TOTAL_SUCCESS,
+            "totalErrors": $TOTAL_ERRORS,
+            "successRate": "$(echo "scale=2; if($TOTAL_URLS > 0) $TOTAL_SUCCESS/$TOTAL_URLS*100 else 0" | bc)%",
+            "errorRate": "$(echo "scale=2; if($TOTAL_URLS > 0) $TOTAL_ERRORS/$TOTAL_URLS*100 else 0" | bc)%",
+            "problematicRate": "$(echo "scale=2; if($TOTAL_URLS > 0) $TOTAL_PROBLEMATIC/$TOTAL_URLS*100 else 0" | bc)%"
+          }
+          EOF
 
       - name: Update latest symlink
         run: |
@@ -206,26 +284,48 @@ jobs:
           # Also create a dated symlink for easier reference
           ln -s "run_${RUN_ID}_${TIMESTAMP}" "run_${TIMESTAMP}"
 
-      - name: Create summary file
+      - name: Create README
         run: |
           TIMESTAMP=${{ env.RUN_TIMESTAMP }}
           RUN_ID=${{ env.RUN_ID }}
           
-          cat > results/latest/README.md << EOF
+          RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
+          
+          # Extract summary data
+          TOTAL_URLS=$(jq -r '.totalUrlsChecked // 0' $RESULTS_DIR/summary.json)
+          TOTAL_PROBLEMATIC=$(jq -r '.totalProblematicPages // 0' $RESULTS_DIR/summary.json)
+          TOTAL_SUCCESS=$(jq -r '.totalSuccessfulPages // 0' $RESULTS_DIR/summary.json)
+          TOTAL_ERRORS=$(jq -r '.totalErrors // 0' $RESULTS_DIR/summary.json)
+          SUCCESS_RATE=$(jq -r '.successRate // "0%"' $RESULTS_DIR/summary.json)
+          
+          cat > $RESULTS_DIR/README.md << EOF
           # PDP Scan Results - Run ${RUN_ID} - ${TIMESTAMP}
           
           ## Overview
           - **Run ID:** ${RUN_ID}
           - **Timestamp:** ${TIMESTAMP}
-          - **Workflow Run:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          - **Workflow Run:** [${{ github.run_id }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+          
+          ## Summary Statistics
+          | Metric | Count | Percentage |
+          |--------|-------|------------|
+          | Total URLs Checked | ${TOTAL_URLS} | 100% |
+          | Successful Pages | ${TOTAL_SUCCESS} | ${SUCCESS_RATE} |
+          | Problematic Pages | ${TOTAL_PROBLEMATIC} | $(jq -r '.problematicRate' $RESULTS_DIR/summary.json) |
+          | Errors | ${TOTAL_ERRORS} | $(jq -r '.errorRate' $RESULTS_DIR/summary.json) |
           
           ## Result Files
-          - [Master Report](pdpCheckResults_MASTER_REPORT.json) - Complete combined results
-          - [All Problematic Pages](pdpCheckResults_ALL_PROBLEMATIC.json) - Just problematic pages
+          - [Master Report](pdpCheckResults_MASTER_REPORT.json) - Complete combined results with all brand details
+          - [Problematic Pages](pdpCheckResults_ALL_PROBLEMATIC.json) - Just the problematic pages
+          - [Summary Statistics](summary.json) - Quick overview of the run
           
           ## Navigation
-          - Latest results are always available in the [latest](latest) symlink
+          - Latest results are always available in the [latest](../latest) symlink
           - Historical runs are stored in timestamped directories
+          - Previous run: [run_${TIMESTAMP}](../run_${TIMESTAMP}) (if exists)
+          
+          ---
+          *Generated by GitHub Actions on $(date)*
           EOF
 
       - name: Commit and push results
@@ -248,3 +348,43 @@ jobs:
         with:
           name: merged-results-${{ env.RUN_TIMESTAMP }}
           path: results/latest/
+
+# -----------------------------------------
+# Optional: Clean up old runs (keep last 10)
+# -----------------------------------------
+  cleanup:
+    needs: merge
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'  # Only run on main branch
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Clean up old results
+        run: |
+          cd results
+          
+          # List all run directories sorted by name (oldest first)
+          RUNS=$(ls -d run_* 2>/dev/null | sort || true)
+          RUN_COUNT=$(echo "$RUNS" | wc -l)
+          
+          # Keep only the last 10 runs
+          KEEP=10
+          REMOVE=$((RUN_COUNT - KEEP))
+          
+          if [ $REMOVE -gt 0 ]; then
+            echo "Removing $REMOVE old runs, keeping last $KEEP"
+            echo "$RUNS" | head -n $REMOVE | while read dir; do
+              echo "Removing $dir"
+              rm -rf "$dir"
+            done
+            
+            # Update git
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add .
+            git commit -m "Cleanup: Removed old PDP scan results" || true
+            git push || true
+          else
+            echo "No cleanup needed, have $RUN_COUNT runs (keeping $KEEP)"
+          fi
