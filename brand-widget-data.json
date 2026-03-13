@@ -1,0 +1,3081 @@
+[
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/it/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/it/p/magnum-sandwich.html/08000920585603",
+    "brandCode": "BF0543",
+    "locale": "it-it",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/de/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/de/p/magnum-salted-caramel-&-glazed-almonds-1x.html/08711327391307",
+    "brandCode": "BF0543",
+    "locale": "de-de",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/th/th/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/th/th/p/%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%A1-%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C.html/08851932295789",
+    "brandCode": "BF0543",
+    "locale": "th-th",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/uk/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/uk/p/magnum-double-salted-caramel-ice-cream-tub-440ml.html/08711327315365",
+    "brandCode": "BF0543",
+    "locale": "en-gb",
+    "brandName": "Magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/fi/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/fi/p/magnum-strawberry-white.html/00000080111337",
+    "brandCode": "BF0543",
+    "locale": "fi-fi",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/at/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/at/p/magnum-sandwich-1-x-140-ml.html/08000920585603",
+    "brandCode": "BF0543",
+    "locale": "de-at",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/es/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/es/p/after-dinner-classic-x10.html/08000920576502",
+    "brandCode": "BF0543",
+    "locale": "es-es",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/mx/es/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/mx/es/p/helado-clasica.html/00077567001023",
+    "brandCode": "BF0543",
+    "locale": "es-mx",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/fr/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/fr/p/pot-double-caramel-sal%C3%A9.html/08711327315365",
+    "brandCode": "BF0543",
+    "locale": "fr-fr",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/ch/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/ch/p/magnum-sandwich-1-x-140-ml.html/08000920585603",
+    "brandName": "Magnum",
+    "success": false
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/za/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/za/p/almond.html/06001087376747",
+    "brandCode": "BF0543",
+    "locale": "en-za",
+    "brandName": "Magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/sg/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/sg/p/double-chocolate-ice-cream-4-x-88ml.html/08712100845123",
+    "brandCode": "BF0543",
+    "locale": "en-sg",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/pt/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/pt/p/branco.html/08000920500217",
+    "brandCode": "BF0543",
+    "locale": "pt-pt",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/nl/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/nl/p/ijs-vegan-sea-salt-caramel-3x90ml.html/08711327434981",
+    "brandCode": "BF0543",
+    "locale": "nl-nl",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/arabia/en/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/arabia/en/p/classic-100ml.html/08690637687419",
+    "brandCode": "BF0543",
+    "locale": "en-ae",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/in/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/in/p/chocolate-truffle.html/08901030421549",
+    "brandCode": "BF0543",
+    "locale": "en-in",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/au/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/anz/p/magnum-mini-boysenberry-multipack-x6.html/08721274617023",
+    "brandCode": "BF0543",
+    "locale": "en-au",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/tr/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/tr/p/utopia-ahududu.html/08683130095645",
+    "brandName": "magnum",
+    "success": false
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/be/fr/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/be/fr/p/pot-double-salted-caramel-440ml.html/08711327315365",
+    "brandCode": "BF0543",
+    "locale": "fr-be",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/be/nl/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/be/fr/p/pot-double-salted-caramel-440ml.html/08711327315365",
+    "brandCode": "BF0543",
+    "locale": "fr-be",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "nexxus",
+    "assortmentCode": "BH0990",
+    "feedUrl": "https://www.nexxus.com/mx/home.productfeed.json",
+    "url": "https://www.nexxus.com/mx/p/shampoo-keraphix.html/00605592005183",
+    "brandCode": "BH0990",
+    "locale": "es-mx",
+    "brandName": "nexxus",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/pl/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/pl/p/sandwich.html/08000920585603",
+    "brandCode": "BF0543",
+    "locale": "pl-pl",
+    "brandName": "magnum",
+    "success": true
+  },
+  {
+    "brand": "nexxus",
+    "assortmentCode": "BH0990",
+    "feedUrl": "https://www.nexxus.com/br/home.productfeed.json",
+    "url": "https://www.nexxus.com/br/p/shampoo-nexxus-keraphix-250ml.html/07891150067042",
+    "brandCode": "BH0990",
+    "locale": "pt-BR",
+    "brandName": "nexxus",
+    "success": true
+  },
+  {
+    "brand": "magnum",
+    "assortmentCode": "BF0543",
+    "feedUrl": "https://www.magnumicecream.com/ie/home.productfeed.json",
+    "url": "https://www.magnumicecream.com/ie/p/magnum-double-salted-caramel-ice-cream-tub-440ml.html/08711327315365",
+    "brandCode": "BF0543",
+    "locale": "en-gb",
+    "brandName": "Magnum",
+    "success": true
+  },
+  {
+    "brand": "nexxus",
+    "assortmentCode": "BH0990",
+    "feedUrl": "https://www.nexxus.com/ca/en/home.productfeed.json",
+    "url": "https://www.nexxus.com/ca/en/p/diametress%C2%AE-weightless-volume-shampoo.html/00055451801119",
+    "brandCode": "BH0990",
+    "locale": "en-CA",
+    "brandName": "nexxus",
+    "success": true
+  },
+  {
+    "brand": "nexxus",
+    "assortmentCode": "BH0990",
+    "feedUrl": "https://www.nexxus.com/ca/fr/home.productfeed.json",
+    "url": "https://www.nexxus.com/ca/en/p/diametress%C2%AE-weightless-volume-shampoo.html/00055451801119",
+    "brandCode": "BH0990",
+    "locale": "en-CA",
+    "brandName": "nexxus",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/id/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/id/p/sampo-clear-perawatan-komplit.html/08999999529550",
+    "brandCode": "BH0117",
+    "locale": "id-id",
+    "brandName": "clear",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/my/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/my/p/clear-ice-cool-menthol-anti-dandruff-shampoo.html/08851932399517",
+    "brandCode": "BH0117",
+    "locale": "en-my",
+    "brandName": "clear",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/th/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/th/p/%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B8%84%E0%B8%B9%E0%B8%A5-%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%A5-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9F-%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%8C%E0%B8%9B%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9.html/08851932391702",
+    "brandCode": "BH0117",
+    "locale": "th-th",
+    "brandName": "clear",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/ph/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/ph/p/clear-complete-soft-care-anti-dandruff-shampoo.html/04800888133519",
+    "brandCode": "BH0117",
+    "locale": "en-ph",
+    "brandName": "clear",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/sg/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/sg/p/clear-men-deep-cleanse-anti-dandruff-shampoo.html/08851932399319",
+    "brandName": "clear",
+    "success": false
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/br/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/br/p/shampoo-clear-mentol.html/07891150001183",
+    "brandCode": "BH0117",
+    "locale": "pt-br",
+    "brandName": "clear",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/vn/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/vn/p/dau-goi-clear-hoa-anh-dao.html/08934868132677",
+    "brandCode": "BH0117",
+    "locale": "vi-vn",
+    "brandName": "clear",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.com/tr/home.productfeed.json",
+    "url": "https://www.clearhaircare.com/tr/p/clear-scalpceuticals-sac-dokulmesine-karsi-sac-serumu.html/08683130040614",
+    "brandCode": "BH0117",
+    "locale": "tr-tr",
+    "brandName": "clear",
+    "success": true
+  },
+  {
+    "brand": "clear",
+    "assortmentCode": "BH0117",
+    "feedUrl": "https://www.clearhaircare.jp/home.productfeed.json",
+    "url": "https://www.clearhaircare.jp/p/moist-treatment.html/04902111755045",
+    "success": false,
+    "error": "Widget not found"
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/uk/home.productfeed.json",
+    "url": "https://www.dove.com/uk/p/men-care-clean-comfort-deodorant-stick.html/00000050220021",
+    "brandCode": "BH0162",
+    "locale": "en-gb",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/ca/fr/home.productfeed.json",
+    "url": "https://www.dove.com/ca/en/p/relaxing-lavender-beauty-bar.html/00011111010673",
+    "brandCode": "BH0162",
+    "locale": "en-ca",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/fr/home.productfeed.json",
+    "url": "https://www.dove.com/fr/p/anti-tanspirant-advanced-care-invisible-dry-bille.html/00000059084051",
+    "brandCode": "BH0162",
+    "locale": "fr-fr",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/ca/en/home.productfeed.json",
+    "url": "https://www.dove.com/ca/en/p/relaxing-lavender-beauty-bar.html/00011111010673",
+    "brandCode": "BH0162",
+    "locale": "en-ca",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/au/home.productfeed.json",
+    "url": "https://www.dove.com/au/p/antiperspirant-roll-on-powder-soft.html/00000093576642",
+    "brandCode": "BH0162",
+    "locale": "en-au",
+    "brandName": "Dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/uy/home.productfeed.json",
+    "url": "https://www.dove.com/uy/p/men-care-antitranspirante-en-roll-on-men-care-clean-comfort.html/00000078927254-men-product-detail-page",
+    "brandCode": "BH0162",
+    "locale": "es-uy",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+    "url": "https://www.dove.com/ar/p/dove-vitamin-care-raspberry-rose.html/00079400509048",
+    "brandCode": "BH0162",
+    "locale": "es-ar",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/dach/home.productfeed.json",
+    "url": "https://www.dove.com/dach/p/tiefenwirksam-pflege-k%C3%B6rpercreme.html/00000040883007",
+    "brandCode": "BH0162",
+    "locale": "de-de",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/br/home.productfeed.json",
+    "url": "https://www.dove.com/br/p/stick-dove-original.html/00000075062835",
+    "brandCode": "BH0162",
+    "locale": "pt-br",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
+    "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-rosas.html/00000075062811",
+    "brandCode": "BH0162",
+    "locale": "es-mx",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
+    "url": "https://www.dove.com/jp/p/fresh-facial-foam-tube.html/04902111734965",
+    "brandCode": "BH0162",
+    "locale": "ja-jp",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+    "url": "https://www.dove.com/id/p/complete-care-menutrisi-melembutkan-antiperspirant-deodorant-ro.html/08999999005580",
+    "brandCode": "BH0162",
+    "locale": "id-id",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/my/home.productfeed.json",
+    "url": "https://www.dove.com/my/p/hair-fall-rescue-serum-conditioner.html/04800888206657",
+    "brandCode": "BH0162",
+    "locale": "en-my",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/cl/home.productfeed.json",
+    "url": "https://www.dove.com/cl/p/men-care-antitranspirante-clean-comfort-barra.html/00000075031060-men-product-detail-page",
+    "brandCode": "BH0162",
+    "locale": "es-cl",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/th/home.productfeed.json",
+    "url": "https://www.dove.com/th/p/go-fresh-rebalancing-body-wash.html/06902088962147",
+    "brandCode": "BH0162",
+    "locale": "th-th",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/vn/home.productfeed.json",
+    "url": "https://www.dove.com/vn/p/lan-khu-mui-dove-go-fresh-huong-dua-leo-tra-xanh-tuoi-mat.html/04800888150585",
+    "brandCode": "BH0162",
+    "locale": "vi-vn",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/ph/home.productfeed.json",
+    "url": "https://www.dove.com/ph/p/pink-beauty-bar.html/00067238891183",
+    "brandCode": "BH0162",
+    "locale": "en-ph",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/no/home.productfeed.json",
+    "url": "https://www.dove.com/no/p/silky-pampering-body-cream.html/00000040883007",
+    "brandCode": "BH0162",
+    "locale": "nb-no",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/nz/home.productfeed.json",
+    "url": "https://www.dove.com/nz/p/antiperspirant-roll-on-powder-soft.html/00000093576642",
+    "brandCode": "BH0162",
+    "locale": "en-nz",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/nl/home.productfeed.json",
+    "url": "https://www.dove.com/nl/p/go-fresh-cucumber-roller.html/00000050096381",
+    "brandCode": "BH0162",
+    "locale": "nl-nl",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/gr/home.productfeed.json",
+    "url": "https://www.dove.com/gr/p/%CE%BA%CF%81%CE%AD%CE%BC%CE%B1-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82-silky-petal.html/00000059095897",
+    "brandCode": "BH0162",
+    "locale": "el-gr",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/be/fr/home.productfeed.json",
+    "url": "https://www.dove.com/be/fr/p/oxygen-touch-creme-corporelle.html/00000040133232",
+    "brandCode": "BH0162",
+    "locale": "fr-be",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/za/home.productfeed.json",
+    "url": "https://www.dove.com/za/p/mineral-touch-roll-on-anti-perspirant-deodorant.html/00000060024879",
+    "success": false,
+    "brandName": "dove"
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/be/nl/home.productfeed.json",
+    "url": "https://www.dove.com/be/fr/p/oxygen-touch-creme-corporelle.html/00000040133232",
+    "success": false,
+    "brandName": "dove"
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/fi/home.productfeed.json",
+    "url": "https://www.dove.com/fi/p/go-fresh-cucumber-green-tea-scent-antiperspirantti-stick.html/00000050285662",
+    "success": false,
+    "brandName": "dove"
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/se/home.productfeed.json",
+    "url": "https://www.dove.com/se/p/silky-kroppskraem.html/00000040883007",
+    "brandCode": "BH0162",
+    "locale": "sv-se",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/pl/home.productfeed.json",
+    "url": "https://www.dove.com/pl/p/dove-krem-do-cia%C5%82a-silky-300-ml.html/00000040883007",
+    "brandCode": "BH0162",
+    "locale": "pl-pl",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/pt/home.productfeed.json",
+    "url": "https://www.dove.com/pt/p/dove-men%2Bcare-gel-de-banho-clean-confort-700ml.html/00000006437225",
+    "brandCode": "BH0162",
+    "locale": "pt-pt",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/tr/home.productfeed.json",
+    "url": "https://www.dove.com/tr/p/hindistan-cevizi-yasemin-cicegi-roll-on.html/00000059081630",
+    "brandCode": "BH0162",
+    "locale": "tr-tr",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/hu/home.productfeed.json",
+    "url": "https://www.dove.com/hu/p/dove-summer-revived-onbarnito-testapolo-vilagos-normal-arcborre.html/08720181385995",
+    "success": false,
+    "brandName": "dove"
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/pk/home.productfeed.json",
+    "url": "https://www.dove.com/pk/p/original-beauty-cream-bar.html/00067238891190",
+    "brandCode": "BH0162",
+    "locale": "en-pk",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "dove",
+    "assortmentCode": "BH0162",
+    "feedUrl": "https://www.dove.com/cz/home.productfeed.json",
+    "url": "https://www.dove.com/cz/p/tuhy-antiperspirant-clean-comfort.html/00000050220021-men-product-detail-page",
+    "brandCode": "BH0162",
+    "locale": "cs-cz",
+    "brandName": "dove",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BFQ742",
+    "feedUrl": "https://www.wallsicecream.com/uk/home.productfeed.json",
+    "url": "https://www.wallsicecream.com/uk/p/viennetta-vanilla-650ml.html/08000920200025",
+    "brandCode": "BFQ742",
+    "locale": "en-gb",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0870",
+    "feedUrl": "https://www.wallsthailand.com/home.productfeed.json",
+    "url": "https://www.wallsthailand.com/p/%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-%E0%B9%84%E0%B8%9A%E0%B8%97%E0%B9%8C%E0%B8%AA-%E0%B9%84%E0%B8%97%E0%B8%A1%E0%B9%8C!.html/00885193244138",
+    "brandCode": "BF0870",
+    "locale": "th-th",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1023",
+    "feedUrl": "https://www.langnese.de/home.productfeed.json",
+    "url": "https://www.langnese.de/p/capri-1-x-55-ml.html/00000040561035",
+    "brandCode": "BF1023",
+    "locale": "de-de",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0870",
+    "feedUrl": "https://www.wallsicecream.com/id/home.productfeed.json",
+    "url": "https://www.wallsicecream.com/id/p/magnum-mini-classic.html/08999999035624",
+    "brandCode": "BF0870",
+    "locale": "id-id",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0765",
+    "feedUrl": "https://www.selectaphilippines.com/home.productfeed.json",
+    "url": "https://www.selectaphilippines.com/p/supreme-cookies-&-cream-ice-cream.html/04800086035929",
+    "brandCode": "BF0765",
+    "locale": "en-ph",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0632",
+    "feedUrl": "https://www.ola.co.za/home.productfeed.json",
+    "url": "https://www.ola.co.za/p/ola-paddle-pop-twister-exotic.html/06001087399593",
+    "brandCode": "BF0632",
+    "locale": "en-za",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0870",
+    "feedUrl": "https://www.walls.com.my/home.productfeed.json",
+    "url": "https://www.walls.com.my/p/cup-chocolate.html/08851932030618",
+    "brandCode": "BF0870",
+    "locale": "en-my",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1023",
+    "feedUrl": "https://www.frigo.es/home.productfeed.json",
+    "url": "https://www.frigo.es/p/barrita-mars.html/05000159460866",
+    "brandCode": "BF1023",
+    "locale": "es-es",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1023",
+    "feedUrl": "https://www.ola.nl/home.productfeed.json",
+    "url": "https://www.ola.nl/p/cornetto-king-cone-vanilla.html/05201028355508",
+    "brandCode": "BF1023",
+    "locale": "nl-nl",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0802",
+    "feedUrl": "https://www.streetsicecream.com.au/home.productfeed.json",
+    "url": "https://www.streetsicecream.com.au/p/cornetto-soft-vanilla-with-chocolate-sauce-cone.html/08711327556256",
+    "brandCode": "BF0802",
+    "locale": "en-au",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0012",
+    "feedUrl": "https://www.algida.com/gr/home.productfeed.json",
+    "url": "https://www.algida.com/gr/p/carte-d-or-vanilla-madagascar-5l.html/04056100032201",
+    "brandName": "walls",
+    "error": "Widget not found"
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1023",
+    "feedUrl": "https://www.hbicecream.ie/home.productfeed.json",
+    "url": "https://www.hbicecream.ie/p/viennetta-vanilla-650ml.html/08000920200025",
+    "brandCode": "BF1023",
+    "locale": "en-ie",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0802",
+    "feedUrl": "https://www.streetsicecream.co.nz/home.productfeed.json",
+    "url": "https://www.streetsicecream.co.nz/p/cornetto-soft-vanilla-140ml.html/08711327556256",
+    "brandCode": "BF0802",
+    "locale": "en-nz",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1023",
+    "feedUrl": "https://www.gb.se/home.productfeed.json",
+    "url": "https://www.gb.se/p/magnum-classic-6-pack.html/08711327532359",
+    "brandCode": "BF1023",
+    "locale": "sv-se",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1055",
+    "feedUrl": "https://www.ingman.fi/home.productfeed.json",
+    "url": "https://www.ingman.fi/p/pistaasi.html/04056100032331",
+    "success": false,
+    "brandName": "walls"
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1023",
+    "feedUrl": "https://www.algida.hu/home.productfeed.json",
+    "url": "https://www.algida.hu/p/nogger.html/05900700121690",
+    "brandCode": "BF1023",
+    "locale": "hu-hu",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0870",
+    "feedUrl": "https://www.iubesteinghetata.ro/home.productfeed.json",
+    "url": "https://www.iubesteinghetata.ro/p/cornetto-king-cone-vanilla-260ml.html/05201028355508",
+    "brandCode": "BF0870",
+    "locale": "ro-ro",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0387",
+    "feedUrl": "https://www.heladosholanda.com.mx/home.productfeed.json",
+    "url": "https://www.heladosholanda.com.mx/p/helado-holanda-capuccino-1l.html/07501130902170",
+    "brandCode": "BF0387",
+    "locale": "es-mx",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0012",
+    "feedUrl": "https://www.algida.com.tr/home.productfeed.json",
+    "url": "https://www.algida.com.tr/p/algida-usta-usulu-bol-kaymak.html/08683130012130",
+    "brandName": "walls",
+    "success": false
+    
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BFQ742",
+    "feedUrl": "https://www.algida.pl/home.productfeed.json",
+    "url": "https://www.algida.pl/p/nogger.html/05900700121690",
+    "brandCode": "BFQ742",
+    "locale": "pl-pl",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0012",
+    "feedUrl": "https://www.sharehappy.it/home.productfeed.json",
+    "url": "https://www.sharehappy.it/p/cafe-zero-mocaccino.html/00000059013358",
+    "brandCode": "BF0012",
+    "locale": "it-it",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0678",
+    "feedUrl": "https://www.heladospinguino.com.ec/home.productfeed.json",
+    "url": "https://www.heladospinguino.com.ec/p/magnum-dulce-de-leche.html/07861047700048",
+    "brandCode": "BF0678",
+    "locale": "es-ec",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF1023",
+    "feedUrl": "https://www.frisko.dk/home.productfeed.json",
+    "url": "https://www.frisko.dk/p/frisko-sandwich.html/07310290002176",
+    "brandCode": "BF1023",
+    "locale": "da-dk",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0588",
+    "feedUrl": "https://www.miko.fr/home.productfeed.json",
+    "url": "https://www.miko.fr/p/pot-double-caramel-sal%C3%A9.html/08711327315365",
+    "success": false,
+    "brandName": "walls"
+  },
+  {
+    "brand": "luxglobal",
+    "assortmentCode": "BH0307",
+    "feedUrl": "https://www.lux.com/id/home.productfeed.json",
+    "url": "https://www.lux.com/id/p/shower-gel.html/06902088970388",
+    "brandCode": "BH0307",
+    "locale": "id-id",
+    "brandName": "luxglobal",
+    "success": true
+  },
+  {
+    "brand": "luxglobal",
+    "assortmentCode": "BH0307",
+    "feedUrl": "https://www.lux.com/in/home.productfeed.json",
+    "url": "https://www.lux.com/in/p/creamy-perfection.html/08901030508219",
+    "brandCode": "BH0307",
+    "locale": "en-in",
+    "brandName": "luxglobal",
+    "success": true
+  },
+  {
+    "brand": "walls",
+    "assortmentCode": "BF0213",
+    "feedUrl": "https://www.algida.sk/home.productfeed.json",
+    "url": "https://www.algida.sk/p/nogger-zmrzlina-karamel-90-ml.html/05900700121690",
+    "brandCode": "BF0213",
+    "locale": "sk-sk",
+    "brandName": "walls",
+    "success": true
+  },
+  {
+    "brand": "luxglobal",
+    "assortmentCode": "BH0307",
+    "feedUrl": "https://www.lux.com/za/home.productfeed.json",
+    "url": "https://www.lux.com/za/p/soft-touch.html/06001087356732",
+    "brandCode": "BH0307",
+    "locale": "en-za",
+    "brandName": "luxglobal",
+    "success": true
+  },
+  {
+    "brand": "luxglobal",
+    "assortmentCode": "BH0307",
+    "feedUrl": "https://www.lux.com/pk/home.productfeed.json",
+    "url": "https://www.lux.com/pk/p/elegant-gardenia.html/08961014013603",
+    "brandCode": "BH0307",
+    "locale": "en-pk",
+    "brandName": "luxglobal",
+    "success": true
+  },
+  {
+    "brand": "luxglobal",
+    "assortmentCode": "BH0307",
+    "feedUrl": "https://www.lux.com/ar/home.productfeed.json",
+    "url": "https://www.lux.com/ar/p/rosas-francesas.html/07791293037608",
+    "brandCode": "BH0307",
+    "locale": "es-ar",
+    "brandName": "luxglobal",
+    "success": true
+  },
+  {
+    "brand": "luxglobal",
+    "assortmentCode": "BH0307",
+    "feedUrl": "https://www.lux.com/br/home.productfeed.json",
+    "url": "https://www.lux.com/br/p/buque-de-jasmim.html/07891150059849",
+    "brandCode": "BH0307",
+    "locale": "pt-br",
+    "brandName": "luxglobal",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com/vn/home.productfeed.json",
+    "url": "https://www.ponds.com/vn/p/kem-duong-sang-da-cao-cap-ban-ngay-ponds-flawless-radiance.html/08851932171403",
+    "brandCode": "BH0381",
+    "locale": "vi-vn",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "luxglobal",
+    "assortmentCode": "BH0307",
+    "feedUrl": "https://www.lux.co.jp/home.productfeed.json",
+    "url": "https://www.lux.co.jp/p/serum-styling-reset-water.html/04902111736815",
+    "brandCode": "BH0307",
+    "locale": "ja-jp",
+    "brandName": "luxglobal",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com/mx/home.productfeed.json",
+    "url": "https://www.ponds.com/mx/p/polvo-compacto-angel-face-clarat-b3.html/07501056321284",
+    "brandCode": "BH0381",
+    "locale": "es-mx",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com/za/home.productfeed.json",
+    "url": "https://www.ponds.com/za/p/bright-and-fresh-even-tone-toner.html/06001087012768",
+    "brandCode": "BH0381",
+    "locale": "en-za",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com/id/home.productfeed.json",
+    "url": "https://www.ponds.com/id/p/uv-miracle-sun-screen-bright-spf50.html/04800888287151",
+    "brandCode": "BH0381",
+    "locale": "id-id",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com/pk/home.productfeed.json",
+    "url": "https://www.ponds.com/pk/p/acne-control-facewash.html/08961014007619",
+    "brandCode": "BH0381",
+    "locale": "en-pk",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com/co/home.productfeed.json",
+    "url": "https://www.ponds.com/co/p/crema-anti-edad-preventiva-acido-hialuronico-30.html/04800888211613",
+    "brandCode": "BH0381",
+    "locale": "es-co",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com/pe/home.productfeed.json",
+    "url": "https://www.ponds.com/pe/p/polvo-compacto-angel-face.html/07501056359102",
+    "brandCode": "BH0381",
+    "locale": "es-pe",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "lipton",
+    "assortmentCode": "BF0648",
+    "feedUrl": "https://www.liptonicetea.nl/home.productfeed.json",
+    "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-200ml.html/08711200178605",
+    "brandCode": "BF0648",
+    "locale": "nl-nl",
+    "brandName": "lipton",
+    "success": true
+  },
+  {
+    "brand": "lipton",
+    "assortmentCode": "BF0648",
+    "feedUrl": "https://www.liptonicetea.pt/home.productfeed.json",
+    "url": "https://www.liptonicetea.pt/p/lipton-ch%C3%A1-verde-p%C3%AAssego-branco-1l.html/08710604795333",
+    "brandCode": "BF0648",
+    "locale": "pt-pt",
+    "brandName": "lipton",
+    "success": true
+  },
+  {
+    "brand": "lipton",
+    "assortmentCode": "BF0648",
+    "feedUrl": "https://www.liptonicetea.be/nl/home.productfeed.json",
+    "url": "https://www.liptonicetea.be/nl/p/lipton-ice-tea-sparkling-original-25cl.html/05410033820110",
+    "brandCode": "BF0648",
+    "locale": "nl-be",
+    "brandName": "lipton",
+    "success": true
+  },
+  {
+    "brand": "ponds",
+    "assortmentCode": "BH0381",
+    "feedUrl": "https://www.ponds.com.ar/home.productfeed.json",
+    "url": "https://www.ponds.com.ar/p/crema-c-leche-desmaquillante.html/00000001217327",
+    "brandCode": "BH0381",
+    "locale": "es-ar",
+    "brandName": "ponds",
+    "success": true
+  },
+  {
+    "brand": "signal",
+    "assortmentCode": "BH0437",
+    "feedUrl": "https://www.signal.be/nl/home.productfeed.json",
+    "url": "https://www.signal.be/nl/p/signal-tandenborstel-classic-fresh-hard.html/00000054024786",
+    "brandCode": "BH0437",
+    "locale": "nl-be",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "signal",
+    "assortmentCode": "BH0437",
+    "feedUrl": "https://www.signal.be/fr/home.productfeed.json",
+    "url": "https://www.signal.be/nl/p/signal-tandenborstel-classic-fresh-hard.html/00000054024786",
+    "brandCode": "BH0437",
+    "locale": "nl-be",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "signal",
+    "assortmentCode": "BH0880",
+    "feedUrl": "https://www.prodent.nl/home.productfeed.json",
+    "url": "https://www.prodent.nl/p/tandpasta-kids-6---13-jaar-glazuurbeschermer.html/08720181201202",
+    "brandCode": "BH0880",
+    "locale": "nl-nl",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/uk/home.productfeed.json",
+    "url": "https://www.tresemme.com/uk/p/rich-moisture-conditioner-100ml.html/00000050118083",
+    "brandCode": "BH0996",
+    "locale": "en-gb",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "signal",
+    "assortmentCode": "BH0013",
+    "feedUrl": "https://www.aim.gr/home.productfeed.json",
+    "url": "https://www.aim.gr/p/white-system.html/00000052015298",
+    "brandCode": "BH0013",
+    "locale": "el-gr",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/th/home.productfeed.json",
+    "url": "https://www.tresemme.com/th/p/%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%8B%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B9%88-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%A1%E0%B8%B9%E0%B8%97-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%81.html/08851932306591",
+    "brandCode": "BH0996",
+    "locale": "th-th",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/mx/home.productfeed.json",
+    "url": "https://www.tresemme.com.mx/p/shampoo-detox-hidratacion.html/00750630622490",
+    "brandCode": "BH0996",
+    "locale": "es-mx",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/za/home.productfeed.json",
+    "url": "https://www.tresemme.com/za/p/colour-revitalise-shampoo.html/05012254056653",
+    "brandCode": "BH0996",
+    "locale": "en-za",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
+    "url": "https://www.tresemme.com/br/p/condicionador-tresemm%C3%A9-cachos-definidos.html/07891150018761",
+    "brandCode": "BH0996",
+    "locale": "pt-br",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/hu/home.productfeed.json",
+    "url": "https://www.tresemme.com/hu/p/tresemme-keratin-smooth-sampon-a-gubancolodasra-hajlamos-hajra-keratinnal-400ml.html/08710522323007",
+    "brandCode": "BH0996",
+    "locale": "hu-hu",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/au/home.productfeed.json",
+    "url": "https://www.tresemme.com/au/p/instant-refresh-dry-shampoo.html/08710908043338",
+    "brandCode": "BH0996",
+    "locale": "en-au",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/ca/fr/home.productfeed.json",
+    "url": "https://www.tresemme.com/ca/en/p/pro-pure-detangle-&-smooth-leave-in-conditioner-for-dry-hair.html/00022400005690",
+    "brandCode": "BH0996",
+    "locale": "en-ca",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/ca/en/home.productfeed.json",
+    "url": "https://www.tresemme.com/ca/en/p/pro-pure-detangle-&-smooth-leave-in-conditioner-for-dry-hair.html/00022400005690",
+    "brandCode": "BH0996",
+    "locale": "en-ca",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/ar/home.productfeed.json",
+    "url": "https://www.tresemme.com/ar/p/mousse-ondas-y-rizos.html/07506306249806",
+    "brandCode": "BH0996",
+    "locale": "es-ar",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/ph/home.productfeed.json",
+    "url": "https://www.tresemme.com/ph/p/keratin-smooth-shine-serum.html/00022400265186",
+    "brandCode": "BH0996",
+    "locale": "en-ph",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "tresemme",
+    "assortmentCode": "BH0996",
+    "feedUrl": "https://www.tresemme.com/pl/home.productfeed.json",
+    "url": "https://www.tresemme.com/pl/p/extra-hold-lakier-do-wosow.html/05012254068151",
+    "brandCode": "BH0996",
+    "locale": "pl-pl",
+    "brandName": "tresemme",
+    "success": true
+  },
+  {
+    "brand": "vaseline",
+    "assortmentCode": "BH0499",
+    "feedUrl": "https://www.vaseline.com.tr/home.productfeed.json",
+    "url": "https://www.vaseline.com.tr/p/vaseline%C2%AE-hassas-bak%C4%B1m-v%C3%BCcut-losyonu-200-ml.html/08683130076620",
+    "brandCode": "BH0499",
+    "locale": "tr-tr",
+    "brandName": "vaseline",
+    "success": true
+  },
+  {
+    "brand": "vaseline",
+    "assortmentCode": "BH0499",
+    "feedUrl": "https://www.vaseline.com/ca/fr/home.productfeed.json",
+    "url": "https://www.vaseline.com/ca/en/p/vaseline-lotion-absorbing.html/00065656190451",
+    "brandCode": "BH0499",
+    "locale": "en-ca",
+    "brandName": "vaseline",
+    "success": true
+  },
+  {
+    "brand": "vaseline",
+    "assortmentCode": "BH0499",
+    "feedUrl": "https://www.vaseline.com/ca/en/home.productfeed.json",
+    "url": "https://www.vaseline.com/ca/en/p/vaseline-lotion-absorbing.html/00065656190451",
+    "brandCode": "BH0499",
+    "locale": "en-ca",
+    "brandName": "vaseline",
+    "success": true
+  },
+  {
+    "brand": "vaseline",
+    "assortmentCode": "BH0499",
+    "feedUrl": "https://www.vaseline.com/id/id/home.productfeed.json",
+    "url": "https://www.vaseline.com/id/id/p/vaseline-gluta-hya-serum-burst-lotion-flawless-bright.html/00000068782482",
+    "brandCode": "BH0499",
+    "locale": "id-id",
+    "brandName": "vaseline",
+    "success": true
+  },
+  {
+    "brand": "vaseline",
+    "assortmentCode": "BH0499",
+    "feedUrl": "https://www.vaseline.com/uk/home.productfeed.json",
+    "url": "https://www.vaseline.com/uk/p/vaseline-protecting-jelly-original.html/00000042182627",
+    "brandCode": "BH0499",
+    "locale": "en-gb",
+    "brandName": "vaseline",
+    "success": true
+  },
+  {
+    "brand": "vaseline",
+    "assortmentCode": "BH0499",
+    "feedUrl": "https://www.vaseline.com/in/en/home.productfeed.json",
+    "url": "https://www.vaseline.com/in/en/p/vaseline-lip-care-rosy-lip.html/08901030659690",
+    "brandCode": "BH0499",
+    "locale": "en-in",
+    "brandName": "vaseline",
+    "success": true
+  },
+  {
+    "brand": "vaseline",
+    "assortmentCode": "BH0499",
+    "feedUrl": "https://www.vaseline.com/za/en/home.productfeed.json",
+    "url": "https://www.vaseline.com/za/en/p/vaseline-lip-therapy-rosy-lips-tin.html/00000050064861",
+    "brandCode": "BH0499",
+    "locale": "en-za",
+    "brandName": "vaseline",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/uk/home.productfeed.json",
+    "url": "https://www.knorr.com/uk/p/chicken-stock-cubes.html/05000184161028",
+    "brandCode": "BF0426",
+    "locale": "en-GB",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/ar/home.productfeed.json",
+    "url": "https://www.knorr.com/ar/p/caldo-de-verdura.html/07794000005723",
+    "brandCode": "BF0426",
+    "locale": "es-ar",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/br/home.productfeed.json",
+    "url": "https://www.knorr.com/br/p/caldo-carne.html/07891150012318",
+    "brandCode": "BF0426",
+    "locale": "pt-br",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/be/fr/home.productfeed.json",
+    "url": "https://www.knorr.com/be/fr/p/legumes-12-cubes-de-bouillon.html/08000830000999",
+    "brandCode": "BF0426",
+    "locale": "fr-be",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+    "url": "https://www.knorr.com/nl/p/spaghetteria-pomodoro.html/08720182422248",
+    "brandCode": "BF0426",
+    "locale": "nl-nl",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/be/nl/home.productfeed.json",
+    "url": "https://www.knorr.com/be/fr/p/legumes-12-cubes-de-bouillon.html/08000830000999",
+    "brandCode": "BF0426",
+    "locale": "fr-be",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/fr/home.productfeed.json",
+    "url": "https://www.knorr.com/fr/p/bouillon-secret-d'ar%C3%B4mes-saveur-champignon.html/08720182780027",
+    "brandCode": "BF0426",
+    "locale": "fr-fr",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/gr/home.productfeed.json",
+    "url": "https://www.knorr.com/gr/p/bio-kivos-kotas.html/05201080102089",
+    "brandCode": "BF0426",
+    "locale": "el-gr",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
+    "url": "https://www.knorr.com/tr/p/knorr-cabuk-makarna-pesto-fusilli.html/00000000000000",
+    "brandCode": "BF0426",
+    "locale": "tr-tr",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/hk/home.productfeed.json",
+    "url": "https://www.knorr.com/hk/p/liquid-seasoning.html/00000048930079",
+    "brandCode": "BF0426",
+    "locale": "zh-hk",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/tw/home.productfeed.json",
+    "url": "https://www.knorr.com/tw/p/%E5%85%A8%E7%B4%A0%E9%AE%AE%E5%91%B3%E7%82%92%E6%89%8B.html/04710254020186",
+    "brandCode": "BF0426",
+    "locale": "zh-tw",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/th/home.productfeed.json",
+    "url": "https://www.knorr.com/th/p/tomyam-cube-72g.html/08850144058236",
+    "brandCode": "BF0426",
+    "locale": "th-th",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/ie/home.productfeed.json",
+    "url": "https://www.knorr.com/ie/p/chicken-stock-cubes.html/05000184161028",
+    "brandCode": "BF0426",
+    "locale": "en-ie",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/ph/home.productfeed.json",
+    "url": "https://www.knorr.com/ph/p/liquid-seasoning-chili.html/04800888218889",
+    "brandCode": "BF0426",
+    "locale": "en-ph",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.in/home.productfeed.json",
+    "url": "https://www.knorr.in/p/chinese-manchurian.html/08901030461224",
+    "brandCode": "BF0426",
+    "locale": "en-IN",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/vn/home.productfeed.json",
+    "url": "https://www.knorr.com/vn/p/gia-v%E1%BB%8B-ho%C3%A0n-ch%E1%BB%89nh-knorr-c%C3%A1-kho.html/08934707010944",
+    "brandCode": "BF0426",
+    "locale": "vi-vn",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/uy/home.productfeed.json",
+    "url": "https://www.knorr.com/uy/p/caldo-saludable-de-verdura-reducido-en-sodio.html/07794000561618",
+    "brandCode": "BF0426",
+    "locale": "es-uy",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/ca/fr/home.productfeed.json",
+    "url": "https://www.knorr.com/ca/en/p/zero-salt-chicken-bouillon.html/00048001015258",
+    "brandCode": "BF0426",
+    "locale": "en-ca",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/ca/en/home.productfeed.json",
+    "url": "https://www.knorr.com/ca/en/p/zero-salt-chicken-bouillon.html/00048001015258",
+    "brandCode": "BF0426",
+    "locale": "en-ca",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0735",
+    "feedUrl": "https://www.royco.co.id/home.productfeed.json",
+    "url": "https://www.royco.co.id/p/nasi-goreng-pedas.html/08999999039288",
+    "success": false,
+    "brandName": "royco"
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0204",
+    "feedUrl": "https://www.continental.com.au/home.productfeed.json",
+    "url": "https://www.continental.com.au/p/red-wine-stock-pot.html/09300830098811",
+    "brandCode": "BF0204",
+    "locale": "en-au",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "knorr",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.knorr.com/ro/home.productfeed.json",
+    "url": "https://www.knorr.com/ro/p/mustar-clasic.html/05948517603503",
+    "brandCode": "BF0426",
+    "locale": "ro-ro",
+    "brandName": "knorr",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/tr/home.productfeed.json",
+    "url": "https://www.rexona.com/tr/p/rexona-men-invisible-black%2Bwhite-antiperspirant-erkek-roll-on-deodorant-50-ml.html/00000059079477",
+    "brandCode": "BH0413",
+    "locale": "tr-tr",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/pl/home.productfeed.json",
+    "url": "https://www.rexona.com/pl/p/antyperspirant-w-sztyfcie-rexona-aloe-vera-40ml.html/00000030056640",
+    "brandCode": "BH0413",
+    "locale": "pl-pl",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/cl/home.productfeed.json",
+    "url": "https://www.rexona.com/cl/p/desodorante-antitranspirante-en-barra-v8-45gr.html/00000075024956",
+    "brandCode": "BH0413",
+    "locale": "es-cl",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/cz/home.productfeed.json",
+    "url": "https://www.rexona.com/cz/p/aloe-vera-tuhy-antiperspirant.html/00000030056640",
+    "brandCode": "BH0413",
+    "locale": "cs-cz",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/sk/home.productfeed.json",
+    "url": "https://www.rexona.com/sk/p/aloe-vera-tuhy-antiperspirant.html/00000030056640",
+    "brandCode": "BH0413",
+    "locale": "sk-sk",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+    "url": "https://www.rexona.com/uy/p/desodorante-antitranspirante-rexona-v8-en-barra-50-g.html/00000075024956",
+    "brandCode": "BH0413",
+    "locale": "es-uy",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/ua/home.productfeed.json",
+    "url": "https://www.rexona.com/ua/p/rexona-%D0%B0%D0%BB%D0%BE%D0%B5-%D0%B2%D0%B5%D1%80%D0%B0-%D0%BE%D0%BB%D1%96%D0%B2%D0%B5%D1%86%D1%8C-40ml.html/00000030056640",
+    "brandCode": "BH0413",
+    "locale": "uk-ua",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/ph/home.productfeed.json",
+    "url": "https://www.rexona.com/ph/p/passion-stick.html/04800888142436",
+    "brandCode": "BH0413",
+    "locale": "en-ph",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/nl/home.productfeed.json",
+    "url": "https://www.rexona.com/nl/p/aloe-vera-stick-voor-vrouwen.html/00000030056640",
+    "success": false,
+    "brandName": "rexona"
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/fr/home.productfeed.json",
+    "url": "https://www.rexona.com/fr/p/d%C3%A9odorant-anti-transpirant-spray-compress%C3%A9-clean-scent-100ml.html/00000059082927",
+    "brandCode": "BH0413",
+    "locale": "fr-fr",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/co/home.productfeed.json",
+    "url": "https://www.rexona.com/co/p/desodorante-antitranspirante-barra-rexona-v8.html/00000075024956",
+    "brandCode": "BH0413",
+    "locale": "es-co",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/dach/home.productfeed.json",
+    "url": "https://www.rexona.com/dach/p/rexona-women-anti-transpirant-deostick-invisible-aqua-40ml.html/00000050076598",
+    "brandCode": "BH0413",
+    "locale": "de-de",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/au/home.productfeed.json",
+    "url": "https://www.rexona.com/au/p/women-clinical-protection-antiperspirant-cream-gentle-dry-45ml.html/04800888185778",
+    "brandCode": "BH0413",
+    "locale": "en-au",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/br/home.productfeed.json",
+    "url": "https://www.rexona.com/br/p/antitranspirante-rexona-feminino-rollon-antibacterial--invisible.html/00000075058845",
+    "brandCode": "BH0413",
+    "locale": "pt-br",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0978",
+    "feedUrl": "https://www.suredeodorant.co.uk/home.productfeed.json",
+    "url": "https://www.suredeodorant.co.uk/p/sure-fresh-citrus-anti-perspirant-cream--50ml.html/00000059002130",
+    "brandCode": "BH0978",
+    "locale": "en-gb",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/id/home.productfeed.json",
+    "url": "https://www.rexona.com/id/p/invisible-pure-antiperspirant-deodorant-rollon.html/00000096114445",
+    "brandCode": "BH0413",
+    "locale": "id-id",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/mx/home.productfeed.json",
+    "url": "https://www.rexona.com/mx/p/antitranspirante-rexona-r-antibacterial-invisible-en-rollon-para-mujer-50-ml.html/00000075058845",
+    "brandCode": "BH0413",
+    "locale": "es-mx",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0143",
+    "feedUrl": "https://www.degreedeodorant.com/ca/fr/home.productfeed.json",
+    "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-pure-rain-48g.html/00045893059483",
+    "brandCode": "BH0143",
+    "locale": "en-ca",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0143",
+    "feedUrl": "https://www.degreedeodorant.com/ca/en/home.productfeed.json",
+    "url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-pure-rain-48g.html/00045893059483",
+    "brandCode": "BH0143",
+    "locale": "en-ca",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
+    "url": "https://www.rexona.com/ar/p/rexona-men-antitranspirante-barra-v8-50gr.html/00000075024956",
+    "brandCode": "BH0413",
+    "locale": "es-ar",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
+    "url": "https://www.hellmanns.com.br/p/mostarda-amarela.html/07891150027794",
+    "brandCode": "BF0380",
+    "locale": "pt-br",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/ar/home.productfeed.json",
+    "url": "https://www.hellmanns.com/ar/p/vegana.html/07794000005433",
+    "brandCode": "BF0380",
+    "locale": "es-ar",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexonadeodorant.com/ae/en/home.productfeed.json",
+    "url": "https://www.rexonadeodorant.com/ae/en/p/rexona-for-men-antiperspirant-deodorant-roll-on-96-hours-of-sweat-protection-maximum-protection-clean-scent-3x-stronger-antiperspirant-50ml.html/00000059082859",
+    "brandCode": "BH0413",
+    "locale": "en-ae",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.rexonadeodorant.com/ae/ar/home.productfeed.json",
+    "url": "https://www.rexonadeodorant.com/ae/en/p/rexona-for-men-antiperspirant-deodorant-roll-on-96-hours-of-sweat-protection-maximum-protection-clean-scent-3x-stronger-antiperspirant-50ml.html/00000059082859",
+    "brandCode": "BH0413",
+    "locale": "en-ae",
+    "brandName": "rexona",
+    "success": true
+  },
+  {
+    "brand": "rexona",
+    "assortmentCode": "BH0413",
+    "feedUrl": "https://www.shield.co.za/home.productfeed.json",
+    "url": "https://www.shield.co.za/p/shield-women-sensitive-antiperspirant-rollon.html/00000060012708",
+    "brandCode": "BH0413",
+    "locale": "en-za",
+    "brandName": "shield",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/de/home.productfeed.json",
+    "url": "https://www.hellmanns.com/de/p/chili.html/08711200424962",
+    "brandCode": "BF0380",
+    "locale": "de-de",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/cl/home.productfeed.json",
+    "url": "https://www.hellmanns.com/cl/p/mostaza-doypack.html/07802640794058",
+    "brandCode": "BF0380",
+    "locale": "es-cl",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/uy/home.productfeed.json",
+    "url": "https://www.hellmanns.com/uy/p/mayonesa-clasica-118g.html/07794000960022",
+    "success": false,
+    "error": "Widget not found"
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/se/home.productfeed.json",
+    "url": "https://www.hellmanns.com/se/p/sas-garlic-herb-250-ml.html/08720182278173",
+    "brandCode": "BF0380",
+    "locale": "sv-se",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/gr/home.productfeed.json",
+    "url": "https://www.hellmanns.com/gr/p/real-mayonnaise.html/08718114717081",
+    "brandCode": "BF0380",
+    "locale": "el-gr",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/uk/home.productfeed.json",
+    "url": "https://www.hellmanns.com/uk/p/lighter-than-light-mayonnaise.html/05000118085833",
+    "brandCode": "BF0380",
+    "locale": "en-gb",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/ca/fr/home.productfeed.json",
+    "url": "https://www.hellmanns.com/ca/en/p/spicy-paprika-frites-sauce.html/00068400001300",
+    "brandCode": "BF0380",
+    "locale": "en-ca",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com/ca/en/home.productfeed.json",
+    "url": "https://www.hellmanns.com/ca/en/p/spicy-paprika-frites-sauce.html/00068400001300",
+    "brandCode": "BF0380",
+    "locale": "en-ca",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.pt/home.productfeed.json",
+    "url": "https://www.hellmanns.pt/p/maionese-light-top-down-hellmanns-251g.html/08710522649916",
+    "brandCode": "BF0380",
+    "locale": "pt-pt",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "hellmanns",
+    "assortmentCode": "BF0380",
+    "feedUrl": "https://www.hellmanns.com.au/home.productfeed.json",
+    "url": "https://www.hellmanns.com.au/p/real-mayonnaise-jar.html/05000184321064",
+    "brandCode": "BF0380",
+    "locale": "en-au",
+    "brandName": "hellmann's",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/br/home.productfeed.json",
+    "url": "https://www.axe.com/br/p/antitranspirante-urban.html/07506306233362",
+    "brandCode": "BH0045",
+    "locale": "pt-br",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "sheamoisture",
+    "assortmentCode": "BH8837",
+    "feedUrl": "https://www.sheamoisture.com/ca/en/home.productfeed.json",
+    "url": "https://www.sheamoisture.com/ca/en/p/sheamoisture-anti-dandruff-shampoo-for-removing-buildup-apple-cider-vinegar-&-salicylic-acid-system-for-a-healthier-scalp-384-ml.html/00764302023111",
+    "brandCode": "BH8837",
+    "locale": "en-ca",
+    "brandName": "sheamoisture",
+    "success": true
+  },
+  {
+    "brand": "sheamoisture",
+    "assortmentCode": "BH8837",
+    "feedUrl": "https://www.sheamoisture.com/ca/fr/home.productfeed.json",
+    "url": "https://www.sheamoisture.com/ca/en/p/sheamoisture-anti-dandruff-shampoo-for-removing-buildup-apple-cider-vinegar-&-salicylic-acid-system-for-a-healthier-scalp-384-ml.html/00764302023111",
+    "brandCode": "BH8837",
+    "locale": "en-ca",
+    "brandName": "sheamoisture",
+    "success": true
+  },
+  {
+    "brand": "sheamoisture",
+    "assortmentCode": "BH8837",
+    "feedUrl": "https://www.sheamoistureuk.com/home.productfeed.json",
+    "url": "https://www.sheamoistureuk.com/p/manuka-honey-mafura-oil-shampoo.html/07643022208868",
+    "brandCode": "BH8837",
+    "locale": "en-GB",
+    "brandName": "sheamoisture",
+    "success": true
+  },
+  {
+    "brand": "sheamoisture",
+    "assortmentCode": "BH8837",
+    "feedUrl": "https://www.sheamoisturefr.com/home.productfeed.json",
+    "url": "https://www.sheamoisturefr.com/p/manuka-honey-&-mafura-oil-shampoo-384ml.html/07643022208868",
+    "brandCode": "BH8837",
+    "locale": "fr-fr",
+    "brandName": "sheamoisture",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
+    "url": "https://www.axe.com/dach/p/africa-aftershave.html/08710847936999-atch",
+    "brandCode": "BH0045",
+    "locale": "de-de",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/ar/home.productfeed.json",
+    "url": "https://www.axe.com/ar/p/desodorante-aerosol-aqua-citrus-150-ml.html/07506306249974",
+    "brandCode": "BH0045",
+    "locale": "es-ar",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/ca/fr/home.productfeed.json",
+    "url": "https://www.axe.com/ca/en/p/dual-side-shower-tool.html/00011111007932",
+    "brandCode": "BH0045",
+    "locale": "en-ca",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/mx/home.productfeed.json",
+    "url": "https://www.axe.com/mx/p/antitranspirante-en-roll-on-black-50-ml.html/00000075048105",
+    "brandCode": "BH0045",
+    "locale": "es-mx",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/ca/en/home.productfeed.json",
+    "url": "https://www.axe.com/ca/en/p/dual-side-shower-tool.html/00011111007932",
+    "brandCode": "BH0045",
+    "locale": "en-ca",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/fr/home.productfeed.json",
+    "url": "https://www.axe.com/fr/p/cherry-fizz-bille-anti-transpirante.html/00000059099208",
+    "brandCode": "BH0045",
+    "locale": "fr-FR",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/uy/home.productfeed.json",
+    "url": "https://www.axe.com/uy/p/desodorante-antitranspirante-aerosol-collision-cuero-cookies-152ml.html/07506306202849",
+    "brandCode": "BH0045",
+    "locale": "es-uy",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/nl/home.productfeed.json",
+    "url": "https://www.axe.com/nl/p/black-douchegel.html/08710447276600",
+    "brandCode": "BH0045",
+    "locale": "nl-nl",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/pl/home.productfeed.json",
+    "url": "https://www.axe.com/pl/p/zel-pod-prysznic-africa-400ml.html/00000054024892",
+    "brandCode": "BH0045",
+    "locale": "pl-PL",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0977",
+    "feedUrl": "https://www.lynxformen.com/uk/home.productfeed.json",
+    "url": "https://www.lynxformen.com/uk/p/africa-body-spray.html/00000050082728",
+    "brandCode": "BH0977",
+    "locale": "en-GB",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/in/en/home.productfeed.json",
+    "url": "https://www.axe.com/in/en/p/signature-ticket-mysterious-long-lasting-pocket-deodorant-for-men-17-ml.html/08901030786068",
+    "brandCode": "BH0045",
+    "locale": "en-IN",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/in/hi/home.productfeed.json",
+    "url": "https://www.axe.com/in/en/p/signature-ticket-mysterious-long-lasting-pocket-deodorant-for-men-17-ml.html/08901030786068",
+    "brandCode": "BH0045",
+    "locale": "en-IN",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/tr/home.productfeed.json",
+    "url": "https://www.axe.com/tr/p/epic-fresh-greyfurt-ve-tropikal-ananas-kokulu-erkek-deodorant.html/08683130012031",
+    "brandCode": "BH0045",
+    "locale": "tr-TR",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/id/home.productfeed.json",
+    "url": "https://www.axe.com/id/p/premium-deodorant-spray-blue-lavender.html/08851932468800",
+    "brandCode": "BH0045",
+    "locale": "id-ID",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "axe",
+    "assortmentCode": "BH0045",
+    "feedUrl": "https://www.axe.com/gr/home.productfeed.json",
+    "url": "https://www.axe.com/gr/p/shower-africa.html/00000054024892",
+    "brandCode": "BH0045",
+    "locale": "el-gr",
+    "brandName": "axe",
+    "success": true
+  },
+  {
+    "brand": "bango",
+    "assortmentCode": "BF0917",
+    "feedUrl": "https://www.bango.co.id/home.productfeed.json",
+    "url": "https://www.bango.co.id/p/bango-kecap-manis-botol-620ml.html/08990121011028",
+    "brandCode": "BF0917",
+    "locale": "id-id",
+    "brandName": "bango",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0433",
+    "feedUrl": "https://www.sedal.com.mx/home.productfeed.json",
+    "url": "https://www.sedal.com.mx/p/crema-para-peinar-restauracion-instantanea-300ml.html/07501056340025",
+    "brandCode": "BH0433",
+    "locale": "es-MX",
+    "brandName": "sedal",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0468",
+    "feedUrl": "https://www.sunsilk.com.vn/home.productfeed.json",
+    "url": "https://www.sunsilk.com.vn/p/dau-xa-natural-duong-ngan-gay-rung.html/08934868156802",
+    "brandCode": "BH0468",
+    "locale": "vi-VN",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0468",
+    "feedUrl": "https://www.sunsilkthailand.com/home.productfeed.json",
+    "url": "https://www.sunsilkthailand.com/p/damage-restore-treatment-mask.html/08851932291132",
+    "brandCode": "BH0468",
+    "locale": "th-TH",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0432",
+    "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+    "url": "https://www.seda.com.br/p/creme-para-pentear-seda-cachos-definidos-e-hidratados.html/07891037000322",
+    "brandCode": "BH0432",
+    "locale": "pt-BR",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0468",
+    "feedUrl": "https://www.sunsilk.com/arabia/ar/home.productfeed.json",
+    "url": "https://www.sunsilk.com/arabia/ar/p/instant-restore-shampoo.html/06281006424326",
+    "brandCode": "BH0468",
+    "locale": "ar-SA",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0178",
+    "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+    "url": "https://www.elidor.com.tr/p/aninda-onarici-sampuan-650ml.html/00123123123123",
+    "brandCode": "BH0178",
+    "locale": "tr-TR",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0468",
+    "feedUrl": "https://www.sunsilk.co.id/home.productfeed.json",
+    "url": "https://www.sunsilk.co.id/p/black-shine-activ-infusion-conditioner-smoothies.html/08999999047887",
+    "brandCode": "BH0468",
+    "locale": "id-ID",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0468",
+    "feedUrl": "https://www.sunsilk.com.ph/home.productfeed.json",
+    "url": "https://www.sunsilk.com.ph/p/new-sunsilk-purple-perfect-straight-180ml.html/04800888138446",
+    "brandCode": "BH0468",
+    "locale": "en-PH",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "sunsilk",
+    "assortmentCode": "BH0468",
+    "feedUrl": "https://www.sunsilk.pk/home.productfeed.json",
+    "url": "https://www.sunsilk.pk/p/black-shine-conditioner.html/08961014003949",
+    "brandCode": "BH0468",
+    "locale": "en-PK",
+    "brandName": "sunsilk",
+    "success": true
+  },
+  {
+    "brand": "lifebuoy",
+    "assortmentCode": "BH0300",
+    "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+    "url": "https://www.lifebuoy.co.id/p/sabun-cair-bottle-anti-bakteri-mild-care.html/08999999001162",
+    "brandCode": "BH0300",
+    "locale": "id-id",
+    "brandName": "lifebuoy",
+    "success": true
+  },
+  {
+    "brand": "close-up",
+    "assortmentCode": "BH0118",
+    "feedUrl": "https://www.close-up.com/in/home.productfeed.json",
+    "url": "https://www.close-up.com/in/p/natural-smile-toothpaste.html/08901030676703",
+    "brandCode": "BH0118",
+    "locale": "en-in",
+    "brandName": "closeup",
+    "success": true
+  },
+  {
+    "brand": "lifebuoy",
+    "assortmentCode": "BH0300",
+    "feedUrl": "https://www.lifebuoy.co.za/home.productfeed.json",
+    "url": "https://www.lifebuoy.co.za/p/total-10-hygiene-soap-100g.html/06001085125613",
+    "brandCode": "BH0300",
+    "locale": "en-za",
+    "brandName": "lifebuoy",
+    "success": true
+  },
+  {
+    "brand": "lifebuoy",
+    "assortmentCode": "BH0300",
+    "feedUrl": "https://www.lifebuoy.in/home.productfeed.json",
+    "url": "https://www.lifebuoy.in/p/lifebuoy-neem-aloe-vera-nature-protect.html/08109030994173",
+    "brandCode": "BH0300",
+    "locale": "en-in",
+    "brandName": "lifebuoy",
+    "success": true
+  },
+  {
+    "brand": "lifebuoy",
+    "assortmentCode": "BH0300",
+    "feedUrl": "https://www.lifebuoy.vn/home.productfeed.json",
+    "url": "https://www.lifebuoy.vn/p/xa-phong-mat-lanh-sang-khoai.html/08934868145202",
+    "brandCode": "BH0300",
+    "locale": "vi-vn",
+    "brandName": "lifebuoy",
+    "success": true
+  },
+  {
+    "brand": "close-up",
+    "assortmentCode": "BH0118",
+    "feedUrl": "https://www.close-up.com/ph/home.productfeed.json",
+    "url": "https://www.close-up.com/ph/p/closeup-red-hot.html/04800888113658",
+    "brandCode": "BH0118",
+    "locale": "en-ph",
+    "brandName": "closeup",
+    "success": true
+  },
+  {
+    "brand": "close-up",
+    "assortmentCode": "BH0118",
+    "feedUrl": "https://www.close-up.com/id/home.productfeed.json",
+    "url": "https://www.close-up.com/id/p/closeup-white-fresh-lemon-sea-salt.html/08999999519957",
+    "brandCode": "BH0118",
+    "locale": "id-id",
+    "brandName": "closeup",
+    "success": true
+  },
+  {
+    "brand": "close-up",
+    "assortmentCode": "BH0118",
+    "feedUrl": "https://www.close-up.com/br/home.productfeed.json",
+    "url": "https://www.close-up.com/br/p/closeup-liquifresh-ice.html/07891037744509",
+    "brandCode": "BH0118",
+    "locale": "pt-br",
+    "brandName": "closeup",
+    "success": true
+  },
+  {
+    "brand": "close-up",
+    "assortmentCode": "BH0118",
+    "feedUrl": "https://www.close-up.com/vn/home.productfeed.json",
+    "url": "https://www.close-up.com/vn/p/closeup-white-attraction-diamond-100g.html/08934839121037",
+    "brandCode": "BH0118",
+    "locale": "vi-vn",
+    "brandName": "closeup",
+    "success": true
+  },
+  {
+    "brand": "close-up",
+    "assortmentCode": "BH0118",
+    "feedUrl": "https://www.close-up.com/uk/home.productfeed.json",
+    "url": "https://www.close-up.com/uk/p/close-up-gel-toothpaste-menthol-paradise.html/08717163896501",
+    "brandCode": "BH0118",
+    "locale": "en-gb",
+    "brandName": "closeup",
+    "success": true
+  },
+  {
+    "brand": "the-vegetarian-butcher",
+    "assortmentCode": "BFA077",
+    "feedUrl": "https://www.thevegetarianbutcher.de/home.productfeed.json",
+    "url": "https://www.thevegetarianbutcher.de/p/veganes-chick-curry-ki.html/04023372722604",
+    "brandCode": "BFA077",
+    "locale": "de-de",
+    "brandName": "The Vegetarian Butcher",
+    "success": true
+  },
+  {
+    "brand": "the-vegetarian-butcher",
+    "assortmentCode": "BFA077",
+    "feedUrl": "https://www.devegetarischeslager.be/home.productfeed.json",
+    "url": "https://www.lebouchervegetarien.be/p/poulettekes-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08718692788251",
+    "brandCode": "BFA077",
+    "locale": "fr-be",
+    "brandName": "De Vegetarische Slager",
+    "success": true
+  },
+  {
+    "brand": "the-vegetarian-butcher",
+    "assortmentCode": "BFA077",
+    "feedUrl": "https://www.lebouchervegetarien.be/home.productfeed.json",
+    "url": "https://www.lebouchervegetarien.be/p/poulettekes-%7C-assortiment-%7C-le-boucher-v%C3%A9g%C3%A9tarien-belgique.html/08718692788251",
+    "brandCode": "BFA077",
+    "locale": "fr-be",
+    "brandName": "De Vegetarische Slager",
+    "success": true
+  },
+  {
+    "brand": "the-vegetarian-butcher",
+    "assortmentCode": "BFA077",
+    "feedUrl": "https://www.thevegetarianbutcher.co.uk/home.productfeed.json",
+    "url": "https://www.thevegetarianbutcher.co.uk/p/little-willies.html/08718692784659",
+    "brandCode": "BFA077",
+    "locale": "en-gb",
+    "brandName": "The Vegetarian Butcher",
+    "success": true
+  },
+  {
+    "brand": "the-vegetarian-butcher",
+    "assortmentCode": "BFA077",
+    "feedUrl": "https://www.devegetarischeslager.nl/home.productfeed.json",
+    "url": "https://www.devegetarischeslager.nl/p/ereburger.html/08710522766996",
+    "brandCode": "BFA077",
+    "locale": "nl-nl",
+    "brandName": "De Vegetarische Slager",
+    "success": true
+  },
+  {
+    "brand": "grom",
+    "assortmentCode": "BF2050",
+    "feedUrl": "https://www.gromgelato.com/it/it/home.productfeed.json",
+    "url": "https://www.gromgelato.com/it/it/p/crema-di-grom.html/01000000000001",
+    "success": false,
+    "brandName": "grom"
+  },
+  {
+    "brand": "zendium-master",
+    "assortmentCode": "BH0871",
+    "feedUrl": "https://www.zendium.nl/home.productfeed.json",
+    "url": "https://www.zendium.nl/p/classic-tandpasta-75-ml.html/08710604793568",
+    "brandCode": "BH0871",
+    "locale": "nl-NL",
+    "brandName": "zendium",
+    "success": true
+  },
+  {
+    "brand": "neutral",
+    "assortmentCode": "BH0869",
+    "feedUrl": "https://www.neutral.nl/home.productfeed.json",
+    "url": "https://www.neutral.nl/p/neutral-deodorant-roller.html/00000087342420",
+    "brandCode": "BH0869",
+    "locale": "nl-nl",
+    "brandName": "neutral",
+    "success": true
+  },
+  {
+    "brand": "whatsfordinner",
+    "assortmentCode": "BF0735",
+    "feedUrl": "https://www.whatsfordinner.co.ke/home.productfeed.json",
+    "url": "https://www.whatsfordinner.co.ke/p/men-care-clean-comfort-deodorant-stick.html/00000050220021",
+    "success": false,
+    "brandName": "what's for dinner"
+  },
+  {
+    "brand": "whatsfordinner",
+    "assortmentCode": "BFA317",
+    "feedUrl": "https://www.whatsfordinner.co.za/home.productfeed.json",
+    "url": "https://www.whatsfordinner.co.za/p/knorr-macaroni-cheese-pasta-sauce.html/06001087002882",
+    "brandCode": "BFA317",
+    "locale": "en-za",
+    "brandName": "what's for dinner",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0370",
+    "feedUrl": "https://www.pepsodent.cl/home.productfeed.json",
+    "url": "https://www.pepsodent.cl/p/pepsodent-kids.html/07311570542504",
+    "brandCode": "BH0370",
+    "locale": "es-CL",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "kissan",
+    "assortmentCode": "BF0423",
+    "feedUrl": "https://www.kissan.in/home.productfeed.json",
+    "url": "https://www.kissan.in/p/fresh-tomato-ketchup.html/08901030532719",
+    "brandCode": "BF0423",
+    "locale": "en-in",
+    "brandName": "kissan",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0370",
+    "feedUrl": "https://www.pepsodent.in/home.productfeed.json",
+    "url": "https://www.pepsodent.in/p/pepsodent-complete-expert-soft-brush.html/08901030424410",
+    "brandCode": "BH0370",
+    "locale": "en-IN",
+    "brandName": "smile",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0437",
+    "feedUrl": "https://www.signal-zahnpflege.de/home.productfeed.json",
+    "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now.html/08712561437370",
+    "brandCode": "BH0437",
+    "locale": "de-DE",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0437",
+    "feedUrl": "https://www.signalturkiye.com/home.productfeed.json",
+    "url": "https://www.signalturkiye.com/p/signal-white-now-sensitive-75-ml-dis-macunu.html/08683130048573/whitenow-pdp",
+    "brandCode": "BH0437",
+    "locale": "tr-TR",
+    "brandName": "smile",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0370",
+    "feedUrl": "https://www.pepsodent.com/bd/home.productfeed.json",
+    "url": "https://www.pepsodent.com/bd/p/pepsodent-charcoal-white.html/08941100610459",
+    "brandCode": "BH0370",
+    "locale": "en-BD",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0322",
+    "feedUrl": "https://www.mentadent.it/home.productfeed.json",
+    "url": "https://www.mentadent.it/p/mentadent-professional-sensibilita.html/08710522411445",
+    "brandCode": "BH0322",
+    "locale": "it-IT",
+    "brandName": "smile",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0370",
+    "feedUrl": "https://www.tanyapepsodent.com/home.productfeed.json",
+    "url": "https://www.tanyapepsodent.com/p/pasta-gigi-pepsodent-sensitiv-expert-maxi-repair.html/08710522677995/sensitive-expert",
+    "brandCode": "BH0370",
+    "locale": "id-ID",
+    "brandName": "smile",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0437",
+    "feedUrl": "https://www.missionsignal.fr/home.productfeed.json",
+    "url": "https://www.missionsignal.fr/p/classique-protection-caries.html/03014230002076",
+    "brandCode": "BH0437",
+    "locale": "fr-FR",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "smile",
+    "assortmentCode": "BH0360",
+    "feedUrl": "https://www.psvietnam.vn/home.productfeed.json",
+    "url": "https://www.psvietnam.vn/p/p-s-be-ngoan-huong-dau.html/08934839103903",
+    "brandCode": "BH0360",
+    "locale": "vi-VN",
+    "brandName": "signal",
+    "success": true
+  },
+  {
+    "brand": "zwitsal",
+    "assortmentCode": "BH0884",
+    "feedUrl": "https://www.proderm.gr/home.productfeed.json",
+    "url": "https://www.proderm.gr/p/proderm-sampouan-kai-afroloutro-sleep-easy-0-12.html/08710447481233",
+    "brandCode": "BH0884",
+    "locale": "el-gr",
+    "brandName": "zwitsal",
+    "success": true
+  },
+  {
+    "brand": "zwitsal",
+    "assortmentCode": "BH0875",
+    "feedUrl": "https://www.zwitsal.co.id/home.productfeed.json",
+    "url": "https://www.zwitsal.co.id/p/cologne-floral-kisses.html/08992694242113",
+    "brandCode": "BH0875",
+    "locale": "id-id",
+    "brandName": "zwitsal",
+    "success": true
+  },
+  {
+    "brand": "calve",
+    "assortmentCode": "BF0153",
+    "feedUrl": "https://www.calve.com.tr/home.productfeed.json",
+    "url": "https://www.calve.com.tr/p/calve-aci-peri-peri-sos.html/08683130002384",
+    "brandCode": "BF0153",
+    "locale": "tr-tr",
+    "brandName": "calve",
+    "success": true
+  },
+  {
+    "brand": "zwitsal",
+    "assortmentCode": "BH0875",
+    "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+    "url": "https://www.zwitsal.nl/p/lotion-billendoekjes-65-stuks.html/08710447314302",
+    "brandCode": "BH0875",
+    "locale": "nl-nl",
+    "brandName": "zwitsal-redesign",
+    "success": true
+  },
+  {
+    "brand": "calve",
+    "assortmentCode": "BF0153",
+    "feedUrl": "https://www.calve.nl/home.productfeed.json",
+    "url": "https://www.calve.nl/p/belgische-mayonaise.html/08710522652121",
+    "brandCode": "BF0153",
+    "locale": "nl-nl",
+    "brandName": "calve",
+    "success": true
+  },
+  {
+    "brand": "radox",
+    "assortmentCode": "BH0873",
+    "feedUrl": "https://www.radox.co.uk/home.productfeed.json",
+    "url": "https://www.radox.co.uk/p/radox-muscle-soak-bath-salts-400g.html/05000231036781",
+    "brandCode": "BH0873",
+    "locale": "en-GB",
+    "brandName": "radox",
+    "success": true
+  },
+  {
+    "brand": "maizena",
+    "assortmentCode": "BF0547",
+    "feedUrl": "https://www.maizena.com.br/home.productfeed.json",
+    "url": "https://www.maizena.com.br/p/amido-de-milho-maizena.html/07894000010014",
+    "brandCode": "BF0547",
+    "locale": "pt-br",
+    "brandName": "maizena",
+    "success": true
+  },
+  {
+    "brand": "maizena",
+    "assortmentCode": "BF0547",
+    "feedUrl": "https://www.maizena.cl/home.productfeed.json",
+    "url": "https://www.maizena.cl/p/maizena-400g.html/07803200800608",
+    "brandCode": "BF0547",
+    "locale": "es-cl",
+    "brandName": "maizena",
+    "success": true
+  },
+  {
+    "brand": "potnoodle",
+    "assortmentCode": "BF0688",
+    "feedUrl": "https://www.potnoodle.com/home.productfeed.json",
+    "url": "https://www.potnoodle.com/p/originalcurry.html/05000118203480",
+    "brandCode": "BF0688",
+    "locale": "en-gb",
+    "brandName": "potnoodle",
+    "success": true
+  },
+  {
+    "brand": "marmite",
+    "assortmentCode": "BF0556",
+    "feedUrl": "https://www.marmite.co.uk/home.productfeed.json",
+    "url": "https://www.marmite.co.uk/p/marmite-personalised-classic-jar.html/00000003050002",
+    "brandCode": "BF0556",
+    "locale": "en-gb",
+    "brandName": "marmite",
+    "success": true
+  },
+  {
+    "brand": "maizena",
+    "assortmentCode": "BF0547",
+    "feedUrl": "https://www.maizena.fr/home.productfeed.json",
+    "url": "https://www.maizena.fr/p/fleur-de-ma%C3%AFs-400g.html/08712100338694",
+    "brandCode": "BF0547",
+    "locale": "fr-fr",
+    "brandName": "maizena",
+    "success": true
+  },
+  {
+    "brand": "maizena",
+    "assortmentCode": "BF0547",
+    "feedUrl": "https://www.maizena.es/home.productfeed.json",
+    "url": "https://www.maizena.es/p/crepes.html/04000400156563",
+    "brandCode": "BF0547",
+    "locale": "es-es",
+    "brandName": "maizena",
+    "success": true
+  },
+  {
+    "brand": "maizena",
+    "assortmentCode": "BF0547",
+    "feedUrl": "https://www.maizena.com.ar/home.productfeed.json",
+    "url": "https://www.maizena.com.ar/p/bizcochuelo-sabor-vainilla.html/07794000001992",
+    "brandCode": "BF0547",
+    "locale": "es-ar",
+    "brandName": "maizena",
+    "success": true
+  },
+  {
+    "brand": "citra",
+    "assortmentCode": "BH0110",
+    "feedUrl": "https://www.citrathailand.com/home.productfeed.json",
+    "url": "https://www.citrathailand.com/p/citra-soap-thanaka-whitening-scrub.html/08851932377508",
+    "brandCode": "BH0110",
+    "locale": "th-th",
+    "brandName": "citra",
+    "success": true
+  },
+  {
+    "brand": "citra",
+    "assortmentCode": "BH0110",
+    "feedUrl": "https://www.cantikcitra.co.id/home.productfeed.json",
+    "url": "https://www.cantikcitra.co.id/p/citra-pearly-glow-uv-essence-cream.html/08999999003890",
+    "brandCode": "BH0110",
+    "locale": "id-id",
+    "brandName": "citra",
+    "success": true
+  },
+  {
+    "brand": "big-milk",
+    "assortmentCode": "BF2003",
+    "feedUrl": "https://www.bigmilk.pl/home.productfeed.json",
+    "url": "https://www.bigmilk.pl/p/big-milk-slony-karmel-intense.html/08711327334601",
+    "brandCode": "BF2003",
+    "locale": "pl-pl",
+    "brandName": "big-milk",
+    "success": true
+  },
+  {
+    "brand": "simple",
+    "assortmentCode": "BH0992",
+    "feedUrl": "https://www.simpleskincare.com/ph/home.productfeed.json",
+    "url": "https://www.simpleskincare.com/ph/p/kind-to-skin-rich-moisture-sheet-mask.html/08710447229620",
+    "brandCode": "BH0992",
+    "locale": "en-ph",
+    "brandName": "Simple",
+    "success": true
+  },
+  {
+    "brand": "simple",
+    "assortmentCode": "BH0992",
+    "feedUrl": "https://www.simpleskincare.com/vn/home.productfeed.json",
+    "url": "https://www.simpleskincare.com/vn/p/kind-to-skin-soothing-facial-toner.html/05011451103856",
+    "brandCode": "BH0992",
+    "locale": "vi-vn",
+    "brandName": "simple",
+    "success": true
+  },
+  {
+    "brand": "simple",
+    "assortmentCode": "BH0992",
+    "feedUrl": "https://www.simpleskincare.com/my/home.productfeed.json",
+    "url": "https://www.simpleskincare.com/my/p/daily-skin-detox-clear-matte-cleansing-wipes.html/00000067495624",
+    "brandCode": "BH0992",
+    "locale": "en-my",
+    "brandName": "simple",
+    "success": true
+  },
+  {
+    "brand": "simple",
+    "assortmentCode": "BH0992",
+    "feedUrl": "https://www.simpleskincare.com/sg/home.productfeed.json",
+    "url": "https://www.simpleskincare.com/sg/p/daily-skin-detox-clear-matte-cleansing-wipes.html/00000067495624",
+    "brandCode": "BH0992",
+    "locale": "en-sg",
+    "brandName": "simple",
+    "success": true
+  },
+  {
+    "brand": "simple",
+    "assortmentCode": "BH0992",
+    "feedUrl": "https://www.simpleskincare.com/th/home.productfeed.json",
+    "url": "https://www.simpleskincare.com/th/p/kind-to-skin-refreshing-facial-gel-wash.html/05011451103863",
+    "brandCode": "BH0992",
+    "locale": "th-th",
+    "brandName": "simple",
+    "success": true
+  },
+  {
+    "brand": "simple",
+    "assortmentCode": "BH0992",
+    "feedUrl": "https://www.simpleskincare.com/au/home.productfeed.json",
+    "url": "https://www.simpleskincare.com/au/p/kind-to-skin-soothing-facial-toner.html/05011451103856",
+    "brandCode": "BH0992",
+    "locale": "en-au",
+    "brandName": "simple",
+    "success": true
+  },
+  {
+    "brand": "ego",
+    "assortmentCode": "BH0173",
+    "feedUrl": "https://www.egoparahombres.com.mx/home.productfeed.json",
+    "url": "https://www.egoparahombres.com.mx/p/ego-desodorante-sport-en-barra-45g.html/00000075064853",
+    "brandCode": "BH0173",
+    "locale": "es-mx",
+    "brandName": "ego",
+    "success": true
+  },
+  {
+    "brand": "simple",
+    "assortmentCode": "BH0992",
+    "feedUrl": "https://www.simple.co.uk/home.productfeed.json",
+    "url": "https://www.simple.co.uk/p/invisible-anti-perspirant-deodorant-roll-on.html/00000059079262",
+    "brandCode": "BH0992",
+    "locale": "en-gb",
+    "brandName": "simple",
+    "success": true
+  },
+  {
+    "brand": "liquid",
+    "assortmentCode": "BHA361",
+    "feedUrl": "https://www.liquid-iv.com.br/home.productfeed.json",
+    "url": "https://www.liquid-iv.com.br/p/liquid-iv-beb-po-limao-16x16x16g.html/07891150101241",
+    "brandCode": "BHA361",
+    "locale": "pt-br",
+    "brandName": "liquid",
+    "success": true
+  },
+  {
+    "brand": "fluocaril",
+    "assortmentCode": "BHA122",
+    "feedUrl": "https://www.fluocaril.fr/home.productfeed.json",
+    "url": "https://www.fluocaril.fr/p/fluocaril-cosmetique-spray-buccal.html/08710522965665",
+    "brandCode": "BHA122",
+    "locale": "fr-fr",
+    "brandName": "fluocaril",
+    "success": true
+  },
+  {
+    "brand": "hertog",
+    "assortmentCode": "BF0384",
+    "feedUrl": "https://www.hertogijs.nl/home.productfeed.json",
+    "url": "https://www.hertogijs.nl/p/vanille-roomijs.html/08711327338326",
+    "brandCode": "BF0384",
+    "locale": "nl-nl",
+    "brandName": "hertog",
+    "success": true
+  },
+  {
+    "brand": "cream-silk",
+    "assortmentCode": "BH0128",
+    "feedUrl": "https://www.creamsilk.com.ph/home.productfeed.json",
+    "url": "https://www.creamsilk.com.ph/p/rich-moisture-300ml.html/04800888215062",
+    "brandCode": "BH0128",
+    "locale": "en-ph",
+    "brandName": "cream-silk",
+    "success": true
+  },
+  {
+    "brand": "egoco",
+    "assortmentCode": "BH0173",
+    "feedUrl": "https://www.egoparahombres.com.co/home.productfeed.json",
+    "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-ultra-intense.html/07702006207850",
+    "brandCode": "BH0173",
+    "locale": "es-co",
+    "brandName": "egoco",
+    "success": true
+  },
+  {
+    "brand": "parogencyl",
+    "assortmentCode": "BHA123",
+    "feedUrl": "https://www.parogencyl.fr/home.productfeed.json",
+    "url": "https://www.parogencyl.fr/p/bain-de-bouche-gencives.html/08710522772188",
+    "brandCode": "BHA123",
+    "locale": "fr-fr",
+    "brandName": "parogencyl",
+    "success": true
+  },
+  {
+    "brand": "duschdas",
+    "assortmentCode": "BH0874",
+    "feedUrl": "https://www.duschdas.de/home.productfeed.json",
+    "url": "https://www.duschdas.de/p/duschgel-noire-3in1.html/08720181325380",
+    "brandCode": "BH0874",
+    "locale": "de-de",
+    "brandName": "duschdas",
+    "success": true
+  },
+  {
+    "brand": "cremissimo",
+    "assortmentCode": "BF0225",
+    "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+    "url": "https://www.cremissimo.de/p/erdbeer-joghurt.html/08711327615434",
+    "brandCode": "BF0225",
+    "locale": "de-de",
+    "brandName": "cremissimo",
+    "success": true
+  },
+  {
+    "brand": "zest",
+    "assortmentCode": "BH1081",
+    "feedUrl": "https://www.zest.com.mx/home.productfeed.json",
+    "url": "https://www.zest.com.mx/p/jabon-en-barra-zest-jab-sensitive-care-neutro-delicate1.html/07506306219281",
+    "brandCode": "BH1081",
+    "locale": "es-mx",
+    "brandName": "zest",
+    "success": true
+  },
+  {
+    "brand": "colmans",
+    "assortmentCode": "BF0199",
+    "feedUrl": "https://www.colmans.co.uk/home.productfeed.json",
+    "url": "https://www.colmans.co.uk/p/korean-barbecue.html/08720182287502",
+    "brandCode": "BF0199",
+    "locale": "en-gb",
+    "brandName": "Colman's",
+    "success": true
+  },
+  {
+    "brand": "folicure",
+    "assortmentCode": "BH1005",
+    "feedUrl": "https://www.folicure.com.mx/home.productfeed.json",
+    "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caida-original-700-ml.html/07501059334717",
+    "brandCode": "BH1005",
+    "locale": "es-mx",
+    "brandName": "folicure",
+    "success": true
+  },
+  {
+    "brand": "baba",
+    "assortmentCode": "BH0048",
+    "feedUrl": "https://www.baba.hu/home.productfeed.json",
+    "url": "https://www.baba.hu/p/baba-nyugtato-tusfuerd-levendula-es-vanilia-illat-400-ml.html/08720181464171",
+    "brandCode": "BH0048",
+    "locale": "hu-hu",
+    "brandName": "baba",
+    "success": true
+  },
+  {
+    "brand": "andrelon",
+    "assortmentCode": "BH0027",
+    "feedUrl": "https://www.andrelon.nl/home.productfeed.json",
+    "url": "https://www.andrelon.nl/p/hydratatie-and-volume-shampoo.html/08710522890547",
+    "success": false,
+    "brandName":"andrelon"
+  },
+  {
+    "brand": "mae-terra",
+    "assortmentCode": "BF8834",
+    "feedUrl": "https://www.maeterra.com.br/home.productfeed.json",
+    "url": "https://www.maeterra.com.br/p/granola-tradicional-com-castanhas-brasileiras.html/07891150075443",
+    "success": false,
+    "brandName": "mae-terra"
+  },
+  {
+    "brand": "dawn",
+    "assortmentCode": "BH0141",
+    "feedUrl": "https://www.dawn.co.za/home.productfeed.json",
+    "url": "https://www.dawn.co.za/p/dawn-men-active-fast-absorbing-body-lotion.html/06001087009928",
+    "brandCode": "BH0141",
+    "locale": "en-za",
+    "brandName": "dawn",
+    "success": true
+  },
+  {
+    "brand": "savile",
+    "assortmentCode": "BH8800",
+    "feedUrl": "https://www.savilemexico.com.mx/home.productfeed.json",
+    "url": "https://www.savilemexico.com.mx/p/antitranspirante-en-roll-on-savile-manzanilla.html/00000075064822",
+    "brandCode": "BH8800",
+    "locale": "es-mx",
+    "brandName": "savile",
+    "success": true
+  },
+  {
+    "brand": "unox",
+    "assortmentCode": "BF0842",
+    "feedUrl": "https://www.unox.nl/home.productfeed.json",
+    "url": "https://www.unox.nl/p/vegetarische-erwtensoep.html/08710522527115",
+    "brandCode": "BF0842",
+    "locale": "nl-nl",
+    "brandName": "unox",
+    "success": true
+  },
+  {
+    "brand": "recipedia",
+    "assortmentCode": "BF0426",
+    "feedUrl": "https://www.recepedia.com/co/home.productfeed.json",
+    "url": "https://www.recepedia.com/co/p/delmaiz-fecula-de-maiz-90g.html/00000000575231",
+    "brandCode": "BF0426",
+    "locale": "es-co",
+    "brandName": "Recepedia",
+    "success": true
+  },
+  {
+    "brand": "allthingshair",
+    "assortmentCode": "BH8386",
+    "feedUrl": "https://www.allthingshair.com/uk/home.productfeed.json",
+    "url": "https://www.allthingshair.com/uk/p/manuka-honey-mafura-oil-masque.html/07643022209094",
+    "brandCode": "BH8386",
+    "locale": "en-gb",
+    "brandName": "allthingshair",
+    "success": true
+  },
+  {
+    "brand": "recipedia",
+    "assortmentCode": "BF8813",
+    "feedUrl": "https://www.secretosdecocina.com/home.productfeed.json",
+    "url": "https://www.secretosdecocina.com/p/lizano-chile-tabasco.html/00747627003013",
+    "brandCode": "BF8813",
+    "locale": "es-GT",
+    "brandName": "recepedia",
+    "success": true
+  },
+  {
+    "brand": "recipedia",
+    "assortmentCode": "BF8813",
+    "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+    "url": "https://www.receptmuhely.hu/p/globus-mustar-720g.html/08593838918125",
+    "brandCode": "BF8813",
+    "locale": "hu-hu",
+    "brandName": "recepedia",
+    "success": true
+  },
+  {
+    "brand": "allthingshair",
+    "assortmentCode": "BH8386",
+    "feedUrl": "https://www.allthingshair.com/vn/home.productfeed.json",
+    "url": "https://www.allthingshair.com/vn/p/kem-u-tresemme-keratin-smooth-keratinbond.html/08934868178125",
+    "brandCode": "BH8386",
+    "locale": "vi-vn",
+    "brandName": "AllThingsBeauty Vietnam",
+    "success": true
+  },
+  {
+    "brand": "allthingshair",
+    "assortmentCode": "BH8386",
+    "feedUrl": "https://www.allthingsbeauty.com/th/home.productfeed.json",
+    "url": "https://www.allthingsbeauty.com/th/p/%E0%B9%80%E0%B8%A3%E0%B9%82%E0%B8%8B%E0%B8%99%E0%B9%88%E0%B8%B2-%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%9E%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B9%82%E0%B8%A3%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99-%E0%B8%A3%E0%B8%B0%E0%B8%87%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A2-%E0%B8%9E%E0%B8%B2%E0%B8%AA%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9-50-%E0%B8%A1%E0%B8%A5-.html/04800888142894",
+    "brandCode": "BH8386",
+    "locale": "th-th",
+    "brandName": "allthingshair",
+    "success": true
+  },
+  {
+    "brand": "regenerate",
+    "assortmentCode": "BH1047",
+    "feedUrl": "https://www.regeneratenr5.es/home.productfeed.json",
+    "url": "https://www.regeneratenr5.es/p/enjuague-bucal-mousse-avanzado-regenerate.html/08710447492130",
+    "brandCode": "BH1047",
+    "locale": "es-es",
+    "brandName": "regenerate",
+    "success": true
+  },
+  {
+    "brand": "allthingshair",
+    "assortmentCode": "BH8386",
+    "feedUrl": "https://www.allthingshair.com/za/home.productfeed.json",
+    "url": "https://www.allthingshair.com/za/p/colour-revitalise-shampoo.html/05012254056653",
+    "success": false,
+    "brandName": "allthingshair"
+  },
+  {
+    "brand": "regenerate",
+    "assortmentCode": "BH1047",
+    "feedUrl": "https://www.regeneratenr5.co.uk/home.productfeed.json",
+    "url": "https://www.regeneratenr5.co.uk/p/advanced-foaming-mouthwash.html/08710447492130",
+    "brandCode": "BH1047",
+    "locale": "en-gb",
+    "brandName": "regenerate",
+    "success": true
+  },
+  {
+    "brand": "regenerate",
+    "assortmentCode": "BH1047",
+    "feedUrl": "https://www.regeneratenr5.fr/home.productfeed.json",
+    "url": "https://www.regeneratenr5.fr/p/regenerate-bain-de-bouche-expert---formule-moussante.html/08710447492130",
+    "brandCode": "BH1047",
+    "locale": "fr-FR",
+    "brandName": "regenerate",
+    "success": true
+  },
+  {
+    "brand": "tehsariwangi",
+    "assortmentCode": "BF0755",
+    "feedUrl": "https://www.tehsariwangi.com/home.productfeed.json",
+    "url": "https://www.tehsariwangi.com/p/sariwangi-100%25-teh-asli.html/00000100256452",
+    "brandCode": "BF0755",
+    "locale": "id-id",
+    "brandName": "tehsariwangi",
+    "success": true
+  },
+  {
+    "brand": "pears",
+    "assortmentCode": "BH0368",
+    "feedUrl": "https://www.pearspuresince1807.com/ca/fr/home.productfeed.json",
+    "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-natural-oils-bar-soap-100g.html/00305211797771",
+    "brandCode": "BH0368",
+    "locale": "en-ca",
+    "brandName": "pears",
+    "success": true
+  },
+  {
+    "brand": "pears",
+    "assortmentCode": "BH0368",
+    "feedUrl": "https://www.pearspuresince1807.com/ca/en/home.productfeed.json",
+    "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-natural-oils-bar-soap-100g.html/00305211797771",
+    "brandCode": "BH0368",
+    "locale": "en-ca",
+    "brandName": "pears",
+    "success": true
+  },
+  {
+    "brand": "regenerate",
+    "assortmentCode": "BH1047",
+    "feedUrl": "https://www.regeneratenr5.it/home.productfeed.json",
+    "url": "https://www.regeneratenr5.it/p/collutorio-mousse-avanzato.html/08710447492130",
+    "success": false,
+    "brandName": "regenerate"
+  },
+  {
+    "brand": "mondamin",
+    "assortmentCode": "BH0604",
+    "feedUrl": "https://www.mondamin.de/home.productfeed.json",
+    "url": "https://www.mondamin.de/p/mehlschwitze-hell.html/04046800110125",
+    "brandCode": "BH0604",
+    "locale": "de-de",
+    "brandName": "mondamin",
+    "success": true
+  },
+  {
+    "brand": "namdong",
+    "assortmentCode": "BFR099",
+    "feedUrl": "https://www.namdong.com/home.productfeed.json",
+    "url": "https://www.namdong.com/p/namdong-kimchi-jjigae-pot-83g.html/08721201997396",
+    "brandCode": "BFR099",
+    "locale": "en-gb",
+    "brandName": "namdong",
+    "success": true
+  },
+  {
+    "brand": "masakapahariini",
+    "assortmentCode": "BFA335",
+    "feedUrl": "https://www.masakapahariini.com/home.productfeed.json",
+    "url": "https://www.masakapahariini.com/p/sariwangi-100%25-teh-asli.html/00000100256452",
+    "brandCode": "BFA335",
+    "locale": "id-ID",
+    "brandName": "masakapahariini",
+    "success": true
+  },
+  {
+    "brand": "nakmakanapa",
+    "assortmentCode": "BF0870",
+    "feedUrl": "https://www.nakmakanapa.com.my/home.productfeed.json",
+    "url": "https://www.nakmakanapa.com.my/p/knorr-powdr-chickn-12x120g-(bvi).html/09556024704857",
+    "brandCode": "BF0426",
+    "locale": "ms-my",
+    "brandName": "nakmakanapa",
+    "success": true
+  },
+  {
+    "brand": "buavita",
+    "assortmentCode": "BF1010",
+    "feedUrl": "https://www.buavita.co.id/home.productfeed.json",
+    "url": "https://www.buavita.co.id/p/jeruk.html/08998009020179",
+    "brandCode": "BF1010",
+    "locale": "id-ID",
+    "brandName": "Buavita",
+    "success": true
+  },
+  {
+    "brand": "allthingsbeauty",
+    "assortmentCode": "PH",
+    "feedUrl": "https://www.allthingsbeauty.com/ph/home.productfeed.json",
+    "url": "https://www.allthingsbeauty.com/ph/p/tresemme-keratin-smooth-shine-serum.html/00022400265186",
+    "brandCode": "BH8386",
+    "locale": "en-ph",
+    "brandName": "AllThingsBeauty Philippines",
+    "success": true
+  },
+  {
+    "brand": "allthingsbeauty",
+    "assortmentCode": "ID",
+    "feedUrl": "https://www.allthingsbeauty.com/id/home.productfeed.json",
+    "url": "https://www.allthingsbeauty.com/id/p/axe-men-deodorant-body-spray-pria-score-parfum-pria-150ml.html/04800888137319",
+    "brandCode": "BH8386",
+    "locale": "id-id",
+    "brandName": "allthingshair",
+    "success": true
+  }
+]
