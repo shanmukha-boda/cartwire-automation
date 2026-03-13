@@ -1,0 +1,80 @@
+{
+  "brand": "clear",
+  "assortmentCode": "BH0117",
+  "feedUrl": "https://www.clearhaircare.com/sg/home.productfeed.json",
+  "totalUrlsChecked": 11,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 11,
+  "duration": "0.00s",
+  "speed": "Infinity URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-men-deep-cleanse-anti-dandruff-shampoo.html/08851932399319",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-herbal-care-anti-dandruff-shampoo.html/08851932399326",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-extra-strength-anti-dandruff-shampoo.html/08851932399371",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-men-cool-sport-menthol-anti-dandruff-shampoo.html/08851932399432",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-men-cooling-itch-control-ant-dandruff-shampoo.html/08851932399579",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-sakura-fresh-anti-dandruff-shampoo.html/08851932399661",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-men-anti-hair-fall-anti-dandruff-shampoo.html/08851932399739",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-complete-soft-care-anti-dandruff-shampoo.html/08851932399975",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-ice-cool-menthol-anti-dandruff-shampoo.html/08851932401999",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-48hr-itch-free-anti-dandruff-shampoo.html/08851932442039",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.clearhaircare.com/sg/p/clear-superfresh-apple-anti-dandruff-shampoo.html/08999999539214",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:19.119Z"
+    }
+  ]
+}

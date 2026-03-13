@@ -1,0 +1,2204 @@
+{
+  "brand": "allthingshair",
+  "assortmentCode": "BH8386",
+  "feedUrl": "https://www.allthingshair.com/za/home.productfeed.json",
+  "totalUrlsChecked": 365,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 365,
+  "duration": "0.00s",
+  "speed": "Infinity URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/colour-revitalise-shampoo.html/05012254056653",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/cleanse-and-replenishshampoo.html/05012254056660",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/24-hour-body-volumising-conditioner.html/05012254056677",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/24-hour-body-volumising-shampoo.html/05012254056684",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/moisture-rich-conditioner.html/05012254056691",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/moisture-rich-shampoo.html/05012254056707",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/cleanse-and-replenishconditioner.html/05012254056714",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/colour-revitalise-conditioner.html/05012254056721",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/care-&-protect-shampoo.html/05012254059272",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/care-&-protect-conditioner.html/05012254059296",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/smooth-&-silky-shampoo.html/05012254059388",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/smooth-silky-shampoo.html/05012254059401",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/organics--normal-2in1-shampoo-1lt.html/06001087003537",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/organics-dry-&-damaged-shampoo-1lt.html/06001087010429",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/organics-straight-&-sleek-conditioner-1lt.html/06001087010450",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/keratin-smooth-shampoo.html/06001087354417",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/keratin-smooth-conditioner.html/06001087354424",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/platinum-strength-shampoo.html/06001087361750",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/platinum-strength-repair-&-protect-7-conditioner.html/06001087361767",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/keratin-smooth-co-wash.html/06001087379045",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/thermal-recovery-conditioner.html/06001229530990",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/thermal-recovery-shampoo.html/06001229531065",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/styling-extra-hold-hairspray.html/08710447299081",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/styling-firm-hold-hairspray.html/08710447299111",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/volume-&-lift-mousse.html/08710522935903",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/botanic-moisture-&-replenish-shampoo.html/08710908180460",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/botanic-moisture-and-replenish-conditioner.html/08710908180989",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/keratin-smooth-hair-mask-treatment.html/08710908693809",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/keratin-smooth-hair-shine-oil.html/08710908695018",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-rosy-moisturizing-lip-balm-for-dry-lips-20g.html/00000050064861",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-care-and-protect-heat-protection-spray-hair-treatment-100ml.html/00000050398928",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-50ml.html/00000060014399",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-vitamin-e-moisturizing-petroleum-jelly-50ml.html/00000060014429",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-dark-temptation-antiperspirant-roll-on-deodorant-50ml.html/00000060016638",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-cucumber-and-green-tea-antiperspirant-roll-on-deodorant-50ml.html/00000060017505",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-grapefruit-and-lemongrass-antiperspirant-roll-on-deodorant-50ml.html/00000060017512",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-aloe-fresh-moisturizing-petroleum-jelly-50ml.html/00000060018885",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-aloe-fresh-moisturizing-petroleum-jelly-100ml.html/00000060018915",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-cocoa-butter-moisturizing-petroleum-jelly-50ml.html/00000060018939",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-cocoa-butter-moisturizing-petroleum-jelly-100ml.html/00000060018960",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-baby-moisturizing-petroleum-jelly-50ml.html/00000060019035",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-baby-moisturizing-petroleum-jelly-100ml.html/00000060019066",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-beauty-finish-antiperspirant-roll-on-deodorant-50ml.html/00000060021229",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-extra-fresh-antiperspirant-roll-on-deodorant-50ml.html/00000060021908",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-clean-comfort-antiperspirant-roll-on-deodorant-50ml.html/00000060021915",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-men-blue-seal-fresh-moisturizing-petroleum-jelly-100ml.html/00000060022127",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-men-blue-seal-cooling-moisturizing-petroleum-jelly-100ml.html/00000060022141",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-invisible-dry-antiperspirant-roll-on-deodorant-50ml.html/00000060022615",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-dry-antiperspirant-roll-on-deodorant-50ml.html/00000060024664",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-mineral-touch-antiperspirant-roll-on-deodorant-50ml.html/00000060024879",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.690Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-antiperspirant-roll-on-deodorant-50ml.html/00000060024947",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-black-antiperspirant-roll-on-deodorant-50ml.html/00000060025081",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-even-tone-sensitive-antiperspirant-roll-on-deodorant-50ml.html/00000060027993",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-even-tone-antiperspirant-roll-on-deodorant-50ml.html/00000060028006",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/botanic-moisture-&-replenish-hair-food.html/00000060028136",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-ice-chill-antiperspirant-roll-on-deodorant-50ml.html/00000060028426",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-sensitive-antiperspirant-roll-on-deodorant-50ml.html/00000060098740",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-original-antiperspirant-roll-on-deodorant-50ml.html/00000060098764",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-wild-spice-antiperspirant-roll-on-deodorant-50ml.html/00000060098818",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-colour-treated-hair-conditioner-355ml.html/00045893038457",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-nourishing-oil-hair-care-conditioner-for-dry-hair-355ml.html/00079400124043",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-body-love-essential-care-nourishing-body-lotion-for-dry-skin-400ml.html/04000388563803",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-anti-wrinkle-serum-face-sheet-mask-21ml.html/04800888207111",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-firming-serum-face-sheet-mask-21ml.html/04800888207128",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-glowing-skin-serum-face-sheet-mask-21ml.html/04800888207135",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-makeup-remover-cleansing-facial-balm-100ml.html/04800888211569",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-care-and-protect-heat-protection-spray-hair-treatment-300ml.html/05012254056905",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-original-moisturizing-lip-balm-for-dry-lips-20g.html/05099802150117",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-original-antiperspirant-roll-on-deodorant-6x50ml.html/06001085106698",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-100ml.html/06001085120946",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-vitamin-e-moisturizing-petroleum-jelly-100ml.html/06001085121028",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-soap-bar-100g.html/06001085125613",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-bar-soap-100g.html/06001085125743",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-care-hygiene-bar-soap-100g.html/06001085125767",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-deo-fresh-hygiene-bar-soap-100g.html/06001085125781",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-original-antiperspirant-deodorant-body-spray-150ml.html/06001085127334",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-original-antiperspirant-deodorant-body-spray-6x150ml.html/06001085127341",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-sensitive-antiperspirant-deodorant-body-spray-150ml.html/06001085127372",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-sensitive-antiperspirant-deodorant-body-spray-6x150ml.html/06001085127389",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-firming-moisturizing-body-lotion-for-all-skin-types-400ml.html/06001085128270",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-cucumber-and-green-tea-antiperspirant-deodorant-body-spray-150ml.html/06001087003315",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-grapefruit-and-lemongrass-antiperspirant-deodorant-body-spray-150ml.html/06001087003322",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-aloe-fresh-moisturizing-petroleum-jelly-250ml.html/06001087005630",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-baby-moisturizing-petroleum-jelly-250ml.html/06001087005647",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-cocoa-butter-moisturizing-petroleum-jelly-250ml.html/06001087005654",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-250ml.html/06001087005661",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-vitamin-e-moisturizing-petroleum-jelly-250ml.html/06001087006835",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-even-tone-moisturizing-body-lotion-for-all-skin-types-400ml.html/06001087008488",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-lasting-oil-control-matte-skin-cleansing-face-wash-for-oily-skin-50ml.html/06001087008839",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-beauty-finish-antiperspirant-deodorant-body-spray-150ml.html/06001087009775",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-clean-comfort-antiperspirant-deodorant-body-spray-150ml.html/06001087010474",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-extra-fresh-antiperspirant-deodorant-body-spray-150ml.html/06001087010481",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-original-hypoallergenic-pure-petroleum-jelly-450ml.html/06001087010788",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-men-blue-seal-fresh-moisturizing-petroleum-jelly-250ml.html/06001087010870",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-men-blue-seal-cooling-moisturizing-petroleum-jelly-250ml.html/06001087010894",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-invisible-dry-antiperspirant-deodorant-body-spray-150ml.html/06001087012423",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-even-tone-cleansing-facial-toner-150ml.html/06001087012768",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-even-tone-cleansing-face-wash-100ml.html/06001087012782",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-anti-aging-cleansing-face-wash-100ml.html/06001087013208",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-cleansing-facial-toner-150ml.html/06001087015332",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-lemon-fresh-hygiene-bar-soap-100g.html/06001087354295",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-dry-skin-repair-moisturizing-body-lotion-400ml.html/06001087357043",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-aloe-soothing-body-lotion-for-dry-skin-400ml.html/06001087357050",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-lotion-for-dry-skin-400ml.html/06001087357067",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-advanced-dry-skin-repair-fragrance-free-body-lotion-400ml.html/06001087357081",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-dry-skin-repair-moisturizing-body-lotion-200ml.html/06001087357258",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-lotion-for-dry-skin-200ml.html/06001087357272",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-moisture-plus-hygiene-bar-soap-100g.html/06001087358521",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-soap-bar-175g.html/06001087358613",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-care-hygiene-soap-bar-175g.html/06001087358620",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-soap-bar-175g.html/06001087358637",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-deo-fresh-hygiene-soap-bar-175g.html/06001087358644",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-lemon-fresh-hygiene-soap-bar-175g.html/06001087358651",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-moisture-plus-hygiene-soap-bar-175g.html/06001087358668",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-dry-antiperspirant-deodorant-body-spray-150ml.html/06001087359276",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-dark-temptation-aerosol-deodorant-body-spray-200ml.html/06001087363808",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-dark-temptation-aerosol-deodorant-body-spray-150ml.html/06001087363815",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-black-antiperspirant-deodorant-body-spray-150ml.html/06001087364553",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-dark-temptation-antiperspirant-deodorant-body-spray-150ml.html/06001087364560",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-apollo-antiperspirant-deodorant-body-spray-150ml.html/06001087364577",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-black-aerosol-deodorant-body-spray-150ml.html/06001087364614",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-apollo-aerosol-deodorant-body-spray-150ml.html/06001087364621",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-excite-aerosol-deodorant-body-spray-150ml.html/06001087364638",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-adrenalin-aerosol-deodorant-body-spray-150ml.html/06001087364652",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-musk-aerosol-deodorant-body-spray-150ml.html/06001087364669",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-wild-spice-aerosol-deodorant-body-spray-150ml.html/06001087364690",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-black-aerosol-deodorant-body-spray-200ml.html/06001087364720",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-excite-aerosol-deodorant-body-spray-200ml.html/06001087364751",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-musk-aerosol-deodorant-body-spray-200ml.html/06001087364775",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-wild-spice-aerosol-deodorant-body-spray-200ml.html/06001087364782",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-baby-moisturizing-petroleum-jelly-450ml.html/06001087365789",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-mineral-touch-antiperspirant-deodorant-body-spray-150ml.html/06001087366175",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-combination-skin-40ml.html/06001087366205",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-very-oily-skin-40ml.html/06001087366212",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-dry-skin-40ml.html/06001087366229",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-cleansing-serum-face-wash-100ml.html/06001087366236",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-bar-soap-4x175g.html/06001087367066",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-soap-bar-4x175g.html/06001087367073",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-anti-blemish-hydrating-day-gel-moisturizer-50ml.html/06001087368193",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-anti-blemish-mattifying-day-face-cream-moisturizer-50ml.html/06001087368209",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-anti-blemish-day-face-cream-moisturizer-50ml.html/06001087368216",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-anti-blemish-night-face-cream-moisturizer-50ml.html/06001087368223",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-anti-blemish-perfecting-face-serum-moisturizer-30ml.html/06001087368483",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-camphor-moisturizing-body-cream-for-dry-skin-400ml.html/06001087370011",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-dry-skin-repair-moisturizing-body-cream-400ml.html/06001087370073",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-advanced-dry-skin-repair-fragrance-free-body-cream-400ml.html/06001087370165",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-cream-for-dry-skin-400ml.html/06001087370196",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-even-tone-moisturizing-body-cream-for-all-skin-types-400ml.html/06001087370431",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-aloe-soothing-body-cream-for-dry-skin-400ml.html/06001087370523",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-lemon-fresh-hygiene-body-wash-750ml.html/06001087372817",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-body-wash-750ml.html/06001087372824",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-body-wash-750ml.html/06001087372855",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-lemon-fresh-hygiene-body-wash-400ml.html/06001087372893",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-body-wash-400ml.html/06001087372909",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-body-wash-400ml.html/06001087372961",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-antiperspirant-deodorant-body-spray-150ml.html/06001087375108",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-aerosol-deodorant-body-spray-150ml.html/06001087375115",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-aerosol-deodorant-body-spray-200ml.html/06001087375191",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-makeup-remover-cleansing-micellar-water-400ml.html/06001087376167",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-even-tone-skin-renew-antiperspirant-deodorant-body-spray-150ml.html/06001087376532",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-even-tone-sensitive-antiperspirant-deodorant-body-spray-150ml.html/06001087376556",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/botanic-moisture-&-replenish-co-wash.html/06001087376976",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/botanic-moisture-&-replenish-detangling-butter.html/06001087376983",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.691Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/botanic-moisture-&-replenish-oil-mist.html/06001087376990",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-cocoa-butter-moisturizing-petroleum-jelly-450ml.html/06001087377546",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-pimple-protect-tea-tree-oil-and-aloe-vera-hygiene-soap-175g.html/06001087377720",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-natural-glow-honey-and-turmeric-hygiene-soap-175g.html/06001087377737",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-pimple-clear-makeup-remover-cleansing-micellar-water-400ml.html/06001087378185",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/platinum-strength-repair-&-protect-7-co-wash.html/06001087379038",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-ice-chill-antiperspirant-deodorant-body-spray-150ml.html/06001087379250",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-ice-chill-aerosol-deodorant-body-spray-150ml.html/06001087379267",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-ice-chill-aerosol-deodorant-body-spray-200ml.html/06001087379274",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-fragrance-free-body-cream-400ml.html/06001087381451",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-eczema-rescue-fragrance-free-body-cream-400ml.html/06001087381468",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-aging-skin-rescue-moisturizing-body-cream-400ml.html/06001087381475",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-pimple-clear-makeup-remover-cleansing-micellar-water-100ml.html/06001087381512",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-makeup-remover-cleansing-micellar-water-100ml.html/06001087381529",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-deep-clean-activated-charcoal-and-mint-hygiene-soap-175g.html/06001087381819",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-lasting-oil-control-matte-skin-cleansing-facial-toner-for-oily-skin-125ml.html/06001087382656",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-flawless-radiance-mineral-clay-cleansing-facial-scrub-81ml.html/06001087382694",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-pure-detox-mineral-clay-cleansing-facial-scrub-81ml.html/06001087382700",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-pimple-clear-mineral-clay-cleansing-facial-scrub-81ml.html/06001087382717",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-fragrance-free-body-lotion-400ml.html/06001087383240",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-eczema-rescue-fragrance-free-body-lotion-400ml.html/06001087383257",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-advanced-dry-skin-repair-fragrance-free-body-lotion-625ml.html/06001087383271",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-fragrance-free-body-lotion-625ml.html/06001087383288",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-dry-skin-repair-moisturizing-body-lotion-625ml.html/06001087383295",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-cocoa-glow-moisturizing-body-lotion-for-dry-skin-625ml.html/06001087383301",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-cool-fresh-antiperspirant-deodorant-body-spray-150ml.html/06001087383318",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-cool-fresh-antiperspirant-roll-on-deodorant-50ml.html/06001087383349",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-clinical-care-extremely-dry-skin-rescue-moisturizing-hand-cream-75ml.html/06001087383431",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-baby-fragrance-free-petroleum-jelly-250ml.html/06001087384742",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-baby-fragrance-free-petroleum-jelly-450ml.html/06001087384759",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-argan-oil-nourishing-body-lotion-400ml.html/06001087384780",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-argan-oil-nourishing-body-cream-400ml.html/06001087384797",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-makeup-remover-cleansing-micellar-water-400ml.html/06001087384896",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-makeup-remover-cleansing-micellar-water-100ml.html/06001087384902",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-dark-temptation-body-wash-and-aerosol-deodorant-body-spray-gift-set-2-items.html/06001087385039",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-cleanse-and-replenish-remoisturise-conditioner-400ml.html/06001087386104",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-keratin-smooth-frizz-control-lower-sulphate-shampoo-400ml.html/06001087386111",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-care-and-protect-hair-breakage-protection-conditioner-400ml.html/06001087386128",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-botanic-moisture-and-replenish-silicone-free-conditioner-400ml.html/06001087386135",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-moisture-rich-moisturizing-shampoo-for-dry-hair-400ml.html/06001087386142",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-cleanse-and-replenish-clarifying-shampoo-for-all-hair-types-400ml.html/06001087386159",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-care-and-protect-hair-breakage-protection-shampoo-400ml.html/06001087386166",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-moisture-rich-moisturizing-conditioner-for-dry-hair-400ml.html/06001087386173",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-botanic-moisture-and-replenish-lower-sulphate-shampoo-400ml.html/06001087386180",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/tresemm%C3%A9-keratin-smooth-frizz-control-conditioner-400ml.html/06001087386197",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-waterless-hand-sanitizer-gel-100ml.html/06001087387774",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-germ-protection-hand-wash-soap-200ml.html/06001087387835",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-germ-protection-hand-wash-soap-200ml.html/06001087387842",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-care-germ-protection-hand-wash-soap-200ml.html/06001087387859",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-instant-hand-sanitizer-spray-120ml.html/06001087388030",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-waterless-hand-sanitizer-gel-65ml.html/06001087388085",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-professional-total-10-waterless-hand-sanitizer-liquid-5l.html/06001087388641",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-perfect-colour-complex-anti-blemish-serum-face-cream-moisturizer-for-combination-skin-20ml.html/06001087391351",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-advanced-care-energising-face,-hand-and-body-cream-400ml.html/06001087394642",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-advanced-care-extra-cool-face,-hand-and-body-cream-400ml.html/06001087394659",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-advanced-care-hydrating-face,-hand-and-body-cream-400ml.html/06001087394666",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-rich-care-moisturizing-body-cream-400ml.html/06001087394673",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-even-glow-moisturizing-body-cream-400ml.html/06001087394680",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-firming-care-moisturizing-body-cream-400ml.html/06001087394697",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-intense-care-moisturizing-body-cream-400ml.html/06001087395106",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-family-protect-hygiene-bar-soap-250g.html/06001087395557",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-lime-&-sage-antiperspirant-roll-on-deodorant-50ml.html/06001087397476",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-fresh-antiperspirant-roll-on-deodorant-50ml.html/06001087397483",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-lime-&-sage-antiperspirant-deodorant-body-spray-150ml.html/06001087397490",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-fresh-antiperspirant-deodorant-body-spray-150ml.html/06001087397506",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-firming-&-moisture-body-lotion-625ml.html/06001087398893",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-stretch-marks-&-moisture-body-lotion-625ml.html/06001087398909",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-even-tone-&-moisture-body-lotion-625ml.html/06001087398916",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-firming-&-moisture-body-cream-400ml.html/06001087398923",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-stretch-marks-&-moisture-body-cream-400ml.html/06001087398930",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-even-tone-&-moisture-body-cream-400ml.html/06001087398947",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-firming-&-moisture-body-lotion-400ml.html/06001087398992",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-stretch-marks-&-moisture-body-lotion-400ml.html/06001087399005",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-even-tone-&-moisture-body-lotion-400ml.html/06001087399012",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cera-glow%E2%84%A2-body-gel-oil-200ml.html/06001087399302",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-argan-oil-nourishing-body-lotion-625ml.html/06001087401586",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-white-oak-premium-deodorant-body-spray-150ml.html/06001087403658",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-aqua-bergamot-premium-deodorant-body-spray-150ml.html/06001087403696",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-black-vanilla-premium-deodorant-body-spray-150ml.html/06001087403733",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-blue-lavender-premium-deodorant-body-spray-150ml.html/06001087403771",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-copper-santal-premium-deodorant-body-spray-150ml.html/06001087403818",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-intensive-care-hand-and-nail-moisturizing-cream-for-dry-skin-75ml.html/06001088080094",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-lasting-oil-control-matte-skin-cleansing-face-wash-for-oily-skin-100ml.html/06001088084184",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-lasting-oil-control-matte-skin-vanishing-face-cream-moisturizer-for-oily-skin-50ml.html/06001220000683",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-lasting-oil-control-matte-skin-vanishing-face-cream-moisturizer-for-very-oily-skin-100ml.html/06001220000690",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-lasting-oil-control-matte-skin-vanishing-face-cream-moisturizer-for-very-oily-skin-50ml.html/06001220005251",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-lasting-oil-control-matte-skin-vanishing-face-cream-moisturizer-for-oily-skin-100ml.html/06001220005268",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-anti-aging-eye-cream-15ml.html/07506306244030",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-original-moisturizing-bar-soap-4x100g.html/08000700000050",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-pure-and-sensitive-fragrance-free-bar-soap-100g.html/08000700000227",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-soothing-care-sensitive-skin-body-wash-500ml.html/08710447352304",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-aloe-vera-and-birch-water-hydrating-care-body-wash-500ml.html/08710847929069",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-peony-and-rose-oil-renewing-body-wash-500ml.html/08710908285974",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-argan-oil-nourishing-care-body-wash-500ml.html/08710908437304",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/baby-dove-rich-moisture-shampoo.html/08710908657900",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/baby-dove-rich-moisture-shampoo.html/08710908657979",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-nourishing-oil-hair-care-shampoo-for-dry-hair-250ml.html/08711600450523",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-nourishing-oil-hair-care-conditioner-for-dry-hair-200ml.html/08711600451650",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-body-love-shea-butter-and-vanilla-pampering-body-lotion-for-dry-skin-400ml.html/08711700841252",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-daily-hair-moisture-2in1-shampoo-and-conditioner-for-dry-hair-400ml.html/08712561384704",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-daily-hair-moisture-shampoo-for-dry-hair-400ml.html/08712561384841",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-nourishing-oil-hair-care-shampoo-for-dry-hair-400ml.html/08712561386326",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-intensive-hair-repair-shampoo-for-dry-hair-400ml.html/08712561488280",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-colour-treated-hair-shampoo-400ml.html/08712561488297",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-hair-series-shine-revived-with-botanic-oils-and-collagen-gentle-cleansing-shampoo-for-dry-hair-250ml.html/08712561493031",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-hair-series-pure-care-dry-oil-conditioner.html/08712561493703",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-hair-series-oxygen-moisture-shampoo.html/08712561495295",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-hair-series-oxygen-moisture-conditioner.html/08712561495363",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-hair-series-pure-care-dry-oil-mask.html/08712561497091",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-intensive-hair-repair-conditioner-for-dry-hair-350ml.html/08712561571333",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-colour-care-conditioner.html/08712561571364",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-daily-hair-moisture-conditioner-for-dry-hair-350ml.html/08712561571388",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-deeply-nourishing-moisturizing-body-wash-250ml.html/08712561593335",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-deeply-nourishing-moisturizing-body-wash-500ml.html/08712561593533",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-jasmine-petal-and-coconut-milk-relaxing-body-wash-500ml.html/08712561631204",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-pistachio-and-magnolia-calming-body-wash-250ml.html/08712561645256",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-pomegranate-and-hibiscus-reviving-body-wash-250ml.html/08712561655026",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-aloe-fresh-moisturizing-lip-balm-for-dry-lips-20g.html/08714100597347",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-green-clay-purifying-detox-body-wash-500ml.html/08717163684825",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-olive-oil-protecting-care-body-wash-500ml.html/08717163726129",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-pink-clay-renewing-glow-body-wash-500ml.html/08717163743638",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-soothing-care-sensitive-skin-body-wash-450ml.html/08717163764084",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-daily-hair-moisture-2in1-shampoo-and-conditioner-for-dry-hair-250ml.html/08718114561561",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-daily-hair-moisture-shampoo-for-dry-hair-250ml.html/08718114561660",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-daily-hair-moisture-conditioner-for-dry-hair-200ml.html/08718114562575",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-intensive-hair-repair-hair-mask-treatment-200ml.html/08718114615165",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-intensive-hair-repair-shampoo-for-dry-hair-250ml.html/08718114621371",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-intensive-hair-repair-conditioner-for-dry-hair-200ml.html/08718114627007",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-cocoa-butter-moisturizing-lip-balm-for-dry-lips-20g.html/08718114642871",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-body-love-light-care-fast-absorbing-body-lotion-400ml.html/08720181182242",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-body-love-intense-care-nourishing-body-lotion-for-very-dry-skin-400ml.html/08720181182259",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-coconut-milk-moisturizing-bar-soap-value-pack-4x90g.html/08720181219436",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-gentle-exfoliating-moisturizing-bar-soap-90g.html/08720181219443",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-fresh-touch-moisturizing-bar-soap-90g.html/08720181219467",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-beauty-cream-moisturizing-bar-soap-value-pack-2x90g.html/08720181219948",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-revive-moisturizing-bar-soap-value-pack-4x90g.html/08720181219962",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-pure-and-sensitive-micellar-bar-soap-90g.html/08720181219979",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-shea-butter-moisturizing-bar-soap-value-pack-4x90g.html/08720181219993",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-hypoallergenic-fragrance-free-body-wash-for-sensitive-skin-400ml.html/08720181233593",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-hypoallergenic-fragrance-free-body-wash-for-sensitive-skin-450-ml.html/08720181356735",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-aloe-vera-and-birch-water-hydrating-care-body-wash-450ml.html/08720181356780",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-jasmine-petal-and-coconut-milk-relaxing-body-wash-450ml.html/08720181357039",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-deeply-nourishing-moisturizing-body-wash-450ml.html/08720181359156",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-pink-clay-renewing-glow-body-wash-450ml.html/08720181360541",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-peony-and-rose-oil-renewing-body-wash-450ml.html/08720181362514",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-olive-oil-protecting-care-body-wash-450ml.html/08720181362545",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-argan-oil-nourishing-care-body-wash-450ml.html/08720181364334",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-deeply-nourishing-moisturizing-bodywash-225ml.html/08720181457494",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-deeply-nourishing-moisturizing-bodywash-400ml.html/08720181457500",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-anti-stress-moisturizing-bodywash-225ml.html/08720181459948",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-anti-stress-moisturizing-bodywash-400ml.html/08720181459979",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-nourishing-care-moisturizing-bodywash-225ml.html/08720181460074",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-reviving-moisturizing-bodywash-400ml.html/08720181460166",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-hydrating-moisturizing-bodywash-400ml.html/08720181462801",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-gentle-scrub-moisturizing-bodywash-400ml.html/08720181462887",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-relaxing-moisturizing-bodywash-400ml.html/08720181462900",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-glowing-moisturizing-bodywash-400ml.html/08720181465949",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-nourishing-care-moisturizing-bodywash-400ml.html/08720181477560",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-hypoallergenic-moisturizing-bodywash-400ml.html/08720181479953",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-beauty-cream-moisturizing-bar-soap-90g.html/08720182255716",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-beauty-cream-moisturizing-bar-soap-value-pack-4x90g.html/08720182256836",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-anti-aging-serum-moisturizer-30ml.html/08851932387163",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-pimple-clear-anti-acne-cleansing-face-wash-100g.html/08901030583056",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/closeup-red-hot-whitening-gel-toothpaste-125g.html/08934839121488",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/closeup-cool-breeze-whitening-gel-toothpaste-125g.html/08934839121501",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/closeup-menthol-fresh-whitening-gel-toothpaste-125g.html/08934839125202",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-anti-wrinkle-night-face-cream-moisturizer-50ml.html/08999999060077",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/pond's-age-miracle-anti-wrinkle-day-face-cream-moisturizer-50ml.html/08999999060237",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-germ-protection-hand-wash-soap-200ml.html/08999999557157",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-hygiene-bar-soap-6x175g.html/16001087358610",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-herbal-hygiene-bar-soap-6x175g.html/16001087358634",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-deo-fresh-hygiene-bar-soap-6x175g.html/16001087358641",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-lemon-fresh-hygiene-bar-soap-6x175g.html/16001087358658",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-moisture-plus-hygiene-bar-soap-6x175g.html/16001087358665",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-dry-antiperspirant-deodorant-body-spray-6x150ml.html/16001087359273",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-invisible-dry-antiperspirant-roll-on-deodorant-6x50ml.html/16001087359280",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-black-antiperspirant-deodorant-body-spray-6x150ml.html/16001087364550",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-dark-temptation-antiperspirant-deodorant-body-spray-6x150ml.html/16001087364567",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-black-aerosol-deodorant-body-spray-6x150ml.html/16001087364611",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-musk-aerosol-deodorant-body-spray-6x150ml.html/16001087364666",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-dark-temptation-aerosol-deodorant-body-spray-6x150ml.html/16001087364710",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-antiperspirant-roll-on-deodorant-6x150ml.html/16001087375099",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/axe-gold-antiperspirant-deodorant-body-spray-6x150ml.html/16001087375105",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-even-tone-skin-renew-antiperspirant-deodorant-body-spray-6x150ml.html/16001087376539",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-even-tone-antiperspirant-roll-on-deodorant-6x50ml.html/16001087376546",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-even-tone-sensitive-antiperspirant-roll-on-deodorant-6x50ml.html/16001087376560",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-cool-fresh-antiperspirant-deodorant-body-spray-6x150ml.html/16001087383315",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-cool-fresh-antiperspirant-roll-on-deodorant-6x50ml.html/16001087383346",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/lifebuoy-total-10-waterless-hand-sanitizer-gel-6x100ml.html/16001087387771",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-grapefruit-and-lemongrass-antiperspirant-roll-on-deodorant-6x50ml.html/46001087005775",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-cucumber-and-green-tea-antiperspirant-roll-on-deodorant-6x50ml.html/46001087005812",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-cucumber-and-green-tea-antiperspirant-deodorant-body-spray-6x150ml.html/46001087005850",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-go-fresh-grapefruit-and-lemongrass-antiperspirant-deodorant-body-spray-6x150ml.html/46001087005874",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/vaseline-blue-seal-baby-moisturizing-petroleum-jelly-6x250ml.html/46001087007496",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-beauty-finish-antiperspirant-roll-on-deodorant-6x50ml.html/46001087017198",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-beauty-finish-antiperspirant-deodorant-body-spray-6x150ml.html/46001087017211",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-clean-comfort-antiperspirant-roll-on-deodorant-6x50ml.html/46001087018461",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-extra-fresh-antiperspirant-roll-on-deodorant-6x50ml.html/46001087018522",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-clean-comfort-antiperspirant-deodorant-body-spray-6x150ml.html/46001087018560",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-men%2Bcare-extra-fresh-antiperspirant-deodorant-body-spray-6x150ml.html/46001087018584",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-advanced-care-invisible-dry-antiperspirant-deodorant-body-spray-6x150ml.html/46001087025308",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.allthingshair.com/za/p/dove-invisible-dry-antiperspirant-roll-on-deodorant-6x50ml.html/46001087025322",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:17.693Z"
+    }
+  ]
+}

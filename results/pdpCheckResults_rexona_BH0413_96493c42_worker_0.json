@@ -1,0 +1,13 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0413",
+  "feedUrl": "https://www.shield.co.za/home.productfeed.json",
+  "totalUrlsChecked": 40,
+  "problematicPagesFound": 0,
+  "successfulPages": 40,
+  "errors": 0,
+  "duration": "0.27s",
+  "speed": "148.15 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

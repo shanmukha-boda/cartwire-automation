@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.frigo.es/home.productfeed.json",
+  "totalUrlsChecked": 147,
+  "problematicPagesFound": 0,
+  "successfulPages": 147,
+  "errors": 0,
+  "duration": "0.47s",
+  "speed": "312.77 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

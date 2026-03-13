@@ -1,0 +1,13 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0978",
+  "feedUrl": "https://www.suredeodorant.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 139,
+  "problematicPagesFound": 0,
+  "successfulPages": 139,
+  "errors": 0,
+  "duration": "1.43s",
+  "speed": "97.20 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

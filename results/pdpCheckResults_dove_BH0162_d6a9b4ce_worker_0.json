@@ -1,0 +1,92 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 6,
+  "successfulPages": 32,
+  "errors": 0,
+  "duration": "0.17s",
+  "speed": "223.53 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+      "url": "https://www.dove.com/id/p/advanced-serum-body-wash-acne-control.html/08934868198871",
+      "gtin": "08934868198871",
+      "checkedAt": "2026-03-13T15:53:24.323Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08934868198871",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+      "url": "https://www.dove.com/id/p/advanced-serum-body-wash-even-tone-radiance.html/08934868198895",
+      "gtin": "08934868198895",
+      "checkedAt": "2026-03-13T15:53:24.320Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08934868198895",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+      "url": "https://www.dove.com/id/p/advanced-serum-body-wash-vitality-renewal.html/08934868198901",
+      "gtin": "08934868198901",
+      "checkedAt": "2026-03-13T15:53:24.334Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08934868198901",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+      "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-pomegranate.html/08999999617202",
+      "gtin": "08999999617202",
+      "checkedAt": "2026-03-13T15:53:24.313Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08999999617202",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+      "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-sugar-&-coconut.html/08999999617219",
+      "gtin": "08999999617219",
+      "checkedAt": "2026-03-13T15:53:24.332Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08999999617219",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/id/home.productfeed.json",
+      "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-sakura.html/08999999617226",
+      "gtin": "08999999617226",
+      "checkedAt": "2026-03-13T15:53:24.306Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08999999617226",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

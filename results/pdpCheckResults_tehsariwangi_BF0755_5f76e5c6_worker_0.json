@@ -1,0 +1,27 @@
+{
+  "brand": "tehsariwangi",
+  "assortmentCode": "BF0755",
+  "feedUrl": "https://www.tehsariwangi.com/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 1,
+  "successfulPages": 6,
+  "errors": 0,
+  "duration": "0.32s",
+  "speed": "21.88 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "tehsariwangi",
+      "assortmentCode": "BF0755",
+      "feedUrl": "https://www.tehsariwangi.com/home.productfeed.json",
+      "url": "https://www.tehsariwangi.com/p/sariwangi-sarimurni.html/08999999031602",
+      "gtin": "08999999031602",
+      "checkedAt": "2026-03-13T15:55:18.282Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tehsariwangi&locale=id-id&brand_code=BF0755&gtin=08999999031602",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

@@ -1,0 +1,278 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0413",
+  "feedUrl": "https://www.rexona.com/nl/home.productfeed.json",
+  "totalUrlsChecked": 44,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 44,
+  "duration": "0.00s",
+  "speed": "Infinity URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/aloe-vera-stick-voor-vrouwen.html/00000030056640",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-confidence-roll-on-voor-vrouwen.html/00000059082910",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cobalt-dry-roll-on-anti-transpirant-voor-mannen.html/00000059095446",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/quantum-dry-roll-on-anti-transpirant-voor-mannen.html/00000059095460",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-b&w-roll-on-anti-transpirant-voor-mannen.html/00000059095514",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cotton-dry-roll-on-anti-transpirant-voor-vrouwen.html/00000059095545",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-aqua-roll-on-anti-transpirant-voor-vrouwen.html/00000059095552",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/aloe-vera-roll-on-anti-transpirant-voor-vrouwen.html/00000059095590",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/biorythm-roll-on-anti-transpirant-voor-vouwen.html/00000059095613",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-active-shield-stick-voor-vrouwen.html/08710908311512",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-confidence-stick-anti-transpirant-voor-vrouwen.html/08711600504141",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/sensitive-dry-maximum-protection-stick-anti-transpirant-voor-vrouwen.html/08711600831063",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/stress-control-maximum-protection-stick-anti-transpirant-voor-vrouwen.html/08712561521840",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/sport-strength-maximum-protection-stick-anti-transpirant-voor-vrouwen.html/08712561536684",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-clean-scent-stick-anti-transpirant-voor-vrouwen.html/08718114202372",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-clean-scent-stick-anti-transpirant-voor-mannen.html/08718114202402",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cotton-dry-anti-transpirant-voor-vrouwen.html/08720181183751",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/shower-fresh-anti-transpirant-voor-vrouwen.html/08720181183768",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-b&w-anti-transpirant-voor-vrouwen.html/08720181183775",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/biorythm-anti-transpirant-voor-vrouwen.html/08720181183782",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/aloe-vera-anti-transpirant-voor-vrouwen.html/08720181183799",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cobalt-dry-anti-transpirant-voor-mannen.html/08720181183805",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/quantum-dry-anti-transpirant-voor-mannen.html/08720181196140",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/aloe-vera-anti-transpirant-duopack-voor-vrouwen.html/08720181208768",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cobalt-dry-anti-transpirant-duopack-voor-mannen.html/08720181222580",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-aqua-anti-transpirant-voor-vrouwen.html/08720181309656",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-ice-anti-transpirant-voor-mannen.html/08720181309663",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-invisible-anti-transpirant-voor-vrouwen.html/08720181575945",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-sport-defence-anti-transpirant-voor-mannen.html/08720181575952",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-cobalt-dry-anti-transpirant-voor-mannen.html/08720181575969",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/maximum-protection-clean-scent-anti-transpirant-voor-vrouwen.html/08720181575983",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cotton-dry-anti-transpirant-voor-vrouwen.html/00000059097662",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cobalt-dry-anti-transpirant-voor-mannen.html/00000059097679",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-b&w-stick-anti-transpirant-voor-vrouwen.html/00000059097921",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cobalt-dry-stick-anti-transpirant-voor-mannen.html/00000059097945",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cobalt-dry-anti-transpirant-voor-mannen.html/04000388669000",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/rexona-men-maxpro-deodorant-stick-intense-sport.html/08710847920431",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-on-black-%2B-white-clothes-anti-transpirant-voor-vrouwen.html/08717163675038",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/stress-control-anti-transpirant-voor-vrouwen.html/08720181437731",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/bright-bouquet-anti-transpirant-voor-vrouwen.html/08720181446160",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/invisible-b&w-anti-transpirant-voor-mannen.html/08720181446184",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/sensitive-anti-transpirant-voor-mannen.html/08720181446191",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/sport-cool-anti-transpirant-voor-mannen.html/08720181446207",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/nl/p/cotton-dry-anti-transpirant-duopack-voor-vrouwen.html/08720181475788",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:54:13.796Z"
+    }
+  ]
+}

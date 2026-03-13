@@ -1,0 +1,13 @@
+{
+  "brand": "calve",
+  "assortmentCode": "BF0153",
+  "feedUrl": "https://www.calve.com.tr/home.productfeed.json",
+  "totalUrlsChecked": 22,
+  "problematicPagesFound": 0,
+  "successfulPages": 22,
+  "errors": 0,
+  "duration": "0.16s",
+  "speed": "137.50 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

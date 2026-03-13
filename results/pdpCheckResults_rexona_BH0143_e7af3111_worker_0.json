@@ -1,0 +1,13 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0143",
+  "feedUrl": "https://www.degreedeodorant.com/ca/fr/home.productfeed.json",
+  "totalUrlsChecked": 104,
+  "problematicPagesFound": 0,
+  "successfulPages": 104,
+  "errors": 0,
+  "duration": "0.58s",
+  "speed": "179.31 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

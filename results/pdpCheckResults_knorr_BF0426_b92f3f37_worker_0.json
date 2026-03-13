@@ -1,0 +1,13 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/fr/home.productfeed.json",
+  "totalUrlsChecked": 87,
+  "problematicPagesFound": 0,
+  "successfulPages": 87,
+  "errors": 0,
+  "duration": "0.56s",
+  "speed": "155.36 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

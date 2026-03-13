@@ -1,0 +1,13 @@
+{
+  "brand": "bango",
+  "assortmentCode": "BF0917",
+  "feedUrl": "https://www.bango.co.id/home.productfeed.json",
+  "totalUrlsChecked": 7,
+  "problematicPagesFound": 0,
+  "successfulPages": 7,
+  "errors": 0,
+  "duration": "0.56s",
+  "speed": "12.50 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

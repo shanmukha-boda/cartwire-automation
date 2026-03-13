@@ -1,0 +1,13 @@
+{
+  "brand": "allthingsbeauty",
+  "assortmentCode": "ID",
+  "feedUrl": "https://www.allthingsbeauty.com/id/home.productfeed.json",
+  "totalUrlsChecked": 470,
+  "problematicPagesFound": 0,
+  "successfulPages": 470,
+  "errors": 0,
+  "duration": "4.73s",
+  "speed": "99.37 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

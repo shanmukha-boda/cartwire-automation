@@ -1,0 +1,176 @@
+{
+  "brand": "mae-terra",
+  "assortmentCode": "BF8834",
+  "feedUrl": "https://www.maeterra.com.br/home.productfeed.json",
+  "totalUrlsChecked": 27,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 27,
+  "duration": "0.00s",
+  "speed": "Infinity URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-tradicional-com-castanhas-brasileiras.html/07891150075443",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-banana-e-cacau.html/07891150075450",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-cacau-organico.html/07891150081338",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-biscoito-maizena.html/07891150084643",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-tradicional-zero-acucares.html/07891150087606",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-brigadeiro-zero.html/07891150089112",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/choco-cookies-castanhas-brasileiras.html/07891150089167",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/choco-biscoito-maizena.html/07891150089181",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/choco-biscoito-cacau.html/07891150089198",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-castanha-de-caju-amigos-do-bem.html/07891150090798",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-queijo.html/07891150094857",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/tribos-cracker-gergelim.html/07896496917525",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-caramelo-com-coco.html/07896496917655",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/pipoca-doce-cacau.html/07896496917662",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/tribos-cacau.html/07896496917709",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/tribos-coco.html/07896496917716",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-frutas-e-mel-vegano.html/07896496972111",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-pizza.html/07896496972326",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/zooreta-salgadinho-cebola.html/07896496972340",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-castanhas-brasileiras.html/07896496972500",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-acai.html/07896496972555",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-cacau.html/07896496972609",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/remix-sementes.html/07896496972623",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-cacau-e-castanhas.html/07896496980857",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-banana-e-cacau.html/07896496980888",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/mini-cookies-coco-e-castanhas.html/07896496980994",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.maeterra.com.br/p/granola-cacau.html/07896496995219",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:55:07.570Z"
+    }
+  ]
+}

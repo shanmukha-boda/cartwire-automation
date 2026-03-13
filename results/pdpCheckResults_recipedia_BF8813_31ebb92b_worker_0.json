@@ -1,0 +1,13 @@
+{
+  "brand": "recipedia",
+  "assortmentCode": "BF8813",
+  "feedUrl": "https://www.secretosdecocina.com/home.productfeed.json",
+  "totalUrlsChecked": 116,
+  "problematicPagesFound": 0,
+  "successfulPages": 116,
+  "errors": 0,
+  "duration": "0.60s",
+  "speed": "193.33 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

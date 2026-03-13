@@ -1,0 +1,170 @@
+{
+  "brand": "rexona",
+  "assortmentCode": "BH0413",
+  "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+  "totalUrlsChecked": 52,
+  "problematicPagesFound": 12,
+  "successfulPages": 40,
+  "errors": 0,
+  "duration": "0.29s",
+  "speed": "179.31 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/desodorante-antitranspirante-rexona-stick-active-emotion-50g.html/00000075029982",
+      "gtin": "00000075029982",
+      "checkedAt": "2026-03-13T15:54:14.377Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=00000075029982",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/desodorante-antitranspirante-rexona-invisible-roll-on-50-ml.html/00000078944831",
+      "gtin": "00000078944831",
+      "checkedAt": "2026-03-13T15:54:14.209Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=00000078944831",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/jabon-liquido-antibacterial-fresh-220.html/07791293041810",
+      "gtin": "07791293041810",
+      "checkedAt": "2026-03-13T15:54:14.258Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293041810",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/jab%C3%B3n-liquido-rexona-antibacterial-aloe-220-ml.html/07791293041841",
+      "gtin": "07791293041841",
+      "checkedAt": "2026-03-13T15:54:14.287Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293041841",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/jab%C3%B3n-liquido-rexona-antibacterial-original-recarga-econ%C3%B3mica-220-ml.html/07791293041865",
+      "gtin": "07791293041865",
+      "checkedAt": "2026-03-13T15:54:14.321Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293041865",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/desodorante-rexona-efficient-original-en-aerosol-153-ml.html/07791293044460",
+      "gtin": "07791293044460",
+      "checkedAt": "2026-03-13T15:54:14.237Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293044460",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/desodorante-rexona-cotton-dry-250-ml.html/07791293049632",
+      "gtin": "07791293049632",
+      "checkedAt": "2026-03-13T15:54:14.284Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293049632",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/jab%C3%B3n-en-barra-rexona-sensible-120-g.html/07791293050966",
+      "gtin": "07791293050966",
+      "checkedAt": "2026-03-13T15:54:14.397Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293050966",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/jab%C3%B3n-en-barra-rexona-bamboo-120-g.html/07791293050973",
+      "gtin": "07791293050973",
+      "checkedAt": "2026-03-13T15:54:14.249Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293050973",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/jab%C3%B3n-en-barra-rexona-nutritive-orchid-120-g.html/07791293051000",
+      "gtin": "07791293051000",
+      "checkedAt": "2026-03-13T15:54:14.292Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07791293051000",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/antitranspirante-en-aerosol-rexona-clinical-extra-dry-150-ml.html/07891150064300",
+      "gtin": "07891150064300",
+      "checkedAt": "2026-03-13T15:54:14.437Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07891150064300",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "rexona",
+      "assortmentCode": "BH0413",
+      "feedUrl": "https://www.rexona.com/uy/home.productfeed.json",
+      "url": "https://www.rexona.com/uy/p/antitranspirante-en-aerosol-rexona-clinical-refresh-150-ml.html/07891150089952",
+      "gtin": "07891150089952",
+      "checkedAt": "2026-03-13T15:54:14.207Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-uy&brand_code=BH0413&gtin=07891150089952",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

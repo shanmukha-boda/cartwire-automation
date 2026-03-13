@@ -1,0 +1,13 @@
+{
+  "brand": "namdong",
+  "assortmentCode": "BFR099",
+  "feedUrl": "https://www.namdong.com/home.productfeed.json",
+  "totalUrlsChecked": 6,
+  "problematicPagesFound": 0,
+  "successfulPages": 6,
+  "errors": 0,
+  "duration": "0.10s",
+  "speed": "60.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

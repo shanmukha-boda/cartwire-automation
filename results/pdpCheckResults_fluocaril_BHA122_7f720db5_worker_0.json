@@ -1,0 +1,13 @@
+{
+  "brand": "fluocaril",
+  "assortmentCode": "BHA122",
+  "feedUrl": "https://www.fluocaril.fr/home.productfeed.json",
+  "totalUrlsChecked": 20,
+  "problematicPagesFound": 0,
+  "successfulPages": 20,
+  "errors": 0,
+  "duration": "0.29s",
+  "speed": "68.97 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

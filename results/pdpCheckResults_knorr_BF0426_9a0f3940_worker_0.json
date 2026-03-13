@@ -1,0 +1,482 @@
+{
+  "brand": "knorr",
+  "assortmentCode": "BF0426",
+  "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+  "totalUrlsChecked": 177,
+  "problematicPagesFound": 36,
+  "successfulPages": 141,
+  "errors": 0,
+  "duration": "0.90s",
+  "speed": "196.67 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/kip-teriyaki.html/08721201952784",
+      "gtin": "08721201952784",
+      "checkedAt": "2026-03-13T15:53:57.165Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201952784",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/kebab.html/08721201953026",
+      "gtin": "08721201953026",
+      "checkedAt": "2026-03-13T15:53:57.462Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201953026",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/mac-&-cheese.html/08721201953897",
+      "gtin": "08721201953897",
+      "checkedAt": "2026-03-13T15:53:57.185Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201953897",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/knorr-bospaddestoelen-risotto.html/08721201954665",
+      "gtin": "08721201954665",
+      "checkedAt": "2026-03-13T15:53:57.218Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201954665",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/knorr-truffel-risotto.html/08721201954696",
+      "gtin": "08721201954696",
+      "checkedAt": "2026-03-13T15:53:57.178Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201954696",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/sweet-&-sour.html/08721201955914",
+      "gtin": "08721201955914",
+      "checkedAt": "2026-03-13T15:53:57.169Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201955914",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/enchiladas.html/08721201967306",
+      "gtin": "08721201967306",
+      "checkedAt": "2026-03-13T15:53:57.182Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201967306",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/kip-madras.html/08721201971792",
+      "gtin": "08721201971792",
+      "checkedAt": "2026-03-13T15:53:57.218Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721201971792",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/knorr-prei-cr%C3%A8me-een-heerlijk-romige-preisoep,-snel-en-makkelijk-klaar-te-maken-cup-a-soup-zonder-smaakversterkers,-kleurstoffen-en-conserveermiddelen-3-x-175-ml.html/08721317703911",
+      "gtin": "08721317703911",
+      "checkedAt": "2026-03-13T15:53:57.177Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317703911",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-potatoes-spek-en-ui.html/08721317744211",
+      "gtin": "08721317744211",
+      "checkedAt": "2026-03-13T15:53:57.234Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744211",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-potatoes-broccoli-en-kaas.html/08721317744242",
+      "gtin": "08721317744242",
+      "checkedAt": "2026-03-13T15:53:57.167Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744242",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-tomaat-mozzarella.html/08721317744259",
+      "gtin": "08721317744259",
+      "checkedAt": "2026-03-13T15:53:57.167Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744259",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-pesto-kaas.html/08721317744266",
+      "gtin": "08721317744266",
+      "checkedAt": "2026-03-13T15:53:57.164Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744266",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-bolognese.html/08721317744273",
+      "gtin": "08721317744273",
+      "checkedAt": "2026-03-13T15:53:57.201Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744273",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-kaas-jalape%C3%B1o.html/08721317744280",
+      "gtin": "08721317744280",
+      "checkedAt": "2026-03-13T15:53:57.200Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744280",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-4-kazen.html/08721317744297",
+      "gtin": "08721317744297",
+      "checkedAt": "2026-03-13T15:53:57.164Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744297",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-carbonara.html/08721317744303",
+      "gtin": "08721317744303",
+      "checkedAt": "2026-03-13T15:53:57.144Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744303",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-potatoes-ui-en-croutons.html/08721317744310",
+      "gtin": "08721317744310",
+      "checkedAt": "2026-03-13T15:53:57.141Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744310",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-romige-kaassaus.html/08721317744327",
+      "gtin": "08721317744327",
+      "checkedAt": "2026-03-13T15:53:57.159Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744327",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-champignon.html/08721317744334",
+      "gtin": "08721317744334",
+      "checkedAt": "2026-03-13T15:53:57.638Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317744334",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-rund-blok.html/08721317770302",
+      "gtin": "08721317770302",
+      "checkedAt": "2026-03-13T15:53:57.723Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317770302",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-groente-blok.html/08721317771798",
+      "gtin": "08721317771798",
+      "checkedAt": "2026-03-13T15:53:57.670Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317771798",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-kerrie-blok.html/08721317771804",
+      "gtin": "08721317771804",
+      "checkedAt": "2026-03-13T15:53:57.723Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317771804",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-teriyaki-blok.html/08721317774416",
+      "gtin": "08721317774416",
+      "checkedAt": "2026-03-13T15:53:57.730Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317774416",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-pittige-kip-cup.html/08721317776793",
+      "gtin": "08721317776793",
+      "checkedAt": "2026-03-13T15:53:57.615Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317776793",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-teriyaki-cup.html/08721317776809",
+      "gtin": "08721317776809",
+      "checkedAt": "2026-03-13T15:53:57.769Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317776809",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-rund-cup.html/08721317776816",
+      "gtin": "08721317776816",
+      "checkedAt": "2026-03-13T15:53:57.672Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317776816",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-groente-cup.html/08721317776823",
+      "gtin": "08721317776823",
+      "checkedAt": "2026-03-13T15:53:57.650Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317776823",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-kip-cup.html/08721317776830",
+      "gtin": "08721317776830",
+      "checkedAt": "2026-03-13T15:53:57.729Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317776830",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-mac-&-cheese.html/08721317780349",
+      "gtin": "08721317780349",
+      "checkedAt": "2026-03-13T15:53:57.690Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317780349",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-kip-blok.html/08721317780981",
+      "gtin": "08721317780981",
+      "checkedAt": "2026-03-13T15:53:57.655Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317780981",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-oosterse-kip-blok.html/08721317781025",
+      "gtin": "08721317781025",
+      "checkedAt": "2026-03-13T15:53:57.626Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317781025",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-zoetzure-kip-blok.html/08721317781070",
+      "gtin": "08721317781070",
+      "checkedAt": "2026-03-13T15:53:57.683Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317781070",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-noodles-kip-piri-piri-blok.html/08721317781285",
+      "gtin": "08721317781285",
+      "checkedAt": "2026-03-13T15:53:57.778Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317781285",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-xxl-carbonara.html/08721317789090",
+      "gtin": "08721317789090",
+      "checkedAt": "2026-03-13T15:53:57.666Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317789090",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "knorr",
+      "assortmentCode": "BF0426",
+      "feedUrl": "https://www.knorr.com/nl/home.productfeed.json",
+      "url": "https://www.knorr.com/nl/p/good-pasta-xxl-bolognese.html/08721317789144",
+      "gtin": "08721317789144",
+      "checkedAt": "2026-03-13T15:53:57.634Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=nl-nl&brand_code=BF0426&gtin=08721317789144",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

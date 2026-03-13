@@ -1,0 +1,13 @@
+{
+  "brand": "folicure",
+  "assortmentCode": "BH1005",
+  "feedUrl": "https://www.folicure.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 6,
+  "problematicPagesFound": 0,
+  "successfulPages": 6,
+  "errors": 0,
+  "duration": "0.33s",
+  "speed": "18.18 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

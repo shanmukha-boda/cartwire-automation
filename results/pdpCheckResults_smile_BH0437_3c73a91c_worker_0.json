@@ -1,0 +1,13 @@
+{
+  "brand": "smile",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signalturkiye.com/home.productfeed.json",
+  "totalUrlsChecked": 46,
+  "problematicPagesFound": 0,
+  "successfulPages": 46,
+  "errors": 0,
+  "duration": "0.83s",
+  "speed": "55.42 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

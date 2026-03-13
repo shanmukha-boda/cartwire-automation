@@ -1,0 +1,13 @@
+{
+  "brand": "lipton",
+  "assortmentCode": "BF0648",
+  "feedUrl": "https://www.liptonicetea.nl/home.productfeed.json",
+  "totalUrlsChecked": 54,
+  "problematicPagesFound": 0,
+  "successfulPages": 54,
+  "errors": 0,
+  "duration": "0.14s",
+  "speed": "385.71 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

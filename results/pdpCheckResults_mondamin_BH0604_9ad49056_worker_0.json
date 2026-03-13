@@ -1,0 +1,13 @@
+{
+  "brand": "mondamin",
+  "assortmentCode": "BH0604",
+  "feedUrl": "https://www.mondamin.de/home.productfeed.json",
+  "totalUrlsChecked": 4,
+  "problematicPagesFound": 0,
+  "successfulPages": 4,
+  "errors": 0,
+  "duration": "0.31s",
+  "speed": "12.90 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

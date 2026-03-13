@@ -1,0 +1,13 @@
+{
+  "brand": "colmans",
+  "assortmentCode": "BF0199",
+  "feedUrl": "https://www.colmans.co.uk/home.productfeed.json",
+  "totalUrlsChecked": 38,
+  "problematicPagesFound": 0,
+  "successfulPages": 38,
+  "errors": 0,
+  "duration": "0.24s",
+  "speed": "158.33 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

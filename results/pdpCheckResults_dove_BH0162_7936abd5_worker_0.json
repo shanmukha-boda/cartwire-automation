@@ -1,0 +1,92 @@
+{
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+  "totalUrlsChecked": 115,
+  "problematicPagesFound": 6,
+  "successfulPages": 109,
+  "errors": 0,
+  "duration": "0.26s",
+  "speed": "442.31 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+      "url": "https://www.dove.com/ar/p/barra-de-belleza-original.html/07791293048543",
+      "gtin": "07791293048543",
+      "checkedAt": "2026-03-13T15:53:23.390Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07791293048543",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+      "url": "https://www.dove.com/ar/p/jabon-en-barra-granada-y-verbena.html/07891150043923",
+      "gtin": "07891150043923",
+      "checkedAt": "2026-03-13T15:53:23.532Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150043923",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+      "url": "https://www.dove.com/ar/p/jabon-en-barra-agua-micelar.html/07891150057470",
+      "gtin": "07891150057470",
+      "checkedAt": "2026-03-13T15:53:23.577Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150057470",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+      "url": "https://www.dove.com/ar/p/jabon-liquido-para-el-cuerpo-con-agua-micelar.html/07891150057487",
+      "gtin": "07891150057487",
+      "checkedAt": "2026-03-13T15:53:23.559Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150057487",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+      "url": "https://www.dove.com/ar/p/jabon-en-barra-matcha.html/07891150064980",
+      "gtin": "07891150064980",
+      "checkedAt": "2026-03-13T15:53:23.546Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150064980",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
+      "url": "https://www.dove.com/ar/p/jabon-liquido-matcha.html/07891150064997",
+      "gtin": "07891150064997",
+      "checkedAt": "2026-03-13T15:53:23.521Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150064997",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

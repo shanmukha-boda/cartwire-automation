@@ -1,0 +1,13 @@
+{
+  "brand": "magnum",
+  "assortmentCode": "BF0543",
+  "feedUrl": "https://www.magnumicecream.com/za/home.productfeed.json",
+  "totalUrlsChecked": 12,
+  "problematicPagesFound": 0,
+  "successfulPages": 12,
+  "errors": 0,
+  "duration": "0.06s",
+  "speed": "200.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

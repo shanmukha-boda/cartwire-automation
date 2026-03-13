@@ -1,0 +1,27 @@
+{
+  "brand": "sheamoisture",
+  "assortmentCode": "BH8837",
+  "feedUrl": "https://www.sheamoisture.com/ca/fr/home.productfeed.json",
+  "totalUrlsChecked": 125,
+  "problematicPagesFound": 1,
+  "successfulPages": 124,
+  "errors": 0,
+  "duration": "0.27s",
+  "speed": "462.96 URLs/s",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sheamoisture",
+      "assortmentCode": "BH8837",
+      "feedUrl": "https://www.sheamoisture.com/ca/fr/home.productfeed.json",
+      "url": "https://www.sheamoisture.com/ca/fr/p/romarin-et-collag%C3%A9ne-v%C3%A9g%C3%A9tal-huile-fortifiante-pour-cuir-chevelu-et-cheveux-sheamoisture.html/10764302025983",
+      "gtin": "10764302025983",
+      "checkedAt": "2026-03-13T15:54:25.868Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sheamoisture&locale=en-ca&brand_code=BH8837&gtin=10764302025983",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ],
+  "errorPages": []
+}

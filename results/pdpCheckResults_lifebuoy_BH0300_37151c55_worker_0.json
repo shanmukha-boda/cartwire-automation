@@ -1,0 +1,13 @@
+{
+  "brand": "lifebuoy",
+  "assortmentCode": "BH0300",
+  "feedUrl": "https://www.lifebuoy.co.za/home.productfeed.json",
+  "totalUrlsChecked": 18,
+  "problematicPagesFound": 0,
+  "successfulPages": 18,
+  "errors": 0,
+  "duration": "0.51s",
+  "speed": "35.29 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0765",
+  "feedUrl": "https://www.selectaphilippines.com/home.productfeed.json",
+  "totalUrlsChecked": 92,
+  "problematicPagesFound": 0,
+  "successfulPages": 92,
+  "errors": 0,
+  "duration": "0.30s",
+  "speed": "306.67 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

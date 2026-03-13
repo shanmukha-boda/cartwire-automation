@@ -1,0 +1,607 @@
+{
+  "generatedAt": "2026-03-13T15:53:41.026Z",
+  "brand": "walls",
+  "assortmentCode": "BF1023",
+  "feedUrl": "https://www.gb.se/home.productfeed.json",
+  "totalProblematicPages": 46,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/saltlakrits.html/07310290004149",
+      "gtin": "07310290004149",
+      "checkedAt": "2026-03-13T15:53:40.228Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=07310290004149",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/texas-pecan.html/07310290004217",
+      "gtin": "07310290004217",
+      "checkedAt": "2026-03-13T15:53:40.213Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=07310290004217",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/bl%C3%A5b%C3%A4r.html/07310290004224",
+      "gtin": "07310290004224",
+      "checkedAt": "2026-03-13T15:53:40.219Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=07310290004224",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/gb-glace-nougat-5l.html/07310290004668",
+      "gtin": "07310290004668",
+      "checkedAt": "2026-03-13T15:53:40.223Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=07310290004668",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/jordgubb.html/08000920806562",
+      "gtin": "08000920806562",
+      "checkedAt": "2026-03-13T15:53:40.210Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920806562",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-straciatella.html/08000920808078",
+      "gtin": "08000920808078",
+      "checkedAt": "2026-03-13T15:53:40.234Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920808078",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/dulce-de-leche.html/08000920813089",
+      "gtin": "08000920813089",
+      "checkedAt": "2026-03-13T15:53:40.264Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920813089",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/regnb%C3%A5ge.html/08000920815571",
+      "gtin": "08000920815571",
+      "checkedAt": "2026-03-13T15:53:40.217Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920815571",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-vanilj.html/08000920815786",
+      "gtin": "08000920815786",
+      "checkedAt": "2026-03-13T15:53:40.248Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920815786",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/mint-&-choklad.html/08000920833582",
+      "gtin": "08000920833582",
+      "checkedAt": "2026-03-13T15:53:40.226Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920833582",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-brownie.html/08000920861745",
+      "gtin": "08000920861745",
+      "checkedAt": "2026-03-13T15:53:40.242Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920861745",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/tiramisu.html/08000920915516",
+      "gtin": "08000920915516",
+      "checkedAt": "2026-03-13T15:53:40.272Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920915516",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/banan-&-choklad.html/08000920925003",
+      "gtin": "08000920925003",
+      "checkedAt": "2026-03-13T15:53:40.230Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08000920925003",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/hallon-och-vit-choklad.html/08711327333932",
+      "gtin": "08711327333932",
+      "checkedAt": "2026-03-13T15:53:40.239Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327333932",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/soft-republick-jordgubb.html/08711327347137",
+      "gtin": "08711327347137",
+      "checkedAt": "2026-03-13T15:53:40.242Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327347137",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/soft-republick-chocolate-chip.html/08711327347144",
+      "gtin": "08711327347144",
+      "checkedAt": "2026-03-13T15:53:40.240Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327347144",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/soft-republick-caramel.html/08711327347151",
+      "gtin": "08711327347151",
+      "checkedAt": "2026-03-13T15:53:40.215Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327347151",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/soft-republick-vanilla.html/08711327347175",
+      "gtin": "08711327347175",
+      "checkedAt": "2026-03-13T15:53:40.221Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327347175",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/soft-republick-unicorn.html/08711327395237",
+      "gtin": "08711327395237",
+      "checkedAt": "2026-03-13T15:53:40.219Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327395237",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/citronsorbet-(vegansk).html/08711327398016",
+      "gtin": "08711327398016",
+      "checkedAt": "2026-03-13T15:53:40.234Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327398016",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/%C3%A4ppelsorbet-vegan.html/08711327398030",
+      "gtin": "08711327398030",
+      "checkedAt": "2026-03-13T15:53:40.261Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327398030",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-passionsfruktsorbet-vegan.html/08711327398047",
+      "gtin": "08711327398047",
+      "checkedAt": "2026-03-13T15:53:40.219Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327398047",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/kaffe.html/08711327467620",
+      "gtin": "08711327467620",
+      "checkedAt": "2026-03-13T15:53:40.440Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327467620",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d%E2%80%99or-kokos.html/08711327477797",
+      "gtin": "08711327477797",
+      "checkedAt": "2026-03-13T15:53:40.269Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327477797",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d%E2%80%99or-cookies-&-cream.html/08711327495647",
+      "gtin": "08711327495647",
+      "checkedAt": "2026-03-13T15:53:40.221Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327495647",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-baileys.html/08711327532915",
+      "gtin": "08711327532915",
+      "checkedAt": "2026-03-13T15:53:40.198Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327532915",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/gb-glace-p%C3%A4ron-laktosfri-5l.html/08711327584105",
+      "gtin": "08711327584105",
+      "checkedAt": "2026-03-13T15:53:40.196Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327584105",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/gb-glace-mango-melon-laktosfri-5l.html/08711327584150",
+      "gtin": "08711327584150",
+      "checkedAt": "2026-03-13T15:53:40.212Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327584150",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/gb-glace-kladdkaka-l%C3%A5glaktos-5l.html/08711327585010",
+      "gtin": "08711327585010",
+      "checkedAt": "2026-03-13T15:53:40.501Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327585010",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/gb-glace-rom-&-russin-5l.html/08711327585874",
+      "gtin": "08711327585874",
+      "checkedAt": "2026-03-13T15:53:40.207Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327585874",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/gb-glace-citron-lakrits-5l.html/08711327585928",
+      "gtin": "08711327585928",
+      "checkedAt": "2026-03-13T15:53:40.195Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327585928",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-tivoli.html/08711327591424",
+      "gtin": "08711327591424",
+      "checkedAt": "2026-03-13T15:53:40.247Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327591424",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/svartvinb%C3%A4rssorbet-vegan.html/08711327595620",
+      "gtin": "08711327595620",
+      "checkedAt": "2026-03-13T15:53:40.219Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327595620",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-mangosorbet-vegan.html/08711327596313",
+      "gtin": "08711327596313",
+      "checkedAt": "2026-03-13T15:53:40.197Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327596313",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-hallon-sorbet-vegan.html/08711327596405",
+      "gtin": "08711327596405",
+      "checkedAt": "2026-03-13T15:53:40.227Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327596405",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d%E2%80%99or-vanilj-vegan.html/08711327597235",
+      "gtin": "08711327597235",
+      "checkedAt": "2026-03-13T15:53:40.195Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327597235",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-jordgubbssorbet-vegan.html/08711327597495",
+      "gtin": "08711327597495",
+      "checkedAt": "2026-03-13T15:53:40.627Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327597495",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-vattenmelon.html/08711327638037",
+      "gtin": "08711327638037",
+      "checkedAt": "2026-03-13T15:53:40.629Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327638037",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/haribo-push-up-4-p.html/08711327666825",
+      "gtin": "08711327666825",
+      "checkedAt": "2026-03-13T15:53:40.621Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327666825",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/solero-exotic.html/08711327669437",
+      "gtin": "08711327669437",
+      "checkedAt": "2026-03-13T15:53:40.631Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08711327669437",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/choice-kola-(mj%C3%B6lkfri).html/08714100091487",
+      "gtin": "08714100091487",
+      "checkedAt": "2026-03-13T15:53:40.860Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08714100091487",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/carte-d'or-choklad-hasseln%C3%B6t.html/08714100590096",
+      "gtin": "08714100590096",
+      "checkedAt": "2026-03-13T15:53:40.646Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08714100590096",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/twister-tropical-mini-8-pack.html/08721274805635",
+      "gtin": "08721274805635",
+      "checkedAt": "2026-03-13T15:53:40.630Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08721274805635",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/twister-pineapple-mini-8-p.html/08721274805949",
+      "gtin": "08721274805949",
+      "checkedAt": "2026-03-13T15:53:40.635Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08721274805949",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/kids-mix-8-p.html/08721274816396",
+      "gtin": "08721274816396",
+      "checkedAt": "2026-03-13T15:53:40.633Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08721274816396",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "walls",
+      "assortmentCode": "BF1023",
+      "feedUrl": "https://www.gb.se/home.productfeed.json",
+      "url": "https://www.gb.se/p/pistage-5l.html/08721274821451",
+      "gtin": "08721274821451",
+      "checkedAt": "2026-03-13T15:53:40.629Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=walls&locale=sv-se&brand_code=BF1023&gtin=08721274821451",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

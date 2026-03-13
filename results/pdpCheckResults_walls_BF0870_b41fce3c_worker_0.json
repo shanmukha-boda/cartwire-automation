@@ -1,0 +1,13 @@
+{
+  "brand": "walls",
+  "assortmentCode": "BF0870",
+  "feedUrl": "https://www.wallsicecream.com/id/home.productfeed.json",
+  "totalUrlsChecked": 55,
+  "problematicPagesFound": 0,
+  "successfulPages": 55,
+  "errors": 0,
+  "duration": "0.11s",
+  "speed": "500.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

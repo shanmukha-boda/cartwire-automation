@@ -1,0 +1,13 @@
+{
+  "brand": "nakmakanapa",
+  "assortmentCode": "BF0870",
+  "feedUrl": "https://www.nakmakanapa.com.my/home.productfeed.json",
+  "totalUrlsChecked": 46,
+  "problematicPagesFound": 0,
+  "successfulPages": 46,
+  "errors": 0,
+  "duration": "0.48s",
+  "speed": "95.83 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

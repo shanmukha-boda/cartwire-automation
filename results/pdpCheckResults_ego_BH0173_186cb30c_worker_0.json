@@ -1,0 +1,13 @@
+{
+  "brand": "ego",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 34,
+  "problematicPagesFound": 0,
+  "successfulPages": 34,
+  "errors": 0,
+  "duration": "0.45s",
+  "speed": "75.56 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

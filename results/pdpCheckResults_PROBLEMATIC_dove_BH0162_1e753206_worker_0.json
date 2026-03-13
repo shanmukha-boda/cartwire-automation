@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-03-13T15:53:34.318Z",
+  "brand": "dove",
+  "assortmentCode": "BH0162",
+  "feedUrl": "https://www.dove.com/cz/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "dove",
+      "assortmentCode": "BH0162",
+      "feedUrl": "https://www.dove.com/cz/home.productfeed.json",
+      "url": "https://www.dove.com/cz/p/antiperspirant-sprej-advanced-winter-care.html/08720181291913",
+      "gtin": "08720181291913",
+      "checkedAt": "2026-03-13T15:53:33.914Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=cs-cz&brand_code=BH0162&gtin=08720181291913",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    }
+  ]
+}

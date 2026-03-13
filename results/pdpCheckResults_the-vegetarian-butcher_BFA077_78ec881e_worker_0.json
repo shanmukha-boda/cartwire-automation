@@ -1,0 +1,13 @@
+{
+  "brand": "the-vegetarian-butcher",
+  "assortmentCode": "BFA077",
+  "feedUrl": "https://www.thevegetarianbutcher.de/home.productfeed.json",
+  "totalUrlsChecked": 21,
+  "problematicPagesFound": 0,
+  "successfulPages": 21,
+  "errors": 0,
+  "duration": "0.43s",
+  "speed": "48.84 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

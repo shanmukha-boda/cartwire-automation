@@ -1,0 +1,13 @@
+{
+  "brand": "simple",
+  "assortmentCode": "BH0992",
+  "feedUrl": "https://www.simpleskincare.com/sg/home.productfeed.json",
+  "totalUrlsChecked": 40,
+  "problematicPagesFound": 0,
+  "successfulPages": 40,
+  "errors": 0,
+  "duration": "0.56s",
+  "speed": "71.43 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,104 @@
+{
+  "brand": "magnum",
+  "assortmentCode": "BF0543",
+  "feedUrl": "https://www.magnumicecream.com/tr/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": 0,
+  "errors": 15,
+  "duration": "0.00s",
+  "speed": "Infinity URLs/s",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/utopia-ahududu.html/08683130095645",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/utopia-karamel.html/08683130095652",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/mini-double.html/08683130097625",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/mini-classic-badem-beyaz.html/08683130097687",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/mini-badem.html/08683130097700",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/mini-utopia.html/08683130098714",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/classic.html/08690637687419",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.556Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/beyaz.html/08690637687433",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/badem.html/08690637687662",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/double-cikolata.html/08690637719769",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/double-karadut-bogurtlen.html/08690637719783",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/mini-cookie-badem.html/08683130097670",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/mini-classic.html/08683130097694",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/crack-badem.html/08690637881299",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.magnumicecream.com/tr/p/cookie.html/08690637936036",
+      "error": "No valid widget data available for this feed",
+      "checkedAt": "2026-03-13T15:53:17.557Z"
+    }
+  ]
+}

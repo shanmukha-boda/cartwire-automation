@@ -1,0 +1,13 @@
+{
+  "brand": "zendium-master",
+  "assortmentCode": "BH0871",
+  "feedUrl": "https://www.zendium.nl/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": 9,
+  "errors": 0,
+  "duration": "0.15s",
+  "speed": "60.00 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "hellmanns",
+  "assortmentCode": "BF0380",
+  "feedUrl": "https://www.hellmanns.com/cl/home.productfeed.json",
+  "totalUrlsChecked": 18,
+  "problematicPagesFound": 0,
+  "successfulPages": 18,
+  "errors": 0,
+  "duration": "0.77s",
+  "speed": "23.38 URLs/s",
+  "problematicPages": [],
+  "errorPages": []
+}
