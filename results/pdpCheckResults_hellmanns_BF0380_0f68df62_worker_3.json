@@ -6,8 +6,8 @@
   "problematicPagesFound": 1,
   "successfulPages": 35,
   "errors": 0,
-  "duration": "0.84s",
-  "speed": "42.86 URLs/s",
+  "duration": "0.90s",
+  "speed": "40.00 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.hellmanns.com.br/home.productfeed.json",
       "url": "https://www.hellmanns.com.br/p/maionese-hellmann's-supreme-230g.html/07891150101548",
       "gtin": "07891150101548",
-      "checkedAt": "2026-03-13T09:19:30.847Z",
+      "checkedAt": "2026-03-13T09:36:27.699Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=hellmann's&locale=pt-br&brand_code=BF0380&gtin=07891150101548",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

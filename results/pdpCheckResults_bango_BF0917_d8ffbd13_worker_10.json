@@ -4,9 +4,9 @@
   "feedUrl": "https://www.bango.co.id/home.productfeed.json",
   "totalUrlsChecked": 7,
   "problematicPagesFound": 0,
-  "successfulPages": 7,
-  "errors": 0,
-  "duration": "0.21s",
-  "speed": "33.33 URLs/s",
+  "successfulPages": 6,
+  "errors": 1,
+  "duration": "8.23s",
+  "speed": "0.85 URLs/s",
   "problematicPages": []
 }

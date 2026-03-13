@@ -4,9 +4,9 @@
   "feedUrl": "https://www.whatsfordinner.co.za/home.productfeed.json",
   "totalUrlsChecked": 208,
   "problematicPagesFound": 0,
-  "successfulPages": 67,
-  "errors": 141,
-  "duration": "24.76s",
-  "speed": "8.40 URLs/s",
+  "successfulPages": 196,
+  "errors": 12,
+  "duration": "2.14s",
+  "speed": "97.20 URLs/s",
   "problematicPages": []
 }

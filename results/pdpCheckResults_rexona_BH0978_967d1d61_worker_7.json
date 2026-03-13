@@ -4,9 +4,9 @@
   "feedUrl": "https://www.suredeodorant.co.uk/home.productfeed.json",
   "totalUrlsChecked": 139,
   "problematicPagesFound": 0,
-  "successfulPages": 132,
-  "errors": 7,
-  "duration": "8.96s",
-  "speed": "15.51 URLs/s",
+  "successfulPages": 138,
+  "errors": 1,
+  "duration": "1.39s",
+  "speed": "100.00 URLs/s",
   "problematicPages": []
 }

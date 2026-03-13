@@ -4,9 +4,9 @@
   "feedUrl": "https://www.liquid-iv.com.br/home.productfeed.json",
   "totalUrlsChecked": 3,
   "problematicPagesFound": 0,
-  "successfulPages": 3,
-  "errors": 0,
-  "duration": "0.46s",
-  "speed": "6.52 URLs/s",
+  "successfulPages": 2,
+  "errors": 1,
+  "duration": "8.42s",
+  "speed": "0.36 URLs/s",
   "problematicPages": []
 }

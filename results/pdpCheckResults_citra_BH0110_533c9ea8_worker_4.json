@@ -4,9 +4,9 @@
   "feedUrl": "https://www.citrathailand.com/home.productfeed.json",
   "totalUrlsChecked": 20,
   "problematicPagesFound": 0,
-  "successfulPages": 18,
-  "errors": 2,
-  "duration": "8.15s",
-  "speed": "2.45 URLs/s",
+  "successfulPages": 20,
+  "errors": 0,
+  "duration": "0.27s",
+  "speed": "74.07 URLs/s",
   "problematicPages": []
 }

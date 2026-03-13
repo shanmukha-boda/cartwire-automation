@@ -4,9 +4,9 @@
   "feedUrl": "https://www.continental.com.au/home.productfeed.json",
   "totalUrlsChecked": 151,
   "problematicPagesFound": 0,
-  "successfulPages": 145,
-  "errors": 6,
-  "duration": "16.64s",
-  "speed": "9.07 URLs/s",
+  "successfulPages": 116,
+  "errors": 35,
+  "duration": "16.27s",
+  "speed": "9.28 URLs/s",
   "problematicPages": []
 }

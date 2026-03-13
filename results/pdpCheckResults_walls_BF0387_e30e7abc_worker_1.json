@@ -4,9 +4,9 @@
   "feedUrl": "https://www.heladosholanda.com.mx/home.productfeed.json",
   "totalUrlsChecked": 78,
   "problematicPagesFound": 0,
-  "successfulPages": 39,
-  "errors": 39,
-  "duration": "8.27s",
-  "speed": "9.43 URLs/s",
+  "successfulPages": 78,
+  "errors": 0,
+  "duration": "1.17s",
+  "speed": "66.67 URLs/s",
   "problematicPages": []
 }

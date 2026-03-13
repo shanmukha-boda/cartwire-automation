@@ -4,9 +4,9 @@
   "feedUrl": "https://www.algida.com/gr/home.productfeed.json",
   "totalUrlsChecked": 92,
   "problematicPagesFound": 0,
-  "successfulPages": 53,
-  "errors": 39,
-  "duration": "0.82s",
-  "speed": "112.20 URLs/s",
+  "successfulPages": 92,
+  "errors": 0,
+  "duration": "6.17s",
+  "speed": "14.91 URLs/s",
   "problematicPages": []
 }

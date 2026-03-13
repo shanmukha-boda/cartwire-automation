@@ -4,9 +4,9 @@
   "feedUrl": "https://www.dawn.co.za/home.productfeed.json",
   "totalUrlsChecked": 30,
   "problematicPagesFound": 0,
-  "successfulPages": 30,
-  "errors": 0,
-  "duration": "0.68s",
-  "speed": "44.12 URLs/s",
+  "successfulPages": 27,
+  "errors": 3,
+  "duration": "8.16s",
+  "speed": "3.68 URLs/s",
   "problematicPages": []
 }

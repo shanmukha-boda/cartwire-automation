@@ -4,9 +4,9 @@
   "feedUrl": "https://www.unox.nl/home.productfeed.json",
   "totalUrlsChecked": 112,
   "problematicPagesFound": 0,
-  "successfulPages": 112,
-  "errors": 0,
-  "duration": "1.25s",
-  "speed": "89.60 URLs/s",
+  "successfulPages": 77,
+  "errors": 35,
+  "duration": "16.42s",
+  "speed": "6.82 URLs/s",
   "problematicPages": []
 }

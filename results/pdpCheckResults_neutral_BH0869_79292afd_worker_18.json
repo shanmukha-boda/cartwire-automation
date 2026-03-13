@@ -6,8 +6,8 @@
   "problematicPagesFound": 2,
   "successfulPages": 28,
   "errors": 0,
-  "duration": "0.48s",
-  "speed": "62.50 URLs/s",
+  "duration": "0.49s",
+  "speed": "61.22 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.neutral.nl/home.productfeed.json",
       "url": "https://www.neutral.nl/p/neutral-0%25-shower-gel.html/08720181330018",
       "gtin": "08720181330018",
-      "checkedAt": "2026-03-13T09:19:21.376Z",
+      "checkedAt": "2026-03-13T09:36:18.635Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=neutral&locale=nl-nl&brand_code=BH0869&gtin=08720181330018",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.neutral.nl/home.productfeed.json",
       "url": "https://www.neutral.nl/p/neutral-baby-0%25-2-in-1-bad-wasgel-&-shampoo.html/08720181537851",
       "gtin": "08720181537851",
-      "checkedAt": "2026-03-13T09:19:21.305Z",
+      "checkedAt": "2026-03-13T09:36:18.549Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=neutral&locale=nl-nl&brand_code=BH0869&gtin=08720181537851",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

@@ -4,9 +4,9 @@
   "feedUrl": "https://www.masakapahariini.com/home.productfeed.json",
   "totalUrlsChecked": 99,
   "problematicPagesFound": 0,
-  "successfulPages": 50,
-  "errors": 49,
-  "duration": "1.36s",
-  "speed": "72.79 URLs/s",
+  "successfulPages": 99,
+  "errors": 0,
+  "duration": "1.13s",
+  "speed": "87.61 URLs/s",
   "problematicPages": []
 }

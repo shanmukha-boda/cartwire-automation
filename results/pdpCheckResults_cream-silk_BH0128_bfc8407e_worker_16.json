@@ -4,9 +4,9 @@
   "feedUrl": "https://www.creamsilk.com.ph/home.productfeed.json",
   "totalUrlsChecked": 19,
   "problematicPagesFound": 0,
-  "successfulPages": 19,
-  "errors": 0,
-  "duration": "0.41s",
-  "speed": "46.34 URLs/s",
+  "successfulPages": 16,
+  "errors": 3,
+  "duration": "8.12s",
+  "speed": "2.34 URLs/s",
   "problematicPages": []
 }

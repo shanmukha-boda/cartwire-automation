@@ -4,9 +4,9 @@
   "feedUrl": "https://www.regeneratenr5.co.uk/home.productfeed.json",
   "totalUrlsChecked": 3,
   "problematicPagesFound": 0,
-  "successfulPages": 3,
-  "errors": 0,
-  "duration": "0.35s",
-  "speed": "8.57 URLs/s",
+  "successfulPages": 1,
+  "errors": 2,
+  "duration": "1.10s",
+  "speed": "2.73 URLs/s",
   "problematicPages": []
 }

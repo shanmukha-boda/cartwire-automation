@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-13T09:19:43.268Z",
+  "generatedAt": "2026-03-13T09:36:33.237Z",
   "brand": "cremissimo",
   "assortmentCode": "BF0225",
   "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
-  "totalProblematicPages": 9,
+  "totalProblematicPages": 10,
   "problematicPages": [
     {
       "type": "problematic",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/baileys.html/08711327657267",
       "gtin": "08711327657267",
-      "checkedAt": "2026-03-13T09:19:35.607Z",
+      "checkedAt": "2026-03-13T09:36:32.873Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08711327657267",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/haselnuss-vanilla-schokolade.html/08711327668836",
       "gtin": "08711327668836",
-      "checkedAt": "2026-03-13T09:19:35.363Z",
+      "checkedAt": "2026-03-13T09:36:32.920Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08711327668836",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/pistazie-vanille.html/08711327671874",
       "gtin": "08711327671874",
-      "checkedAt": "2026-03-13T09:19:35.355Z",
+      "checkedAt": "2026-03-13T09:36:32.861Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08711327671874",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/himbeer-spritz.html/08711327677302",
       "gtin": "08711327677302",
-      "checkedAt": "2026-03-13T09:19:35.361Z",
+      "checkedAt": "2026-03-13T09:36:32.918Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08711327677302",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/soft-&-crunchy-erdbeere.html/08721274812299",
       "gtin": "08721274812299",
-      "checkedAt": "2026-03-13T09:19:35.331Z",
+      "checkedAt": "2026-03-13T09:36:33.060Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08721274812299",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -77,7 +77,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/soft-&-crunchy-schokolade.html/08721274812671",
       "gtin": "08721274812671",
-      "checkedAt": "2026-03-13T09:19:35.365Z",
+      "checkedAt": "2026-03-13T09:36:32.974Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08721274812671",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -90,7 +90,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/crema.html/08721274818055",
       "gtin": "08721274818055",
-      "checkedAt": "2026-03-13T09:19:35.586Z",
+      "checkedAt": "2026-03-13T09:36:32.940Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08721274818055",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -103,7 +103,7 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/schokolade-vanilla-erdbeer.html/08721274814804",
       "gtin": "08721274814804",
-      "checkedAt": "2026-03-13T09:19:35.369Z",
+      "checkedAt": "2026-03-13T09:36:32.871Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08721274814804",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -116,9 +116,22 @@
       "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
       "url": "https://www.cremissimo.de/p/walnuss-heidelbeer-butterkeks.html/08721274815191",
       "gtin": "08721274815191",
-      "checkedAt": "2026-03-13T09:19:35.452Z",
+      "checkedAt": "2026-03-13T09:36:33.061Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08721274815191",
+        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
+      }
+    },
+    {
+      "type": "problematic",
+      "brand": "cremissimo",
+      "assortmentCode": "BF0225",
+      "feedUrl": "https://www.cremissimo.de/home.productfeed.json",
+      "url": "https://www.cremissimo.de/p/tiramisu-genuss.html/08721274817102",
+      "gtin": "08721274817102",
+      "checkedAt": "2026-03-13T09:36:33.237Z",
+      "debug": {
+        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=cremissimo&locale=de-de&brand_code=BF0225&gtin=08721274817102",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
       }
     }

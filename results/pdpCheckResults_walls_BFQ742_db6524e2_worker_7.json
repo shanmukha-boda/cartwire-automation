@@ -4,9 +4,9 @@
   "feedUrl": "https://www.wallsicecream.com/uk/home.productfeed.json",
   "totalUrlsChecked": 62,
   "problematicPagesFound": 0,
-  "successfulPages": 61,
-  "errors": 1,
-  "duration": "8.18s",
-  "speed": "7.58 URLs/s",
+  "successfulPages": 62,
+  "errors": 0,
+  "duration": "1.07s",
+  "speed": "57.94 URLs/s",
   "problematicPages": []
 }
