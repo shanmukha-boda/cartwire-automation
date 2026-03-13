@@ -1,4 +1,4 @@
-name: PDP Scanner
+name: PDP Enterprise Scanner
 
 on:
   workflow_dispatch:
@@ -11,89 +11,9 @@ env:
 
 jobs:
 # -----------------------------------------
-# First deduplicate the input file
-# -----------------------------------------
-  deduplicate-input:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          
-      - name: Deduplicate productPageUrls.json
-        run: |
-          node <<'NODE'
-          import fs from 'fs';
-          import path from 'path';
-          
-          const inputFile = 'productPageUrls.json';
-          
-          if (!fs.existsSync(inputFile)) {
-            console.error('File not found:', inputFile);
-            process.exit(1);
-          }
-          
-          const data = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
-          
-          console.log('Original data:');
-          console.log(`- Total brands: ${data.data.length}`);
-          console.log(`- Total URLs: ${data.totalUrls}`);
-          
-          // Deduplicate by brand + assortmentCode
-          const uniqueMap = new Map();
-          let duplicateCount = 0;
-          let duplicateUrlsCount = 0;
-          
-          data.data.forEach(entry => {
-            const key = `${entry.brand}|${entry.assortmentCode}`;
-            
-            if (uniqueMap.has(key)) {
-              duplicateCount++;
-              duplicateUrlsCount += entry.productPageUrls.length;
-              console.log(`Duplicate found: ${key} (${entry.productPageUrls.length} URLs)`);
-            } else {
-              uniqueMap.set(key, entry);
-            }
-          });
-          
-          const deduplicatedData = {
-            generatedAt: new Date().toISOString(),
-            originalTotalBrands: data.data.length,
-            originalTotalUrls: data.totalUrls,
-            duplicatesRemoved: duplicateCount,
-            duplicateUrlsRemoved: duplicateUrlsCount,
-            totalBrands: uniqueMap.size,
-            totalUrls: data.totalUrls - duplicateUrlsCount,
-            data: Array.from(uniqueMap.values())
-          };
-          
-          // Save deduplicated file
-          fs.writeFileSync('productPageUrls_deduplicated.json', JSON.stringify(deduplicatedData, null, 2));
-          
-          // Also save a report of duplicates
-          console.log('\nDeduplication complete:');
-          console.log(`- Original brands: ${data.data.length}`);
-          console.log(`- Unique brands: ${uniqueMap.size}`);
-          console.log(`- Duplicate entries removed: ${duplicateCount}`);
-          console.log(`- Duplicate URLs removed: ${duplicateUrlsCount}`);
-          console.log(`- Final total URLs: ${deduplicatedData.totalUrls}`);
-          
-          NODE
-          
-      - name: Upload deduplicated file
-        uses: actions/upload-artifact@v4
-        with:
-          name: productPageUrls-deduplicated
-          path: productPageUrls_deduplicated.json
-
-# -----------------------------------------
 # 20 workers processing brands in parallel
 # -----------------------------------------
   scan:
-    needs: deduplicate-input
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -102,12 +22,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Download deduplicated file
-        uses: actions/download-artifact@v4
-        with:
-          name: productPageUrls-deduplicated
-          path: .
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -135,24 +49,15 @@ jobs:
           const timestamp = process.env.TIMESTAMP;
           const runId = process.env.GITHUB_RUN_ID;
 
-          // Use deduplicated file
-          const dataFile = fs.existsSync('productPageUrls_deduplicated.json') 
-            ? 'productPageUrls_deduplicated.json' 
-            : 'productPageUrls.json';
-
-          const data = JSON.parse(fs.readFileSync(dataFile, 'utf8'));
+          const data = JSON.parse(
+            fs.readFileSync("productPageUrls.json","utf8")
+          );
 
           const brands = data.data;
-          const totalUrlsFromFile = data.totalUrls || 0;
 
-          console.log('='.repeat(80));
-          console.log(`WORKER ${worker} STARTED`);
-          console.log('='.repeat(80));
-          console.log(`Timestamp: ${timestamp}`);
-          console.log(`Run ID: ${runId}`);
-          console.log(`Total URLs in file: ${totalUrlsFromFile}`);
-          console.log(`Total brands to process: ${brands.length}`);
-          console.log(`Worker processing brands at indices: ${worker}, ${worker+20}, ${worker+40}...`);
+          console.log("Worker:", worker);
+          console.log("Timestamp:", timestamp);
+          console.log("Run ID:", runId);
 
           // Create worker results directory
           const workerDir = `worker-results-${timestamp}`;
@@ -160,91 +65,47 @@ jobs:
             fs.mkdirSync(workerDir, { recursive: true });
           }
 
-          // Track actual URLs processed
-          let totalUrlsProcessed = 0;
-          let totalBrandsProcessed = 0;
-          let processedBrands = [];
-          let failedBrands = [];
-
           for (let i = worker; i < brands.length; i += 20) {
             const item = brands[i];
-            const brandKey = `${item.brand}|${item.assortmentCode}`;
-            
-            console.log('\n' + '-'.repeat(60));
-            console.log(`Processing [${i}]: ${item.brand} (${item.assortmentCode})`);
-            console.log(`Feed URL: ${item.feedUrl}`);
-            console.log(`URLs in this batch: ${item.productPageUrls.length}`);
-            
-            // Count URLs for this brand
-            totalUrlsProcessed += item.productPageUrls.length;
-            totalBrandsProcessed++;
-            
-            processedBrands.push({
-              index: i,
-              brand: item.brand,
-              assortmentCode: item.assortmentCode,
-              feedUrl: item.feedUrl,
-              urlCount: item.productPageUrls.length
-            });
+            console.log("Processing:", item.brand, item.assortmentCode);
 
             try {
               // Run the scanner
-              console.log(`Executing: node checkPdpPages.js "${item.brand}" "${item.assortmentCode}"`);
-              
               execSync(
                 `node checkPdpPages.js "${item.brand}" "${item.assortmentCode}"`,
                 { stdio: "inherit" }
               );
 
-              // Move result files to worker directory with timestamp
+              // Move result files to worker directory with timestamp and runId
               const resultFiles = fs.readdirSync(".").filter(f => 
                 f.startsWith("pdpCheckResults_") && f.endsWith(".json")
               );
 
               resultFiles.forEach(file => {
+                // Add runId and worker to filename to ensure uniqueness
                 const newFileName = file.replace('.json', `_run${runId}_worker${worker}.json`);
                 fs.renameSync(file, path.join(workerDir, newFileName));
-                console.log(`✓ Moved: ${file} → ${newFileName}`);
+                console.log(`Moved ${file} to ${newFileName}`);
               });
 
             } catch (error) {
-              console.error(`✗ Error processing ${item.brand}:`, error.message);
-              failedBrands.push({
-                brand: item.brand,
-                assortmentCode: item.assortmentCode,
-                error: error.message
-              });
+              console.error(`Error processing ${item.brand}:`, error.message);
             }
           }
 
-          // Create worker stats file
-          const workerStats = {
+          // Create a manifest file for this worker
+          const manifest = {
             worker: worker,
             runId: runId,
             timestamp: timestamp,
-            totalBrandsInFile: brands.length,
-            totalUrlsInFile: totalUrlsFromFile,
-            brandsProcessedByWorker: totalBrandsProcessed,
-            urlsProcessedByWorker: totalUrlsProcessed,
-            processedBrands: processedBrands,
-            failedBrands: failedBrands,
+            processedBrands: brands.filter((_, idx) => idx % 20 === worker).map(b => b.brand),
             filesProcessed: fs.readdirSync(workerDir)
           };
 
           fs.writeFileSync(
-            path.join(workerDir, `worker_stats_${worker}_run${runId}.json`),
-            JSON.stringify(workerStats, null, 2)
+            path.join(workerDir, `manifest_worker${worker}_run${runId}.json`),
+            JSON.stringify(manifest, null, 2)
           );
-
-          console.log('\n' + '='.repeat(80));
-          console.log(`WORKER ${worker} SUMMARY:`);
-          console.log('='.repeat(80));
-          console.log(`✓ Brands processed: ${totalBrandsProcessed}`);
-          console.log(`✓ URLs processed: ${totalUrlsProcessed}`);
-          console.log(`✗ Failed brands: ${failedBrands.length}`);
-          console.log(`📁 Output directory: ${workerDir}`);
-          console.log(`📊 Stats saved: worker_stats_${worker}_run${runId}.json`);
-          console.log('='.repeat(80));
 
           NODE
         env:
@@ -267,12 +128,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-
-      - name: Download deduplicated file
-        uses: actions/download-artifact@v4
-        with:
-          name: productPageUrls-deduplicated
-          path: .
 
       - name: Create results directory
         run: |
@@ -322,33 +177,16 @@ jobs:
           const runId = process.argv[3];
           const timestamp = process.argv[4];
 
-          // Read original file stats if available
-          let originalFileStats = { totalUrls: 0, totalBrands: 0 };
-          try {
-            const originalFile = fs.readFileSync('productPageUrls_deduplicated.json', 'utf8');
-            const originalData = JSON.parse(originalFile);
-            originalFileStats = {
-              totalUrls: originalData.totalUrls || 0,
-              totalBrands: originalData.totalBrands || originalData.data?.length || 0
-            };
-            console.log('Original file stats:');
-            console.log(`- Total URLs: ${originalFileStats.totalUrls}`);
-            console.log(`- Total Brands: ${originalFileStats.totalBrands}`);
-          } catch (err) {
-            console.log('Could not read original file, using processed totals only');
-          }
-
           // Read all JSON files
           const files = fs.readdirSync(resultsDir)
             .filter(f => f.endsWith('.json') && !f.includes('PROBLEMATIC') && !f.includes('MASTER') && !f.includes('deduplicate'));
 
-          console.log(`\nProcessing ${files.length} JSON files for deduplication...`);
+          console.log(`Processing ${files.length} JSON files for deduplication...`);
 
           // Collect all problematic pages
           let allProblematicPages = [];
           let allBrandResults = [];
           let fileStats = [];
-          let processedUrls = new Set(); // Track processed URLs to avoid duplicates within run
 
           files.forEach(file => {
             try {
@@ -358,30 +196,20 @@ jobs:
               // Track file stats
               fileStats.push({
                 file: file,
-                brand: content.brand,
-                assortmentCode: content.assortmentCode,
                 hasProblematicPages: content.problematicPages ? content.problematicPages.length : 0,
                 hasSuccessfulPages: content.successfulPages ? content.successfulPages.length : 0,
-                hasErrors: content.errors ? content.errors : 0,
-                totalUrlsChecked: content.totalUrlsChecked || 0
+                hasErrors: content.errors ? content.errors : 0
               });
 
-              // Collect problematic pages with deduplication within file
+              // Collect problematic pages
               if (content.problematicPages && Array.isArray(content.problematicPages)) {
-                const fileSeen = new Set();
-                content.problematicPages.forEach(page => {
-                  const pageKey = `${page.url}|${page.gtin}`;
-                  
-                  if (!fileSeen.has(pageKey)) {
-                    fileSeen.add(pageKey);
-                    allProblematicPages.push({
-                      ...page,
-                      discoveredInRun: runId,
-                      sourceFile: file
-                    });
-                    processedUrls.add(pageKey);
-                  }
-                });
+                // Add runId to each problematic page for tracking
+                const pagesWithRunId = content.problematicPages.map(page => ({
+                  ...page,
+                  discoveredInRun: runId,
+                  sourceFile: file
+                }));
+                allProblematicPages = [...allProblematicPages, ...pagesWithRunId];
               }
 
               // Collect brand results
@@ -404,31 +232,32 @@ jobs:
             }
           });
 
-          // Calculate totals based on file stats
-          const totalUrlsChecked = fileStats.reduce((sum, stat) => sum + (stat.totalUrlsChecked || 0), 0);
-          const totalProblematic = allProblematicPages.length;
-          const totalSuccessful = fileStats.reduce((sum, stat) => sum + stat.hasSuccessfulPages, 0);
-          const totalErrors = fileStats.reduce((sum, stat) => sum + stat.hasErrors, 0);
+          // Deduplicate problematic pages by URL and GTIN
+          const uniqueProblematicPages = [];
+          const seen = new Set();
+
+          allProblematicPages.forEach(page => {
+            // Create a unique key based on URL and GTIN
+            const key = `${page.url}|${page.gtin}`;
+            
+            if (!seen.has(key)) {
+              seen.add(key);
+              uniqueProblematicPages.push(page);
+            } else {
+              console.log(`Duplicate found and removed: ${page.url} (GTIN: ${page.gtin})`);
+            }
+          });
 
           console.log(`\nDeduplication Summary:`);
-          console.log(`- Total problematic pages found: ${totalProblematic}`);
-          console.log(`- Total successful pages: ${totalSuccessful}`);
-          console.log(`- Total errors: ${totalErrors}`);
-          console.log(`- Total URLs checked: ${totalUrlsChecked}`);
-          
-          if (originalFileStats.totalUrls > 0) {
-            const difference = originalFileStats.totalUrls - totalUrlsChecked;
-            console.log(`\nURL Count Validation:`);
-            console.log(`- Original file URLs: ${originalFileStats.totalUrls}`);
-            console.log(`- Processed URLs: ${totalUrlsChecked}`);
-            console.log(`- Difference: ${difference}`);
-            
-            if (difference !== 0) {
-              console.log(`⚠️ WARNING: URL count mismatch!`);
-            } else {
-              console.log(`✅ URL counts match!`);
-            }
-          }
+          console.log(`- Total raw problematic pages: ${allProblematicPages.length}`);
+          console.log(`- Unique problematic pages: ${uniqueProblematicPages.length}`);
+          console.log(`- Duplicates removed: ${allProblematicPages.length - uniqueProblematicPages.length}`);
+
+          // Calculate totals
+          const totalUrlsChecked = fileStats.reduce((sum, stat) => sum + (stat.hasProblematicPages + stat.hasSuccessfulPages + stat.hasErrors), 0);
+          const totalProblematic = uniqueProblematicPages.length;
+          const totalSuccessful = fileStats.reduce((sum, stat) => sum + stat.hasSuccessfulPages, 0);
+          const totalErrors = fileStats.reduce((sum, stat) => sum + stat.hasErrors, 0);
 
           // Create problematic pages report
           const problematicReport = {
@@ -436,9 +265,10 @@ jobs:
             runId: runId,
             timestamp: timestamp,
             workflowRun: process.env.GITHUB_RUN_ID || runId,
-            originalFileStats: originalFileStats,
             totalProblematicPages: totalProblematic,
-            problematicPages: allProblematicPages,
+            totalRawProblematicPages: allProblematicPages.length,
+            duplicatesRemoved: allProblematicPages.length - uniqueProblematicPages.length,
+            problematicPages: uniqueProblematicPages,
             brandsProcessed: allBrandResults.map(b => ({
               brand: b.brand,
               assortmentCode: b.assortmentCode,
@@ -457,13 +287,13 @@ jobs:
             runId: runId,
             timestamp: timestamp,
             workflowRun: process.env.GITHUB_RUN_ID || runId,
-            originalFileStats: originalFileStats,
             totalFilesProcessed: files.length,
             summary: {
               totalUrlsChecked: totalUrlsChecked,
               totalProblematicPages: totalProblematic,
               totalSuccessfulPages: totalSuccessful,
-              totalErrors: totalErrors
+              totalErrors: totalErrors,
+              duplicatesRemoved: allProblematicPages.length - uniqueProblematicPages.length
             },
             fileStats: fileStats,
             brandResults: allBrandResults
@@ -479,26 +309,15 @@ jobs:
             runId: runId,
             timestamp: timestamp,
             workflowRun: process.env.GITHUB_RUN_ID || runId,
-            originalFileStats: originalFileStats,
             totalUrlsChecked: totalUrlsChecked,
             totalProblematicPages: totalProblematic,
             totalSuccessfulPages: totalSuccessful,
             totalErrors: totalErrors,
+            duplicatesRemoved: allProblematicPages.length - uniqueProblematicPages.length,
             successRate: totalUrlsChecked > 0 ? ((totalSuccessful / totalUrlsChecked) * 100).toFixed(2) + '%' : '0%',
             errorRate: totalUrlsChecked > 0 ? ((totalErrors / totalUrlsChecked) * 100).toFixed(2) + '%' : '0%',
             problematicRate: totalUrlsChecked > 0 ? ((totalProblematic / totalUrlsChecked) * 100).toFixed(2) + '%' : '0%'
           };
-
-          // Add validation message if counts don't match
-          if (originalFileStats.totalUrls > 0 && originalFileStats.totalUrls !== totalUrlsChecked) {
-            summary.validation = {
-              warning: true,
-              message: 'URL count mismatch detected',
-              originalTotal: originalFileStats.totalUrls,
-              processedTotal: totalUrlsChecked,
-              difference: originalFileStats.totalUrls - totalUrlsChecked
-            };
-          }
 
           fs.writeFileSync(
             path.join(resultsDir, 'summary.json'),
@@ -509,44 +328,8 @@ jobs:
           console.log(JSON.stringify(summary, null, 2));
           EOF
 
-          # Run the deduplication script
+          # Run the deduplication script with .mjs extension
           node $RESULTS_DIR/deduplicate.mjs "$RESULTS_DIR" "$RUN_ID" "$TIMESTAMP"
-
-      - name: Validate URL counts
-        run: |
-          TIMESTAMP=${{ env.RUN_TIMESTAMP }}
-          RUN_ID=${{ env.RUN_ID }}
-          
-          RESULTS_DIR="results/run_${RUN_ID}_${TIMESTAMP}"
-          
-          # Get original total from source file
-          ORIGINAL_TOTAL=$(jq '.totalUrls' productPageUrls_deduplicated.json)
-          
-          # Get processed total from results
-          PROCESSED_TOTAL=$(jq '.summary.totalUrlsChecked' $RESULTS_DIR/pdpCheckResults_MASTER_REPORT.json)
-          
-          echo "Original total URLs: $ORIGINAL_TOTAL"
-          echo "Processed total URLs: $PROCESSED_TOTAL"
-          
-          if [ "$ORIGINAL_TOTAL" != "$PROCESSED_TOTAL" ]; then
-            echo "⚠️ WARNING: URL count mismatch!"
-            echo "Difference: $((ORIGINAL_TOTAL - PROCESSED_TOTAL)) URLs missing"
-            
-            # Create a warning file
-            cat > $RESULTS_DIR/URL_COUNT_WARNING.json << EOF
-            {
-              "warning": true,
-              "message": "URL count mismatch detected",
-              "originalTotal": $ORIGINAL_TOTAL,
-              "processedTotal": $PROCESSED_TOTAL,
-              "difference": $((ORIGINAL_TOTAL - PROCESSED_TOTAL)),
-              "timestamp": "$(date -Iseconds)",
-              "runId": "$RUN_ID"
-            }
-            EOF
-          else
-            echo "✅ URL counts match!"
-          fi
 
       - name: Update latest symlink
         run: |
@@ -570,29 +353,23 @@ jobs:
           
           # Extract summary data
           if [ -f "$RESULTS_DIR/summary.json" ]; then
-            ORIGINAL_TOTAL=$(jq '.originalFileStats.totalUrls // 0' $RESULTS_DIR/summary.json)
             TOTAL_URLS=$(jq -r '.totalUrlsChecked // 0' $RESULTS_DIR/summary.json)
             TOTAL_PROBLEMATIC=$(jq -r '.totalProblematicPages // 0' $RESULTS_DIR/summary.json)
             TOTAL_SUCCESS=$(jq -r '.totalSuccessfulPages // 0' $RESULTS_DIR/summary.json)
             TOTAL_ERRORS=$(jq -r '.totalErrors // 0' $RESULTS_DIR/summary.json)
+            DUPLICATES=$(jq -r '.duplicatesRemoved // 0' $RESULTS_DIR/summary.json)
             SUCCESS_RATE=$(jq -r '.successRate // "0%"' $RESULTS_DIR/summary.json)
             PROBLEMATIC_RATE=$(jq -r '.problematicRate // "0%"' $RESULTS_DIR/summary.json)
             ERROR_RATE=$(jq -r '.errorRate // "0%"' $RESULTS_DIR/summary.json)
-            
-            # Check for validation warning
-            VALIDATION_WARNING=$(jq -r '.validation.warning // false' $RESULTS_DIR/summary.json)
-            VALIDATION_DIFF=$(jq -r '.validation.difference // 0' $RESULTS_DIR/summary.json)
           else
-            ORIGINAL_TOTAL=0
             TOTAL_URLS=0
             TOTAL_PROBLEMATIC=0
             TOTAL_SUCCESS=0
             TOTAL_ERRORS=0
+            DUPLICATES=0
             SUCCESS_RATE="0%"
             PROBLEMATIC_RATE="0%"
             ERROR_RATE="0%"
-            VALIDATION_WARNING="false"
-            VALIDATION_DIFF=0
           fi
           
           cat > $RESULTS_DIR/README.md << EOF
@@ -603,27 +380,19 @@ jobs:
           - **Timestamp:** ${TIMESTAMP}
           - **Workflow Run:** [${{ github.run_id }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
           
-          ## File Statistics
-          | Metric | Count |
-          |--------|-------|
-          | Original URLs in file | ${ORIGINAL_TOTAL} |
-          | URLs Processed | ${TOTAL_URLS} |
-          
-          $([ "$VALIDATION_WARNING" == "true" ] && echo "⚠️ **WARNING:** URL count mismatch detected! Difference: ${VALIDATION_DIFF} URLs" || echo "✅ **URL counts match!**")
-          
-          ## Scan Results
+          ## Summary Statistics
           | Metric | Count | Percentage |
           |--------|-------|------------|
           | Total URLs Checked | ${TOTAL_URLS} | 100% |
           | Successful Pages | ${TOTAL_SUCCESS} | ${SUCCESS_RATE} |
           | Problematic Pages | ${TOTAL_PROBLEMATIC} | ${PROBLEMATIC_RATE} |
           | Errors | ${TOTAL_ERRORS} | ${ERROR_RATE} |
+          | Duplicates Removed | ${DUPLICATES} | - |
           
           ## Result Files
           - [Master Report](pdpCheckResults_MASTER_REPORT.json) - Complete combined results with all brand details
           - [Problematic Pages](pdpCheckResults_ALL_PROBLEMATIC.json) - Deduplicated problematic pages
           - [Summary Statistics](summary.json) - Quick overview of the run
-          $([ -f "$RESULTS_DIR/URL_COUNT_WARNING.json" ] && echo "- [URL Count Warning](URL_COUNT_WARNING.json) - Warning about count mismatch")
           
           ## Navigation
           - Latest results are always available in the [latest](../latest) symlink
