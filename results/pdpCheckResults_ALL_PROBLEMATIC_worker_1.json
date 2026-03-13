@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T09:14:58.777Z",
+  "generatedAt": "2026-03-13T09:19:33.723Z",
   "worker": 1,
   "totalProblematicPages": 4,
   "problematicPages": [
@@ -10,7 +10,7 @@
       "feedUrl": "https://www.duschdas.de/home.productfeed.json",
       "url": "https://www.duschdas.de/p/duschgel-kokos-sheabutter-(cocos-shea-butter).html/08720181400254",
       "gtin": "08720181400254",
-      "checkedAt": "2026-03-13T09:14:58.725Z",
+      "checkedAt": "2026-03-13T09:19:33.689Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=duschdas&locale=de-de&brand_code=BH0874&gtin=08720181400254",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -23,7 +23,7 @@
       "feedUrl": "https://www.duschdas.de/home.productfeed.json",
       "url": "https://www.duschdas.de/p/duschgel-hydra-kick.html/08720181559648",
       "gtin": "08720181559648",
-      "checkedAt": "2026-03-13T09:14:58.719Z",
+      "checkedAt": "2026-03-13T09:19:33.711Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=duschdas&locale=de-de&brand_code=BH0874&gtin=08720181559648",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -36,7 +36,7 @@
       "feedUrl": "https://www.duschdas.de/home.productfeed.json",
       "url": "https://www.duschdas.de/p/duschgel-deep-relax.html/08720181559655",
       "gtin": "08720181559655",
-      "checkedAt": "2026-03-13T09:14:58.716Z",
+      "checkedAt": "2026-03-13T09:19:33.649Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=duschdas&locale=de-de&brand_code=BH0874&gtin=08720181559655",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -49,7 +49,7 @@
       "feedUrl": "https://www.duschdas.de/home.productfeed.json",
       "url": "https://www.duschdas.de/p/duschgel-night-out.html/08720181685880",
       "gtin": "08720181685880",
-      "checkedAt": "2026-03-13T09:14:58.764Z",
+      "checkedAt": "2026-03-13T09:19:33.714Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=duschdas&locale=de-de&brand_code=BH0874&gtin=08720181685880",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

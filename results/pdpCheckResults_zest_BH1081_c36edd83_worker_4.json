@@ -4,9 +4,9 @@
   "feedUrl": "https://www.zest.com.mx/home.productfeed.json",
   "totalUrlsChecked": 17,
   "problematicPagesFound": 0,
-  "successfulPages": 17,
-  "errors": 0,
-  "duration": "0.38s",
-  "speed": "44.74 URLs/s",
+  "successfulPages": 14,
+  "errors": 3,
+  "duration": "0.45s",
+  "speed": "37.78 URLs/s",
   "problematicPages": []
 }

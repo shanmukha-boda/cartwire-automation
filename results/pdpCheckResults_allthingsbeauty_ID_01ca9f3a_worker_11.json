@@ -4,9 +4,9 @@
   "feedUrl": "https://www.allthingsbeauty.com/id/home.productfeed.json",
   "totalUrlsChecked": 470,
   "problematicPagesFound": 0,
-  "successfulPages": 219,
-  "errors": 251,
-  "duration": "1.97s",
-  "speed": "238.58 URLs/s",
+  "successfulPages": 250,
+  "errors": 220,
+  "duration": "1.88s",
+  "speed": "250.00 URLs/s",
   "problematicPages": []
 }

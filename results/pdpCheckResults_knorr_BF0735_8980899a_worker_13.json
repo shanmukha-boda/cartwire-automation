@@ -4,9 +4,9 @@
   "feedUrl": "https://www.royco.co.id/home.productfeed.json",
   "totalUrlsChecked": 22,
   "problematicPagesFound": 0,
-  "successfulPages": 5,
-  "errors": 17,
-  "duration": "8.38s",
-  "speed": "2.63 URLs/s",
+  "successfulPages": 22,
+  "errors": 0,
+  "duration": "1.63s",
+  "speed": "13.50 URLs/s",
   "problematicPages": []
 }

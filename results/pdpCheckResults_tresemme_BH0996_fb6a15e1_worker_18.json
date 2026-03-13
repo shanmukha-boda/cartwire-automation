@@ -4,9 +4,9 @@
   "feedUrl": "https://www.tresemme.com/uk/home.productfeed.json",
   "totalUrlsChecked": 76,
   "problematicPagesFound": 0,
-  "successfulPages": 71,
-  "errors": 5,
-  "duration": "8.28s",
-  "speed": "9.18 URLs/s",
+  "successfulPages": 76,
+  "errors": 0,
+  "duration": "1.34s",
+  "speed": "56.72 URLs/s",
   "problematicPages": []
 }

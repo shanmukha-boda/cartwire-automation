@@ -4,9 +4,9 @@
   "feedUrl": "https://www.algida.sk/home.productfeed.json",
   "totalUrlsChecked": 102,
   "problematicPagesFound": 0,
-  "successfulPages": 18,
-  "errors": 84,
-  "duration": "16.48s",
-  "speed": "6.19 URLs/s",
+  "successfulPages": 102,
+  "errors": 0,
+  "duration": "1.59s",
+  "speed": "64.15 URLs/s",
   "problematicPages": []
 }

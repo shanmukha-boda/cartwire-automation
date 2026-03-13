@@ -4,9 +4,9 @@
   "feedUrl": "https://www.fluocaril.fr/home.productfeed.json",
   "totalUrlsChecked": 20,
   "problematicPagesFound": 0,
-  "successfulPages": 20,
-  "errors": 0,
-  "duration": "0.62s",
-  "speed": "32.26 URLs/s",
+  "successfulPages": 19,
+  "errors": 1,
+  "duration": "0.36s",
+  "speed": "55.56 URLs/s",
   "problematicPages": []
 }

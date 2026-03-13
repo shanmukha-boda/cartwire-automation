@@ -4,9 +4,9 @@
   "feedUrl": "https://www.langnese.de/home.productfeed.json",
   "totalUrlsChecked": 47,
   "problematicPagesFound": 0,
-  "successfulPages": 47,
-  "errors": 0,
-  "duration": "0.59s",
-  "speed": "79.66 URLs/s",
+  "successfulPages": 46,
+  "errors": 1,
+  "duration": "8.29s",
+  "speed": "5.67 URLs/s",
   "problematicPages": []
 }

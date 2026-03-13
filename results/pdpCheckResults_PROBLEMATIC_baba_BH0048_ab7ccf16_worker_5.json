@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T09:15:04.255Z",
+  "generatedAt": "2026-03-13T09:19:24.394Z",
   "brand": "baba",
   "assortmentCode": "BH0048",
   "feedUrl": "https://www.baba.hu/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-ferfi-tusfurdo-erzekeny-borre-3in1-400-ml.html/08720181637964",
       "gtin": "08720181637964",
-      "checkedAt": "2026-03-13T09:15:04.187Z",
+      "checkedAt": "2026-03-13T09:19:24.292Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181637964",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bogyosgyumolcs-illat-750-ml.html/08720181637971",
       "gtin": "08720181637971",
-      "checkedAt": "2026-03-13T09:15:04.191Z",
+      "checkedAt": "2026-03-13T09:19:24.192Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181637971",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-500-ml.html/08720181740343",
       "gtin": "08720181740343",
-      "checkedAt": "2026-03-13T09:15:04.243Z",
+      "checkedAt": "2026-03-13T09:19:24.339Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181740343",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-antibakterialis-eukaliptusz-250-ml.html/08720181740367",
       "gtin": "08720181740367",
-      "checkedAt": "2026-03-13T09:15:04.225Z",
+      "checkedAt": "2026-03-13T09:19:24.231Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181740367",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-750-ml.html/08720181741067",
       "gtin": "08720181741067",
-      "checkedAt": "2026-03-13T09:15:04.187Z",
+      "checkedAt": "2026-03-13T09:19:24.231Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181741067",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

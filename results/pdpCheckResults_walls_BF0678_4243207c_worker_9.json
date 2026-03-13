@@ -4,9 +4,9 @@
   "feedUrl": "https://www.heladospinguino.com.ec/home.productfeed.json",
   "totalUrlsChecked": 49,
   "problematicPagesFound": 0,
-  "successfulPages": 32,
-  "errors": 17,
-  "duration": "8.29s",
-  "speed": "5.91 URLs/s",
+  "successfulPages": 49,
+  "errors": 0,
+  "duration": "1.39s",
+  "speed": "35.25 URLs/s",
   "problematicPages": []
 }

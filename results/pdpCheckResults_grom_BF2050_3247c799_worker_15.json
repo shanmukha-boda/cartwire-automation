@@ -4,9 +4,9 @@
   "feedUrl": "https://www.gromgelato.com/it/it/home.productfeed.json",
   "totalUrlsChecked": 70,
   "problematicPagesFound": 0,
-  "successfulPages": 70,
-  "errors": 0,
-  "duration": "1.73s",
-  "speed": "40.46 URLs/s",
+  "successfulPages": 31,
+  "errors": 39,
+  "duration": "8.31s",
+  "speed": "8.42 URLs/s",
   "problematicPages": []
 }
