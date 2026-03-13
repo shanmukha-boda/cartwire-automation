@@ -1,21 +1,15 @@
-name: PDP Enterprise Scanner
+name: PDP BIN Check
 
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  scan:
+  check-pdp:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        worker: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -25,72 +19,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run worker
+      - name: Run PDP Checker
+        run: node checkPdpPages.js all
+
+      - name: Create results folder
+        run: mkdir -p results
+
+      - name: Move generated files
         run: |
-          node <<'NODE'
-          const fs = require("fs")
-          const { execSync } = require("child_process")
-          const worker = Number(process.env.WORKER)
-          const data = JSON.parse(
-            fs.readFileSync("productPageUrls.json","utf8")
-          )
-          const brands = data.data
-          console.log("Worker:", worker)
-          for (let i = worker; i < brands.length; i += 20) {
-            const item = brands[i]
-            console.log("Processing:", item.brand, item.assortmentCode)
-            execSync(
-              `node checkPdpPages.js "${item.brand}" "${item.assortmentCode}" ${worker}`,
-              { stdio: "inherit" }
-            )
-          }
-          NODE
-        env:
-          WORKER: ${{ matrix.worker }}
+          mv pdpCheckResults*.json results/ || true
 
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
-          name: worker-${{ matrix.worker }}
-          path: "*.json"
-
-  merge:
-    needs: scan
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Clean results
-        run: |
-          rm -rf results
-          mkdir results
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: artifacts
-      - name: Collect JSON files
-        run: |
-          find artifacts -name "*.json" -exec cp {} results/ \;
-          echo "Total JSON files:"
-          ls results | wc -l
-      
-      - name: Merge problematic files
-        run: |
-            jq -s '
-            {
-              generatedAt: now | todate,
-              problematicPages: map(.problematicPages // []) | add,
-              totalProblematicPages: (map(.problematicPages // []) | add | length)
-            }
-            ' results/*ALL_PROBLEMATIC_worker_*.json > results/pdpCheckResults_ALL_PROBLEMATIC.json
-      - name: Commit results
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add results/
-          if git diff --cached --quiet
-          then
-            echo "No changes"
-          else
-            git commit -m "PDP scan results"
-            git push
-          fi
+          name: pdp-check-results
+          path: results/
