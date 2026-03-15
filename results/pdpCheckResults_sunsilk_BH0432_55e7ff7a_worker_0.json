@@ -6,8 +6,8 @@
   "problematicPagesFound": 7,
   "successfulPages": 106,
   "errors": 0,
-  "duration": "1.94s",
-  "speed": "58.25 URLs/s",
+  "duration": "2.79s",
+  "speed": "40.50 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.seda.com.br/home.productfeed.json",
       "url": "https://www.seda.com.br/p/creme-para-pentear-seda-frutas-vermelhas-e-gengibre.html/07891150031746",
       "gtin": "07891150031746",
-      "checkedAt": "2026-03-13T15:54:33.163Z",
+      "checkedAt": "2026-03-15T08:35:04.570Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150031746",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.seda.com.br/home.productfeed.json",
       "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060883",
       "gtin": "07891150060883",
-      "checkedAt": "2026-03-13T15:54:32.903Z",
+      "checkedAt": "2026-03-15T08:35:04.171Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150060883",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.seda.com.br/home.productfeed.json",
       "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom.html/07891150066694",
       "gtin": "07891150066694",
-      "checkedAt": "2026-03-13T15:54:32.880Z",
+      "checkedAt": "2026-03-15T08:35:04.173Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066694",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.seda.com.br/home.productfeed.json",
       "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespissimos.html/07891150066748",
       "gtin": "07891150066748",
-      "checkedAt": "2026-03-13T15:54:33.065Z",
+      "checkedAt": "2026-03-15T08:35:04.229Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066748",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.seda.com.br/home.productfeed.json",
       "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-des-coloridos.html/07891150066755",
       "gtin": "07891150066755",
-      "checkedAt": "2026-03-13T15:54:32.962Z",
+      "checkedAt": "2026-03-15T08:35:04.463Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066755",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.seda.com.br/home.productfeed.json",
       "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-modelador-antifrizz.html/07891150088368",
       "gtin": "07891150088368",
-      "checkedAt": "2026-03-13T15:54:34.234Z",
+      "checkedAt": "2026-03-15T08:35:06.253Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088368",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -94,7 +94,7 @@
       "feedUrl": "https://www.seda.com.br/home.productfeed.json",
       "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088375",
       "gtin": "07891150088375",
-      "checkedAt": "2026-03-13T15:54:34.095Z",
+      "checkedAt": "2026-03-15T08:35:06.225Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088375",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

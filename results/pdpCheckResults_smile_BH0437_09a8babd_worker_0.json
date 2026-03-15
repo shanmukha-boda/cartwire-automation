@@ -6,8 +6,8 @@
   "problematicPagesFound": 6,
   "successfulPages": 122,
   "errors": 0,
-  "duration": "1.96s",
-  "speed": "65.31 URLs/s",
+  "duration": "2.52s",
+  "speed": "50.79 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.missionsignal.fr/home.productfeed.json",
       "url": "https://www.missionsignal.fr/p/integral-8-fresh-naturals.html/08710908453441",
       "gtin": "08710908453441",
-      "checkedAt": "2026-03-13T15:54:49.362Z",
+      "checkedAt": "2026-03-15T08:35:30.910Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=signal&locale=fr-FR&brand_code=BH0437&gtin=08710908453441",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.missionsignal.fr/home.productfeed.json",
       "url": "https://www.missionsignal.fr/p/integral-8-resist-fresh.html/08710908555732",
       "gtin": "08710908555732",
-      "checkedAt": "2026-03-13T15:54:49.132Z",
+      "checkedAt": "2026-03-15T08:35:31.277Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=signal&locale=fr-FR&brand_code=BH0437&gtin=08710908555732",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.missionsignal.fr/home.productfeed.json",
       "url": "https://www.missionsignal.fr/p/signal-white-now-dentifrice-blancheur-3en1-shine-with-care-email-renforc%C3%A9-75ml.html/08720181697746",
       "gtin": "08720181697746",
-      "checkedAt": "2026-03-13T15:54:49.354Z",
+      "checkedAt": "2026-03-15T08:35:30.859Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=signal&locale=fr-FR&brand_code=BH0437&gtin=08720181697746",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.missionsignal.fr/home.productfeed.json",
       "url": "https://www.missionsignal.fr/p/signal-white-now-dentifrice-blancheur-3en1-forever-young-correcteur-jaunissement-75ml.html/08720181698088",
       "gtin": "08720181698088",
-      "checkedAt": "2026-03-13T15:54:49.086Z",
+      "checkedAt": "2026-03-15T08:35:30.885Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=signal&locale=fr-FR&brand_code=BH0437&gtin=08720181698088",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.missionsignal.fr/home.productfeed.json",
       "url": "https://www.missionsignal.fr/p/signal-white-now-dentifrice-blancheur-3en1-hello-glow-extra-brillance-75ml.html/08720181698125",
       "gtin": "08720181698125",
-      "checkedAt": "2026-03-13T15:54:49.104Z",
+      "checkedAt": "2026-03-15T08:35:30.872Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=signal&locale=fr-FR&brand_code=BH0437&gtin=08720181698125",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.missionsignal.fr/home.productfeed.json",
       "url": "https://www.missionsignal.fr/p/signal-expert-blancheur-charbon-souple.html/08720181724626",
       "gtin": "08720181724626",
-      "checkedAt": "2026-03-13T15:54:50.256Z",
+      "checkedAt": "2026-03-15T08:35:32.094Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=signal&locale=fr-FR&brand_code=BH0437&gtin=08720181724626",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

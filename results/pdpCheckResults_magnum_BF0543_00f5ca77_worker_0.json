@@ -6,8 +6,8 @@
   "problematicPagesFound": 4,
   "successfulPages": 102,
   "errors": 0,
-  "duration": "0.14s",
-  "speed": "757.14 URLs/s",
+  "duration": "0.17s",
+  "speed": "623.53 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.magnumicecream.com/be/nl/home.productfeed.json",
       "url": "https://www.magnumicecream.com/be/nl/p/white-110ml.html/08000920500217",
       "gtin": "08000920500217",
-      "checkedAt": "2026-03-13T15:53:17.982Z",
+      "checkedAt": "2026-03-15T08:31:46.382Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=fr-be&brand_code=BF0543&gtin=08000920500217",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.magnumicecream.com/be/nl/home.productfeed.json",
       "url": "https://www.magnumicecream.com/be/nl/p/mini-classic-almond-white-55ml-8mp.html/08000920580806",
       "gtin": "08000920580806",
-      "checkedAt": "2026-03-13T15:53:17.977Z",
+      "checkedAt": "2026-03-15T08:31:46.373Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=fr-be&brand_code=BF0543&gtin=08000920580806",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.magnumicecream.com/be/nl/home.productfeed.json",
       "url": "https://www.magnumicecream.com/be/nl/p/white-100ml-8mp.html/08712566328444",
       "gtin": "08712566328444",
-      "checkedAt": "2026-03-13T15:53:18.053Z",
+      "checkedAt": "2026-03-15T08:31:46.504Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=fr-be&brand_code=BF0543&gtin=08712566328444",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.magnumicecream.com/be/nl/home.productfeed.json",
       "url": "https://www.magnumicecream.com/be/nl/p/white-100ml-6mp.html/08712566340309",
       "gtin": "08712566340309",
-      "checkedAt": "2026-03-13T15:53:18.063Z",
+      "checkedAt": "2026-03-15T08:31:46.492Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=magnum&locale=fr-be&brand_code=BF0543&gtin=08712566340309",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

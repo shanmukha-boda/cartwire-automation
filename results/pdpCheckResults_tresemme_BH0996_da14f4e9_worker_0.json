@@ -6,8 +6,8 @@
   "problematicPagesFound": 1,
   "successfulPages": 141,
   "errors": 0,
-  "duration": "0.32s",
-  "speed": "443.75 URLs/s",
+  "duration": "0.09s",
+  "speed": "1577.78 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.tresemme.com/ca/fr/home.productfeed.json",
       "url": "https://www.tresemme.com/ca/fr/p/fixatif-tenue-extra-tresemme.html/00055451787307",
       "gtin": "00055451787307",
-      "checkedAt": "2026-03-13T15:53:51.423Z",
+      "checkedAt": "2026-03-15T08:33:37.704Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=en-ca&brand_code=BH0996&gtin=00055451787307",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

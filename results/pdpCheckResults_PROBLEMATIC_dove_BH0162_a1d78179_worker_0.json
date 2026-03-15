@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T15:53:20.041Z",
+  "generatedAt": "2026-03-15T08:31:56.758Z",
   "brand": "dove",
   "assortmentCode": "BH0162",
   "feedUrl": "https://www.dove.com/au/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/antiperspirant-roll-on-powder-soft.html/00000093576642",
       "gtin": "00000093576642",
-      "checkedAt": "2026-03-13T15:53:19.530Z",
+      "checkedAt": "2026-03-15T08:31:55.122Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00000093576642",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-passion-fruit.html/00000093576659",
       "gtin": "00000093576659",
-      "checkedAt": "2026-03-13T15:53:19.525Z",
+      "checkedAt": "2026-03-15T08:31:55.050Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00000093576659",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/antiperspirant-roll-on-classic-fresh.html/00000093576666",
       "gtin": "00000093576666",
-      "checkedAt": "2026-03-13T15:53:19.570Z",
+      "checkedAt": "2026-03-15T08:31:55.032Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00000093576666",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-black-and-white.html/00000093576680",
       "gtin": "00000093576680",
-      "checkedAt": "2026-03-13T15:53:19.584Z",
+      "checkedAt": "2026-03-15T08:31:55.051Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00000093576680",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-pomegranate.html/00000093576697",
       "gtin": "00000093576697",
-      "checkedAt": "2026-03-13T15:53:19.585Z",
+      "checkedAt": "2026-03-15T08:31:55.112Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00000093576697",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -77,7 +77,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/advanced-care-antiperspirant-roll-on-original.html/00000093576703",
       "gtin": "00000093576703",
-      "checkedAt": "2026-03-13T15:53:19.514Z",
+      "checkedAt": "2026-03-15T08:31:55.078Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00000093576703",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -90,7 +90,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/intensive-repair-ceramide-conditioner.html/08851932490184",
       "gtin": "08851932490184",
-      "checkedAt": "2026-03-13T15:53:19.551Z",
+      "checkedAt": "2026-03-15T08:31:55.017Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490184",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -103,7 +103,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/nourishing-boost-hyaluron-conditioner.html/08851932490191",
       "gtin": "08851932490191",
-      "checkedAt": "2026-03-13T15:53:19.514Z",
+      "checkedAt": "2026-03-15T08:31:55.117Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490191",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -116,7 +116,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/volume-boost-collagen-conditioner.html/08851932490214",
       "gtin": "08851932490214",
-      "checkedAt": "2026-03-13T15:53:19.590Z",
+      "checkedAt": "2026-03-15T08:31:55.063Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490214",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -129,7 +129,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/bond-strength-biotin-conditioner.html/08851932490252",
       "gtin": "08851932490252",
-      "checkedAt": "2026-03-13T15:53:19.563Z",
+      "checkedAt": "2026-03-15T08:31:55.031Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490252",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -142,7 +142,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/intensive-repair-ceramide-shampoo.html/08851932490504",
       "gtin": "08851932490504",
-      "checkedAt": "2026-03-13T15:53:19.527Z",
+      "checkedAt": "2026-03-15T08:31:55.138Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490504",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -155,7 +155,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/nourishing-boost-hyaluron-shampoo.html/08851932490528",
       "gtin": "08851932490528",
-      "checkedAt": "2026-03-13T15:53:19.513Z",
+      "checkedAt": "2026-03-15T08:31:55.100Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490528",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -168,7 +168,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/volume-boost-collagen-shampoo.html/08851932490542",
       "gtin": "08851932490542",
-      "checkedAt": "2026-03-13T15:53:19.548Z",
+      "checkedAt": "2026-03-15T08:31:55.569Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490542",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -181,7 +181,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/bond-strength-biotin-shampoo.html/08851932490580",
       "gtin": "08851932490580",
-      "checkedAt": "2026-03-13T15:53:19.570Z",
+      "checkedAt": "2026-03-15T08:31:55.103Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08851932490580",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -194,7 +194,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/intensive-repair-ceramide-mask.html/09300666565730",
       "gtin": "09300666565730",
-      "checkedAt": "2026-03-13T15:53:19.523Z",
+      "checkedAt": "2026-03-15T08:31:55.578Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300666565730",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -207,7 +207,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/nourishing-boost-hyaluron-mask.html/09300666565754",
       "gtin": "09300666565754",
-      "checkedAt": "2026-03-13T15:53:19.596Z",
+      "checkedAt": "2026-03-15T08:31:55.031Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300666565754",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -220,7 +220,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/intensive-repair-ceramide-serum.html/09300666565778",
       "gtin": "09300666565778",
-      "checkedAt": "2026-03-13T15:53:19.567Z",
+      "checkedAt": "2026-03-15T08:31:55.039Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300666565778",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -233,7 +233,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/women-lavender-and-chamomile-whole-body-deodorant-aerosol-230ml.html/09300830095261",
       "gtin": "09300830095261",
-      "checkedAt": "2026-03-13T15:53:19.553Z",
+      "checkedAt": "2026-03-15T08:31:55.068Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830095261",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -246,7 +246,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/women-raspberry-and-rose-whole-body-deodorant-aerosol-230ml.html/09300830095292",
       "gtin": "09300830095292",
-      "checkedAt": "2026-03-13T15:53:19.513Z",
+      "checkedAt": "2026-03-15T08:31:55.088Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830095292",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -259,7 +259,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/women-raspberry-and-rose-whole-body-deodorant-cream-75ml.html/09300830097357",
       "gtin": "09300830097357",
-      "checkedAt": "2026-03-13T15:53:19.573Z",
+      "checkedAt": "2026-03-15T08:31:55.090Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830097357",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -272,7 +272,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/women-lavender-and-chamomile-whole-body-deodorant-cream-75ml.html/09300830097388",
       "gtin": "09300830097388",
-      "checkedAt": "2026-03-13T15:53:19.514Z",
+      "checkedAt": "2026-03-15T08:31:55.101Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830097388",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -285,7 +285,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-fig-and-suede-whole-body-deodorant-aerosol-230ml.html/09300830099818",
       "gtin": "09300830099818",
-      "checkedAt": "2026-03-13T15:53:19.570Z",
+      "checkedAt": "2026-03-15T08:31:55.493Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830099818",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -298,7 +298,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-shea-butter-and-cedar-whole-body-deodorant-aerosol-230ml.html/09300830099849",
       "gtin": "09300830099849",
-      "checkedAt": "2026-03-13T15:53:19.533Z",
+      "checkedAt": "2026-03-15T08:31:55.115Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830099849",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -311,7 +311,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/crushed-lavendar-and-coconut-milk-body-polish.html/00011111010963",
       "gtin": "00011111010963",
-      "checkedAt": "2026-03-13T15:53:19.529Z",
+      "checkedAt": "2026-03-15T08:31:55.251Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00011111010963",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -324,7 +324,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/colloidal-oatmeal-and-calendula-oil-body-polish.html/00011111022676",
       "gtin": "00011111022676",
-      "checkedAt": "2026-03-13T15:53:19.507Z",
+      "checkedAt": "2026-03-15T08:31:55.077Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=00011111022676",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -337,7 +337,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/baby-dove-rich-moisture-top-to-toe-body-wash.html/08710908657467",
       "gtin": "08710908657467",
-      "checkedAt": "2026-03-13T15:53:19.525Z",
+      "checkedAt": "2026-03-15T08:31:55.251Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08710908657467",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -350,7 +350,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/baby-dove-rich-moisture-shampoo.html/08710908657979",
       "gtin": "08710908657979",
-      "checkedAt": "2026-03-13T15:53:19.521Z",
+      "checkedAt": "2026-03-15T08:31:55.108Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08710908657979",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -363,7 +363,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/supple-bounce-body-lotion.html/08901030861239",
       "gtin": "08901030861239",
-      "checkedAt": "2026-03-13T15:53:19.552Z",
+      "checkedAt": "2026-03-15T08:31:55.325Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08901030861239",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -376,7 +376,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/light-hydration-body-lotion.html/08901030861246",
       "gtin": "08901030861246",
-      "checkedAt": "2026-03-13T15:53:19.550Z",
+      "checkedAt": "2026-03-15T08:31:55.005Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=08901030861246",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -389,7 +389,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-care-sport-fresh-body-wash.html/09300830051663",
       "gtin": "09300830051663",
-      "checkedAt": "2026-03-13T15:53:20.041Z",
+      "checkedAt": "2026-03-15T08:31:56.335Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830051663",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -402,7 +402,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-care-advanced-antiperspirant-aerosol-clean-comfort.html/09300830087891",
       "gtin": "09300830087891",
-      "checkedAt": "2026-03-13T15:53:19.815Z",
+      "checkedAt": "2026-03-15T08:31:56.319Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830087891",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -415,7 +415,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-care-advanced-antiperspirant-aerosol-invisible-dry.html/09300830087907",
       "gtin": "09300830087907",
-      "checkedAt": "2026-03-13T15:53:19.825Z",
+      "checkedAt": "2026-03-15T08:31:56.364Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830087907",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -428,7 +428,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-care-advanced-antiperspirant-aerosol-extra-fresh.html/09300830087914",
       "gtin": "09300830087914",
-      "checkedAt": "2026-03-13T15:53:19.919Z",
+      "checkedAt": "2026-03-15T08:31:56.320Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830087914",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -441,7 +441,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-care-antiperspirant-aerosol-fresh.html/09300830087945",
       "gtin": "09300830087945",
-      "checkedAt": "2026-03-13T15:53:19.815Z",
+      "checkedAt": "2026-03-15T08:31:56.328Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830087945",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -454,7 +454,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-care-antiperspirant-aerosol-classic.html/09300830090785",
       "gtin": "09300830090785",
-      "checkedAt": "2026-03-13T15:53:19.893Z",
+      "checkedAt": "2026-03-15T08:31:56.383Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830090785",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -467,7 +467,7 @@
       "feedUrl": "https://www.dove.com/au/home.productfeed.json",
       "url": "https://www.dove.com/au/p/men-deodoran-aerosol-clean-comfort-zero-aluminum.html/09300830092352",
       "gtin": "09300830092352",
-      "checkedAt": "2026-03-13T15:53:19.801Z",
+      "checkedAt": "2026-03-15T08:31:56.351Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=Dove&locale=en-au&brand_code=BH0162&gtin=09300830092352",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

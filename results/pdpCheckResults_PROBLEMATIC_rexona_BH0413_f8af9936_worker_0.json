@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-13T15:54:17.782Z",
+  "generatedAt": "2026-03-15T08:34:31.347Z",
   "brand": "rexona",
   "assortmentCode": "BH0413",
   "feedUrl": "https://www.rexona.com/dach/home.productfeed.json",
-  "totalProblematicPages": 2,
+  "totalProblematicPages": 1,
   "problematicPages": [
     {
       "type": "problematic",
@@ -12,22 +12,9 @@
       "feedUrl": "https://www.rexona.com/dach/home.productfeed.json",
       "url": "https://www.rexona.com/dach/p/deo-stick-wholebody-freshcitrus.html/00000059007722",
       "gtin": "00000059007722",
-      "checkedAt": "2026-03-13T15:54:17.591Z",
+      "checkedAt": "2026-03-15T08:34:30.519Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=de-de&brand_code=BH0413&gtin=00000059007722",
-        "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
-      }
-    },
-    {
-      "type": "problematic",
-      "brand": "rexona",
-      "assortmentCode": "BH0413",
-      "feedUrl": "https://www.rexona.com/dach/home.productfeed.json",
-      "url": "https://www.rexona.com/dach/p/deo-spray-wholebody-freshcitrus.html/08720181669736",
-      "gtin": "08720181669736",
-      "checkedAt": "2026-03-13T15:54:17.544Z",
-      "debug": {
-        "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=de-de&brand_code=BH0413&gtin=08720181669736",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
       }
     }

@@ -6,8 +6,8 @@
   "problematicPagesFound": 64,
   "successfulPages": 104,
   "errors": 0,
-  "duration": "1.26s",
-  "speed": "133.33 URLs/s",
+  "duration": "3.40s",
+  "speed": "49.41 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-burger-szosz.html/08712566385188",
       "gtin": "08712566385188",
-      "checkedAt": "2026-03-13T15:55:09.044Z",
+      "checkedAt": "2026-03-15T08:36:04.674Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712566385188",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-mustar--szosz.html/08712566388677",
       "gtin": "08712566388677",
-      "checkedAt": "2026-03-13T15:55:08.783Z",
+      "checkedAt": "2026-03-15T08:36:04.837Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712566388677",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-real-majonez.html/08714100848234",
       "gtin": "08714100848234",
-      "checkedAt": "2026-03-13T15:55:08.803Z",
+      "checkedAt": "2026-03-15T08:36:04.906Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08714100848234",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-light-majonez.html/08714100848623",
       "gtin": "08714100848623",
-      "checkedAt": "2026-03-13T15:55:08.829Z",
+      "checkedAt": "2026-03-15T08:36:04.750Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08714100848623",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08720182197870",
       "gtin": "08720182197870",
-      "checkedAt": "2026-03-13T15:55:08.850Z",
+      "checkedAt": "2026-03-15T08:36:04.730Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182197870",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-avokados-szosz.html/08720182308078",
       "gtin": "08720182308078",
-      "checkedAt": "2026-03-13T15:55:08.854Z",
+      "checkedAt": "2026-03-15T08:36:05.441Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182308078",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -94,7 +94,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-uborkas-tartar-szosz.html/08720182515377",
       "gtin": "08720182515377",
-      "checkedAt": "2026-03-13T15:55:09.011Z",
+      "checkedAt": "2026-03-15T08:36:05.121Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182515377",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -107,7 +107,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-edes-chili-szosz.html/08720182577986",
       "gtin": "08720182577986",
-      "checkedAt": "2026-03-13T15:55:09.010Z",
+      "checkedAt": "2026-03-15T08:36:04.766Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182577986",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -120,7 +120,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-tzatziki-jellegu-szosz.html/08720182589699",
       "gtin": "08720182589699",
-      "checkedAt": "2026-03-13T15:55:08.862Z",
+      "checkedAt": "2026-03-15T08:36:05.100Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182589699",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -133,7 +133,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-fokhagymas-szosz.html/08720182817730",
       "gtin": "08720182817730",
-      "checkedAt": "2026-03-13T15:55:08.784Z",
+      "checkedAt": "2026-03-15T08:36:04.917Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182817730",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -146,7 +146,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-extra-chili-szosz.html/08720182822567",
       "gtin": "08720182822567",
-      "checkedAt": "2026-03-13T15:55:08.770Z",
+      "checkedAt": "2026-03-15T08:36:04.932Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182822567",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -159,7 +159,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-vegan-majonez.html/08721201906305",
       "gtin": "08721201906305",
-      "checkedAt": "2026-03-13T15:55:08.828Z",
+      "checkedAt": "2026-03-15T08:36:05.022Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201906305",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -172,7 +172,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-tejszines-zoldseges.html/08721201920295",
       "gtin": "08721201920295",
-      "checkedAt": "2026-03-13T15:55:08.790Z",
+      "checkedAt": "2026-03-15T08:36:04.583Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201920295",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -185,7 +185,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-carbonara.html/08721201920417",
       "gtin": "08721201920417",
-      "checkedAt": "2026-03-13T15:55:08.745Z",
+      "checkedAt": "2026-03-15T08:36:04.686Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201920417",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -198,7 +198,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-kremes-sajtszoszos.html/08721201921599",
       "gtin": "08721201921599",
-      "checkedAt": "2026-03-13T15:55:08.807Z",
+      "checkedAt": "2026-03-15T08:36:05.169Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201921599",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -211,7 +211,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-kebab-izesitessel.html/08721201974014",
       "gtin": "08721201974014",
-      "checkedAt": "2026-03-13T15:55:08.766Z",
+      "checkedAt": "2026-03-15T08:36:04.765Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201974014",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -224,7 +224,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317715624",
       "gtin": "08721317715624",
-      "checkedAt": "2026-03-13T15:55:08.757Z",
+      "checkedAt": "2026-03-15T08:36:04.675Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721317715624",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -237,7 +237,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-majonez-tasty.html/08721317790010",
       "gtin": "08721317790010",
-      "checkedAt": "2026-03-13T15:55:08.767Z",
+      "checkedAt": "2026-03-15T08:36:04.897Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721317790010",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -250,7 +250,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-75g.html/05996358010554",
       "gtin": "05996358010554",
-      "checkedAt": "2026-03-13T15:55:08.774Z",
+      "checkedAt": "2026-03-15T08:36:04.891Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=05996358010554",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -263,7 +263,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-250g.html/05996358010561",
       "gtin": "05996358010561",
-      "checkedAt": "2026-03-13T15:55:08.774Z",
+      "checkedAt": "2026-03-15T08:36:04.801Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=05996358010561",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -276,7 +276,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-halaszlekocka.html/05996358014286",
       "gtin": "05996358014286",
-      "checkedAt": "2026-03-13T15:55:08.787Z",
+      "checkedAt": "2026-03-15T08:36:05.321Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=05996358014286",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -289,7 +289,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358014309",
       "gtin": "05996358014309",
-      "checkedAt": "2026-03-13T15:55:08.761Z",
+      "checkedAt": "2026-03-15T08:36:04.705Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=05996358014309",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -302,7 +302,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-porkoltizesito-kocka.html/05996358018932",
       "gtin": "05996358018932",
-      "checkedAt": "2026-03-13T15:55:08.792Z",
+      "checkedAt": "2026-03-15T08:36:04.910Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=05996358018932",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -315,7 +315,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-petrezselymes-tyukhusleveskocka.html/05996358019540",
       "gtin": "05996358019540",
-      "checkedAt": "2026-03-13T15:55:08.779Z",
+      "checkedAt": "2026-03-15T08:36:04.764Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=05996358019540",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -328,7 +328,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-carbonara.html/08584057005352",
       "gtin": "08584057005352",
-      "checkedAt": "2026-03-13T15:55:08.790Z",
+      "checkedAt": "2026-03-15T08:36:05.303Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08584057005352",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -341,7 +341,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-azsiai-tesztaleves-marhas.html/08710522627594",
       "gtin": "08710522627594",
-      "checkedAt": "2026-03-13T15:55:08.766Z",
+      "checkedAt": "2026-03-15T08:36:05.034Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08710522627594",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -354,7 +354,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-tejszines-paprikas-szosz.html/08710604746076",
       "gtin": "08710604746076",
-      "checkedAt": "2026-03-13T15:55:08.784Z",
+      "checkedAt": "2026-03-15T08:36:05.077Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08710604746076",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -367,7 +367,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-tejszines-gombas-szosz.html/08710604746199",
       "gtin": "08710604746199",
-      "checkedAt": "2026-03-13T15:55:08.773Z",
+      "checkedAt": "2026-03-15T08:36:05.106Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08710604746199",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -380,7 +380,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-edes-savanyu-szosz.html/08710908934674",
       "gtin": "08710908934674",
-      "checkedAt": "2026-03-13T15:55:08.804Z",
+      "checkedAt": "2026-03-15T08:36:04.902Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08710908934674",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -393,7 +393,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-teriyaki-szosz.html/08710908934759",
       "gtin": "08710908934759",
-      "checkedAt": "2026-03-13T15:55:08.780Z",
+      "checkedAt": "2026-03-15T08:36:04.686Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08710908934759",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -406,7 +406,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-csemege-ketchup.html/08711200405879",
       "gtin": "08711200405879",
-      "checkedAt": "2026-03-13T15:55:09.320Z",
+      "checkedAt": "2026-03-15T08:36:06.314Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08711200405879",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -419,7 +419,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-csemege-ketchup.html/08711200405886",
       "gtin": "08711200405886",
-      "checkedAt": "2026-03-13T15:55:09.325Z",
+      "checkedAt": "2026-03-15T08:36:06.952Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08711200405886",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -432,7 +432,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-extra-csipos-ketchup.html/08711200405893",
       "gtin": "08711200405893",
-      "checkedAt": "2026-03-13T15:55:09.121Z",
+      "checkedAt": "2026-03-15T08:36:06.394Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08711200405893",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -445,7 +445,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-csipos-ketchup.html/08711200405923",
       "gtin": "08711200405923",
-      "checkedAt": "2026-03-13T15:55:09.378Z",
+      "checkedAt": "2026-03-15T08:36:06.379Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08711200405923",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -458,7 +458,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-bogres-tyukhusleves-tesztaval.html/08712100867507",
       "gtin": "08712100867507",
-      "checkedAt": "2026-03-13T15:55:09.149Z",
+      "checkedAt": "2026-03-15T08:36:06.162Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712100867507",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -471,7 +471,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-bogres-gombakremleves-zsemlekockaval.html/08712100867569",
       "gtin": "08712100867569",
-      "checkedAt": "2026-03-13T15:55:09.122Z",
+      "checkedAt": "2026-03-15T08:36:06.169Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712100867569",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -484,7 +484,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-bogres-csirkekremleves-zsemlekockaval.html/08712100867682",
       "gtin": "08712100867682",
-      "checkedAt": "2026-03-13T15:55:09.090Z",
+      "checkedAt": "2026-03-15T08:36:06.325Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712100867682",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -497,7 +497,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-bogres-sajtkremleves-zsemlekockaval.html/08712100867743",
       "gtin": "08712100867743",
-      "checkedAt": "2026-03-13T15:55:09.094Z",
+      "checkedAt": "2026-03-15T08:36:06.032Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712100867743",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -510,7 +510,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-bogres-brokkolikremleves-zsemlekockaval.html/08712100868467",
       "gtin": "08712100868467",
-      "checkedAt": "2026-03-13T15:55:09.120Z",
+      "checkedAt": "2026-03-15T08:36:06.621Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712100868467",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -523,7 +523,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-szojaszosz.html/08712423034983",
       "gtin": "08712423034983",
-      "checkedAt": "2026-03-13T15:55:09.198Z",
+      "checkedAt": "2026-03-15T08:36:06.435Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712423034983",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -536,7 +536,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-eroleveskocka.html/08712423038158",
       "gtin": "08712423038158",
-      "checkedAt": "2026-03-13T15:55:09.107Z",
+      "checkedAt": "2026-03-15T08:36:06.344Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712423038158",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -549,7 +549,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-hazias-tyukhus-levesalap.html/08712566205967",
       "gtin": "08712566205967",
-      "checkedAt": "2026-03-13T15:55:09.193Z",
+      "checkedAt": "2026-03-15T08:36:06.918Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08712566205967",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -562,7 +562,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-csirkes-instant-teszta.html/08714100750582",
       "gtin": "08714100750582",
-      "checkedAt": "2026-03-13T15:55:09.191Z",
+      "checkedAt": "2026-03-15T08:36:06.581Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08714100750582",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -575,7 +575,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-paradicsomos-instant-teszta.html/08714100750612",
       "gtin": "08714100750612",
-      "checkedAt": "2026-03-13T15:55:09.103Z",
+      "checkedAt": "2026-03-15T08:36:06.258Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08714100750612",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -588,7 +588,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-csirkehusleves-kocka.html/08714100884980",
       "gtin": "08714100884980",
-      "checkedAt": "2026-03-13T15:55:09.102Z",
+      "checkedAt": "2026-03-15T08:36:06.614Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08714100884980",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -601,7 +601,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-mac-and-cheese-jalapeno.html/08720182396921",
       "gtin": "08720182396921",
-      "checkedAt": "2026-03-13T15:55:09.119Z",
+      "checkedAt": "2026-03-15T08:36:06.638Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182396921",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -614,7 +614,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-350g.html/08720182681355",
       "gtin": "08720182681355",
-      "checkedAt": "2026-03-13T15:55:09.107Z",
+      "checkedAt": "2026-03-15T08:36:06.037Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182681355",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -627,7 +627,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-majonez-csaladi-meret.html/08720182739100",
       "gtin": "08720182739100",
-      "checkedAt": "2026-03-13T15:55:09.103Z",
+      "checkedAt": "2026-03-15T08:36:06.329Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182739100",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -640,7 +640,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-mustar-250g.html/08720182792761",
       "gtin": "08720182792761",
-      "checkedAt": "2026-03-13T15:55:09.130Z",
+      "checkedAt": "2026-03-15T08:36:06.501Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182792761",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -653,7 +653,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/mustar.html/08720182793980",
       "gtin": "08720182793980",
-      "checkedAt": "2026-03-13T15:55:09.069Z",
+      "checkedAt": "2026-03-15T08:36:06.441Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182793980",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -666,7 +666,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-ketchup-light.html/08720182818669",
       "gtin": "08720182818669",
-      "checkedAt": "2026-03-13T15:55:09.666Z",
+      "checkedAt": "2026-03-15T08:36:06.258Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182818669",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -679,7 +679,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-ketchup-olaszos.html/08720182821409",
       "gtin": "08720182821409",
-      "checkedAt": "2026-03-13T15:55:09.100Z",
+      "checkedAt": "2026-03-15T08:36:06.684Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182821409",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -692,7 +692,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-sajtos-instant-teszta.html/08720182897916",
       "gtin": "08720182897916",
-      "checkedAt": "2026-03-13T15:55:09.136Z",
+      "checkedAt": "2026-03-15T08:36:06.470Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182897916",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -705,7 +705,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-grizgaluskaleves.html/08720182975195",
       "gtin": "08720182975195",
-      "checkedAt": "2026-03-13T15:55:09.093Z",
+      "checkedAt": "2026-03-15T08:36:06.604Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08720182975195",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -718,7 +718,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/globus-light-majonez.html/08721201900969",
       "gtin": "08721201900969",
-      "checkedAt": "2026-03-13T15:55:09.103Z",
+      "checkedAt": "2026-03-15T08:36:06.500Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201900969",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -731,7 +731,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/delikat-etelizesito-csirkes-etelekhez-200g.html/08721201904165",
       "gtin": "08721201904165",
-      "checkedAt": "2026-03-13T15:55:09.089Z",
+      "checkedAt": "2026-03-15T08:36:06.627Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201904165",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -744,7 +744,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-bolognai-szoszos.html/08721201919732",
       "gtin": "08721201919732",
-      "checkedAt": "2026-03-13T15:55:09.096Z",
+      "checkedAt": "2026-03-15T08:36:06.307Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201919732",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -757,7 +757,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-ementali-szoszos.html/08721201920363",
       "gtin": "08721201920363",
-      "checkedAt": "2026-03-13T15:55:09.086Z",
+      "checkedAt": "2026-03-15T08:36:06.279Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201920363",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -770,7 +770,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-husgombocleves.html/08721201930843",
       "gtin": "08721201930843",
-      "checkedAt": "2026-03-13T15:55:09.089Z",
+      "checkedAt": "2026-03-15T08:36:06.736Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721201930843",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -783,7 +783,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-bbq-szosz.html/08721317701511",
       "gtin": "08721317701511",
-      "checkedAt": "2026-03-13T15:55:09.956Z",
+      "checkedAt": "2026-03-15T08:36:07.495Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721317701511",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -796,7 +796,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-csirkes-burrito-izesitessel.html/08721317773921",
       "gtin": "08721317773921",
-      "checkedAt": "2026-03-13T15:55:09.905Z",
+      "checkedAt": "2026-03-15T08:36:07.484Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721317773921",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -809,7 +809,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/knorr-snack-teszta-edes-savanyu-izesitessel.html/08721317774164",
       "gtin": "08721317774164",
-      "checkedAt": "2026-03-13T15:55:09.965Z",
+      "checkedAt": "2026-03-15T08:36:07.505Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721317774164",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -822,7 +822,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/alfredo-csirkes-teszta.html/08721317776199",
       "gtin": "08721317776199",
-      "checkedAt": "2026-03-13T15:55:09.700Z",
+      "checkedAt": "2026-03-15T08:36:07.518Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721317776199",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -835,7 +835,7 @@
       "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
       "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08721317797279",
       "gtin": "08721317797279",
-      "checkedAt": "2026-03-13T15:55:09.845Z",
+      "checkedAt": "2026-03-15T08:36:07.475Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=recepedia&locale=hu-hu&brand_code=BF8813&gtin=08721317797279",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

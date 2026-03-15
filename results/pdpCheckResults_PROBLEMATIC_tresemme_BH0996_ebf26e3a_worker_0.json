@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T15:53:49.430Z",
+  "generatedAt": "2026-03-15T08:33:33.062Z",
   "brand": "tresemme",
   "assortmentCode": "BH0996",
   "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/condicionador-tresemm%C3%A9-detox-capilar.html/07891150091146",
       "gtin": "07891150091146",
-      "checkedAt": "2026-03-13T15:53:49.100Z",
+      "checkedAt": "2026-03-15T08:33:32.778Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150091146",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/condicionador-tresemm%C3%A9-hidrata%C3%A7%C3%A3o-profunda.html/07891150091160",
       "gtin": "07891150091160",
-      "checkedAt": "2026-03-13T15:53:49.095Z",
+      "checkedAt": "2026-03-15T08:33:32.810Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150091160",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/shampoo-tresemm%C3%A9-detox-capilar.html/07891150091191",
       "gtin": "07891150091191",
-      "checkedAt": "2026-03-13T15:53:49.082Z",
+      "checkedAt": "2026-03-15T08:33:32.716Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150091191",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/shampoo-tresemm%C3%A9-brilho-lamelar.html/07891150091214",
       "gtin": "07891150091214",
-      "checkedAt": "2026-03-13T15:53:49.088Z",
+      "checkedAt": "2026-03-15T08:33:32.734Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150091214",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/condicionador-tresemm%C3%A9-reconstru%C3%A7%C3%A3o-e-for%C3%A7a.html/07891150091238",
       "gtin": "07891150091238",
-      "checkedAt": "2026-03-13T15:53:49.268Z",
+      "checkedAt": "2026-03-15T08:33:32.812Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150091238",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -77,7 +77,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/m%C3%A1scara-de-tratamento-tresemm%C3%A9-detox-capilar.html/07891150091252",
       "gtin": "07891150091252",
-      "checkedAt": "2026-03-13T15:53:49.096Z",
+      "checkedAt": "2026-03-15T08:33:32.896Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150091252",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -90,7 +90,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/s%C3%A9rum-tresemm%C3%A9-brilho-lamelar-170ml.html/07891150091276",
       "gtin": "07891150091276",
-      "checkedAt": "2026-03-13T15:53:49.082Z",
+      "checkedAt": "2026-03-15T08:33:32.675Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150091276",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -103,7 +103,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/shampoo-tresemm%C3%A9-regenera%C3%A7%C3%A3o-tresplex.html/07891150093034",
       "gtin": "07891150093034",
-      "checkedAt": "2026-03-13T15:53:49.132Z",
+      "checkedAt": "2026-03-15T08:33:32.789Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150093034",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -116,7 +116,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/condicionador-tresemm%C3%A9-regenera%C3%A7%C3%A3o-tresplex.html/07891150093096",
       "gtin": "07891150093096",
-      "checkedAt": "2026-03-13T15:53:49.124Z",
+      "checkedAt": "2026-03-15T08:33:32.866Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150093096",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -129,7 +129,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/spray-tresemm%C3%A9-detox-capilar.html/07891150093515",
       "gtin": "07891150093515",
-      "checkedAt": "2026-03-13T15:53:49.075Z",
+      "checkedAt": "2026-03-15T08:33:32.721Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150093515",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -142,7 +142,7 @@
       "feedUrl": "https://www.tresemme.com/br/home.productfeed.json",
       "url": "https://www.tresemme.com/br/p/protetor-t%C3%A9rmico-tresemm%C3%A9-spray.html/07891150100343",
       "gtin": "07891150100343",
-      "checkedAt": "2026-03-13T15:53:49.118Z",
+      "checkedAt": "2026-03-15T08:33:32.744Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tresemme&locale=pt-br&brand_code=BH0996&gtin=07891150100343",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

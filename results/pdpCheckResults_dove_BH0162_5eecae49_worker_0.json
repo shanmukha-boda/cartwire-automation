@@ -6,8 +6,8 @@
   "problematicPagesFound": 57,
   "successfulPages": 93,
   "errors": 0,
-  "duration": "0.35s",
-  "speed": "428.57 URLs/s",
+  "duration": "2.63s",
+  "speed": "57.03 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-clinicaltonouniforme-en-roll-on.html/00000075081638",
       "gtin": "00000075081638",
-      "checkedAt": "2026-03-13T15:53:22.728Z",
+      "checkedAt": "2026-03-15T08:32:12.026Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00000075081638",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-clinicaltonouniforme-en-aerosol.html/00000075081645",
       "gtin": "00000075081645",
-      "checkedAt": "2026-03-13T15:53:22.735Z",
+      "checkedAt": "2026-03-15T08:32:12.047Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00000075081645",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-eneryboost-en-stick.html/00000075081782",
       "gtin": "00000075081782",
-      "checkedAt": "2026-03-13T15:53:22.729Z",
+      "checkedAt": "2026-03-15T08:32:12.562Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00000075081782",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-invisibledry-en-roll-on.html/00000078933354",
       "gtin": "00000078933354",
-      "checkedAt": "2026-03-13T15:53:22.697Z",
+      "checkedAt": "2026-03-15T08:32:12.021Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00000078933354",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/desodorante-raspberry-rose-en-stick.html/00079400509048",
       "gtin": "00079400509048",
-      "checkedAt": "2026-03-13T15:53:22.717Z",
+      "checkedAt": "2026-03-15T08:32:12.085Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00079400509048",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/desodorante-peach-shea-en-stick.html/00079400509055",
       "gtin": "00079400509055",
-      "checkedAt": "2026-03-13T15:53:22.691Z",
+      "checkedAt": "2026-03-15T08:32:11.938Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00079400509055",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -94,7 +94,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-clinicaltonouniforme-en-stick.html/07506306254374",
       "gtin": "07506306254374",
-      "checkedAt": "2026-03-13T15:53:22.713Z",
+      "checkedAt": "2026-03-15T08:32:12.010Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306254374",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -107,7 +107,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-eneryboost-en-aerosol.html/07506306254459",
       "gtin": "07506306254459",
-      "checkedAt": "2026-03-13T15:53:22.727Z",
+      "checkedAt": "2026-03-15T08:32:12.127Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306254459",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -120,7 +120,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-invisibledry-en-aerosol.html/07506306254466",
       "gtin": "07506306254466",
-      "checkedAt": "2026-03-13T15:53:22.703Z",
+      "checkedAt": "2026-03-15T08:32:11.827Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306254466",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -133,7 +133,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-extrafresh-en-stick.html/07506306254596",
       "gtin": "07506306254596",
-      "checkedAt": "2026-03-13T15:53:22.661Z",
+      "checkedAt": "2026-03-15T08:32:11.884Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306254596",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -146,7 +146,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/toallitas-humedas-humectacion-sensible.html/07891150035539-baby-dove-product-detail-page",
       "gtin": "07891150035539",
-      "checkedAt": "2026-03-13T15:53:22.665Z",
+      "checkedAt": "2026-03-15T08:32:11.831Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07891150035539",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -159,7 +159,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/toallitas-humedas-humectacion-enriquecida.html/07891150035546-baby-dove-product-detail-page",
       "gtin": "07891150035546",
-      "checkedAt": "2026-03-13T15:53:22.683Z",
+      "checkedAt": "2026-03-15T08:32:12.626Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07891150035546",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -172,7 +172,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/mascarilla-capilar-dove-derma-care-hydra-alivio-270g.html/07891150102200",
       "gtin": "07891150102200",
-      "checkedAt": "2026-03-13T15:53:22.726Z",
+      "checkedAt": "2026-03-15T08:32:12.372Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07891150102200",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -185,7 +185,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/mascarilla-capilar-dove-derma-care-fuerza-anti-ca%C3%ADda-270g.html/07891150102217",
       "gtin": "07891150102217",
-      "checkedAt": "2026-03-13T15:53:22.694Z",
+      "checkedAt": "2026-03-15T08:32:12.617Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07891150102217",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -198,7 +198,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-en-barra-dove-tono-uniforme-raspberry-45g.html/00000075083113",
       "gtin": "00000075083113",
-      "checkedAt": "2026-03-13T15:53:22.759Z",
+      "checkedAt": "2026-03-15T08:32:12.006Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00000075083113",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -211,7 +211,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-en-roll-on-dove-tono-uniforme-raspberry-50ml.html/00000075083120",
       "gtin": "00000075083120",
-      "checkedAt": "2026-03-13T15:53:22.683Z",
+      "checkedAt": "2026-03-15T08:32:12.008Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=00000075083120",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -224,7 +224,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-hw-original220.html/07506306211933",
       "gtin": "07506306211933",
-      "checkedAt": "2026-03-13T15:53:22.724Z",
+      "checkedAt": "2026-03-15T08:32:11.970Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306211933",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -237,7 +237,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/shampoo-dove-reconstrucci%C3%B3n-completa-12x1150ml.html/07506306213357",
       "gtin": "07506306213357",
-      "checkedAt": "2026-03-13T15:53:22.825Z",
+      "checkedAt": "2026-03-15T08:32:11.848Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306213357",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -250,7 +250,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-original-14pack.html/07506306216112",
       "gtin": "07506306216112",
-      "checkedAt": "2026-03-13T15:53:22.827Z",
+      "checkedAt": "2026-03-15T08:32:11.891Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306216112",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -263,7 +263,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-pink-14pack.html/07506306216129",
       "gtin": "07506306216129",
-      "checkedAt": "2026-03-13T15:53:22.699Z",
+      "checkedAt": "2026-03-15T08:32:11.982Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306216129",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -276,7 +276,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/shampoo-dove-cuidado-micelar-12x675ml.html/07506306220249",
       "gtin": "07506306220249",
-      "checkedAt": "2026-03-13T15:53:22.730Z",
+      "checkedAt": "2026-03-15T08:32:11.948Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306220249",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -289,7 +289,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-hw-original532.html/07506306223653",
       "gtin": "07506306223653",
-      "checkedAt": "2026-03-13T15:53:22.922Z",
+      "checkedAt": "2026-03-15T08:32:13.601Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306223653",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -302,7 +302,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-hw-original450.html/07506306225350",
       "gtin": "07506306225350",
-      "checkedAt": "2026-03-13T15:53:22.862Z",
+      "checkedAt": "2026-03-15T08:32:13.427Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306225350",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -315,7 +315,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-original-90.html/07506306246683",
       "gtin": "07506306246683",
-      "checkedAt": "2026-03-13T15:53:22.863Z",
+      "checkedAt": "2026-03-15T08:32:13.763Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306246683",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -328,7 +328,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-pepino-hidrapack.html/07506306246768",
       "gtin": "07506306246768",
-      "checkedAt": "2026-03-13T15:53:22.891Z",
+      "checkedAt": "2026-03-15T08:32:13.387Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306246768",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -341,7 +341,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-leche-coco-pack.html/07506306246775",
       "gtin": "07506306246775",
-      "checkedAt": "2026-03-13T15:53:22.859Z",
+      "checkedAt": "2026-03-15T08:32:13.585Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306246775",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -354,7 +354,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-reviving-granadapack.html/07506306246799",
       "gtin": "07506306246799",
-      "checkedAt": "2026-03-13T15:53:22.941Z",
+      "checkedAt": "2026-03-15T08:32:13.752Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306246799",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -367,7 +367,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-sheabutter-pack.html/07506306246805",
       "gtin": "07506306246805",
-      "checkedAt": "2026-03-13T15:53:22.868Z",
+      "checkedAt": "2026-03-15T08:32:13.916Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306246805",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -380,7 +380,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-original-pack.html/07506306246812",
       "gtin": "07506306246812",
-      "checkedAt": "2026-03-13T15:53:22.852Z",
+      "checkedAt": "2026-03-15T08:32:13.404Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306246812",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -393,7 +393,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-pink-2pack.html/07506306248793",
       "gtin": "07506306248793",
-      "checkedAt": "2026-03-13T15:53:22.860Z",
+      "checkedAt": "2026-03-15T08:32:13.927Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306248793",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -406,7 +406,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-original-2pack.html/07506306248809",
       "gtin": "07506306248809",
-      "checkedAt": "2026-03-13T15:53:22.852Z",
+      "checkedAt": "2026-03-15T08:32:13.387Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306248809",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -419,7 +419,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-beautybar-pepino-2pack.html/07506306248816",
       "gtin": "07506306248816",
-      "checkedAt": "2026-03-13T15:53:22.900Z",
+      "checkedAt": "2026-03-15T08:32:13.414Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306248816",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -432,7 +432,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-seca-ceramidas200.html/07506306252813",
       "gtin": "07506306252813",
-      "checkedAt": "2026-03-13T15:53:22.880Z",
+      "checkedAt": "2026-03-15T08:32:13.969Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306252813",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -445,7 +445,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-firme-retinol200.html/07506306252820",
       "gtin": "07506306252820",
-      "checkedAt": "2026-03-13T15:53:22.853Z",
+      "checkedAt": "2026-03-15T08:32:13.674Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306252820",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -458,7 +458,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-extraspera-pantenol400.html/07506306252844",
       "gtin": "07506306252844",
-      "checkedAt": "2026-03-13T15:53:22.900Z",
+      "checkedAt": "2026-03-15T08:32:13.619Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306252844",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -471,7 +471,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-seca-ceramidas400.html/07506306252868",
       "gtin": "07506306252868",
-      "checkedAt": "2026-03-13T15:53:22.933Z",
+      "checkedAt": "2026-03-15T08:32:13.593Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306252868",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -484,7 +484,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-firme-retinol400.html/07506306252882",
       "gtin": "07506306252882",
-      "checkedAt": "2026-03-13T15:53:22.891Z",
+      "checkedAt": "2026-03-15T08:32:13.444Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306252882",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -497,7 +497,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-serum-corporal-piel-seca-ceramidas1000.html/07506306253018",
       "gtin": "07506306253018",
-      "checkedAt": "2026-03-13T15:53:22.883Z",
+      "checkedAt": "2026-03-15T08:32:13.674Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306253018",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -510,7 +510,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-serum-conc-corp-100.html/07506306253070",
       "gtin": "07506306253070",
-      "checkedAt": "2026-03-13T15:53:22.859Z",
+      "checkedAt": "2026-03-15T08:32:13.970Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306253070",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -523,7 +523,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-balsamo-corporal-talones-grietas90.html/07506306253162",
       "gtin": "07506306253162",
-      "checkedAt": "2026-03-13T15:53:22.987Z",
+      "checkedAt": "2026-03-15T08:32:13.629Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306253162",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -536,7 +536,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/acondicionador-dove-nutrici%C3%B3n-anti-frizz-12x1000ml.html/07506306253681",
       "gtin": "07506306253681",
-      "checkedAt": "2026-03-13T15:53:22.906Z",
+      "checkedAt": "2026-03-15T08:32:13.340Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306253681",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -549,7 +549,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/shampoo-dove-nutrici%C3%B3n-anti-frizz-12x1000ml.html/07506306253704",
       "gtin": "07506306253704",
-      "checkedAt": "2026-03-13T15:53:22.919Z",
+      "checkedAt": "2026-03-15T08:32:13.835Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306253704",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -562,7 +562,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-bw-gentlescrub-400.html/07506306254411",
       "gtin": "07506306254411",
-      "checkedAt": "2026-03-13T15:53:22.899Z",
+      "checkedAt": "2026-03-15T08:32:13.541Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306254411",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -575,7 +575,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-bw-sense-hypo-400.html/07506306254428",
       "gtin": "07506306254428",
-      "checkedAt": "2026-03-13T15:53:22.905Z",
+      "checkedAt": "2026-03-15T08:32:13.569Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306254428",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -588,7 +588,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-bw-gentlescrub-225.html/07506306254435",
       "gtin": "07506306254435",
-      "checkedAt": "2026-03-13T15:53:22.866Z",
+      "checkedAt": "2026-03-15T08:32:13.477Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306254435",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -601,7 +601,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/antitranspirante-en-aerosol-dove-tono-uniforme-raspberry-150ml.html/07506306255449",
       "gtin": "07506306255449",
-      "checkedAt": "2026-03-13T15:53:22.873Z",
+      "checkedAt": "2026-03-15T08:32:13.619Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07506306255449",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -614,7 +614,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/desodorante-corporal-en-aerosol-dove-all-body-deo-lavender-&-camomile-150ml.html/07791293051659",
       "gtin": "07791293051659",
-      "checkedAt": "2026-03-13T15:53:22.852Z",
+      "checkedAt": "2026-03-15T08:32:13.841Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07791293051659",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -627,7 +627,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/desodorante-corporal-en-aerosol-dove-all-body-deo-raspberry-&-rose-150ml.html/07791293051666",
       "gtin": "07791293051666",
-      "checkedAt": "2026-03-13T15:53:22.872Z",
+      "checkedAt": "2026-03-15T08:32:13.489Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07791293051666",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -640,7 +640,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/jabon-de-tocador-humectacion-enriquecida.html/07891150026025-baby-dove-product-detail-page",
       "gtin": "07891150026025",
-      "checkedAt": "2026-03-13T15:53:22.885Z",
+      "checkedAt": "2026-03-15T08:32:13.687Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07891150026025",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -653,7 +653,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/desodorante-corporal-en-crema-dove-all-body-deo-lavender-&-camomile-75g.html/07891150102811",
       "gtin": "07891150102811",
-      "checkedAt": "2026-03-13T15:53:22.926Z",
+      "checkedAt": "2026-03-15T08:32:13.593Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07891150102811",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -666,7 +666,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/desodorante-corporal-en-crema-dove-all-body-deo-raspberry-&-rose-75g.html/07891150102828",
       "gtin": "07891150102828",
-      "checkedAt": "2026-03-13T15:53:22.907Z",
+      "checkedAt": "2026-03-15T08:32:13.684Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=07891150102828",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -679,7 +679,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/jabon-liquido-corporal-humectacion-sensible.html/08710908657535",
       "gtin": "08710908657535",
-      "checkedAt": "2026-03-13T15:53:22.888Z",
+      "checkedAt": "2026-03-15T08:32:13.573Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=08710908657535",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -692,7 +692,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/body-lotion-baby-dove-fragance-free-sensitive-200ml.html/08710908658006",
       "gtin": "08710908658006",
-      "checkedAt": "2026-03-13T15:53:22.960Z",
+      "checkedAt": "2026-03-15T08:32:13.751Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=08710908658006",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -705,7 +705,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/body-night-lotion-baby-dove-calming-moisture-400ml.html/08717163858219",
       "gtin": "08717163858219",
-      "checkedAt": "2026-03-13T15:53:22.868Z",
+      "checkedAt": "2026-03-15T08:32:13.766Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=08717163858219",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -718,7 +718,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/body-night-wash-baby-dove-calming-moisture-400ml.html/08717163858226",
       "gtin": "08717163858226",
-      "checkedAt": "2026-03-13T15:53:22.879Z",
+      "checkedAt": "2026-03-15T08:32:13.488Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=08717163858226",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -731,7 +731,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-bw-deepno-400.html/08720181497438",
       "gtin": "08720181497438",
-      "checkedAt": "2026-03-13T15:53:22.863Z",
+      "checkedAt": "2026-03-15T08:32:13.751Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=08720181497438",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -744,7 +744,7 @@
       "feedUrl": "https://www.dove.com/mx/home.productfeed.json",
       "url": "https://www.dove.com/mx/p/dove-bw-deepno-225.html/08720181497445",
       "gtin": "08720181497445",
-      "checkedAt": "2026-03-13T15:53:22.867Z",
+      "checkedAt": "2026-03-15T08:32:13.596Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-mx&brand_code=BH0162&gtin=08720181497445",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

@@ -6,8 +6,8 @@
   "problematicPagesFound": 15,
   "successfulPages": 47,
   "errors": 0,
-  "duration": "0.83s",
-  "speed": "74.70 URLs/s",
+  "duration": "1.25s",
+  "speed": "49.60 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-ferfi-tusfurdo-erzekeny-borre-3in1-400-ml.html/08720181637964",
       "gtin": "08720181637964",
-      "checkedAt": "2026-03-13T15:55:06.842Z",
+      "checkedAt": "2026-03-15T08:35:59.548Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181637964",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-bogyosgyumolcs-illat-750-ml.html/08720181637971",
       "gtin": "08720181637971",
-      "checkedAt": "2026-03-13T15:55:06.837Z",
+      "checkedAt": "2026-03-15T08:35:59.617Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181637971",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-500-ml.html/08720181740343",
       "gtin": "08720181740343",
-      "checkedAt": "2026-03-13T15:55:06.911Z",
+      "checkedAt": "2026-03-15T08:35:59.567Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181740343",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-antibakterialis-eukaliptusz-250-ml.html/08720181740367",
       "gtin": "08720181740367",
-      "checkedAt": "2026-03-13T15:55:06.825Z",
+      "checkedAt": "2026-03-15T08:35:59.661Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181740367",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-folyekony-szappan-utantolto-antibakterialis-eukaliptusz-750-ml.html/08720181741067",
       "gtin": "08720181741067",
-      "checkedAt": "2026-03-13T15:55:06.889Z",
+      "checkedAt": "2026-03-15T08:35:59.526Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181741067",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-konnymentes-gyereksampon-400-ml.html/08710447462744",
       "gtin": "08710447462744",
-      "checkedAt": "2026-03-13T15:55:06.818Z",
+      "checkedAt": "2026-03-15T08:35:59.632Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08710447462744",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -94,7 +94,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-cseresznye-illat-400-ml.html/08710908324079",
       "gtin": "08710908324079",
-      "checkedAt": "2026-03-13T15:55:06.820Z",
+      "checkedAt": "2026-03-15T08:35:59.447Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08710908324079",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -107,7 +107,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-aloe-veras-frissito-testapolo-400-ml.html/08712561672511",
       "gtin": "08712561672511",
-      "checkedAt": "2026-03-13T15:55:07.030Z",
+      "checkedAt": "2026-03-15T08:35:59.501Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08712561672511",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -120,7 +120,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-kakaovajas-kenyeztet-testapolo-400-ml.html/08712561672535",
       "gtin": "08712561672535",
-      "checkedAt": "2026-03-13T15:55:07.439Z",
+      "checkedAt": "2026-03-15T08:35:59.580Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08712561672535",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -133,7 +133,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-melyhidratalo-testapolo-400ml.html/08712561684521",
       "gtin": "08712561684521",
-      "checkedAt": "2026-03-13T15:55:07.569Z",
+      "checkedAt": "2026-03-15T08:35:59.353Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08712561684521",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -146,7 +146,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-kamillas-nyugtato-testapolo-400-ml.html/08712561704489",
       "gtin": "08712561704489",
-      "checkedAt": "2026-03-13T15:55:06.901Z",
+      "checkedAt": "2026-03-15T08:35:59.640Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08712561704489",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -159,7 +159,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-intenziv-testapolo-400ml.html/08712561704502",
       "gtin": "08712561704502",
-      "checkedAt": "2026-03-13T15:55:06.879Z",
+      "checkedAt": "2026-03-15T08:35:59.643Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08712561704502",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -172,7 +172,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-frissito-tusfurdo-gorogdinnye-illat-400-ml.html/08717163761182",
       "gtin": "08717163761182",
-      "checkedAt": "2026-03-13T15:55:06.867Z",
+      "checkedAt": "2026-03-15T08:35:59.691Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08717163761182",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -185,7 +185,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-kremtusfurdo-antibakterialis-osszetevovel-gyomber-400-ml.html/08720181074059",
       "gtin": "08720181074059",
-      "checkedAt": "2026-03-13T15:55:06.863Z",
+      "checkedAt": "2026-03-15T08:35:59.661Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181074059",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -198,7 +198,7 @@
       "feedUrl": "https://www.baba.hu/home.productfeed.json",
       "url": "https://www.baba.hu/p/baba-kenyezteto-tusfurdo-edesmandula-illat-400-ml.html/08720181338182",
       "gtin": "08720181338182",
-      "checkedAt": "2026-03-13T15:55:06.882Z",
+      "checkedAt": "2026-03-15T08:35:59.987Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=baba&locale=hu-hu&brand_code=BH0048&gtin=08720181338182",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
