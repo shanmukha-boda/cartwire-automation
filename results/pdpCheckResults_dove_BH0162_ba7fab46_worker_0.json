@@ -6,8 +6,8 @@
   "problematicPagesFound": 30,
   "successfulPages": 143,
   "errors": 0,
-  "duration": "3.53s",
-  "speed": "49.01 URLs/s",
+  "duration": "0.37s",
+  "speed": "467.57 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/stick-s%C3%A9rum-aqua-coconut.html/00079400526335",
       "gtin": "00079400526335",
-      "checkedAt": "2026-03-15T08:32:14.405Z",
+      "checkedAt": "2026-03-15T08:51:34.203Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=00079400526335",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/stick-s%C3%A9rum-tropical-hibiscus.html/00079400526359",
       "gtin": "00079400526359",
-      "checkedAt": "2026-03-15T08:32:15.614Z",
+      "checkedAt": "2026-03-15T08:51:34.195Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=00079400526359",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/stick-s%C3%A9rum-rainforest-lilies.html/00079400526366",
       "gtin": "00079400526366",
-      "checkedAt": "2026-03-15T08:32:14.393Z",
+      "checkedAt": "2026-03-15T08:51:34.208Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=00079400526366",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/esfoliante-corporal-amora-e-frutas-citricas.html/07506306255654",
       "gtin": "07506306255654",
-      "checkedAt": "2026-03-15T08:32:14.627Z",
+      "checkedAt": "2026-03-15T08:51:34.199Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07506306255654",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-reconstrucao-aminoacido-190ml.html/07891150102347",
       "gtin": "07891150102347",
-      "checkedAt": "2026-03-15T08:32:16.200Z",
+      "checkedAt": "2026-03-15T08:51:34.313Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102347",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-nutricao-tri-oleos-190ml.html/07891150102361",
       "gtin": "07891150102361",
-      "checkedAt": "2026-03-15T08:32:16.120Z",
+      "checkedAt": "2026-03-15T08:51:34.313Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102361",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -94,7 +94,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-nutricao-tri-oleos-370ml.html/07891150102378",
       "gtin": "07891150102378",
-      "checkedAt": "2026-03-15T08:32:17.027Z",
+      "checkedAt": "2026-03-15T08:51:34.321Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102378",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -107,7 +107,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-hidratacao-hialuron-vit-370ml.html/07891150102385",
       "gtin": "07891150102385",
-      "checkedAt": "2026-03-15T08:32:16.205Z",
+      "checkedAt": "2026-03-15T08:51:34.318Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102385",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -120,7 +120,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-umectacao-coco-antioxi-190ml.html/07891150102392",
       "gtin": "07891150102392",
-      "checkedAt": "2026-03-15T08:32:16.968Z",
+      "checkedAt": "2026-03-15T08:51:34.328Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102392",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -133,7 +133,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-cachos-ativos-biotina.html/07891150102415",
       "gtin": "07891150102415",
-      "checkedAt": "2026-03-15T08:32:16.158Z",
+      "checkedAt": "2026-03-15T08:51:34.313Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102415",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -146,7 +146,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-nutricao-tri-oleos-190ml.html/07891150102422",
       "gtin": "07891150102422",
-      "checkedAt": "2026-03-15T08:32:16.147Z",
+      "checkedAt": "2026-03-15T08:51:34.319Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102422",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -159,7 +159,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-umectacao-coco-antioxi-190ml.html/07891150102439",
       "gtin": "07891150102439",
-      "checkedAt": "2026-03-15T08:32:16.219Z",
+      "checkedAt": "2026-03-15T08:51:34.330Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102439",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -172,7 +172,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-hidratacao-hialuron-vit-370ml.html/07891150102545",
       "gtin": "07891150102545",
-      "checkedAt": "2026-03-15T08:32:16.205Z",
+      "checkedAt": "2026-03-15T08:51:34.320Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102545",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -185,7 +185,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-hidratacao-hialuron-vit-190ml.html/07891150102552",
       "gtin": "07891150102552",
-      "checkedAt": "2026-03-15T08:32:16.227Z",
+      "checkedAt": "2026-03-15T08:51:34.319Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102552",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -198,7 +198,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-hidratacao-hialuron-vit-600ml.html/07891150102576",
       "gtin": "07891150102576",
-      "checkedAt": "2026-03-15T08:32:16.303Z",
+      "checkedAt": "2026-03-15T08:51:34.309Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102576",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -211,7 +211,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-reconstrucao-aminoacido-600ml.html/07891150102583",
       "gtin": "07891150102583",
-      "checkedAt": "2026-03-15T08:32:16.135Z",
+      "checkedAt": "2026-03-15T08:51:34.313Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102583",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -224,7 +224,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-bond-intense-repair-600ml.html/07891150102590",
       "gtin": "07891150102590",
-      "checkedAt": "2026-03-15T08:32:16.660Z",
+      "checkedAt": "2026-03-15T08:51:34.313Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102590",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -237,7 +237,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-hidratacao-hialuron-vit-600ml.html/07891150102606",
       "gtin": "07891150102606",
-      "checkedAt": "2026-03-15T08:32:16.591Z",
+      "checkedAt": "2026-03-15T08:51:34.319Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102606",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -250,7 +250,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-nutricao-tri-oleos-370ml.html/07891150102613",
       "gtin": "07891150102613",
-      "checkedAt": "2026-03-15T08:32:16.250Z",
+      "checkedAt": "2026-03-15T08:51:34.314Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102613",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -263,7 +263,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-umectacao-coco-antioxi-370ml.html/07891150102620",
       "gtin": "07891150102620",
-      "checkedAt": "2026-03-15T08:32:16.575Z",
+      "checkedAt": "2026-03-15T08:51:34.327Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102620",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -276,7 +276,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-reconstrucao-aminoacido-600ml.html/07891150102644",
       "gtin": "07891150102644",
-      "checkedAt": "2026-03-15T08:32:16.348Z",
+      "checkedAt": "2026-03-15T08:51:34.316Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102644",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -289,7 +289,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-bond-intense-repair-600ml.html/07891150102651",
       "gtin": "07891150102651",
-      "checkedAt": "2026-03-15T08:32:16.968Z",
+      "checkedAt": "2026-03-15T08:51:34.320Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102651",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -302,7 +302,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/shampoo-cachos-ativos-biotina.html/07891150102668",
       "gtin": "07891150102668",
-      "checkedAt": "2026-03-15T08:32:16.344Z",
+      "checkedAt": "2026-03-15T08:51:34.313Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102668",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -315,7 +315,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/leave-in-reconstrucao-aminoacido.html/07891150102682",
       "gtin": "07891150102682",
-      "checkedAt": "2026-03-15T08:32:16.335Z",
+      "checkedAt": "2026-03-15T08:51:34.315Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102682",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -328,7 +328,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-umectacao-coco-antioxi-370ml.html/07891150102699",
       "gtin": "07891150102699",
-      "checkedAt": "2026-03-15T08:32:16.082Z",
+      "checkedAt": "2026-03-15T08:51:34.324Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102699",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -341,7 +341,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-reconstrucao-aminoacido-370ml.html/07891150102705",
       "gtin": "07891150102705",
-      "checkedAt": "2026-03-15T08:32:16.343Z",
+      "checkedAt": "2026-03-15T08:51:34.345Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102705",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -354,7 +354,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-uv-repair-glow-ferulico-150ml.html/07891150102743",
       "gtin": "07891150102743",
-      "checkedAt": "2026-03-15T08:32:17.449Z",
+      "checkedAt": "2026-03-15T08:51:34.452Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102743",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -367,7 +367,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-uv-repair-glow-ferulico-250ml.html/07891150102750",
       "gtin": "07891150102750",
-      "checkedAt": "2026-03-15T08:32:17.391Z",
+      "checkedAt": "2026-03-15T08:51:34.456Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102750",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -380,7 +380,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/condicionador-uv-repair-glow-ferulico-600ml.html/07891150102767",
       "gtin": "07891150102767",
-      "checkedAt": "2026-03-15T08:32:17.405Z",
+      "checkedAt": "2026-03-15T08:51:34.456Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102767",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -393,7 +393,7 @@
       "feedUrl": "https://www.dove.com/br/home.productfeed.json",
       "url": "https://www.dove.com/br/p/mascara-uv-repair-glow-ferulico.html/07891150102774",
       "gtin": "07891150102774",
-      "checkedAt": "2026-03-15T08:32:17.418Z",
+      "checkedAt": "2026-03-15T08:51:34.452Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=pt-br&brand_code=BH0162&gtin=07891150102774",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

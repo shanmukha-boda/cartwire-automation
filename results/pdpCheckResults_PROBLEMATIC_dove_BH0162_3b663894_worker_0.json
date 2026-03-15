@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T08:32:23.691Z",
+  "generatedAt": "2026-03-15T08:51:35.447Z",
   "brand": "dove",
   "assortmentCode": "BH0162",
   "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pore-beauty-cleansing-balm-sensitive.html/04902111769561",
       "gtin": "04902111769561",
-      "checkedAt": "2026-03-15T08:32:23.073Z",
+      "checkedAt": "2026-03-15T08:51:35.391Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111769561",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/purely-pampering-rice-ferment-with-osmanthus-body-wash.html/04902111775296",
       "gtin": "04902111775296",
-      "checkedAt": "2026-03-15T08:32:22.958Z",
+      "checkedAt": "2026-03-15T08:51:35.393Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111775296",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/rich-creamy-oil-scrub.html/04902111781457",
       "gtin": "04902111781457",
-      "checkedAt": "2026-03-15T08:32:22.932Z",
+      "checkedAt": "2026-03-15T08:51:35.401Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111781457",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pearlshine-facewash-translucent.html/04902111782652",
       "gtin": "04902111782652",
-      "checkedAt": "2026-03-15T08:32:22.994Z",
+      "checkedAt": "2026-03-15T08:51:35.424Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782652",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pearlshine-facewash-moisture.html/04902111782669",
       "gtin": "04902111782669",
-      "checkedAt": "2026-03-15T08:32:22.889Z",
+      "checkedAt": "2026-03-15T08:51:35.429Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782669",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -77,7 +77,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pearlshine-facewash-porecare.html/04902111782676",
       "gtin": "04902111782676",
-      "checkedAt": "2026-03-15T08:32:22.870Z",
+      "checkedAt": "2026-03-15T08:51:35.394Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782676",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -90,7 +90,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pearlshine-selfform-sensitive.html/04902111782683",
       "gtin": "04902111782683",
-      "checkedAt": "2026-03-15T08:32:23.207Z",
+      "checkedAt": "2026-03-15T08:51:35.396Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782683",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -103,7 +103,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pearlshine-oil-translucent.html/04902111782706",
       "gtin": "04902111782706",
-      "checkedAt": "2026-03-15T08:32:22.892Z",
+      "checkedAt": "2026-03-15T08:51:35.400Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782706",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -116,7 +116,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pearlshine-oil-porecare.html/04902111782713",
       "gtin": "04902111782713",
-      "checkedAt": "2026-03-15T08:32:22.845Z",
+      "checkedAt": "2026-03-15T08:51:35.403Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782713",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -129,7 +129,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/pearlshine-selfform-acnecare.html/04902111782751",
       "gtin": "04902111782751",
-      "checkedAt": "2026-03-15T08:32:22.749Z",
+      "checkedAt": "2026-03-15T08:51:35.386Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111782751",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -142,7 +142,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/fuwatoro-body-wash-cherry.html/04902111783857",
       "gtin": "04902111783857",
-      "checkedAt": "2026-03-15T08:32:22.862Z",
+      "checkedAt": "2026-03-15T08:51:35.398Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111783857",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -155,7 +155,7 @@
       "feedUrl": "https://www.dove.com/jp/home.productfeed.json",
       "url": "https://www.dove.com/jp/p/creamy-scrub-tube-cherry.html/04902111784014",
       "gtin": "04902111784014",
-      "checkedAt": "2026-03-15T08:32:22.964Z",
+      "checkedAt": "2026-03-15T08:51:35.402Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=ja-jp&brand_code=BH0162&gtin=04902111784014",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

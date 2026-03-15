@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T08:35:21.205Z",
+  "generatedAt": "2026-03-15T08:51:58.363Z",
   "brand": "the-vegetarian-butcher",
   "assortmentCode": "BFA077",
   "feedUrl": "https://www.lebouchervegetarien.be/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.lebouchervegetarien.be/home.productfeed.json",
       "url": "https://www.devegetarischeslager.be/p/braad-saucisse.html/08720182806475",
       "gtin": "08720182806475",
-      "checkedAt": "2026-03-15T08:35:20.800Z",
+      "checkedAt": "2026-03-15T08:51:58.302Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=De%20Vegetarische%20Slager&locale=fr-be&brand_code=BFA077&gtin=08720182806475",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

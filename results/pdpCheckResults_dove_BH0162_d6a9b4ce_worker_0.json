@@ -6,8 +6,8 @@
   "problematicPagesFound": 6,
   "successfulPages": 32,
   "errors": 0,
-  "duration": "0.82s",
-  "speed": "46.34 URLs/s",
+  "duration": "0.10s",
+  "speed": "380.00 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.dove.com/id/home.productfeed.json",
       "url": "https://www.dove.com/id/p/advanced-serum-body-wash-acne-control.html/08934868198871",
       "gtin": "08934868198871",
-      "checkedAt": "2026-03-15T08:32:24.671Z",
+      "checkedAt": "2026-03-15T08:51:35.630Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08934868198871",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.dove.com/id/home.productfeed.json",
       "url": "https://www.dove.com/id/p/advanced-serum-body-wash-even-tone-radiance.html/08934868198895",
       "gtin": "08934868198895",
-      "checkedAt": "2026-03-15T08:32:24.665Z",
+      "checkedAt": "2026-03-15T08:51:35.629Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08934868198895",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.dove.com/id/home.productfeed.json",
       "url": "https://www.dove.com/id/p/advanced-serum-body-wash-vitality-renewal.html/08934868198901",
       "gtin": "08934868198901",
-      "checkedAt": "2026-03-15T08:32:24.593Z",
+      "checkedAt": "2026-03-15T08:51:35.595Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08934868198901",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.dove.com/id/home.productfeed.json",
       "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-pomegranate.html/08999999617202",
       "gtin": "08999999617202",
-      "checkedAt": "2026-03-15T08:32:24.573Z",
+      "checkedAt": "2026-03-15T08:51:35.616Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08999999617202",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.dove.com/id/home.productfeed.json",
       "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-sugar-&-coconut.html/08999999617219",
       "gtin": "08999999617219",
-      "checkedAt": "2026-03-15T08:32:24.636Z",
+      "checkedAt": "2026-03-15T08:51:35.592Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08999999617219",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.dove.com/id/home.productfeed.json",
       "url": "https://www.dove.com/id/p/ice-cream-scrub-viral-sakura.html/08999999617226",
       "gtin": "08999999617226",
-      "checkedAt": "2026-03-15T08:32:24.710Z",
+      "checkedAt": "2026-03-15T08:51:35.589Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=id-id&brand_code=BH0162&gtin=08999999617226",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

@@ -6,8 +6,8 @@
   "problematicPagesFound": 11,
   "successfulPages": 89,
   "errors": 0,
-  "duration": "1.75s",
-  "speed": "57.14 URLs/s",
+  "duration": "0.25s",
+  "speed": "400.00 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/roll-on-clean-comfort.html/00000059092582",
       "gtin": "00000059092582",
-      "checkedAt": "2026-03-15T08:32:40.219Z",
+      "checkedAt": "2026-03-15T08:51:37.472Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092582",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/roll-on-sport-fresh.html/00000059092636",
       "gtin": "00000059092636",
-      "checkedAt": "2026-03-15T08:32:40.093Z",
+      "checkedAt": "2026-03-15T08:51:37.458Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092636",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/roll-on-classic.html/00000059092643",
       "gtin": "00000059092643",
-      "checkedAt": "2026-03-15T08:32:39.811Z",
+      "checkedAt": "2026-03-15T08:51:37.459Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092643",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/roll-on-fresh.html/00000059092650",
       "gtin": "00000059092650",
-      "checkedAt": "2026-03-15T08:32:39.862Z",
+      "checkedAt": "2026-03-15T08:51:37.463Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=00000059092650",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/spray-cucumber.html/08720181174070",
       "gtin": "08720181174070",
-      "checkedAt": "2026-03-15T08:32:39.878Z",
+      "checkedAt": "2026-03-15T08:51:37.461Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181174070",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/spray-pomegranate.html/08720181174568",
       "gtin": "08720181174568",
-      "checkedAt": "2026-03-15T08:32:39.842Z",
+      "checkedAt": "2026-03-15T08:51:37.446Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181174568",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -94,7 +94,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/spray-original.html/08720181175145",
       "gtin": "08720181175145",
-      "checkedAt": "2026-03-15T08:32:39.851Z",
+      "checkedAt": "2026-03-15T08:51:37.459Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181175145",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -107,7 +107,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/spray-invisible-dry.html/08720181284380",
       "gtin": "08720181284380",
-      "checkedAt": "2026-03-15T08:32:39.831Z",
+      "checkedAt": "2026-03-15T08:51:37.456Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181284380",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -120,7 +120,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/spray-extra-fresh-advanced.html/08720181284410",
       "gtin": "08720181284410",
-      "checkedAt": "2026-03-15T08:32:39.969Z",
+      "checkedAt": "2026-03-15T08:51:37.453Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181284410",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -133,7 +133,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/spray-eucalyptus-mint.html/08720181433580",
       "gtin": "08720181433580",
-      "checkedAt": "2026-03-15T08:32:40.975Z",
+      "checkedAt": "2026-03-15T08:51:37.631Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181433580",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -146,7 +146,7 @@
       "feedUrl": "https://www.dove.com/se/home.productfeed.json",
       "url": "https://www.dove.com/se/p/advanced-care-hydrating-care-duschkraem.html/08720181462979",
       "gtin": "08720181462979",
-      "checkedAt": "2026-03-15T08:32:41.008Z",
+      "checkedAt": "2026-03-15T08:51:37.571Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=sv-se&brand_code=BH0162&gtin=08720181462979",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T08:34:52.426Z",
+  "generatedAt": "2026-03-15T08:51:54.556Z",
   "brand": "axe",
   "assortmentCode": "BH0045",
   "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/indigo-haze-bodyspray.html/08720181809354",
       "gtin": "08720181809354",
-      "checkedAt": "2026-03-15T08:34:51.975Z",
+      "checkedAt": "2026-03-15T08:51:54.551Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181809354",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/number-10-body-wash.html/08720181824197",
       "gtin": "08720181824197",
-      "checkedAt": "2026-03-15T08:34:51.939Z",
+      "checkedAt": "2026-03-15T08:51:54.548Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181824197",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/black-vanilla-body-wash.html/08720181827877",
       "gtin": "08720181827877",
-      "checkedAt": "2026-03-15T08:34:51.895Z",
+      "checkedAt": "2026-03-15T08:51:54.521Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181827877",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/aqua-bergamot-body-wash.html/08720181827921",
       "gtin": "08720181827921",
-      "checkedAt": "2026-03-15T08:34:51.842Z",
+      "checkedAt": "2026-03-15T08:51:54.538Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181827921",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/blue-lavender-body-wash.html/08720181827945",
       "gtin": "08720181827945",
-      "checkedAt": "2026-03-15T08:34:51.950Z",
+      "checkedAt": "2026-03-15T08:51:54.520Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181827945",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -77,7 +77,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/cherry-fizz-body-wash.html/08720181827976",
       "gtin": "08720181827976",
-      "checkedAt": "2026-03-15T08:34:52.002Z",
+      "checkedAt": "2026-03-15T08:51:54.523Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181827976",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -90,7 +90,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/peach-infusion-body-wash.html/08720181828003",
       "gtin": "08720181828003",
-      "checkedAt": "2026-03-15T08:34:51.950Z",
+      "checkedAt": "2026-03-15T08:51:54.552Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181828003",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -103,7 +103,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/indigo-haze-body-wash.html/08720181828683",
       "gtin": "08720181828683",
-      "checkedAt": "2026-03-15T08:34:52.005Z",
+      "checkedAt": "2026-03-15T08:51:54.524Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181828683",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -116,7 +116,7 @@
       "feedUrl": "https://www.axe.com/dach/home.productfeed.json",
       "url": "https://www.axe.com/dach/p/number-10-bodyspray.html/08720181863257",
       "gtin": "08720181863257",
-      "checkedAt": "2026-03-15T08:34:51.901Z",
+      "checkedAt": "2026-03-15T08:51:54.536Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=de-de&brand_code=BH0045&gtin=08720181863257",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

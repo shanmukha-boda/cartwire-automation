@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T08:34:02.652Z",
+  "generatedAt": "2026-03-15T08:51:48.630Z",
   "brand": "knorr",
   "assortmentCode": "BF0426",
   "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/icinde-iyilik-var-serisi-tavuk-suyu.html/08683130089118",
       "gtin": "08683130089118",
-      "checkedAt": "2026-03-15T08:34:01.271Z",
+      "checkedAt": "2026-03-15T08:51:48.500Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130089118",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/icinde-iyilik-var-serisi-kemik-ilik-suyu.html/08683130089125",
       "gtin": "08683130089125",
-      "checkedAt": "2026-03-15T08:34:02.065Z",
+      "checkedAt": "2026-03-15T08:51:48.506Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130089125",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/peynirli-makarna-sosu.html/08683130089651",
       "gtin": "08683130089651",
-      "checkedAt": "2026-03-15T08:34:01.200Z",
+      "checkedAt": "2026-03-15T08:51:48.506Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130089651",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/bolonez-makarna-sosu.html/08683130089668",
       "gtin": "08683130089668",
-      "checkedAt": "2026-03-15T08:34:01.198Z",
+      "checkedAt": "2026-03-15T08:51:48.505Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130089668",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/tavuk-suyu-bulyon-24-adet.html/08690637014185",
       "gtin": "08690637014185",
-      "checkedAt": "2026-03-15T08:34:01.291Z",
+      "checkedAt": "2026-03-15T08:51:48.505Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637014185",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -77,7 +77,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/et-suyu-bulyon-24-adet.html/08690637028939",
       "gtin": "08690637028939",
-      "checkedAt": "2026-03-15T08:34:01.117Z",
+      "checkedAt": "2026-03-15T08:51:48.506Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637028939",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -90,7 +90,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/koefte-harc.html/08690637845079",
       "gtin": "08690637845079",
-      "checkedAt": "2026-03-15T08:34:01.241Z",
+      "checkedAt": "2026-03-15T08:51:48.506Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637845079",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -103,7 +103,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/yayla-corbasi-tarifi.html/08690637864728",
       "gtin": "08690637864728",
-      "checkedAt": "2026-03-15T08:34:01.146Z",
+      "checkedAt": "2026-03-15T08:51:48.501Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637864728",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -116,7 +116,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-baharat-%C3%A7%C3%B6rekotu.html/08683130025987",
       "gtin": "08683130025987",
-      "checkedAt": "2026-03-15T08:34:01.170Z",
+      "checkedAt": "2026-03-15T08:51:48.508Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130025987",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -129,7 +129,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-baharat-karanfil.html/08683130025994",
       "gtin": "08683130025994",
-      "checkedAt": "2026-03-15T08:34:01.113Z",
+      "checkedAt": "2026-03-15T08:51:48.497Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130025994",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -142,7 +142,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-%C5%9Fehriyeli-tavuklu-domates-%C3%A7orbas%C4%B1.html/08683130038635",
       "gtin": "08683130038635",
-      "checkedAt": "2026-03-15T08:34:01.155Z",
+      "checkedAt": "2026-03-15T08:51:48.516Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130038635",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -155,7 +155,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-k%C3%B6ri.html/08683130055427",
       "gtin": "08683130055427",
-      "checkedAt": "2026-03-15T08:34:01.781Z",
+      "checkedAt": "2026-03-15T08:51:48.507Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130055427",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -168,7 +168,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-tr%C3%BCf-mantarli-makarna-sosu.html/08683130089675",
       "gtin": "08683130089675",
-      "checkedAt": "2026-03-15T08:34:00.982Z",
+      "checkedAt": "2026-03-15T08:51:48.504Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130089675",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -181,7 +181,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-pesto-makarna-sosu.html/08683130089682",
       "gtin": "08683130089682",
-      "checkedAt": "2026-03-15T08:34:01.591Z",
+      "checkedAt": "2026-03-15T08:51:48.498Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130089682",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -194,7 +194,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-kore-usul%C3%BC-k%C4%B1zarm%C4%B1%C5%9F-tavuk-haz%C4%B1rlama-kiti.html/08683130092934",
       "gtin": "08683130092934",
-      "checkedAt": "2026-03-15T08:34:00.948Z",
+      "checkedAt": "2026-03-15T08:51:48.499Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130092934",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -207,7 +207,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-pirpirim-%C3%A7orbas%C4%B1.html/08683130095546",
       "gtin": "08683130095546",
-      "checkedAt": "2026-03-15T08:34:01.126Z",
+      "checkedAt": "2026-03-15T08:51:48.501Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130095546",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -220,7 +220,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-ek%C5%9Fili-k%C3%B6fte-%C3%A7orbas%C4%B1.html/08683130095553",
       "gtin": "08683130095553",
-      "checkedAt": "2026-03-15T08:34:01.196Z",
+      "checkedAt": "2026-03-15T08:51:48.499Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130095553",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -233,7 +233,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-kelle-pa%C3%A7a-%C3%A7orbas%C4%B1.html/08683130112359",
       "gtin": "08683130112359",
-      "checkedAt": "2026-03-15T08:34:00.998Z",
+      "checkedAt": "2026-03-15T08:51:48.499Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130112359",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -246,7 +246,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-beyran-%C3%A7orbas%C4%B1.html/08683130112366",
       "gtin": "08683130112366",
-      "checkedAt": "2026-03-15T08:34:01.226Z",
+      "checkedAt": "2026-03-15T08:51:48.507Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130112366",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -259,7 +259,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-yuvalama-%C3%A7orbas%C4%B1.html/08683130112403",
       "gtin": "08683130112403",
-      "checkedAt": "2026-03-15T08:34:01.246Z",
+      "checkedAt": "2026-03-15T08:51:48.503Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130112403",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -272,7 +272,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-ek%C5%9Fili-k%C3%B6fte-%C3%A7orbas%C4%B1.html/08683130112410",
       "gtin": "08683130112410",
-      "checkedAt": "2026-03-15T08:34:02.014Z",
+      "checkedAt": "2026-03-15T08:51:48.506Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130112410",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -285,7 +285,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-i%CC%87%C5%9Fkembe-%C3%A7orbas%C4%B1.html/08683130112427",
       "gtin": "08683130112427",
-      "checkedAt": "2026-03-15T08:34:01.534Z",
+      "checkedAt": "2026-03-15T08:51:48.499Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130112427",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -298,7 +298,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-mac-&-cheese-makarna-sosu.html/08683130120248",
       "gtin": "08683130120248",
-      "checkedAt": "2026-03-15T08:34:01.112Z",
+      "checkedAt": "2026-03-15T08:51:48.502Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130120248",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -311,7 +311,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-tutma%C3%A7-%C3%A7orbas%C4%B1.html/08683130128848",
       "gtin": "08683130128848",
-      "checkedAt": "2026-03-15T08:34:01.167Z",
+      "checkedAt": "2026-03-15T08:51:48.499Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130128848",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -324,7 +324,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-kekikli-ve-fesle%C4%9Fenli-salata-sosu.html/08683130139905",
       "gtin": "08683130139905",
-      "checkedAt": "2026-03-15T08:34:01.946Z",
+      "checkedAt": "2026-03-15T08:51:48.504Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130139905",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -337,7 +337,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-sirkeli-ve-sar%C4%B1msakl%C4%B1-salata-sosu.html/08683130139912",
       "gtin": "08683130139912",
-      "checkedAt": "2026-03-15T08:34:01.375Z",
+      "checkedAt": "2026-03-15T08:51:48.494Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130139912",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -350,7 +350,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-dereotlu-ve-hardall%C4%B1-salata-sosu.html/08683130139936",
       "gtin": "08683130139936",
-      "checkedAt": "2026-03-15T08:34:01.040Z",
+      "checkedAt": "2026-03-15T08:51:48.501Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08683130139936",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -363,7 +363,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-tarhana-%C3%A7orbas%C4%B1.html/08690637058523",
       "gtin": "08690637058523",
-      "checkedAt": "2026-03-15T08:34:01.167Z",
+      "checkedAt": "2026-03-15T08:51:48.495Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637058523",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -376,7 +376,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-ezogelin-%C3%A7orbas%C4%B1.html/08690637865275",
       "gtin": "08690637865275",
-      "checkedAt": "2026-03-15T08:34:01.190Z",
+      "checkedAt": "2026-03-15T08:51:48.505Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637865275",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -389,7 +389,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-%C3%A7e%C5%9Fni-sebzeli-%C3%A7e%C5%9Fni.html/08690637998508",
       "gtin": "08690637998508",
-      "checkedAt": "2026-03-15T08:34:01.148Z",
+      "checkedAt": "2026-03-15T08:51:48.499Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637998508",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -402,7 +402,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-%C3%A7e%C5%9Fni-tavuk-%C3%A7e%C5%9Fnisi.html/08690637998515",
       "gtin": "08690637998515",
-      "checkedAt": "2026-03-15T08:34:01.353Z",
+      "checkedAt": "2026-03-15T08:51:48.505Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637998515",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -415,7 +415,7 @@
       "feedUrl": "https://www.knorr.com/tr/home.productfeed.json",
       "url": "https://www.knorr.com/tr/p/knorr-%C3%A7e%C5%9Fni-kajun-baharatl%C4%B1-patates-%C3%A7e%C5%9Fnisi.html/08690637998614",
       "gtin": "08690637998614",
-      "checkedAt": "2026-03-15T08:34:02.464Z",
+      "checkedAt": "2026-03-15T08:51:48.572Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=tr-tr&brand_code=BF0426&gtin=08690637998614",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

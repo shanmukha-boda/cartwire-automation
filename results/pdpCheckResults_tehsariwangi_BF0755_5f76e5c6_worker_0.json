@@ -6,8 +6,8 @@
   "problematicPagesFound": 1,
   "successfulPages": 6,
   "errors": 0,
-  "duration": "0.45s",
-  "speed": "15.56 URLs/s",
+  "duration": "0.07s",
+  "speed": "100.00 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.tehsariwangi.com/home.productfeed.json",
       "url": "https://www.tehsariwangi.com/p/sariwangi-sarimurni.html/08999999031602",
       "gtin": "08999999031602",
-      "checkedAt": "2026-03-15T08:36:21.123Z",
+      "checkedAt": "2026-03-15T08:52:05.478Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=tehsariwangi&locale=id-id&brand_code=BF0755&gtin=08999999031602",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

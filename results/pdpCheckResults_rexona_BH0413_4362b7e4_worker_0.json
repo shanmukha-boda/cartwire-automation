@@ -6,8 +6,8 @@
   "problematicPagesFound": 2,
   "successfulPages": 27,
   "errors": 0,
-  "duration": "0.61s",
-  "speed": "47.54 URLs/s",
+  "duration": "0.12s",
+  "speed": "241.67 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.rexona.com/cl/home.productfeed.json",
       "url": "https://www.rexona.com/cl/p/rexona-desodorante-corporal-aerosol-all-body-deo-fresh-citrus-150-ml.html/07791293051550",
       "gtin": "07791293051550",
-      "checkedAt": "2026-03-15T08:34:17.516Z",
+      "checkedAt": "2026-03-15T08:51:50.075Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-cl&brand_code=BH0413&gtin=07791293051550",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.rexona.com/cl/home.productfeed.json",
       "url": "https://www.rexona.com/cl/p/rexona-desodorante-corporal-crema-all-body-deo-wild-rose-75-g.html/07891150102859",
       "gtin": "07891150102859",
-      "checkedAt": "2026-03-15T08:34:17.539Z",
+      "checkedAt": "2026-03-15T08:51:50.073Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-cl&brand_code=BH0413&gtin=07891150102859",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

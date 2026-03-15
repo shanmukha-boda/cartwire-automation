@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T08:31:49.437Z",
+  "generatedAt": "2026-03-15T08:51:30.820Z",
   "brand": "nexxus",
   "assortmentCode": "BH0990",
   "feedUrl": "https://www.nexxus.com/ca/fr/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.nexxus.com/ca/fr/home.productfeed.json",
       "url": "https://www.nexxus.com/ca/fr/p/traitement-revitalisant-sans-rin%C3%A7age-curl-define-pour-cheveux-boucl%C3%A9s.html/00605592007255",
       "gtin": "00605592007255",
-      "checkedAt": "2026-03-15T08:31:49.415Z",
+      "checkedAt": "2026-03-15T08:51:30.810Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=nexxus&locale=en-CA&brand_code=BH0990&gtin=00605592007255",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.nexxus.com/ca/fr/home.productfeed.json",
       "url": "https://www.nexxus.com/ca/fr/p/shampooing-curl-define-pour-cheveux-boucl%C3%A9s.html/00605592007293",
       "gtin": "00605592007293",
-      "checkedAt": "2026-03-15T08:31:49.411Z",
+      "checkedAt": "2026-03-15T08:51:30.810Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=nexxus&locale=en-CA&brand_code=BH0990&gtin=00605592007293",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.nexxus.com/ca/fr/home.productfeed.json",
       "url": "https://www.nexxus.com/ca/fr/p/revitalisant-curl-define-pour-cheveux-boucl%C3%A9s.html/00605592007309",
       "gtin": "00605592007309",
-      "checkedAt": "2026-03-15T08:31:49.412Z",
+      "checkedAt": "2026-03-15T08:51:30.813Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=nexxus&locale=en-CA&brand_code=BH0990&gtin=00605592007309",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

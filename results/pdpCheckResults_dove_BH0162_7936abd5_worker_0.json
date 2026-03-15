@@ -6,8 +6,8 @@
   "problematicPagesFound": 6,
   "successfulPages": 109,
   "errors": 0,
-  "duration": "1.99s",
-  "speed": "57.79 URLs/s",
+  "duration": "0.49s",
+  "speed": "234.69 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
       "url": "https://www.dove.com/ar/p/barra-de-belleza-original.html/07791293048543",
       "gtin": "07791293048543",
-      "checkedAt": "2026-03-15T08:32:18.062Z",
+      "checkedAt": "2026-03-15T08:51:34.562Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07791293048543",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
       "url": "https://www.dove.com/ar/p/jabon-en-barra-granada-y-verbena.html/07891150043923",
       "gtin": "07891150043923",
-      "checkedAt": "2026-03-15T08:32:19.156Z",
+      "checkedAt": "2026-03-15T08:51:34.971Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150043923",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
       "url": "https://www.dove.com/ar/p/jabon-en-barra-agua-micelar.html/07891150057470",
       "gtin": "07891150057470",
-      "checkedAt": "2026-03-15T08:32:19.198Z",
+      "checkedAt": "2026-03-15T08:51:34.969Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150057470",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
       "url": "https://www.dove.com/ar/p/jabon-liquido-para-el-cuerpo-con-agua-micelar.html/07891150057487",
       "gtin": "07891150057487",
-      "checkedAt": "2026-03-15T08:32:19.223Z",
+      "checkedAt": "2026-03-15T08:51:34.958Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150057487",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
       "url": "https://www.dove.com/ar/p/jabon-en-barra-matcha.html/07891150064980",
       "gtin": "07891150064980",
-      "checkedAt": "2026-03-15T08:32:19.279Z",
+      "checkedAt": "2026-03-15T08:51:34.958Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150064980",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -81,7 +81,7 @@
       "feedUrl": "https://www.dove.com/ar/home.productfeed.json",
       "url": "https://www.dove.com/ar/p/jabon-liquido-matcha.html/07891150064997",
       "gtin": "07891150064997",
-      "checkedAt": "2026-03-15T08:32:19.173Z",
+      "checkedAt": "2026-03-15T08:51:34.966Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=es-ar&brand_code=BH0162&gtin=07891150064997",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

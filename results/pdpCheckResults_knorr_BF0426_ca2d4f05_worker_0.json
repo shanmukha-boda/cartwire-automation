@@ -6,8 +6,8 @@
   "problematicPagesFound": 5,
   "successfulPages": 49,
   "errors": 0,
-  "duration": "1.25s",
-  "speed": "43.20 URLs/s",
+  "duration": "0.08s",
+  "speed": "675.00 URLs/s",
   "problematicPages": [
     {
       "type": "problematic",
@@ -16,7 +16,7 @@
       "feedUrl": "https://www.knorr.com/tw/home.productfeed.json",
       "url": "https://www.knorr.com/tw/p/%E9%85%B8%E7%99%BD%E8%8F%9C%E7%81%AB%E9%8D%8B%E6%B9%AF%E5%BA%95.html/04710254022180",
       "gtin": "04710254022180",
-      "checkedAt": "2026-03-15T08:34:03.825Z",
+      "checkedAt": "2026-03-15T08:51:48.815Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=zh-tw&brand_code=BF0426&gtin=04710254022180",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -29,7 +29,7 @@
       "feedUrl": "https://www.knorr.com/tw/home.productfeed.json",
       "url": "https://www.knorr.com/tw/p/%E8%83%A1%E6%A4%92%E8%B1%9A%E9%AA%A8%E7%81%AB%E9%8D%8B%E6%B9%AF%E5%BA%95.html/04710254023071",
       "gtin": "04710254023071",
-      "checkedAt": "2026-03-15T08:34:03.824Z",
+      "checkedAt": "2026-03-15T08:51:48.798Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=zh-tw&brand_code=BF0426&gtin=04710254023071",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -42,7 +42,7 @@
       "feedUrl": "https://www.knorr.com/tw/home.productfeed.json",
       "url": "https://www.knorr.com/tw/p/%E9%B0%B9%E9%AD%9A%E9%A2%A8%E5%91%B3%E8%AA%BF%E5%91%B3%E6%96%99.html/04710254024184",
       "gtin": "04710254024184",
-      "checkedAt": "2026-03-15T08:34:03.899Z",
+      "checkedAt": "2026-03-15T08:51:48.813Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=zh-tw&brand_code=BF0426&gtin=04710254024184",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -55,7 +55,7 @@
       "feedUrl": "https://www.knorr.com/tw/home.productfeed.json",
       "url": "https://www.knorr.com/tw/p/%E9%B0%B9%E9%AD%9A%E9%A2%A8%E5%91%B3%E8%AA%BF%E5%91%B3%E6%96%99.html/04710254024306",
       "gtin": "04710254024306",
-      "checkedAt": "2026-03-15T08:34:04.046Z",
+      "checkedAt": "2026-03-15T08:51:48.807Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=zh-tw&brand_code=BF0426&gtin=04710254024306",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -68,7 +68,7 @@
       "feedUrl": "https://www.knorr.com/tw/home.productfeed.json",
       "url": "https://www.knorr.com/tw/p/%E8%92%9C%E5%91%B3%E9%80%9A%E7%94%A8%E7%87%92%E8%82%89%E9%86%AC.html/04710254024375",
       "gtin": "04710254024375",
-      "checkedAt": "2026-03-15T08:34:04.303Z",
+      "checkedAt": "2026-03-15T08:51:48.808Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=knorr&locale=zh-tw&brand_code=BF0426&gtin=04710254024375",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

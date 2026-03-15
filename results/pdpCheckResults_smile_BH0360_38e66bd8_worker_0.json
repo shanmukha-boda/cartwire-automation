@@ -6,8 +6,8 @@
   "problematicPagesFound": 0,
   "successfulPages": 45,
   "errors": 0,
-  "duration": "1.00s",
-  "speed": "45.00 URLs/s",
+  "duration": "0.12s",
+  "speed": "375.00 URLs/s",
   "problematicPages": [],
   "errorPages": []
 }

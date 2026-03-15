@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T08:34:36.477Z",
+  "generatedAt": "2026-03-15T08:51:52.137Z",
   "brand": "rexona",
   "assortmentCode": "BH0413",
   "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-efficient-desodorante-pedico-talco-100gr.html/07791293040950",
       "gtin": "07791293040950",
-      "checkedAt": "2026-03-15T08:34:35.310Z",
+      "checkedAt": "2026-03-15T08:51:52.042Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293040950",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-efficient-desodorante-pedico-talco-200gr.html/07791293040967",
       "gtin": "07791293040967",
-      "checkedAt": "2026-03-15T08:34:35.137Z",
+      "checkedAt": "2026-03-15T08:51:52.038Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293040967",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -38,7 +38,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-efficient-desodorante-pedico-aerosol-153ml.html/07791293041001",
       "gtin": "07791293041001",
-      "checkedAt": "2026-03-15T08:34:35.069Z",
+      "checkedAt": "2026-03-15T08:51:52.043Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041001",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -51,7 +51,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-jabon-de-glicerina-citrus-3x90gr.html/07791293041308",
       "gtin": "07791293041308",
-      "checkedAt": "2026-03-15T08:34:35.082Z",
+      "checkedAt": "2026-03-15T08:51:52.047Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041308",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -64,7 +64,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-women-antitranspirante-aerosol-active-emotion-150ml.html/07791293041537",
       "gtin": "07791293041537",
-      "checkedAt": "2026-03-15T08:34:35.153Z",
+      "checkedAt": "2026-03-15T08:51:52.056Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041537",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -77,7 +77,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-men-antitranspirante-aerosol-v8-150ml.html/07791293041544",
       "gtin": "07791293041544",
-      "checkedAt": "2026-03-15T08:34:34.989Z",
+      "checkedAt": "2026-03-15T08:51:52.039Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041544",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -90,7 +90,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-women-antitranspirante-aerosol-invisible-150ml.html/07791293041568",
       "gtin": "07791293041568",
-      "checkedAt": "2026-03-15T08:34:35.126Z",
+      "checkedAt": "2026-03-15T08:51:52.049Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041568",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -103,7 +103,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-men-antitranspirante-aerosol-antibacterial-150ml.html/07791293041605",
       "gtin": "07791293041605",
-      "checkedAt": "2026-03-15T08:34:35.077Z",
+      "checkedAt": "2026-03-15T08:51:52.040Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041605",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -116,7 +116,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-men-antitranspirante-aerosol-sensitive-150ml.html/07791293041667",
       "gtin": "07791293041667",
-      "checkedAt": "2026-03-15T08:34:35.137Z",
+      "checkedAt": "2026-03-15T08:51:52.044Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041667",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -129,7 +129,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-men-antitranspirante-aerosol-hombre-150ml.html/07791293041698",
       "gtin": "07791293041698",
-      "checkedAt": "2026-03-15T08:34:35.292Z",
+      "checkedAt": "2026-03-15T08:51:52.043Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041698",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -142,7 +142,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-women-antitranspirante-aerosol-antibacterial-150ml.html/07791293041704",
       "gtin": "07791293041704",
-      "checkedAt": "2026-03-15T08:34:35.117Z",
+      "checkedAt": "2026-03-15T08:51:52.050Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041704",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -155,7 +155,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-women-antitranspirante-aerosol-cotton-dry-150ml.html/07791293041728",
       "gtin": "07791293041728",
-      "checkedAt": "2026-03-15T08:34:35.611Z",
+      "checkedAt": "2026-03-15T08:51:52.056Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041728",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -168,7 +168,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-women-antitranspirante-aerosol-nutritive-150ml.html/07791293041735",
       "gtin": "07791293041735",
-      "checkedAt": "2026-03-15T08:34:35.226Z",
+      "checkedAt": "2026-03-15T08:51:52.037Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041735",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -181,7 +181,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-woman-antitranspirante-aerosol-stay-fresh-bamboo-aloe-vera-150ml.html/07791293041742",
       "gtin": "07791293041742",
-      "checkedAt": "2026-03-15T08:34:35.092Z",
+      "checkedAt": "2026-03-15T08:51:52.049Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293041742",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -194,7 +194,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-men-antitranspirante-aerosol-edicion-limitada-futbol-fifawc26-enzo-150-ml.html/07791293049496",
       "gtin": "07791293049496",
-      "checkedAt": "2026-03-15T08:34:35.407Z",
+      "checkedAt": "2026-03-15T08:51:52.037Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293049496",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -207,7 +207,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-jabon-futbol-fanatics-fifawc26-3x120-gr.html/07791293050942",
       "gtin": "07791293050942",
-      "checkedAt": "2026-03-15T08:34:35.117Z",
+      "checkedAt": "2026-03-15T08:51:52.041Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293050942",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
@@ -220,7 +220,7 @@
       "feedUrl": "https://www.rexona.com/ar/home.productfeed.json",
       "url": "https://www.rexona.com/ar/p/rexona-jabon-futbol-fanatics-fifawc26-120gr.html/07791293050997",
       "gtin": "07791293050997",
-      "checkedAt": "2026-03-15T08:34:35.318Z",
+      "checkedAt": "2026-03-15T08:51:52.049Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=es-ar&brand_code=BH0413&gtin=07791293050997",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"

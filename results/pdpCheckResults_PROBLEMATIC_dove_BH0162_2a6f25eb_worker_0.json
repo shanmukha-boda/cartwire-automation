@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T08:32:34.807Z",
+  "generatedAt": "2026-03-15T08:51:36.914Z",
   "brand": "dove",
   "assortmentCode": "BH0162",
   "feedUrl": "https://www.dove.com/be/fr/home.productfeed.json",
@@ -12,7 +12,7 @@
       "feedUrl": "https://www.dove.com/be/fr/home.productfeed.json",
       "url": "https://www.dove.com/be/nl/p/dermaspa-goodness3-hand-cream.html/08712561977371",
       "gtin": "08712561977371",
-      "checkedAt": "2026-03-15T08:32:34.719Z",
+      "checkedAt": "2026-03-15T08:51:36.909Z",
       "debug": {
         "url": "https://bin.cartwire.co/services/hashlanginfobutton?brand_name=dove&locale=fr-be&brand_code=BH0162&gtin=08712561977371",
         "scriptPreview": "<script type=\"text/javascript\" class=\"cwscript_kana\">\n  setTimeout(function () {\n    console.log(\"There is a problem with one of the products Buy It Now (BIN) button on this Product Page. BIN button i"
